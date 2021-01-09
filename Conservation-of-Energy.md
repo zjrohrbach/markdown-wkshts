@@ -1,5 +1,5 @@
 Conservation of Energy Practice 
-=========
+=========================
 
 	
 1. A 2-kg block is kicked up a ramp with an initial speed of 5 m/s.
@@ -13,5 +13,5 @@ Conservation of Energy Practice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQyNDgxMjBdfQ==
+eyJoaXN0b3J5IjpbLTM1MDY5MzQzMiwtMTk0NDI0ODEyMF19
 -->
