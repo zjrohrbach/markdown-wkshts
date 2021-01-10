@@ -4,7 +4,9 @@ Conservation of Energy Practice
 	
 1. In each of the following situations, consider whether work is positive, negative, or zero.
 	1. When an object slows down, the work done by friction is...
-	2. When an object falls to the ground, the work
+	2. When an object falls to the ground, the work done by gravity is...
+	3. When a planet orbits the sun in a perfectly circular orbit, the work done by gravity is...
+	4. 
 2.  A 2-kg block is kicked up a ramp with an initial speed of 5 m/s.
 	1. Assuming no friction, how high up the ramp would the block reach?
 	2. Instead, the block only makes it up 1.1 meters.  How much work was done by friction?
@@ -16,6 +18,6 @@ Conservation of Energy Practice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNTY1ODE0LC0zNTA2OTM0MzIsLTE5ND
-QyNDgxMjBdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjc0ODYzODMsLTM1MDY5MzQzMiwtMT
+k0NDI0ODEyMF19
 -->
