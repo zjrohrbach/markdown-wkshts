@@ -1,10 +1,10 @@
 Conservation of Energy Practice 
 =========================
 
-|                  |             |                    |
-|------------------|-------------|--------------------|
-|$W=F_{\parallel}d$|$W=\Delta KE$|$KE=\frac{1}{2}mv^2$|
-|$PE_g=mgy$|$PE_e=\frac{1}{2}kx^2$|$\Sigma E_0+W_{NC}=\Sigma E$|
+| Equations          |                        |                              |  
+|--------------------|------------------------|------------------------------|  
+| $W=F_{\parallel}d$ |     $W=\Delta KE$      |     $KE=\frac{1}{2}mv^2$     |  
+|     $PE_g=mgy$     | $PE_e=\frac{1}{2}kx^2$ | $\Sigma E_0+W_{NC}=\Sigma E$ |
 	
 1. In each of the following situations, consider whether work is positive, negative, or zero.
 	1. When an object slows down, the work done by friction is...
@@ -22,6 +22,6 @@ Conservation of Energy Practice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTEyOTU5NSwtMTkyNzQ4NjM4MywtMz
-UwNjkzNDMyLC0xOTQ0MjQ4MTIwXX0=
+eyJoaXN0b3J5IjpbMTUxNDQ4NTEwMywtNzcxMTI5NTk1LC0xOT
+I3NDg2MzgzLC0zNTA2OTM0MzIsLTE5NDQyNDgxMjBdfQ==
 -->
