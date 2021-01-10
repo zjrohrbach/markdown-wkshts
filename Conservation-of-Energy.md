@@ -1,12 +1,15 @@
 Conservation of Energy Practice 
 =========================
 
+|             |                 |                      |            |                        |               |                              |
+| ----------- | --------------- | -------------------- | ---------- | ---------------------- | ------------- | ---------------------------- |
+| $W=F_{\parallel}d$ | $P=\frac{W}{t}$ | $KE=\frac{1}{2}mv^2$ | $PE_g=mgy$ | $PE_e=\frac{1}{2}kx^2$ | $W=\Delta KE$ | $\Sigma E_0+W_{NC}=\Sigma E$ |
 	
 1. In each of the following situations, consider whether work is positive, negative, or zero.
 	1. When an object slows down, the work done by friction is...
 	2. When an object falls to the ground, the work done by gravity is...
 	3. When a planet orbits the sun in a perfectly circular orbit, the work done by gravity is...
-2. 
+2. What has to happen in order for the energy of a system to *increase*?  To *decrease*?
 3.  A 2-kg block is kicked up a ramp with an initial speed of 5 m/s.
 	1. Assuming no friction, how high up the ramp would the block reach?
 	2. Instead, the block only makes it up 1.1 meters.  How much work was done by friction?
@@ -18,6 +21,6 @@ Conservation of Energy Practice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY5MDk4MTcsLTE5Mjc0ODYzODMsLT
-M1MDY5MzQzMiwtMTk0NDI0ODEyMF19
+eyJoaXN0b3J5IjpbMzExNTc4MDE1LC0xOTI3NDg2MzgzLC0zNT
+A2OTM0MzIsLTE5NDQyNDgxMjBdfQ==
 -->
