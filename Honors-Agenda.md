@@ -25,8 +25,9 @@ Homework
 [noncons]: https://avon.schoology.com/assignment/4517095990/
 [pow]: https://avon.schoology.com/assignment/4517101312/
 [concept]: https://avon.schoology.com/assignment/4517122812/
-[prob]:
+[prob]: https://avon.schoology.com/page/4579805711
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODAxMjUxOCwtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbNzE1NTY2MDgxLDIxMzgwMTI1MTgsLTIxND
+YzNzA4MTBdfQ==
 -->
