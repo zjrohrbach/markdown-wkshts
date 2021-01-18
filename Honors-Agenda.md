@@ -6,14 +6,10 @@ Agenda
 **Objective:** Be introduced to the concept of *power* and how to make calculations with it.
 
 1. Take questions over homework
-2. Discuss the [Lab Writeup][lab]
-3. Work time
-4. Introduce the [Culminating Project][proj]
+2. Notes on **Power** and some [Practice Problems][prob]
 
 **If absent:**
- 1. Watch the [Culminating Project Intro Video][proj-vid]
- 2. Finish your [Lab Writeup][lab].  (Remember, if you are at home, you don't need to do the conclusion; see last period's agenda for infomation about how to do the calculation)
- 3. Take some time to work on [6.6-7][cons] and [6.7-8][noncons].  Email me any questions.  I'll probably have some time to pop on Zoom during the period.  Send me a message if you'd like me to try to work this out.
+ 1. 
 
 Homework 
 -------------
@@ -25,7 +21,8 @@ Homework
 
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369853538
 [noncons]: https://avon.schoology.com/assignment/4517095990/
-[po
+[pow]: https://avon.schoology.com/assignment/4517101312/
+[concept]: https://avon.schoology.com/assignment/4517122812/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM2NzM5NCwtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbLTEyNjQ2Mzk4NywtMjE0NjM3MDgxMF19
 -->
