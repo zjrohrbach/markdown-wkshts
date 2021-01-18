@@ -7,9 +7,11 @@ Agenda
 
 1. Take questions over homework
 2. Notes on **Power** and some [Practice Problems][prob]
+3. Take the HW Quiz
 
 **If absent:**
- 1. 
+ 1. Watch this [video][vid] and do the [Practice Problems][prob]
+ 2. Send me a message so that we can find a time for you to take the HW quiz when you are back in school.
 
 Homework 
 -------------
@@ -23,6 +25,8 @@ Homework
 [noncons]: https://avon.schoology.com/assignment/4517095990/
 [pow]: https://avon.schoology.com/assignment/4517101312/
 [concept]: https://avon.schoology.com/assignment/4517122812/
+[prob]:
+[vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ2Mzk4NywtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbMjEzODAxMjUxOCwtMjE0NjM3MDgxMF19
 -->
