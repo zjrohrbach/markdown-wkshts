@@ -11,7 +11,8 @@ Agenda
 
 **If absent:**
 
- 1. 
+ 1. Follow along with the calculation in [this video][vid].  You don't need to turn in anything from this.
+ 2. Complete the [PhET Lab][phet] and **turn it in**
 
 Homework 
 -------------
@@ -21,5 +22,5 @@ Homework
 [prob]: https://avon.schoology.com/assignment/4579659508/
 [phet]: https://avon.schoology.com/assignment/4579705197/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjUwNTg0NV19
+eyJoaXN0b3J5IjpbODM3MjMxNzQxLC03OTY1MDU4NDVdfQ==
 -->
