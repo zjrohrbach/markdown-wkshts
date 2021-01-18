@@ -1,9 +1,9 @@
-Fri, Jan 15 / Tue, Jan 19
+Wed, Jan 20 / Thu, Jan 21
 ==================
 
 Agenda
 ---------
-**Objective:** Take some time to get ahead on homework and the lab report. Be introduced to the culminating project.
+**Objective:** Be introduced to the concept of *power* and how to make calculations with it.
 
 1. Take questions over homework
 2. Discuss the [Lab Writeup][lab]
@@ -20,6 +20,7 @@ Homework
 - Work on the [Syllabus]
 	- [6.6-7 Conservation of Energy][cons] Problems due Tues, 1/19.  
 	- [6.8-9 Nonconservative Forces][noncons] Problems due Thurs, 1/21
+	- [6.10 Power][pow] Problems 
 - Take a look at the [Culminating Project Topics][topics] and be ready to choose your topic by next class.
 - [Lab Writeup][lab] due Tues, 1/19.
 - There will be a **HW Quiz** on Wed-Thurs
@@ -35,5 +36,5 @@ Homework
 [topics]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EQcK-LpYgaBNldVSN8gEERwB444aftk4zoaeYRWqFjUKMw?e=PlvklW
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbMjEyMzMwMjU1NywtMjE0NjM3MDgxMF19
 -->
