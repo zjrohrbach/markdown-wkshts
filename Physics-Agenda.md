@@ -21,6 +21,7 @@ Homework
 
 [prob]: https://avon.schoology.com/assignment/4579659508/
 [phet]: https://avon.schoology.com/assignment/4579705197/
+[vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODYxMjU2OSwtNzk2NTA1ODQ1XX0=
+eyJoaXN0b3J5IjpbLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
 -->
