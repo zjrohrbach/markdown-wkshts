@@ -18,23 +18,14 @@ Agenda
 Homework 
 -------------
 - Work on the [Syllabus]
-	- [6.6-7 Conservation of Energy][cons] Problems due Tues, 1/19.  
-	- [6.8-9 Nonconservative Forces][noncons] Problems due Thurs, 1/21
-	- [6.10 Power][pow] Problems 
-- Take a look at the [Culminating Project Topics][topics] and be ready to choose your topic by next class.
-- [Lab Writeup][lab] due Tues, 1/19.
-- There will be a **HW Quiz** on Wed-Thurs
+	- [6.8-9 Nonconservative Forces][noncons] Problems due Thurs
+	- [6.10 Power][pow] Problems due Monday
+	- [Ch 6 Conceptual/MisConceptual][concept] Questions due Monday
 - **Test Day** will be Tue-Wed, Jan 26-27
 
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369853538
-[cons]: https://avon.schoology.com/assignment/4517081685/info
-[lab]: https://avon.schoology.com/assignment/4561370299/
 [noncons]: https://avon.schoology.com/assignment/4517095990/
-
-[proj]: https://avon.schoology.com/course/2624603229/materials?f=376378025
-[proj-vid]: https://avon.schoology.com/course/2624603229/materials/gp/4568496144
-[topics]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EQcK-LpYgaBNldVSN8gEERwB444aftk4zoaeYRWqFjUKMw?e=PlvklW
-
+[po
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzMwMjU1NywtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbMTE2MTM2NzM5NCwtMjE0NjM3MDgxMF19
 -->
