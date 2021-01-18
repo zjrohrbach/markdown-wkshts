@@ -1,4 +1,4 @@
-Tue, Jan 20 / Wed, Jan 21
+Wed, Jan 20 / Thu, Jan 21
 ==================
 
 Agenda
@@ -11,7 +11,7 @@ Agenda
 
 **If absent:**
 
- 1. Follow along with the calculation in [this video][vid].  You don't need to turn in anything from this.
+ 1. Follow along with the calculation in [this video][vid].  You don't need to turn in anything from this. (*video to be posted after 3rd period*)
  2. Complete the [PhET Lab][phet] and **turn it in**
 
 Homework 
@@ -22,5 +22,5 @@ Homework
 [prob]: https://avon.schoology.com/assignment/4579659508/
 [phet]: https://avon.schoology.com/assignment/4579705197/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MjMxNzQxLC03OTY1MDU4NDVdfQ==
+eyJoaXN0b3J5IjpbMTYyODYxMjU2OSwtNzk2NTA1ODQ1XX0=
 -->
