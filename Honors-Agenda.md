@@ -5,25 +5,21 @@ Agenda
 ---------
 **Objective:** Review what we know about work and energy
 
-1. Check your [project assignments][topics]  
-2. Take questions over homework
-3. Review Activity (you can follow along with [this pdf][pdf])
+1. Take the [Ch 6 Test - Computer Portion][test]
+2. Take the Ch 6 Test - Paper Portion
 
 **If absent:**
-1. Check your [project assignments][topics] 
-2. Watch [this video][vid] of the review (you can follow along with [this pdf][pdf])
+
+1. Make sure your [Syllabus] is finished and turned in.
 
 Homework 
 -------------
-- The entire [Syllabus] should be done by Monday
-- **Test Day** will be Tue-Wed, Jan 26-27
+- The entire [Syllabus] should be done 
 
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369853538
-[topics]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EQcK-LpYgaBNldVSN8gEERwB444aftk4zoaeYRWqFjUKMw?e=PlvklW  
-[pdf]: https://avon.schoology.com/course/2624603229/materials/gp/4586011038
-[vid]:
+[test]: https://avon.schoology.com/assignment/4568918812/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQwNDMzNywzODEyMzg1NDQsLTE4NT
-k3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4
-MTBdfQ==
+eyJoaXN0b3J5IjpbMjAwOTIzNDMxNSwxODQ3NDA0MzM3LDM4MT
+IzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMjEzODAxMjUx
+OCwtMjE0NjM3MDgxMF19
 -->
