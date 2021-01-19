@@ -1,4 +1,4 @@
-Wed, Jan 20 / Thu, Jan 21
+Fri, Jan 22 / Mon, Jan 25
 ==================
 
 Agenda
@@ -23,5 +23,6 @@ Homework
 [phet]: https://avon.schoology.com/assignment/4579705197/
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
+eyJoaXN0b3J5IjpbLTk5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNz
+k2NTA1ODQ1XX0=
 -->
