@@ -13,8 +13,9 @@ Agenda
 4. Take the HW Quiz
 
 **If absent:**
- 1. Watch this [video][vid] and do the [Practice Problems][prob]
- 2. Send me a message so that we can find a time for you to take the HW quiz when you are back in school.
+ 1.  Take the [survey] to indicate what you'd like to research for your project.
+ 2. Watch this [video][vid] and do the [Practice Problems][prob]
+ 3. Send me a message so that we can find a time for you to take the HW quiz when you are back in school.
 
 Homework 
 -------------
@@ -33,6 +34,6 @@ Homework
 [survey]: https://forms.office.com/Pages/ResponsePage.aspx?id=9YcqnGcb7063-xKe-q_S5pd24EvFSS5JkX50PAfM2aZUOE5JN1lDRTNWSDhUOEpCM1RSNTRHMk1YNC4u
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI5OTcyNzAsNzE1NTY2MDgxLDIxMz
+eyJoaXN0b3J5IjpbLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMz
 gwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
 -->
