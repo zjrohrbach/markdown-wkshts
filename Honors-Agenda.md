@@ -16,10 +16,7 @@ Agenda
 
 Homework 
 -------------
-- Work on the [Syllabus]
-	- [6.8-9 Nonconservative Forces][noncons] Problems due Thurs
-	- [6.10 Power][pow] Problems due Monday
-	- [Ch 6 Conceptual/MisConceptual][concept] Questions due Monday
+- Work on the [Syllabus] should be done by Monday
 - **Test Day** will be Tue-Wed, Jan 26-27
 
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369853538
@@ -31,6 +28,7 @@ Homework
 [survey]: https://forms.office.com/Pages/ResponsePage.aspx?id=9YcqnGcb7063-xKe-q_S5pd24EvFSS5JkX50PAfM2aZUOE5JN1lDRTNWSDhUOEpCM1RSNTRHMk1YNC4u
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNT
-U2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTIzNzM1Mzc4NCwzODEyMzg1NDQsLTE4NT
+k3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4
+MTBdfQ==
 -->
