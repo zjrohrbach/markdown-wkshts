@@ -1,16 +1,13 @@
-Wed, Jan 20 / Thu, Jan 21
+Fri, Jan 22 / Mon Jan 25
 ==================
 
 Agenda
 ---------
-**Objective:** Be introduced to the concept of *power* and how to make calculations with it.
+**Objective:** Review what we know about work and energy
 
-1. Sign up for Project Topic Preferences  
-	- [Topic List][topics]  
-	- [Survey][survey]
+1. Check your [project assignments][topics]  
 2. Take questions over homework
-3. Notes on **Power** and some [Practice Problems][prob]
-4. Take the HW Quiz
+3. Review Activity [
 
 **If absent:**
  1.  Take the [survey] to indicate what you'd like to research for your project.
@@ -34,6 +31,6 @@ Homework
 [survey]: https://forms.office.com/Pages/ResponsePage.aspx?id=9YcqnGcb7063-xKe-q_S5pd24EvFSS5JkX50PAfM2aZUOE5JN1lDRTNWSDhUOEpCM1RSNTRHMk1YNC4u
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMz
-gwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNT
+U2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
 -->
