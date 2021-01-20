@@ -9,7 +9,23 @@ Agenda
 2. Take questions over homework  
 3. Review Activity (you can follow along with [this pdf][pdf])  
   
-**If absent:** Try to join us live on Zoom.   However, if you c  
+**If absent:** Try to join us live on Zoom.   However, if you can't, alternative info is posted below.
+
+```
+Zach Rohrbach is inviting you to a scheduled Zoom meeting.
+
+Topic: Honors Physics Review
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09
+
+Meeting ID: 896 5236 1206
+Passcode: J5ePse
+
+
+```
+  
 1. Check your [project assignments][topics]   
 2. Watch [this video][vid] of the review (you can follow along with [this pdf][pdf])  
   
@@ -23,7 +39,7 @@ Homework
 [pdf]: https://avon.schoology.com/course/2624603229/materials/gp/4586011038  
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTE0NzEzOCwtMTM1NzgwMzgxMiwxOD
+eyJoaXN0b3J5IjpbMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxOD
 Q3NDA0MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYw
 ODEsMjEzODAxMjUxOCwtMjE0NjM3MDgxMF19
 -->
