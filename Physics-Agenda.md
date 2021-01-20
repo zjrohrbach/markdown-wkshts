@@ -11,8 +11,8 @@ Agenda
 
 **If absent:**
 
- 1. Optionally, you may join us on Zoom for review
-~~~
+ 1. Try to join us for a live review
+```
 Zach Rohrbach is inviting you to a scheduled Zoom meeting.
 
 Topic: Honors Physics Review
@@ -23,7 +23,7 @@ https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09
 
 Meeting ID: 896 5236 1206
 Passcode: J5ePse
-~~~
+```
  2. Follow along with the calculation in [this video][vid].  You don't need to turn in anything from this. (*video to be posted after 3rd period*)
  3. Complete the [PhET Lab][phet] and **turn it in**
 
@@ -36,6 +36,6 @@ Homework
 [phet]: https://avon.schoology.com/assignment/4579705197/
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDk2MDMwMSwtOTkwMDAyNTE2LC0xMz
+eyJoaXN0b3J5IjpbMTU3OTQyNDkzNSwtOTkwMDAyNTE2LC0xMz
 I3NjI0MTcyLC03OTY1MDU4NDVdfQ==
 -->
