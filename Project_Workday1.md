@@ -7,7 +7,7 @@ Workday #1
 ### First, watch these two videos:
 
 - Video #1 - Mr. Rohrbach's Introduction to Research
-- Video #2 - Mrs. Young's Research 
+- Video #2 - posted at the top of [Mrs. Young's Research Page][research]
 
 ### Second, use these questions to guide your research today:
 
@@ -26,8 +26,10 @@ You will eventually turn in an annotated bibliography that meets the following r
 
 **Wikipedia, Google, Yahoo, Dictionary.com, Answers.com, _etc._ do NOT count as sources!!**
 
-I suggest starting with the materials provided on [Mrs. Young's research page](https://sites.google.com/view/ahs-library/science/physics)!
+I suggest starting with the materials provided on [Mrs. Young's research page][research]!
+
+[research]: https://sites.google.com/view/ahs-library/science/physics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NzMzMzczLC0xMjI2ODM3NjU2LDczMD
+eyJoaXN0b3J5IjpbNTE5NjY2ODU5LC0xMjI2ODM3NjU2LDczMD
 k5ODExNl19
 -->
