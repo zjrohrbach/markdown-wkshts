@@ -17,16 +17,14 @@ Workday #1
 
 You will eventually turn in an annotated bibliography that meets the following requirements:
 
-1. You should have **three sources**.  
-2. Each source should be cited in MLA style. (*We will talk about how to do MLA citations next week*)
-3. Each source should include either a bulleted list of information you will use from that source or a 3-4 sentence paragraph explaining that information **in your own words**.
-
-As you continue to do research, you may find you need more sources.  You are encouraged to have more than three sources!  Additional sources, however, do not need to include summaries.
+1. You should have **three sources**.  Make sure to keep the links to the sources and copy them into your word document.
+2. Each source should include either a bulleted list of information you will use from that source or a 3-4 sentence paragraph explaining that information **in your own words**.
+3. Each source should be cited in MLA style. (*You do not need to do this part now.  We will talk about how to do MLA citations next week.*)
 
 **Wikipedia, Google, Yahoo, Dictionary.com, Answers.com, _etc._ do NOT count as sources!!**
 
 I suggest starting with the "Science in Context" database.  There is a link in the “Culminating Project” folder on Schoology.  There is also a link on the AHS Library’s homepage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0OTA1NDk1LC0xMjI2ODM3NjU2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTQyNzQ2ODY5MCwtMTIyNjgzNzY1Niw3Mz
+A5OTgxMTZdfQ==
 -->
