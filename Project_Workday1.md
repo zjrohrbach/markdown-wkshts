@@ -1,18 +1,19 @@
-<![endif]-->
+Culminating Project
+===============
 
-**Culminating Project –**
+Workday #1
+---------------
 
-**Workday #1**
+### Questions you should be able to answer by the end of today…
 
-**Questions you should be able to answer by the end of today…**
+- _If you have a physics topic, you should be able to answer these questions:_ What is your topic?  What is the science behind how it works?  Why is it interesting/important?
+- _If you have a scientist, you should be able to answer these questions:_ Who is your person?  What science is he/she known for? What do his/her theories say?  Why is he/she interesting/important?
+- _If you have a build-it project, you should be able to answer these questions:_ What is the thing you are building?  What is its purpose?  What is the science behind how it works?  Why is it interesting/important? What materials will you need?
 
-**_What is my visual?_**  Remember, your project should be built around a diagram, graph, model, etc. that substantially contributes to our understanding of the topic.  _A presentation aid (like PowerPoint, Prezi, etc.) is not a visual!_
 
-_If you have a physics topic, you should be able to answer these questions:_ What is your topic?  What is the science behind how it works?  Why is it interesting/important?
+**Also, start thinking about your visual.**  Remember, your project should be built around a diagram, graph, model, etc. that substantially contributes to our understanding of the topic.  _A presentation aid (like PowerPoint, Prezi, etc.) is not a visual!_
 
-_If you have a scientist, you should be able to answer these questions:_ Who is your person?  What science is he/she known for? What do his/her theories say?  Why is he/she interesting/important?
 
-_If you have a build-it project, you should be able to answer these questions:_ What is the thing you are building?  What is its purpose?  What is the science behind how it works?  Why is it interesting/important? What materials will you need?
 
 **YOUR ASSIGNMENT**
 
@@ -50,5 +51,5 @@ Author. “Title of article.” _Title of Website_. Publisher, Publication Date.
 
 Author. “Title of Article.” _Title of Book._  Publisher, year, page number.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzY1MDQ5Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY4Mzc2NTYsNzMwOTk4MTE2XX0=
 -->
