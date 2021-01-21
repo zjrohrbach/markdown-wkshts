@@ -17,36 +17,16 @@ Workday #1
 
 You will eventually turn in an annotated bibliography that meets the following requirements:
 
-<![if !supportLists]>1. <![endif]>You should have **three sources**.  Each source should be cited in MLA style.
+1. You should have **three sources**.  
+2. Each source should be cited in MLA style. (*We will talk about how to do MLA citations next week*)
+3. Each source should include either a bulleted list of information you will use from that source or a 3-4 sentence paragraph explaining that information **in your own words**.
 
-<![if !supportLists]>2. <![endif]>Each source should include either a bulleted list of information you will use from that source or a 3-4 sentence paragraph explaining that information **in your own words**.
-
-<![if !supportLists]>3. <![endif]>As you continue to do research, you may find you need more sources.  You are encouraged to have more than three sources!  Additional sources, however, do not need to include summaries.
-
-<![if !supportLists]>4. <![endif]>All sources should also be cited in your final presentation.
-
-You can go to [http://www.bibme.org/mla/website-citation](http://www.bibme.org/mla/website-citation) for help in writing a citation.  Please use **“manual entry mode.”**  Automatic mode is riddled with errors.  You can also look on the back of this page for basic citation format.
+As you continue to do research, you may find you need more sources.  You are encouraged to have more than three sources!  Additional sources, however, do not need to include summaries.
 
 **Wikipedia, Google, Yahoo, Dictionary.com, Answers.com, _etc._ do NOT count as sources!!**
 
 I suggest starting with the "Science in Context" database.  There is a link in the “Culminating Project” folder on Schoology.  There is also a link on the AHS Library’s homepage.
-
-  
-
-**Basic Citation for an article not from a database:**
-
-Author. “Title of article.” _Title of Website_. Publisher, Publication Date.
-
-<url>
-
-**Basic Citation for an article from a database:**
-
-(Scroll down to the bottom of the page.  Usually there is a citation provided for you.)
-
-**Basic Citation for a book:**
-
-Author. “Title of Article.” _Title of Book._  Publisher, year, page number.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg4MzYzNjMsLTEyMjY4Mzc2NTYsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjM0OTA1NDk1LC0xMjI2ODM3NjU2LDczMD
+k5ODExNl19
 -->
