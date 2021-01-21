@@ -6,7 +6,8 @@ Workday #1
 
 ### First, watch these two videos:
 
-
+- Video #1 - Mr. Rohrbach's Introduction to Research
+- Video #2 - Mrs. Young's Research 
 
 ### Second, use these questions to guide your research today:
 
@@ -27,6 +28,6 @@ You will eventually turn in an annotated bibliography that meets the following r
 
 I suggest starting with the materials provided on [Mrs. Young's research page](https://sites.google.com/view/ahs-library/science/physics)!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzgyOTkyOSwtMTIyNjgzNzY1Niw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzM3NzMzMzczLC0xMjI2ODM3NjU2LDczMD
+k5ODExNl19
 -->
