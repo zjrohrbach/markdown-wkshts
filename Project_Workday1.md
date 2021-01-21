@@ -4,18 +4,18 @@ Culminating Project
 Workday #1
 ---------------
 
-### First, watch these  two videos:
+### First, watch these two videos:
 
-### Questions you should be able to answer by the end of the week…
+
+
+### Second, use these questions to guide your research today:
 
 - _If you have a physics topic, you should be able to answer these questions:_ What is your topic?  What is the science behind how it works?  Why is it interesting/important?
 - _If you have a scientist, you should be able to answer these questions:_ Who is your person?  What science is he/she known for? What do his/her theories say?  Why is he/she interesting/important?
 - _If you have a build-it project, you should be able to answer these questions:_ What is the thing you are building?  What is its purpose?  What is the science behind how it works?  Why is it interesting/important? What materials will you need?
+- **Also, start thinking about your visual.**  Remember, your project should be built around a diagram, graph, model, etc. that substantially contributes to our understanding of the topic.  _A presentation aid (like PowerPoint, Prezi, etc.) is not a visual!_
 
-
-**Also, start thinking about your visual.**  Remember, your project should be built around a diagram, graph, model, etc. that substantially contributes to our understanding of the topic.  _A presentation aid (like PowerPoint, Prezi, etc.) is not a visual!_
-
-### Assignment
+### Third, get started on your Annotated Bibliography Assignment
 
 You will eventually turn in an annotated bibliography that meets the following requirements:
 
@@ -25,8 +25,8 @@ You will eventually turn in an annotated bibliography that meets the following r
 
 **Wikipedia, Google, Yahoo, Dictionary.com, Answers.com, _etc._ do NOT count as sources!!**
 
-I suggest starting with the materials provided on Mrs. Young's research page!
+I suggest starting with the materials provided on [Mrs. Young's research page](https://sites.google.com/view/ahs-library/science/physics)!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTc5ODc1NSwtMTIyNjgzNzY1Niw3Mz
+eyJoaXN0b3J5IjpbMTc3MzgyOTkyOSwtMTIyNjgzNzY1Niw3Mz
 A5OTgxMTZdfQ==
 -->
