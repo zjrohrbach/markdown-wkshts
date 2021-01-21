@@ -4,7 +4,7 @@ Culminating Project
 Workday #1
 ---------------
 
-### Questions you should be able to answer by the end of today…
+### Questions you should be able to answer…
 
 - _If you have a physics topic, you should be able to answer these questions:_ What is your topic?  What is the science behind how it works?  Why is it interesting/important?
 - _If you have a scientist, you should be able to answer these questions:_ Who is your person?  What science is he/she known for? What do his/her theories say?  Why is he/she interesting/important?
@@ -13,13 +13,9 @@ Workday #1
 
 **Also, start thinking about your visual.**  Remember, your project should be built around a diagram, graph, model, etc. that substantially contributes to our understanding of the topic.  _A presentation aid (like PowerPoint, Prezi, etc.) is not a visual!_
 
+### Assignment
 
-
-**YOUR ASSIGNMENT**
-
-**Annotated Bibliography**
-
-Sources need to be uploaded to Schoology by **11:59pm this Sunday (Feb 2)**
+You will eventually turn in an annotated bibliography that meets the following requirements:
 
 <![if !supportLists]>1. <![endif]>You should have **three sources**.  Each source should be cited in MLA style.
 
@@ -51,5 +47,6 @@ Author. “Title of article.” _Title of Website_. Publisher, Publication Date.
 
 Author. “Title of Article.” _Title of Book._  Publisher, year, page number.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY4Mzc2NTYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNzg4MzYzNjMsLTEyMjY4Mzc2NTYsNz
+MwOTk4MTE2XX0=
 -->
