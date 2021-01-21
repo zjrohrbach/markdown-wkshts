@@ -12,7 +12,7 @@ Agenda
 **If absent:**
 
  1. Try the [Review Practice Problems][probs].  Watch [this video][vid] to help you out.  (*video will be posted after 3rd period*)
- 2. Click through the questions on [Circular Motion Jeopardy][jeopardy].  You can set it to "
+ 2. Click through the questions on [Circular Motion Jeopardy][jeopardy].  You can set it to "*no teams*" and then click through the questions.  The answers are revealed if you press the spacebar.  If you have questions, please message me.
 
 Homework 
 -------------
@@ -23,7 +23,7 @@ Homework
 [jeopardy]: https://jeopardylabs.com/play/05-circular-motion
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEzMzA4ODcsLTEzNzEzMTgwMjksLT
-E3MTk1MzgxOSwtOTkwMDAyNTE2LC0xMzI3NjI0MTcyLC03OTY1
-MDU4NDVdfQ==
+eyJoaXN0b3J5IjpbLTc3NjY1MTA4MCwtMTM3MTMxODAyOSwtMT
+cxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUw
+NTg0NV19
 -->
