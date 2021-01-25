@@ -1,29 +1,22 @@
-Fri, Jan 22 / Mon, Jan 25
+Tue, Jan 26 / Wed, Jan 27
 ==================
 
 Agenda
 ---------
-**Objective:** Review what we know about Circular Motion
+**Objective:** Prove your circular motion knowledge
 
-1. Work through the [Review Practice Problems][probs]
-2. Play [Circular Motion Jeopardy][jeopardy]!
+1. 
 
 
 **If absent:**
 
- 1. Try the [Review Practice Problems][probs].  Watch [this video][vid] to help you out.  (*video will be posted after 3rd period*)
- 2. Try [Circular Motion Jeopardy][jeopardy].  You can set it to "*no teams*" and then click through the questions.  The answers are revealed if you press the spacebar.  If you have questions, please message me.
+ 1. 
 
 Homework 
 -------------
-- The **test** is coming up *next class!*
-- We will also use test day to start researching for your project.
-
-[probs]: https://avon.schoology.com/assignment/4586848637/
-[jeopardy]: https://jeopardylabs.com/play/05-circular-motion
-[vid]: 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMT
-cxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUw
-NTg0NV19
+eyJoaXN0b3J5IjpbNDUzMzM1ODE4LC02NjA5NTI3OTMsLTEzNz
+EzMTgwMjksLTE3MTk1MzgxOSwtOTkwMDAyNTE2LC0xMzI3NjI0
+MTcyLC03OTY1MDU4NDVdfQ==
 -->
