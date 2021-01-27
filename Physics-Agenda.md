@@ -1,13 +1,12 @@
-Tue, Jan 26 / Wed, Jan 27
+Thu, Jan 28 / Fri, Jan 29
 ==================
 
 Agenda
 ---------
-**Objective:** Prove your circular motion knowledge
+**Objective:** Build a device that prevents an egg from breaking and consider the physical explanation for why your device does or does not work.
 
-1. Take the [Unit 05 Test - Computer][test]
-2. Take the Unit 05 Test - Paper
-3. Start researching your project by watching the videos posted [here][proj]
+1. Do the Egg Drop Lab
+2. Turn it in
 
 
 **If absent:**
@@ -18,12 +17,12 @@ Agenda
 
 Homework 
 -------------
-- Be thinking about your project!
+- Be thinking about your [project]!  We're going to talk about your sources on Monday.
 
-[test]: https://avon.schoology.com/assignment/4586396402/
 [proj]: https://avon.schoology.com/assignment/4597769688/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc4MTUwMjksNDUzMzM1ODE4LC02Nj
-A5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOSwtOTkwMDAy
-NTE2LC0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
+eyJoaXN0b3J5IjpbMTMyMzU5MjQ5MywtMTMwNzgxNTAyOSw0NT
+MzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUz
+ODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV
+19
 -->
