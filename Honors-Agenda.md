@@ -5,17 +5,21 @@ Agenda
 ---------  
 **Objective:** Be introduced to the concept of momentum.  Have time to begin working on your project 
   
-1. Notes on **Momentum & Newton's Seco
+1. Notes on **Momentum & Newton's Second Law**
+2. Time to work on [Research].
   
 **If absent:** 
 
-1. 
+1. Watch the [video] for today. *to be posted after 1st period*
+2. Look at the [research] assignment I have posted and begin rese
   
 Homework   
 -------------  
 - 
+
+[research]: https://avon.schoology.com/assignment/4621629308/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MzUyMTczLC0xNTMwNDc4MDIxLDE4MT
+eyJoaXN0b3J5IjpbNDAxNzk0OTc4LC0xNTMwNDc4MDIxLDE4MT
 c4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMzg1
 NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLT
 IxNDYzNzA4MTBdfQ==
