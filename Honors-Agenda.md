@@ -6,7 +6,9 @@ Agenda
 **Objective:** Be able to explain *impulse* and how it applies to the concepts of 'bounciness' and 'hardness.'
   
 1. Notes on **Newton's Second Law**
-2. Go through some [Conceptual Questions]
+2. Go through some [Impulse Thinking Questions][qs]
+3. Do some [Practice Problems][ps]
+4. Worktime on the [Syllabus]
 
 **If absent or in Period 7:** 
 
@@ -24,10 +26,13 @@ Homework
 [7.1-2]: https://avon.schoology.com/assignment/4622403532/
 [7.3]: https://avon.schoology.com/assignment/4622408506/
 
+[qs]: https://avon.schoology.com/page/4631717516
+[ps]: https://avon.schoology.com/page/4631764940
+
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODMwMDYyOCw1MTEyMzg0MjEsLTE1Mz
-A0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0
-MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMj
-EzODAxMjUxOCwtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbNTAzODk2Njg4LDUxMTIzODQyMSwtMTUzMD
+Q3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQz
+MzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMT
+M4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
 -->
