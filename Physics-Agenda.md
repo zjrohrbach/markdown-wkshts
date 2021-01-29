@@ -7,7 +7,7 @@ Agenda
 
 1. Take Notes over **Momentum & Impulse**.
 2. Do the [Impulse-Momentum Reading][reading] and discuss.
-3. 
+3. Talk about how to turn in the  [Project Sources][sources]
 
 
 **If absent:**
@@ -19,11 +19,10 @@ Homework
 -------------
 - Be thinking about your [project]!  We're going to talk about your sources on Monday.
 
-[proj]: https://avon.schoology.com/assignment/4597769688/
-[lab]: https://avon.schoology.com/assignment/4618907182/
+[sour
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTcwMDUwOSwxMjkwMTE2NDAzLC0xMz
+eyJoaXN0b3J5IjpbMTk0NzYzMDMwNiwxMjkwMTE2NDAzLC0xMz
 A3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4
 MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3Mi
 wtNzk2NTA1ODQ1XX0=
