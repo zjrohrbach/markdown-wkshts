@@ -1,28 +1,29 @@
-Thu, Jan 28 / Fri, Jan 30  
+Mon, Feb 1 / Tue, Feb 2 
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Be introduced to the concept of momentum.  Have time to begin working on your project 
+**Objective:** ooo
   
-1. Notes on **Momentum & Newton's Second Law**
-2. Time to work on [Research].
-  
+1. 
+
 **If absent:** 
 
-1. Watch the [video] for today. *to be posted after 1st period*
-2. Look at the [research] assignment I have posted and begin researching your project.
+1. 
   
 Homework   
 -------------  
-- Project Sources due Friday, Feb 5 at 11:59pm.
+- [Project Sources][research] due Friday, Feb 5 at 11:59pm.
+- Work on your [Syllabus]!
+	- 7.1-2 
+	- 7.3 Problems due Mon, Feb 8
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4MT
-c4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMzg1
-NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLT
-IxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbMTMwODkxOTQwNiw1MTEyMzg0MjEsLTE1Mz
+A0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0
+MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMj
+EzODAxMjUxOCwtMjE0NjM3MDgxMF19
 -->
