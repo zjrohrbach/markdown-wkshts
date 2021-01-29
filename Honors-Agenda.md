@@ -3,11 +3,12 @@ Mon, Feb 1 / Tue, Feb 2
   
 Agenda  
 ---------  
-**Objective:** ooo
+**Objective:** Be able to explain *impulse* and how it applies to the concepts of 'bounciness' and 'hardness.'
   
-1. 
+1. Notes on **Newton's Second Law**
+2. Go through some [Conceptual Questions]
 
-**If absent:** 
+**If absent or in Period 7:** 
 
 1. 
   
@@ -21,12 +22,12 @@ Homework
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
 [7.1-2]: https://avon.schoology.com/assignment/4622403532/
-[7.3]: 
+[7.3]: https://avon.schoology.com/assignment/4622408506/
 
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgzNTEzMzAsNTExMjM4NDIxLC0xNT
-MwNDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQw
-NDMzNywzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLD
-IxMzgwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbLTc0ODMwMDYyOCw1MTEyMzg0MjEsLTE1Mz
+A0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0
+MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMj
+EzODAxMjUxOCwtMjE0NjM3MDgxMF19
 -->
