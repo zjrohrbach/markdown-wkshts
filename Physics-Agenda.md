@@ -21,13 +21,16 @@ Homework
 - [Project Sources][sources] are due by Friday evening.
 
 [sources]: https://avon.schoology.com/assignment/4545023001
-[reading]: 
+[reading]: https://avon.schoology.com/course/2624603689/materials/gp/4632689135
+
 [notes-vid]: 
+
 [reading-vid]: 
+
 [sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkxNjU1MjgsMTI5MDExNjQwMywtMT
-MwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMx
-ODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNz
-IsLTc5NjUwNTg0NV19
+eyJoaXN0b3J5IjpbLTE3Mjk1Njg2OTUsLTE4NjkxNjU1MjgsMT
+I5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1
+Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MT
+YsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
 -->
