@@ -5,8 +5,9 @@ Agenda
 ---------
 **Objective:** Build a device that prevents an egg from breaking and consider the physical explanation for why your device does or does not work.
 
-1. Do the [Egg Drop Lab][lab]
-2. Turn it in
+1. Take Notes over **Momentum & Impulse**.
+2. Do the [Impulse-Momentum Reading][reading] and discuss.
+3. 
 
 
 **If absent:**
@@ -22,8 +23,8 @@ Homework
 [lab]: https://avon.schoology.com/assignment/4618907182/
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NT
-MzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUz
-ODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV
-19
+eyJoaXN0b3J5IjpbMTczMTcwMDUwOSwxMjkwMTE2NDAzLC0xMz
+A3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4
+MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3Mi
+wtNzk2NTA1ODQ1XX0=
 -->
