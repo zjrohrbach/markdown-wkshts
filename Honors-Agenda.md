@@ -12,7 +12,8 @@ Agenda
 
 **If absent or in Period 7:** 
 
-1. 
+1. Watch and take notes over the [video].
+2. Work on your [Syllabus].
   
 Homework   
 -------------  
@@ -31,8 +32,8 @@ Homework
 
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzODk2Njg4LDUxMTIzODQyMSwtMTUzMD
-Q3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQz
-MzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMT
-M4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1Mz
+A0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0
+MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMj
+EzODAxMjUxOCwtMjE0NjM3MDgxMF19
 -->
