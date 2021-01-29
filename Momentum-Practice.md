@@ -19,7 +19,7 @@ You drop two identical vases from the same height.  One lands on a pillow and th
 
 | Equations |  |  |
 |--|--|--|
-| $p\equiv mv$ | $J \equiv F\Delta t$ |  
+| $p\equiv mv$ | $J \equiv F\Delta t$ |  |
 | $J=\Delta p$ |$\Sigma F = \frac{\Delta p}{\Delta t}$ | $\Sigma p = \Sigma p'$ |
 
 1. A baseball is thrown by a pitcher with a velocity of 43 m/s. The batter hits straight back at the pitcher with a velocity of 56 m/s. The 0.145-kg ball was in contact with the bat for 0.0007 s.
@@ -28,7 +28,7 @@ You drop two identical vases from the same height.  One lands on a pillow and th
 2. While washing your car, water comes out of the hose at a rate of 1.5 kg/s and speed of 20 m/s.  How much force does the water impart on your car?
 3. A 900-kg cannon fires a 5-kg cannonball at a speed of 30 m/s.  How fast does the cannon recoil?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzA0Njg5LC02OTMyMDcwNDcsMTkyOD
-E2NDc0NiwxNzc3NzY5Nzk4LDk1NTUzODc2MSwtOTk0Njg2ODY1
-LC01OTk5ODQ1MjFdfQ==
+eyJoaXN0b3J5IjpbMTcyOTI0MTk5LC02MjcwNDY4OSwtNjkzMj
+A3MDQ3LDE5MjgxNjQ3NDYsMTc3Nzc2OTc5OCw5NTU1Mzg3NjEs
+LTk5NDY4Njg2NSwtNTk5OTg0NTIxXX0=
 -->
