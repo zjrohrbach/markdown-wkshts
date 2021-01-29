@@ -23,11 +23,11 @@ Homework
 [sources]: https://avon.schoology.com/assignment/4545023001
 [reading]: 
 [notes-vid]: 
-[reading-vid]:
-[sources-vid]:
+[reading-vid]: 
+[sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzkwODk4NCwxMjkwMTE2NDAzLC0xMz
-A3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4
-MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3Mi
-wtNzk2NTA1ODQ1XX0=
+eyJoaXN0b3J5IjpbLTE4NjkxNjU1MjgsMTI5MDExNjQwMywtMT
+MwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMx
+ODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNz
+IsLTc5NjUwNTg0NV19
 -->
