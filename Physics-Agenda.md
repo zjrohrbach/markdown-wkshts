@@ -12,17 +12,18 @@ Agenda
 
 **If absent:**
 
- 1. Watch the [Video]. (*will be posted after 3rd period*)
- 2. Do questions #1-4 on the [Egg Drop Lab][lab] and turn it in.
+ 1. Watch the [Video][notes-vid]. (*will be posted after 3rd period*)
+ 2. Follow along with the [Impulse-Momentum Reading][reading]
 
 Homework 
 -------------
-- Be thinking about your [project]!  We're going to talk about your sources on Monday.
+- [Project Sources][sources] are due by Friday evening.
 
-[sour
-[video]:
+[sources]: https://avon.schoology.com/assignment/4545023001
+[reading]:
+[notes-vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzYzMDMwNiwxMjkwMTE2NDAzLC0xMz
+eyJoaXN0b3J5IjpbMjA3ODU5NjY2OSwxMjkwMTE2NDAzLC0xMz
 A3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4
 MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3Mi
 wtNzk2NTA1ODQ1XX0=
