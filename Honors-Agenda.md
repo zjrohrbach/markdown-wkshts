@@ -17,12 +17,14 @@ Agenda
   
 Homework   
 -------------  
-- [Project Sources][research] should be DONE
-- Work on your [Syllabus]!
-	- [7.1-2 Problems][7.1-2] should be DONE
+- Things that should be DONE
+	- [Project Sources][research]
+	- [7.1-2 Problems][7.1-2] 
 	- [7.3 Problems][7.3] should be DONE
-	- [7.4-5 Problems][7.4-5] due **Thursday**
-- Work on your Egg Project on your E-Learni
+- Work on your [Syllabus]!
+
+	- [7.4-5 Problems][7.4-5] due Thurs evening.
+- Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
@@ -35,9 +37,9 @@ Homework
 
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTg3NTM2NCwtMTUwMzUwMzU5NSwyMD
-M0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4
-MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNy
-wzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgw
-MTI1MTgsLTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzc2MTk0NTQsLTE1MDM1MDM1OTUsMj
+AzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3
+ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMz
+csMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMTM4
+MDEyNTE4LC0yMTQ2MzcwODEwXX0=
 -->
