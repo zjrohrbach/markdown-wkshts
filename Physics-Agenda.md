@@ -8,6 +8,7 @@ Agenda
 1. Review what we know about Impulse & Momentum
 2. Do some [warmup questions][WU]
 3. Do the [2/5,8 Assignment][assmt]
+4. 
 
 
 **If absent:**
@@ -24,14 +25,8 @@ Homework
 
 [assmt]: 
 [WU]: 
-
-[notes-vid]: 
-
-[reading-vid]: 
-
-[sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1ODQzODk2LC0xNzI5NTY4Njk1LC0xOD
+eyJoaXN0b3J5IjpbMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xOD
 Y5MTY1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1
 ODE4LC02NjA5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOS
 wtOTkwMDAyNTE2LC0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
