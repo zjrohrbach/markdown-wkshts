@@ -14,7 +14,7 @@ Agenda
   
 Homework   
 -------------  
-- [7.4-5 Problems][7.4-5] due Thurs evening.
+- On your syllabus, [7.4-5 Problems][7.4-5] are due Thurs evening.
 - Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 - Things that should already be DONE
 	- [Project Sources][research]
@@ -28,9 +28,9 @@ Homework
 [7.4-5]: https://avon.schoology.com/assignment/4622420473/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNzExNzcyLC0xNTAzNTAzNTk1LDIwMz
-QzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0Nzgw
-MjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3LD
-M4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMjEzODAx
-MjUxOCwtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMD
+M0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4
+MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNy
+wzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgw
+MTI1MTgsLTIxNDYzNzA4MTBdfQ==
 -->
