@@ -6,7 +6,8 @@ Agenda
 **Objective:** Be able to perform calculations with impulse and momentum.
 
 1. Review what we know about Impulse & Momentum
-2. Do the [2/5,8 Assignment][assmt]
+2. Do some [warmup questions][WU]
+3. Do the [2/5,8 Assignment][assmt]
 
 
 **If absent:**
@@ -22,6 +23,7 @@ Homework
 [correct]:
 
 [assmt]: 
+[WU]: 
 
 [notes-vid]: 
 
@@ -29,9 +31,9 @@ Homework
 
 [sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTQ5Mzk5NywtMTcyOTU2ODY5NSwtMT
-g2OTE2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMz
-NTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5NTM4MT
-ksLTk5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNzk2NTA1ODQ1XX0=
+eyJoaXN0b3J5IjpbOTY1ODQzODk2LC0xNzI5NTY4Njk1LC0xOD
+Y5MTY1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1
+ODE4LC02NjA5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOS
+wtOTkwMDAyNTE2LC0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
 
 -->
