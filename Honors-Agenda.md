@@ -11,9 +11,10 @@ Agenda
 4. Notes on **Elastic vs. Inelastic Collisions**
 
 **If absent:** If you are able, log in to Zoom during class time.
-> d
-> d
-> d
+> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)
+> Time: 8am Friday, 1:25pm Friday, 8am Monday
+> Meeting ID: 896 5236 1206
+> Passcode: J5ePse
   
 Homework   
 -------------  
@@ -32,9 +33,9 @@ Homework
 [WU]: https://avon.schoology.com/page/4650525656
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI4OTgzMDEsMTI2NDczNzgzNywtMT
-UwMzUwMzU5NSwyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4
-NDIxLC0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MT
-IsMTg0NzQwNDMzNywzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1
-NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MD
+M1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQy
+MSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLD
+E4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2
+NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
 -->
