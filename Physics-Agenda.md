@@ -3,9 +3,10 @@ Fri, Feb 5 / Mon, Feb 8
 
 Agenda
 ---------
-**Objective:** Build a device that prevents an egg from breaking and consider the physical explanation for why your device does or does not work.
+**Objective:** Be able to perform calculations with impulse and momentum.
 
-1. 
+1. Review what we know about Impulse & Momentum
+2. Do the [2/5,8 Assignment][assmt]
 
 
 **If absent:**
@@ -15,9 +16,12 @@ Agenda
 Homework 
 -------------
 - [Project Sources][sources] should be done.
+- If you want to do [Test Corrections][correct], get them done ASAP.
 
 [sources]: https://avon.schoology.com/assignment/4545023001
-[reading]: https://avon.schoology.com/course/2624603689/materials/gp/4632689135
+[correct]:
+
+[assmt]: 
 
 [notes-vid]: 
 
@@ -25,8 +29,9 @@ Homework
 
 [sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzMzNTgsLTE3Mjk1Njg2OTUsLTE4Nj
-kxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4
-MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzODE5LC
-05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
+eyJoaXN0b3J5IjpbMTAyMTQ5Mzk5NywtMTcyOTU2ODY5NSwtMT
+g2OTE2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMz
+NTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5NTM4MT
+ksLTk5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNzk2NTA1ODQ1XX0=
+
 -->
