@@ -5,20 +5,16 @@ Agenda
 ---------
 **Objective:** Build a device that prevents an egg from breaking and consider the physical explanation for why your device does or does not work.
 
-1. Take Notes over **Momentum & Impulse**.
-2. Do the [Impulse-Momentum Reading][reading] and discuss.
-3. Talk about how to turn in the  [Project Sources][sources]
+1. 
 
 
 **If absent:**
 
- 1. Watch the [Video][notes-vid]. (*will be posted after 3rd period*)
- 2. Follow along with the [Impulse-Momentum Reading][reading] and watch [this][reading-vid]
- 3. Make sure your [Project Sources][sources] get turned in.  Watch [this video][sources-vid] for help.
+ 1. 
 
 Homework 
 -------------
-- [Project Sources][sources] are due by Friday evening.
+- [Project Sources][sources] should be done.
 
 [sources]: https://avon.schoology.com/assignment/4545023001
 [reading]: https://avon.schoology.com/course/2624603689/materials/gp/4632689135
@@ -29,9 +25,8 @@ Homework
 
 [sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjczMjU2MzgsLTE3Mjk1Njg2OTUsLT
-E4NjkxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMz
-MzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzOD
-E5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
-
+eyJoaXN0b3J5IjpbODM3NzMzNTgsLTE3Mjk1Njg2OTUsLTE4Nj
+kxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4
+MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzODE5LC
+05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
 -->
