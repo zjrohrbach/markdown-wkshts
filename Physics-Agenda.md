@@ -1,4 +1,4 @@
-Thu, Jan 28 / Fri, Jan 29
+Fri, Feb 5 / Mon, Feb 8
 ==================
 
 Agenda
@@ -29,8 +29,9 @@ Homework
 
 [sources-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk1Njg2OTUsLTE4NjkxNjU1MjgsMT
-I5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1
-Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MT
-YsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
+eyJoaXN0b3J5IjpbLTE3NjczMjU2MzgsLTE3Mjk1Njg2OTUsLT
+E4NjkxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMz
+MzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUzOD
+E5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV19
+
 -->
