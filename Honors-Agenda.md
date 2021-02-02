@@ -10,7 +10,10 @@ Agenda
 3. Introduce the Egg Drop Lab
 4. Notes on **Elastic vs. Inelastic Collisions**
 
-**If absent:** (*to be posted after 1st period*)
+**If absent:** If you are able, log in to Zoom during class time.
+> d
+> d
+> d
   
 Homework   
 -------------  
@@ -29,9 +32,9 @@ Homework
 [WU]: https://avon.schoology.com/page/4650525656
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjA2NDIwNywxMjY0NzM3ODM3LC0xNT
-AzNTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0
-MjEsLTE1MzA0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMi
-wxODQ3NDA0MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1
-NjYwODEsMjEzODAxMjUxOCwtMjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbLTE1NDI4OTgzMDEsMTI2NDczNzgzNywtMT
+UwMzUwMzU5NSwyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4
+NDIxLC0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MT
+IsMTg0NzQwNDMzNywzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1
+NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
 -->
