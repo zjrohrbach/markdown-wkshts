@@ -6,20 +6,20 @@ Agenda
 **Objective:** Be able to solve elastic collision problems.
   
 1. Take questions over the HW
-2. Introduce the Eg
+2. Do the [Impulse Warmup Question][WU]
+3. Introduce the Egg Drop Lab
+4. Notes on **Elastic vs. Inelastic Collisions**
 
-**If absent:** 
-
-1. 
+**If absent:** (*to be posted after 1st period*)
   
 Homework   
 -------------  
+- [7.4-5 Problems][7.4-5] due Thurs evening.
+- Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 - Things that should already be DONE
 	- [Project Sources][research]
 	- [7.1-2 Problems][7.1-2] 
 	- [7.3 Problems][7.3] 
-- [7.4-5 Problems][7.4-5] due Thurs evening.
-- Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
@@ -28,9 +28,9 @@ Homework
 [7.4-5]: https://avon.schoology.com/assignment/4622420473/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI3ODgxOTYsLTE1MDM1MDM1OTUsMj
-AzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3
-ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMz
-csMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMTM4
-MDEyNTE4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbNDkxNzExNzcyLC0xNTAzNTAzNTk1LDIwMz
+QzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0Nzgw
+MjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3LD
+M4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMjEzODAx
+MjUxOCwtMjE0NjM3MDgxMF19
 -->
