@@ -1,4 +1,4 @@
-Mon, Feb 1 / Tue, Feb 2 
+Fri, Feb 5 / Mon, Feb 8
 ==================  
   
 Agenda  
@@ -17,11 +17,12 @@ Agenda
   
 Homework   
 -------------  
-- [Project Sources][research] due Friday, Feb 5 at 11:59pm.
+- [Project Sources][research] should be DONE
 - Work on your [Syllabus]!
-	- [7.1-2 Problems][7.1-2] due Mon, Feb 8
-	- [7.3 Problems][7.3] due Mon, Feb 8
-- If you want to do [Test Corrections][correct], get those done this week.
+	- [7.1-2 Problems][7.1-2] should be DONE
+	- [7.3 Problems][7.3] should be DONE
+	- [7.4-5 Problems][7.4-5] due **Thursday**
+- Work on your Egg Project on your E-Learni
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
@@ -34,9 +35,9 @@ Homework
 
 [video]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNj
-g3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMSwxODE3ODQ0
-MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgxMjM4NTQ0LC
-0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2
-MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTU5MTg3NTM2NCwtMTUwMzUwMzU5NSwyMD
+M0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4
+MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNy
+wzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgw
+MTI1MTgsLTIxNDYzNzA4MTBdfQ==
 -->
