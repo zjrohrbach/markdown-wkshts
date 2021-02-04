@@ -14,7 +14,8 @@ Agenda
 
 **If absent:**
 
- 1. 
+ 1. Watch this [video][assmt-vid] and complete/turn in the [2/5,8 Assignment][assmt]
+ 2. Watch and take notes over [this video][notes-vid]
 
 Homework 
 -------------
@@ -26,10 +27,13 @@ Homework
 
 [assmt]: https://avon.schoology.com/assignment/4650942693/
 [WU]: https://avon.schoology.com/page/4650868868
+
+[assmt-vid]
+[notes-vid]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDcwOTQyNiwzNTE5MjgzMTEsLTE3Mj
-k1Njg2OTUsLTE4NjkxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgx
-NTAyOSw0NTMzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOS
-wtMTcxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5
-NjUwNTg0NV19
+eyJoaXN0b3J5IjpbNzQ2NjQ4MDMwLC03MTA3MDk0MjYsMzUxOT
+I4MzExLC0xNzI5NTY4Njk1LC0xODY5MTY1NTI4LDEyOTAxMTY0
+MDMsLTEzMDc4MTUwMjksNDUzMzM1ODE4LC02NjA5NTI3OTMsLT
+EzNzEzMTgwMjksLTE3MTk1MzgxOSwtOTkwMDAyNTE2LC0xMzI3
+NjI0MTcyLC03OTY1MDU4NDVdfQ==
 -->
