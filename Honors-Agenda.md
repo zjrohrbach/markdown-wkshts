@@ -1,4 +1,4 @@
-Fri, Feb 5 / Mon, Feb 8
+Tue, Feb 9 / Thu, Feb 11
 ==================  
   
 Agenda  
@@ -6,9 +6,7 @@ Agenda
 **Objective:** Be able to solve elastic collision problems.
   
 1. Take questions over the HW
-2. Do the [Impulse Warmup Question][WU]
-3. Introduce the Egg Drop Lab
-4. Notes on **Elastic vs. Inelastic Collisions**
+2. Discuss Momentum in 2D and do a [Practice Problem][prob]
 
 **If absent:** If you are able, log in to Zoom during class time.
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)
@@ -18,7 +16,9 @@ Agenda
   
 Homework   
 -------------  
-- On your syllabus, [7.4-5 Problems][7.4-5] are due Thurs evening.
+- On your syllabus, 
+	- [7.4-5 Problems][7.4-5] are due Thurs evening.
+	- [7.7 Problems][7.7] are due Thurs, Feb 18
 - Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 - Things that should already be DONE
 	- [Project Sources][research]
@@ -30,12 +30,14 @@ Homework
 [7.1-2]: https://avon.schoology.com/assignment/4622403532/
 [7.3]: https://avon.schoology.com/assignment/4622408506/
 [7.4-5]: https://avon.schoology.com/assignment/4622420473/
-[WU]: https://avon.schoology.com/page/4650525656
+
+[prob]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MD
-M1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQy
-MSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLD
-E4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2
-NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTE2NDg3NzM3OTYsMTMwOTE5NDA4LDEyNj
+Q3Mzc4MzcsLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2
+MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC
+0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5
+NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwOD
+EwXX0=
 -->
