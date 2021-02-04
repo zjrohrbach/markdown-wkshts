@@ -18,8 +18,8 @@ Agenda
 Homework   
 -------------  
 - On your syllabus, 
-	- [7.4-5 Problems][7.4-5] are due Thurs evening.
-	- [7.7 Problems][7.7] are due ~~Thurs, Feb 18~~ ==Tue, Feb 16==
+	- [7.4-5 Problems][7.4-5] are due ~~Thu, Feb 11~~ *Tue, Feb 16*
+	- [7.7 Problems][7.7] are due Thurs, Feb 18
 - Elastic Collision **HW Quiz** on Wed-Thu, Feb 17-18
 - Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 - Things that should already be DONE
@@ -37,10 +37,10 @@ Homework
 [prob]: https://avon.schoology.com/page/4659304977
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNj
-Q3Mzc4MzcsLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2
-MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC
-0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5
-NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwOD
-EwXX0=
+eyJoaXN0b3J5IjpbLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMT
+MwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAzNDMz
+OTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMS
+wxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgx
+MjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNT
+E4LC0yMTQ2MzcwODEwXX0=
 -->
