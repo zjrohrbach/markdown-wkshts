@@ -1,4 +1,4 @@
-Fri, Feb 5 / Mon, Feb 8
+Tue, Feb 9 / Thu, Feb 11
 ==================
 
 Agenda
@@ -12,11 +12,12 @@ Agenda
 
 **If absent:**
 
- 1. Watch this [video][assmt-vid] and complete/turn in the [2/5,8 Assignment][assmt]
+ 1. Watch this [video][assmt-vid] and complete/turn in the [2/9,11 Assignment][assmt]
  2. Watch and take notes over [this video][notes-vid]
 
 Homework 
 -------------
+- Make sure to do your Wednesday E-Learning Assignment
 - [Project Sources][sources] should be done.
 - If you want to do [Test Corrections][correct], get them done ASAP.
 
@@ -27,7 +28,7 @@ Homework
 [assmt-vid]
 [notes-vid]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNzQ2MzA4LDc0NjY0ODAzMCwtNzEwNz
+eyJoaXN0b3J5IjpbNjMzNDYzMzU4LDc0NjY0ODAzMCwtNzEwNz
 A5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OTE2NTUy
 OCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgxOCwtNj
 YwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5NTM4MTksLTk5MDAw
