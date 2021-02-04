@@ -3,11 +3,9 @@ Wed, Feb 10 E-Learning
 
 Agenda
 ---------
-**Objective:** Be able to solve conservation of momentum problems
+**Objective:** Spend some time putting together your project presentation
 
-1. Do the [2/9,11 Assignment][assmt]
-4. Break
-5. Notes on **Recoil**
+1. 
 
 
 
@@ -20,10 +18,10 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4631473967/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM1ODY2NTYsNjMzNDYzMzU4LDc0Nj
-Y0ODAzMCwtNzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5
-NSwtMTg2OTE2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LD
-Q1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5
-NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNzk2NTA1OD
-Q1XX0=
+eyJoaXN0b3J5IjpbOTA3ODkyMzQ2LDYzMzQ2MzM1OCw3NDY2ND
+gwMzAsLTcxMDcwOTQyNiwzNTE5MjgzMTEsLTE3Mjk1Njg2OTUs
+LTE4NjkxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NT
+MzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MTMxODAyOSwtMTcxOTUz
+ODE5LC05OTAwMDI1MTYsLTEzMjc2MjQxNzIsLTc5NjUwNTg0NV
+19
 -->
