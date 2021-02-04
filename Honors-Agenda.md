@@ -18,7 +18,8 @@ Homework
 -------------  
 - On your syllabus, 
 	- [7.4-5 Problems][7.4-5] are due Thurs evening.
-	- [7.7 Problems][7.7] are due Thurs, Feb 18
+	- [7.7 Problems][7.7] are due ~~Thurs, Feb 18~~ Tue, Feb 16
+- Elastic Collision **HW Quiz** on Wed-Thu, Feb 17-18
 - Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
 - Things that should already be DONE
 	- [Project Sources][research]
@@ -34,10 +35,10 @@ Homework
 [prob]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3NzM3OTYsMTMwOTE5NDA4LDEyNj
-Q3Mzc4MzcsLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2
-MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC
-0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5
-NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwOD
-EwXX0=
+eyJoaXN0b3J5IjpbMTExNTc0NTU2MiwxMzA5MTk0MDgsMTI2ND
+czNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5NzMzLC02ODcyNTYw
+MTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLT
+EzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMzg1NDQsLTE4NTk3
+MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4MT
+BdfQ==
 -->
