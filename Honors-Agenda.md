@@ -31,14 +31,15 @@ Homework
 [7.1-2]: https://avon.schoology.com/assignment/4622403532/
 [7.3]: https://avon.schoology.com/assignment/4622408506/
 [7.4-5]: https://avon.schoology.com/assignment/4622420473/
+[7.7]: https://avon.schoology.com/assignment/4622428426/
 
-[prob]
+[prob]: https://avon.schoology.com/page/4659304977
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTc0NTU2MiwxMzA5MTk0MDgsMTI2ND
-czNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5NzMzLC02ODcyNTYw
-MTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLT
-EzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMzg1NDQsLTE4NTk3
-MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgsLTIxNDYzNzA4MT
-BdfQ==
+eyJoaXN0b3J5IjpbNTU2OTExNzU1LDEzMDkxOTQwOCwxMjY0Nz
+M3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAx
+Niw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgxNzg0NDAxNywtMT
+M1NzgwMzgxMiwxODQ3NDA0MzM3LDM4MTIzODU0NCwtMTg1OTcy
+NjA3Nyw3MTU1NjYwODEsMjEzODAxMjUxOCwtMjE0NjM3MDgxMF
+19
 -->
