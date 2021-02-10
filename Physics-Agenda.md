@@ -1,12 +1,12 @@
-Wed, Feb 10 E-Learning
+Fri, Feb 12 / Tue, Feb 16
 ==================
 
 Agenda
 ---------
-**Objective:** Be comfortable solving alll 
+**Objective:** Be comfortable solving all sorts of conservation of momentum problems
 
-1. Take a look at the [E-Learning Workday information][workday].  Make sure to watch the video.
-2. Spend some time working on your project.  Presentations start on March 15 (the week before spring break).  Don't let it sneak up on you!
+1. Do the [2/12,16 Assignment][assmt]
+2. Go over feedback on the Project Sources
 
 
 
@@ -14,16 +14,16 @@ Homework
 -------------
 - Make any necessary corrections to your [Project Sources][sources].
 - Project presentations start on Tues, Mar 16.
-- Test da
+- Test day will be Friday/Monday, Jan 19/22
 
 [sources]: https://avon.schoology.com/assignment/4545023001
-[correct]: https://avon.schoology.com/assignment/4631473967/
-[workday]: https://avon.schoology.com/assignment/4659599019/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk2OTIzOTcsNTEyNjkzNTU0LDkwNz
-g5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03MTA3MDk0MjYs
-MzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xODY5MTY1NTI4LDEyOT
-AxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1ODE4LC02NjA5NTI3
-OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOSwtOTkwMDAyNTE2LC
-0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
+eyJoaXN0b3J5IjpbNDYxNzcyNTY0LDUxMjY5MzU1NCw5MDc4OT
+IzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwtNzEwNzA5NDI2LDM1
+MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OTE2NTUyOCwxMjkwMT
+E2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkz
+LC0xMzcxMzE4MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMT
+MyNzYyNDE3MiwtNzk2NTA1ODQ1XX0=
 -->
