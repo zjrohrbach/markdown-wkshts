@@ -6,22 +6,21 @@ Agenda
 **Objective:** Protect your egg!
   
 1. Do the egg drop lab
+2. Time to work on the [lab report][egg]
 
 **If absent:** 
 
-You can still do questions #1, 
+- You can still do questions #1, 2a, 2b, and 4a on the [lab report][egg].  
+- Make sure to bring in your device next time I see you so that it can be graded!
   
 Homework   
 -------------  
 - On your syllabus, 
 	- [7.4-5 Problems][7.4-5] are due ~~Thu, Feb 11~~ *Tue, Feb 16*
 	- [7.7 Problems][7.7] are due Thurs, Feb 18
-- Elastic Collision **HW Quiz** on Wed-Thu, Feb 17-18
-- Work on your Egg Project on your E-Learning Day!  **Egg Devices need to be built by Fri/Tue, Feb 12/16**.
-- Things that should already be DONE
-	- [Project Sources][research]
-	- [7.1-2 Problems][7.1-2] 
-	- [7.3 Problems][7.3] 
+- Elastic Collision **HW Quiz** next class!
+- Make sure to turn in your [lab report][egg]
+
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
@@ -33,10 +32,10 @@ Homework
 [prob]: https://avon.schoology.com/page/4659304977
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk3NjkwNzgsLTE5Nzc1ODkxMTcsLT
-ExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1
-MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMS
-wtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4
-NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2Nj
-A4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTkxMzE0NTUwMCwtMTk3NzU4OTExNywtMT
+E2NzQwMTk4MSwxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUw
+MzU5NSwyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC
+0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0
+NzQwNDMzNywzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MD
+gxLDIxMzgwMTI1MTgsLTIxNDYzNzA4MTBdfQ==
 -->
