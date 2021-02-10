@@ -21,7 +21,6 @@ Homework
 - Elastic Collision **HW Quiz** next class!
 - Make sure to turn in your [lab report][egg]
 
-
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
 [7.1-2]: https://avon.schoology.com/assignment/4622403532/
@@ -29,10 +28,10 @@ Homework
 [7.4-5]: https://avon.schoology.com/assignment/4622420473/
 [7.7]: https://avon.schoology.com/assignment/4622428426/
 
-[prob]: https://avon.schoology.com/page/4659304977
+[egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzE0NTUwMCwtMTk3NzU4OTExNywtMT
+eyJoaXN0b3J5IjpbLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMT
 E2NzQwMTk4MSwxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUw
 MzU5NSwyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC
 0xNTMwNDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0
