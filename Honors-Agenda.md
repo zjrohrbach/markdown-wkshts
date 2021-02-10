@@ -3,17 +3,13 @@ Tue, Feb 9 / Thu, Feb 11
   
 Agenda  
 ---------  
-**Objective:** Be able to solve elastic collision problems.
+**Objective:** Protect your egg!
   
-1. Take questions over the HW
-2. Discuss Momentum in 2D and do a [Practice Problem][prob]
-3. Time to work on the [syllabus]
+1. Do the egg drop lab
 
-**If absent:** If you are able, log in to Zoom during class time.
-> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)
-> Time: 8am Tue, 1:25pm Tue, 8am Thu
-> Meeting ID: 896 5236 1206
-> Passcode: J5ePse
+**If absent:** 
+
+You can still do questions #1, 
   
 Homework   
 -------------  
@@ -37,10 +33,10 @@ Homework
 [prob]: https://avon.schoology.com/page/4659304977
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMT
-MwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAzNDMz
-OTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3ODAyMS
-wxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMzcsMzgx
-MjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2NjA4MSwyMTM4MDEyNT
-E4LC0yMTQ2MzcwODEwXX0=
+eyJoaXN0b3J5IjpbLTE2NTk3NjkwNzgsLTE5Nzc1ODkxMTcsLT
+ExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1
+MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMS
+wtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4
+NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3LDcxNTU2Nj
+A4MSwyMTM4MDEyNTE4LC0yMTQ2MzcwODEwXX0=
 -->
