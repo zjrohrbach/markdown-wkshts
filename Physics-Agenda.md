@@ -9,7 +9,7 @@ Agenda
 2. Go over feedback on the Project Sources
 3. Spend some time working on your project.  (The [guidelines] from the E-learning day are still helpful here!)
 
-**If absent**
+**If absent:**
 
 1. Do the [2/12,16 Assignment][assmt]
 2. Check your grade on the [Project Sources][sources].  Make any fixes needed and then resubmit.
@@ -31,10 +31,10 @@ Homework
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDk2Mzg4MiwtMTYxNDE5Mjg0LDUxMj
-Y5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwt
-NzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OT
-E2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgx
-OCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5NTM4MTksLT
-k5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNzk2NTA1ODQ1XX0=
+eyJoaXN0b3J5IjpbNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNj
+kzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03
+MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xODY5MT
+Y1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1ODE4
+LC02NjA5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOSwtOT
+kwMDAyNTE2LC0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
 -->
