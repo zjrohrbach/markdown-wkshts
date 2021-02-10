@@ -7,6 +7,7 @@ Agenda
 
 1. Do the [2/12,16 Assignment][assmt]
 2. Go over feedback on the Project Sources
+3. Spend some time working on your project.  (The [guidelines] from the E-learning day are still helpful here!)
 
 
 
@@ -17,13 +18,15 @@ Homework
 - Test day will be Friday/Monday, Jan 19/22
 
 [sources]: https://avon.schoology.com/assignment/4545023001
+[assmt]: 
+[guidelines]: https://avon.schoology.com/assignment/4659599019/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNzcyNTY0LDUxMjY5MzU1NCw5MDc4OT
-IzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwtNzEwNzA5NDI2LDM1
-MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OTE2NTUyOCwxMjkwMT
-E2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgxOCwtNjYwOTUyNzkz
-LC0xMzcxMzE4MDI5LC0xNzE5NTM4MTksLTk5MDAwMjUxNiwtMT
-MyNzYyNDE3MiwtNzk2NTA1ODQ1XX0=
+eyJoaXN0b3J5IjpbLTE2MTQxOTI4NCw1MTI2OTM1NTQsOTA3OD
+kyMzQ2LDYzMzQ2MzM1OCw3NDY2NDgwMzAsLTcxMDcwOTQyNiwz
+NTE5MjgzMTEsLTE3Mjk1Njg2OTUsLTE4NjkxNjU1MjgsMTI5MD
+ExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1Mjc5
+MywtMTM3MTMxODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MTYsLT
+EzMjc2MjQxNzIsLTc5NjUwNTg0NV19
 -->
