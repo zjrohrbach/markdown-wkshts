@@ -1,13 +1,11 @@
-Fri, Feb 12 / Tue, Feb 16
+Wed, Feb 17 / Thu, Feb 18
 ==================
 
 Agenda
 ---------
-**Objective:** Be comfortable solving all sorts of conservation of momentum problems
+**Objective:** Review what we know about impulse and momentum.
 
-1. Do the [2/12,16 Assignment][assmt]
-2. Go over feedback on the Project Sources
-3. Spend some time working on your project.  (The [guidelines] from the E-learning day are still helpful here!)
+1. Do [Momentum Review Jeopardy][jeopardy]
 
 **If absent:**
 
@@ -21,20 +19,17 @@ Agenda
 
 Homework 
 -------------
-- Make any necessary corrections to your [Project Sources][sources].
-- Project presentations start on Tues, Mar 16.
-- Test day will be Friday/Monday, Jan 19/22
+- Test next class!
 
-[sources]: https://avon.schoology.com/assignment/4545023001
-[assmt]: https://avon.schoology.com/assignment/4680368404/
-[guidelines]: https://avon.schoology.com/assignment/4659599019/
+[jeopardy]: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNj
-kzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03
-MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xODY5MT
-Y1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1ODE4
-LC02NjA5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1MzgxOSwtOT
-kwMDAyNTE2LC0xMzI3NjI0MTcyLC03OTY1MDU4NDVdfQ==
+eyJoaXN0b3J5IjpbLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxND
+E5Mjg0LDUxMjY5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0
+NjY0ODAzMCwtNzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2OD
+Y5NSwtMTg2OTE2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5
+LDQ1MzMzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNz
+E5NTM4MTksLTk5MDAwMjUxNiwtMTMyNzYyNDE3MiwtNzk2NTA1
+ODQ1XX0=
 -->
