@@ -11,10 +11,12 @@ Agenda
 	- CM on a Surfboard [Video](https://youtu.be/QsGMKv8Lrew)
 2. Take the **HW Quiz**
 
-**If absent:** 
 
-- You can still do questions #1, 2a, 2b, and 4a on the [lab report][egg].  
-- Make sure to bring in your device next time I see you so that it can be graded!
+**If absent:** Please make an effort to log in to Zoom during class time.  
+> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
+> Time: 8am Friday, 1:25pm Friday, 8am Monday  
+> Meeting ID: 896 5236 1206  
+> Passcode: J5ePse  
   
 Homework   
 -------------  
@@ -24,19 +26,14 @@ Homework
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
-[7.1-2]: https://avon.schoology.com/assignment/4622403532/
-[7.3]: https://avon.schoology.com/assignment/4622408506/
-[7.4-5]: https://avon.schoology.com/assignment/4622420473/
-[7.7]: https://avon.schoology.com/assignment/4622428426/
-
 [egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODY4NTg0NCwtMTgxMTU2MTQxMCwtNz
-g2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkx
-OTQwOCwxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3Mz
-MsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgx
-Nzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3LDM4MTIzOD
-U0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEsMjEzODAxMjUxOCwt
-MjE0NjM3MDgxMF19
+eyJoaXN0b3J5IjpbLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLT
+c4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5
+MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5Nz
+MzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4
+MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMz
+g1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgs
+LTIxNDYzNzA4MTBdfQ==
 -->
