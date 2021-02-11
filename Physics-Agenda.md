@@ -11,22 +11,22 @@ Agenda
 **If absent:**
 
 1. Click through the questions and answers on [Momentum Review Jeopardy][jeopardy].  Email any questions to me.
-2. Make sure you are confident in doing the [Practice Problems][prob]
+2. Make sure you are confident in doing the [Practice Problems][prob].  You can [check your answers][check]  You do not need to turn these in.
 
 Homework 
 -------------
 - Test next class!
 
 [jeopardy]: https://jeopardylabs.com/play/06-momentum-review-2
-[prob]: 
-
+[prob]: https://avon.schoology.com/assignment/4683406974/
+[check]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNDgzODQ5LC01ODU4MjQ4Myw2MTc3OD
-A5MDQsLTE2MTQxOTI4NCw1MTI2OTM1NTQsOTA3ODkyMzQ2LDYz
-MzQ2MzM1OCw3NDY2NDgwMzAsLTcxMDcwOTQyNiwzNTE5MjgzMT
-EsLTE3Mjk1Njg2OTUsLTE4NjkxNjU1MjgsMTI5MDExNjQwMywt
-MTMwNzgxNTAyOSw0NTMzMzU4MTgsLTY2MDk1Mjc5MywtMTM3MT
-MxODAyOSwtMTcxOTUzODE5LC05OTAwMDI1MTYsLTEzMjc2MjQx
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3Nz
+gwOTA0LC0xNjE0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2
+MzM0NjMzNTgsNzQ2NjQ4MDMwLC03MTA3MDk0MjYsMzUxOTI4Mz
+ExLC0xNzI5NTY4Njk1LC0xODY5MTY1NTI4LDEyOTAxMTY0MDMs
+LTEzMDc4MTUwMjksNDUzMzM1ODE4LC02NjA5NTI3OTMsLTEzNz
+EzMTgwMjksLTE3MTk1MzgxOSwtOTkwMDAyNTE2LC0xMzI3NjI0
+MTcyXX0=
 -->
