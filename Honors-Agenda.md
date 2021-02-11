@@ -8,7 +8,8 @@ Agenda
 1. Notes on **Center of Mass**
 	- Extended Object Videos [#1](https://youtu.be/_DzgPB9646k) and [#2](https://youtu.be/DY3LYQv22qY)
 	- CM and Momentum [Simulation](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html)
-	- CM on a Surfboard [Video]()
+	- CM on a Surfboard [Video](https://youtu.be/QsGMKv8Lrew)
+2. Take the **HW Quiz**
 
 **If absent:** 
 
@@ -17,11 +18,9 @@ Agenda
   
 Homework   
 -------------  
-- On your syllabus, 
-	- [7.4-5 Problems][7.4-5] are due ~~Thu, Feb 11~~ *Tue, Feb 16*
-	- [7.7 Problems][7.7] are due Thurs, Feb 18
-- Elastic Collision **HW Quiz** next class!
-- Make sure to turn in your [lab report][egg]
+- The rest of the [Syllabus] is due Mon, Feb 22
+- **Test Day** is Tue-Wed, Feb 23-24
+- Make sure to your [Egg Drop Lab Report][egg] is turned in
 
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
@@ -33,7 +32,7 @@ Homework
 [egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODgwNTAzNiwtMTgxMTU2MTQxMCwtNz
+eyJoaXN0b3J5IjpbLTIyODY4NTg0NCwtMTgxMTU2MTQxMCwtNz
 g2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkx
 OTQwOCwxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3Mz
 MsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgx
