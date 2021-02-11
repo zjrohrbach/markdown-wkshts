@@ -6,7 +6,9 @@ Agenda
 **Objective:** Be able to explain and calculate *center of mass* and articulate its connection to momentum
   
 1. Notes on **Center of Mass**
-	- Extended Object Videos [#1]() and [#2
+	- Extended Object Videos [#1](https://youtu.be/_DzgPB9646k) and [#2](https://youtu.be/DY3LYQv22qY)
+	- CM and Momentum [Simulation](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html)
+	- CM on a Surfboard [Video]()
 
 **If absent:** 
 
@@ -31,7 +33,7 @@ Homework
 [egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjk0Mzc0OCwtMTgxMTU2MTQxMCwtNz
+eyJoaXN0b3J5IjpbLTMyODgwNTAzNiwtMTgxMTU2MTQxMCwtNz
 g2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkx
 OTQwOCwxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3Mz
 MsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgx
