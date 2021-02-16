@@ -1,4 +1,4 @@
-Wed, Feb 17 / Thu, Feb 18Thu, Feb 18 (Snow Day!)
+Thu, Feb 18 (Snow Day!)
 ==================  
   
 Agenda  
@@ -12,7 +12,7 @@ Please log in to Zoom during class time.
 > Passcode: J5ePse  
   
 1. Introduction to **Center of Mass**  
-2. Work through some [practice problems]
+2. Work through some [practice problems][prob]
   
 Homework   
 -------------  
@@ -23,9 +23,10 @@ Homework
 [research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
 [egg]: https://avon.schoology.com/assignment/4650372025/
+[prob]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MDA3NDE1LC0xODc2NDIxNzg4LC0xOD
+eyJoaXN0b3J5IjpbLTQ5MDI3NDY0LC0xODc2NDIxNzg4LC0xOD
 ExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0
 MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OT
 UsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUz
