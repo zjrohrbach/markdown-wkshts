@@ -1,4 +1,4 @@
-Wed, Feb 17 / Thu, Feb 18
+Wed, Feb 17 / Thu, Feb 18Thu, Feb 18 (Snow Day!)
 ==================  
   
 Agenda  
@@ -12,11 +12,19 @@ Agenda
 2. Take the **HW Quiz**
 
 
-**If absent:** Please make an effort to log in to Zoom during class time.  
+**If absent:** Please make an effort to
+Please log in to Zoom during class time.  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-> Time: 8am Friday, 1:25pm Friday, 8am Monday  
+> Time: 8am Friday, 1:25pm Friday, 8am Monday 10am 
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse  
+  
+1. Introduction to **Center of Mass**  
+2. Work through some [practice problems]
+
+
+**If absent:** 
+
   
 Homework   
 -------------  
@@ -29,11 +37,11 @@ Homework
 [egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLT
-c4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5
-MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5Nz
-MzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4
-MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMz
-g1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIxMzgwMTI1MTgs
-LTIxNDYzNzA4MTBdfQ==
+eyJoaXN0b3J5IjpbNDI3OTE4MjgsLTE4NzY0MjE3ODgsLTE4MT
+E1NjE0MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQw
+MTk4MSwxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NS
+wyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMw
+NDc4MDIxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwND
+MzNywzODEyMzg1NDQsLTE4NTk3MjYwNzcsNzE1NTY2MDgxLDIx
+MzgwMTI1MThdfQ==
 -->
