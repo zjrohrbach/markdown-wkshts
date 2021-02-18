@@ -20,12 +20,10 @@ Homework
 - The rest of the [Syllabus] is due Monday evening
 - **Test** is next class!
 
-[research]: https://avon.schoology.com/assignment/4621629308/
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369842845
-[egg]: https://avon.schoology.com/assignment/4650372025/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDkxMTIwMiwtNzUxNjQ3NzQ4LC0xOD
+eyJoaXN0b3J5IjpbMTU2ODA0NjA4MSwtNzUxNjQ3NzQ4LC0xOD
 c2NDIxNzg4LC0xODExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1
 ODkxMTcsLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4Mz
 csLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUx
