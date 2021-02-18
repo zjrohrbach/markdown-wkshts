@@ -1,19 +1,19 @@
-Thu, Feb 18 (Snow Day!)
+Fri, Feb 19 / Mon, Feb 22
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Be able to explain and calculate *center of mass* and articulate its connection to momentum
+**Objective:** Review what we know about impulse, momentum, and center of mass.
 
-Please log in to Zoom during class time.  
+
+
+
+**If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-> Time: 8am Friday, 1:25pm Friday, 8am Monday 10am 
+> Time: 8am Friday, 1:25pm Friday, 8am Monday
 > Meeting ID: 896 5236 1206  
-> Passcode: J5ePse  
-  
-1. Introduction to **Center of Mass**  
-2. Work through some [practice problems][prob]
-  
+> Passcode: J5ePse    
+
 Homework   
 -------------  
 - The rest of the [Syllabus] is due Mon, Feb 22
@@ -26,11 +26,11 @@ Homework
 [prob]: https://avon.schoology.com/page/4692648984
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMT
-gxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3
-NDAxOTgxLDEzMDkxOTQwOCwxMjY0NzM3ODM3LC0xNTAzNTAzNT
-k1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1
-MzA0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3ND
-A0MzM3LDM4MTIzODU0NCwtMTg1OTcyNjA3Nyw3MTU1NjYwODEs
-MjEzODAxMjUxOF19
+eyJoaXN0b3J5IjpbMTI3NTQ1NTkwMSwtNzUxNjQ3NzQ4LC0xOD
+c2NDIxNzg4LC0xODExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1
+ODkxMTcsLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4Mz
+csLTE1MDM1MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUx
+MTIzODQyMSwtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3OD
+AzODEyLDE4NDc0MDQzMzcsMzgxMjM4NTQ0LC0xODU5NzI2MDc3
+LDcxNTU2NjA4MV19
 -->
