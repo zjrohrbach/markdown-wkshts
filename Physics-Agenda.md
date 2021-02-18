@@ -1,32 +1,26 @@
-WedFri, Feb 179 / Thu, Feb 18Mon, 
+Fri, Feb 19 / Mon, Feb 22
 ==================
 
 Agenda
 ---------
-**Objective:** ReviewProve what weyou know about impulse and momentum.
+**Objective:** Review what you know about impulse and momentum.
 
-1. Do [Momentum Review Jeopardy][jeopardy]
-2. Work through some [Practice Problems][prob]
+1. 
 
 **If absent:**
 
-1. Click through the questions and answers on [Momentum Review Jeopardy][jeopardy].  Email any questions to me.
-2. Make sure you are confident in doing the [Practice Problems][prob].  You can [check your answers][check].  You do not need to turn these in.
+1. 
 
 Homework 
 -------------
-- Test next class!
-
-[jeopardy]: https://jeopardylabs.com/play/06-momentum-review-2
-[prob]: https://avon.schoology.com/assignment/4683406974/
-[check]: https://avon.schoology.com/page/4683424270
+- Project Prese
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk2MTA5NCwtNzc0MDczNjg5LDEwMT
-M4OTE2OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0
-LDUxMjY5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0OD
-AzMCwtNzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwt
-MTg2OTE2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1Mz
-MzNTgxOCwtNjYwOTUyNzkzLC0xMzcxMzE4MDI5LC0xNzE5NTM4
-MTldfQ==
+eyJoaXN0b3J5IjpbNTQxMDUxMTM5LC03NzQwNzM2ODksMTAxMz
+g5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNjE0MTkyODQs
+NTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MD
+MwLC03MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0x
+ODY5MTY1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMz
+M1ODE4LC02NjA5NTI3OTMsLTEzNzEzMTgwMjksLTE3MTk1Mzgx
+OV19
 -->
