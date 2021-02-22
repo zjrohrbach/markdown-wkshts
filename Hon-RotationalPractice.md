@@ -22,6 +22,27 @@ Angular Quantities Practice
 	3. What is the magnitude of the *total* acceleration at a point on the outside of the wheel?
 
 <sub>*These problems are adapted from Giancolli* Physics *Ch 8.*</sub>
+
+
+Angular Kinematic Equations
+=======================
+
+|Equations                          |                                             |                  |
+|:---------------------------------:|:-------------------------------------------:|:----------------:|
+|                                   |                                             | $\ell = r\theta$ |
+|$v\equiv \frac{\Delta x}{\Delta t}$|$\omega\equiv \frac{\Delta \theta}{\Delta t}$|   $v=r \omega$   |
+|$a\equiv \frac{\Delta v}{\Delta t}$|$\alpha\equiv \frac{\Delta \omega}{\Delta t}$|  $a_T=r \alpha$  |
+|                                   |            $a_C = \frac{v^2}{r}$            |$a_C = \omega^2 r$|
+
+
+| Conversions                                  |                                    |
+|----------------------------------------------|------------------------------------|
+|$1~\text{rev} = 360^{\circ} = 2\pi~\text{rad}$|$1~\text{rpm} = 0.1047~\text{rad/s}$|
+
+1. Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which takes 1.0 min to turn through 20 complete revolutions before reaching its final speed.
+	1. What was its angular acceleration (assumed constant)?
+	2. What was its final angular speed **in rpm**?
+2. A bicycle has wheels of diameter 68 cm.  If the bicycle decelerates from 8.4 m/s to rest over a distance of 115 meters, find the angular acceleration of the wheel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MzUxMTY1XX0=
+eyJoaXN0b3J5IjpbLTE5ODQ1NTU2ODgsNDM4MzUxMTY1XX0=
 -->
