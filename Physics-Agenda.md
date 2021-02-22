@@ -7,6 +7,8 @@ Agenda
 
 1. Do the [Work and Power Reading][read] and answer the [questions][q]
 2. Take the [Reading Strategies Survey][survey]
+3. Break
+4. Do the [2/23-24 Assignment][p]
 
 **If absent:**
 
@@ -22,11 +24,11 @@ Homework
 [survey]: https://avon.schoology.com/course/2624603689/materials/link/view/4680691921
 [p]: https://avon.schoology.com/assignment/4710065028/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA3NTEzOSwxOTIzNzk3NDA1LC05OD
-c0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2ODksMTAxMzg5MTY5
-NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNj
-kzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03
-MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xODY5MT
-Y1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUwMjksNDUzMzM1ODE4
-XX0=
+eyJoaXN0b3J5IjpbLTE2ODAzOTQ2ODUsMTkyMzc5NzQwNSwtOT
+g3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMTM4OTE2
+OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0LDUxMj
+Y5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwt
+NzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OT
+E2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgx
+OF19
 -->
