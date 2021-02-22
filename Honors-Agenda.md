@@ -5,9 +5,8 @@ Agenda
 ---------  
 **Objective:** Prove what you know about impulse, momentum, and center of mass.
 
-1. Hand back quizzes - ***Please remind me if I forget to do this!***
-2. Take questions over the HW
-3. Do the [Review PPT][ppt]
+1. '
+2. When you are finished, please watch [Project
 
 
 <!--
@@ -27,7 +26,7 @@ Homework
 [ppt]: https://avon.schoology.com/course/2624603229/materials/gp/4699612795
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTE4MTM1LDE1NjgwNDYwODEsLTc1MT
+eyJoaXN0b3J5IjpbMjg2ODgwNDY0LDE1NjgwNDYwODEsLTc1MT
 Y0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2Mjcz
 MzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOC
 wxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4
