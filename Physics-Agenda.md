@@ -1,4 +1,4 @@
-Fri, Feb 19 / Mon, Feb 22
+Tue
 ==================
 
 Agenda
@@ -12,7 +12,8 @@ Agenda
 
 **If absent:**
 
-1. 
+1. Watch this [video][vid] and use it to answer the [questions][q]
+2. Do the [2/23-24 Assignment][p] and turn it in.
 
 Homework 
 -------------
@@ -23,12 +24,13 @@ Homework
 [q]: https://avon.schoology.com/course/2624603689/materials/gp/4710071846
 [survey]: https://avon.schoology.com/course/2624603689/materials/link/view/4680691921
 [p]: https://avon.schoology.com/assignment/4710065028/
+[vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzOTQ2ODUsMTkyMzc5NzQwNSwtOT
-g3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMTM4OTE2
-OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0LDUxMj
-Y5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwt
-NzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OT
-E2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgx
-OF19
+eyJoaXN0b3J5IjpbNjM5NjY2MDcyLDE5MjM3OTc0MDUsLTk4Nz
+Q0MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4OSwxMDEzODkxNjk3
+LC01ODU4MjQ4Myw2MTc3ODA5MDQsLTE2MTQxOTI4NCw1MTI2OT
+M1NTQsOTA3ODkyMzQ2LDYzMzQ2MzM1OCw3NDY2NDgwMzAsLTcx
+MDcwOTQyNiwzNTE5MjgzMTEsLTE3Mjk1Njg2OTUsLTE4NjkxNj
+U1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAyOSw0NTMzMzU4MThd
+fQ==
 -->
