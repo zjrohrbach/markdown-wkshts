@@ -9,7 +9,8 @@ Agenda
 2. When you are finished, please watch the [Project Workday Explanation Video][vid] and check your project due date on the [Presentation Schedule][sched]
 
 **If absent:** 
-- Please sen
+- Please send me a message so that we can organize a time for you to do the test.  (*I'm not allowing the computer portion of the test to be taken at home this time.*)
+- Watch the [Project Workday Explanation Video][vid]
 
 
 <!--
@@ -23,17 +24,18 @@ Agenda
 Homework   
 -------------  
 - If you didn't get a chance in class, make sure to watch the [Project Workday Explanation Video][vid]
+- You will be given 45 mins to work on your project next class
 
 [vid]: https://avon.schoology.com/course/2624603229/materials/gp/4709497437
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [test]: https://avon.schoology.com/assignment/4672226595/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDUyODI3MSwxNTY4MDQ2MDgxLC03NT
-E2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3
-MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MD
-gsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5NzMzLC02
-ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4MTc4ND
-QwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywzODEyMzg1NDQs
-LTE4NTk3MjYwNzddfQ==
+eyJoaXN0b3J5IjpbMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MT
+Y0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2Mjcz
+MzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOC
+wxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4
+NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgxNzg0ND
+AxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3LDM4MTIzODU0NCwt
+MTg1OTcyNjA3N119
 -->
