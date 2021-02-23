@@ -1,14 +1,11 @@
-Tue, Feb 23 / Wed, Feb 24
+Thu, Feb 25 / Fri, Feb 26
 ==================
 
 Agenda
 ---------
-**Objective:** Be introduced to the concepts of *work* and *power*.
+**Objective:** Be able to solve work and power calculat
 
-1. Do the [Work and Power Reading][read] and answer the [questions][q]
-2. Take the [Reading Strategies Survey][survey]
-3. Break
-4. Do the [2/23-24 Assignment][p]
+1. 
 
 **If absent:**
 
@@ -23,14 +20,14 @@ Homework
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4710071934
 [q]: https://avon.schoology.com/course/2624603689/materials/gp/4710071846
 [survey]: https://avon.schoology.com/course/2624603689/materials/link/view/4680691921
-[p]: https://avon.schoology.com/assignment/4710065028/
+[p-23-24]: https://avon.schoology.com/assignment/4710065028/
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE4NDUyNzgsMTkyMzc5NzQwNSwtOT
-g3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMTM4OTE2
-OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0LDUxMj
-Y5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMCwt
-NzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NSwtMTg2OT
-E2NTUyOCwxMjkwMTE2NDAzLC0xMzA3ODE1MDI5LDQ1MzMzNTgx
-OF19
+eyJoaXN0b3J5IjpbLTk1MDYxMzQ0MywtMTQ0MTg0NTI3OCwxOT
+IzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2
+ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNj
+E0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgs
+NzQ2NjQ4MDMwLC03MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NT
+Y4Njk1LC0xODY5MTY1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUw
+MjldfQ==
 -->
