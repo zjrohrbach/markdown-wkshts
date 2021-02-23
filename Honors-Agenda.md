@@ -1,11 +1,11 @@
-Tue, Feb 23 / Wed, Feb 24
+Thu, Feb 25 / Fri, Feb 26
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Prove what you know about impulse, momentum, and center of mass.
+**Objective:** Be introduced to angular analogues of kinematics concepts.
 
-1. Do the Paper Portion and [Computer Portion][test] of the test.
+1. Notes on *Angular Kinematics Quantities*
 2. When you are finished, please watch the [Project Workday Explanation Video][vid] and check your project due date on the [Presentation Schedule][sched]
 
 **If absent:** 
@@ -31,11 +31,11 @@ Homework
 [test]: https://avon.schoology.com/assignment/4672226595/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MT
-Y0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2Mjcz
-MzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOC
-wxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4
-NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgxNzg0ND
-AxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3LDM4MTIzODU0NCwt
-MTg1OTcyNjA3N119
+eyJoaXN0b3J5IjpbLTEzMjg3NTY5NTUsMzU3MzE1NDY5LDE1Nj
+gwNDYwODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2
+MTQxMCwtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOT
+gxLDEzMDkxOTQwOCwxMjY0NzM3ODM3LC0xNTAzNTAzNTk1LDIw
+MzQzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0MjEsLTE1MzA0Nz
+gwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwxODQ3NDA0MzM3
+LDM4MTIzODU0NF19
 -->
