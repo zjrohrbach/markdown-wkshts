@@ -5,7 +5,8 @@ Agenda
 ---------
 **Objective:** Be able to solve work and power calculations.  Understand the difference between *kinetic* and *potential energy*.
 
-1. 
+1. Warmup questions about work and power.
+2. 
 
 **If absent:**
 
@@ -19,11 +20,11 @@ Homework
 [p-23-24]: https://avon.schoology.com/assignment/4710065028/
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODkxNDgxNCwtMTQ0MTg0NTI3OCwxOT
-IzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2
-ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNj
-E0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgs
-NzQ2NjQ4MDMwLC03MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NT
-Y4Njk1LC0xODY5MTY1NTI4LDEyOTAxMTY0MDMsLTEzMDc4MTUw
-MjldfQ==
+eyJoaXN0b3J5IjpbLTcwNzI3MjQ1LC0xNDQxODQ1Mjc4LDE5Mj
+M3OTc0MDUsLTk4NzQ0MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4
+OSwxMDEzODkxNjk3LC01ODU4MjQ4Myw2MTc3ODA5MDQsLTE2MT
+QxOTI4NCw1MTI2OTM1NTQsOTA3ODkyMzQ2LDYzMzQ2MzM1OCw3
+NDY2NDgwMzAsLTcxMDcwOTQyNiwzNTE5MjgzMTEsLTE3Mjk1Nj
+g2OTUsLTE4NjkxNjU1MjgsMTI5MDExNjQwMywtMTMwNzgxNTAy
+OV19
 -->
