@@ -6,7 +6,8 @@ Agenda
 **Objective:** Be introduced to angular analogues of kinematics concepts.
 
 1. Notes on **Measuring Angles** and **Angular Kinematics Quantities**
-2.  f
+2.  Do some [Practice Problems][practice]
+3. Project worktime
 	- Make sure you've watched [Project Workday Explanation Video][vid] 
 	- Make sure to check your project due date on the [Presentation Schedule][sched]
 	- Check out [these guidelines][guidelines]
@@ -19,8 +20,7 @@ Agenda
 
 Homework   
 -------------  
-- If you didn't get a chance in class, make sure to watch the [Project Workday Explanation Video][vid]
-- You will be given 45 mins to work on your project next class
+- Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.
 
 [vid]: https://avon.schoology.com/course/2624603229/materials/gp/4709497437
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
@@ -28,11 +28,11 @@ Homework
 [guidelines]: https://avon.schoology.com/assignment/4680511868/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTU5NjI1MCwzNTczMTU0NjksMTU2OD
-A0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYx
-NDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5OD
-EsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAz
-NDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMSwtMTUzMDQ3OD
-AyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4NDc0MDQzMzcs
-MzgxMjM4NTQ0XX0=
+eyJoaXN0b3J5IjpbNjUyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MD
+Q2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0
+MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MS
+wxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0
+MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MD
+IxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywz
+ODEyMzg1NDRdfQ==
 -->
