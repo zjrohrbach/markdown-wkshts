@@ -9,19 +9,13 @@ Agenda
 2.  f
 	- Make sure you've watched [Project Workday Explanation Video][vid] 
 	- Make sure to check your project due date on the [Presentation Schedule][sched]
+	- Check out [these guidelines][guidelines]
 
-**If absent:** 
-- Please send me a message so that we can organize a time for you to do the test.  (*I'm not allowing the computer portion of the test to be taken at home this time.*)
-- Watch the [Project Workday Explanation Video][vid]
-
-
-<!--
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
 > Time: 8am Friday, 1:25pm Friday, 8am Monday
 > Meeting ID: 896 5236 1206  
-> Passcode: J5ePse    
--->
+> Passcode: J5ePse 
 
 Homework   
 -------------  
@@ -31,9 +25,10 @@ Homework
 [vid]: https://avon.schoology.com/course/2624603229/materials/gp/4709497437
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [practice]: https://avon.schoology.com/page/4709159232
+[guidelines]: https://avon.schoology.com/assignment/4680511868/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDA5NDYxNSwzNTczMTU0NjksMTU2OD
+eyJoaXN0b3J5IjpbLTc3MTU5NjI1MCwzNTczMTU0NjksMTU2OD
 A0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYx
 NDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5OD
 EsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAz
