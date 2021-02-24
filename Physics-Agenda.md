@@ -21,15 +21,17 @@ Homework
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [p-23-24]: https://avon.schoology.com/assignment/4710065028/
-[lab]: 
+[lab]: https://avon.schoology.com/assignment/4717944377/
+
 [data]:
+
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyODk2NjkwLDE3NDIxNjQ5ODUsMTY0Mz
-E0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4NDUyNzgsMTkyMzc5NzQw
-NSwtOTg3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMT
-M4OTE2OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0
-LDUxMjY5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0OD
-AzMCwtNzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NV19
-
+eyJoaXN0b3J5IjpbLTEwNDA1MjA3NDAsMTc0MjE2NDk4NSwxNj
+QzMTQ3Nzc2LC03MDcyNzI0NSwtMTQ0MTg0NTI3OCwxOTIzNzk3
+NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2ODksMT
+AxMzg5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNjE0MTky
+ODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2Nj
+Q4MDMwLC03MTA3MDk0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1
+XX0=
 -->
