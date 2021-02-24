@@ -11,8 +11,9 @@ Agenda
 
 **If absent:**
 
-1. Watch [this video][vid] in order to complete the lab from home.
-2. You can use this
+1. Watch [this video][vid] in order to complete the lab from home.  Instead of printing out the lab, you can just write your answers in your notebook.
+2. You can use this [sample data][data]
+3. Turn in the lab [here][lab]
 
 Homework 
 -------------
@@ -20,9 +21,11 @@ Homework
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [p-23-24]: https://avon.schoology.com/assignment/4710065028/
-[lab]:
+[lab]: 
+[data]:
+[vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NzE4NjE0LDE3NDIxNjQ5ODUsMTY0Mz
+eyJoaXN0b3J5IjpbNzEyODk2NjkwLDE3NDIxNjQ5ODUsMTY0Mz
 E0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4NDUyNzgsMTkyMzc5NzQw
 NSwtOTg3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMT
 M4OTE2OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0
