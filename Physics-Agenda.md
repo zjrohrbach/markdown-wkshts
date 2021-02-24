@@ -11,7 +11,8 @@ Agenda
 
 **If absent:**
 
-1. 
+1. Watch [this video][vid] in order to complete the lab from home.
+2. You can use this
 
 Homework 
 -------------
@@ -21,11 +22,11 @@ Homework
 [p-23-24]: https://avon.schoology.com/assignment/4710065028/
 [lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MD
-cyNzI0NSwtMTQ0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAx
-MjcsNTQxMDUxMTM5LC03NzQwNzM2ODksMTAxMzg5MTY5NywtNT
-g1ODI0ODMsNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNjkzNTU0
-LDkwNzg5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03MTA3MD
-k0MjYsMzUxOTI4MzExLC0xNzI5NTY4Njk1LC0xODY5MTY1NTI4
-XX0=
+eyJoaXN0b3J5IjpbNDg2NzE4NjE0LDE3NDIxNjQ5ODUsMTY0Mz
+E0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4NDUyNzgsMTkyMzc5NzQw
+NSwtOTg3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMT
+M4OTE2OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0
+LDUxMjY5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0OD
+AzMCwtNzEwNzA5NDI2LDM1MTkyODMxMSwtMTcyOTU2ODY5NV19
+
 -->
