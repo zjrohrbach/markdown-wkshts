@@ -21,9 +21,10 @@ Feb 23-24 Assignment
 Mar 1-2 Assignment
 =====
 
-| Equations |                 |
-|-----------|-----------------|----------------------|
-|   $W=Fd$  | $P=\frac{W}{t}$ | $KE=\frac{1}{2}mv^2$ |
+| Equations          |                 |               |
+|--------------------|-----------------|---------------|
+|   $W=Fd$           | $P=\frac{W}{t}$ |               |
+|$KE=\frac{1}{2}mv^2$|     $PE=mgh$    | $W=\Delta KE$ | 
 
 1. A 1.3 kg apple is hanging 2.5 m above the ground.
 	1. What is its potential energy?
@@ -41,5 +42,5 @@ Other
 6. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 7. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAzMTgzMjQsLTE3Nzk0MTY0OV19
+eyJoaXN0b3J5IjpbOTM2NTMyNDAsLTE3Nzk0MTY0OV19
 -->
