@@ -37,7 +37,17 @@ Mar 1-2 Assignment
 	2. If the puck’s initial velocity was 0 m/s, determine its final velocity.
 5. You slide a trashcan (m = 10.2 kg) across the floor with an initial velocity of 7.9 m/s.  If the trashcan eventually stops, what is the work done by friction?
 
-Other
+Warmup
+======
+1. While climbing the stairs…
+	1. ...did you do more work if you were going fast or slow?
+	2. ...did you output more power if you were going fast or slow?
+2. While climbing at a constant speed…
+	1. …did you do more work if you climbed the stairs half-way or if you climbed the stairs the full way?
+	2. …did you output more power if you climbed the stairs half-way or if you climbed the stairs the full way?
+
+
+Exit
 ======
 
 | Equations          |                 |                       |
@@ -48,5 +58,6 @@ Other
 6. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 7. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjg1NTE1MiwtMTc3OTQxNjQ5XX0=
+eyJoaXN0b3J5IjpbMTE1ODk1MDk5NywtOTM2ODU1MTUyLC0xNz
+c5NDE2NDldfQ==
 -->
