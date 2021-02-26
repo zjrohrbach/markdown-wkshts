@@ -39,8 +39,14 @@ Mar 1-2 Assignment
 
 Other
 ======
+
+| Equations          |                 |                       |
+|--------------------|-----------------|-----------------------|
+|   $W=Fd$           | $P=\frac{W}{t}$ |$\Sigma E_i=\Sigma E_f$|
+|$KE=\frac{1}{2}mv^2$|     $PE=mgh$    |     $W=\Delta KE$     | 
+
 6. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 7. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NTMyNDAsLTE3Nzk0MTY0OV19
+eyJoaXN0b3J5IjpbMTQ3NzY3NDM5NiwtMTc3OTQxNjQ5XX0=
 -->
