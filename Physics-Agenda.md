@@ -7,7 +7,7 @@ Agenda
 
 1. Notes on **Work, Power, KE, and PE**
 2. Do the [3/1-2 Assignment][assmt]
-3. 
+3. (*time permitting*) [Skatepark PhET Lab][lab]
 
 **If absent:**
 
@@ -20,11 +20,11 @@ Homework
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [assmt]: https://avon.schoology.com/assignment/4724577879/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMzU1MDIwLDE1MDg5OTE4NTAsLTEwND
-A1MjA3NDAsMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcyNzI0
-NSwtMTQ0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMjcsNT
-QxMDUxMTM5LC03NzQwNzM2ODksMTAxMzg5MTY5NywtNTg1ODI0
-ODMsNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNjkzNTU0LDkwNz
-g5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03MTA3MDk0MjZd
-fQ==
+eyJoaXN0b3J5IjpbNTk4NTQxODg2LDcyMTM1NTAyMCwxNTA4OT
+kxODUwLC0xMDQwNTIwNzQwLDE3NDIxNjQ5ODUsMTY0MzE0Nzc3
+NiwtNzA3MjcyNDUsLTE0NDE4NDUyNzgsMTkyMzc5NzQwNSwtOT
+g3NDQwMTI3LDU0MTA1MTEzOSwtNzc0MDczNjg5LDEwMTM4OTE2
+OTcsLTU4NTgyNDgzLDYxNzc4MDkwNCwtMTYxNDE5Mjg0LDUxMj
+Y5MzU1NCw5MDc4OTIzNDYsNjMzNDYzMzU4LDc0NjY0ODAzMF19
+
 -->
