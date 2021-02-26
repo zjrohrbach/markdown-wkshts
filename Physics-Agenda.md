@@ -5,7 +5,9 @@ Agenda
 ---------
 **Objective:** Understand the difference between *kinetic* and *potential energy* and be able to make calculations with them
 
-1. 
+1. Notes on **Work, Power, KE, and PE**
+2. Do the [3/1-2 Assignment][assmt]
+3. 
 
 **If absent:**
 
@@ -18,11 +20,11 @@ Homework
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [assmt]: https://avon.schoology.com/assignment/4724577879/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODk5MTg1MCwtMTA0MDUyMDc0MCwxNz
-QyMTY0OTg1LDE2NDMxNDc3NzYsLTcwNzI3MjQ1LC0xNDQxODQ1
-Mjc4LDE5MjM3OTc0MDUsLTk4NzQ0MDEyNyw1NDEwNTExMzksLT
-c3NDA3MzY4OSwxMDEzODkxNjk3LC01ODU4MjQ4Myw2MTc3ODA5
-MDQsLTE2MTQxOTI4NCw1MTI2OTM1NTQsOTA3ODkyMzQ2LDYzMz
-Q2MzM1OCw3NDY2NDgwMzAsLTcxMDcwOTQyNiwzNTE5MjgzMTFd
+eyJoaXN0b3J5IjpbNzIxMzU1MDIwLDE1MDg5OTE4NTAsLTEwND
+A1MjA3NDAsMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcyNzI0
+NSwtMTQ0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMjcsNT
+QxMDUxMTM5LC03NzQwNzM2ODksMTAxMzg5MTY5NywtNTg1ODI0
+ODMsNjE3NzgwOTA0LC0xNjE0MTkyODQsNTEyNjkzNTU0LDkwNz
+g5MjM0Niw2MzM0NjMzNTgsNzQ2NjQ4MDMwLC03MTA3MDk0MjZd
 fQ==
 -->
