@@ -18,8 +18,12 @@ Feb 23-24 Assignment
 	3. If it took you 5.1 s to lift it 3 m, what is your power?
 5. A cable lifts a 2600-kg elevator to height of 300m in a time of 8 seconds.  What power does the motor produce in accomplishing this task? (*Hint: You’ll need to find the work done first; use problem 4 to help you as they are similar problems*)
 
-Other
+Mar 1-2 Assignment
 =====
+
+| Equations |                 |
+|-----------|-----------------|----------------------|
+|   $W=Fd$  | $P=\frac{W}{t}$ | $KE=\frac{1}{2}mv^2$ |
 
 1. A 1.3 kg apple is hanging 2.5 m above the ground.
 	1. What is its potential energy?
@@ -31,8 +35,11 @@ Other
 	1. How much work does the hockey player do on the puck?
 	2. If the puck’s initial velocity was 0 m/s, determine its final velocity.
 5. You slide a trashcan (m = 10.2 kg) across the floor with an initial velocity of 7.9 m/s.  If the trashcan eventually stops, what is the work done by friction?
+
+Other
+======
 6. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 7. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk0MTY0OV19
+eyJoaXN0b3J5IjpbLTEwNTAzMTgzMjQsLTE3Nzk0MTY0OV19
 -->
