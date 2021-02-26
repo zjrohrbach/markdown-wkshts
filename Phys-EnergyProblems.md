@@ -50,14 +50,19 @@ Warmup
 Exit
 ======
 
+
+1. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much?
+2. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling **three times** as fast as car #1. Which car has the larger kinetic energy, and by how much? 
+3. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much?
+
+
+
+
 | Equations          |                 |                       |
 |--------------------|-----------------|-----------------------|
 |   $W=Fd$           | $P=\frac{W}{t}$ |$\Sigma E_i=\Sigma E_f$|
-|$KE=\frac{1}{2}mv^2$|     $PE=mgh$    |     $W=\Delta E$     | 
-
-6. Two cars are traveling down the highway. They have the same mass, but car #2 is traveling twice as fast as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
-7. Two cars are traveling down the highway. They have the same speed, but car #2 has twice the mass as car #1. Which car has the larger kinetic energy, and by how much? (_This is not a math problem; it’s a thinking problem!_)
+|$KE=\frac{1}{2}mv^2$|     $PE=mgh$    |     $W=\Delta E$      | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODk1MDk5NywtOTM2ODU1MTUyLC0xNz
+eyJoaXN0b3J5IjpbLTM2NTczNzgxOCwtOTM2ODU1MTUyLC0xNz
 c5NDE2NDldfQ==
 -->
