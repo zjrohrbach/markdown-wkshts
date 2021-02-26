@@ -3,14 +3,10 @@ Thu, Feb 25 / Fri, Feb 26
   
 Agenda  
 ---------  
-**Objective:** Be introduced to angular analogues of kinematics concepts.
+**Objective:** Be able to make rotational kinematic calculations.
 
-1. Notes on **Measuring Angles** and **Angular Kinematics Quantities**
-2.  Do some [Practice Problems][practice]
-3. Project worktime
-	- Make sure you've watched [Project Workday Explanation Video][vid] 
-	- Make sure to check your project due date on the [Presentation Schedule][sched]
-	- Check out [these guidelines][guidelines]
+1. Do some [Rotational Kinematics Practice Problems][practice]
+2. Take Notes on the *R
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -28,11 +24,11 @@ Homework
 [guidelines]: https://avon.schoology.com/assignment/4680511868/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MD
-Q2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0
-MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MS
-wxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0
-MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MD
-IxLDE4MTc4NDQwMTcsLTEzNTc4MDM4MTIsMTg0NzQwNDMzNywz
-ODEyMzg1NDRdfQ==
+eyJoaXN0b3J5IjpbMTE2Mjg4ODY2Myw2NTI4MTUzMzIsMzU3Mz
+E1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4
+OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC
+0xMTY3NDAxOTgxLDEzMDkxOTQwOCwxMjY0NzM3ODM3LC0xNTAz
+NTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0Mj
+EsLTE1MzA0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwx
+ODQ3NDA0MzM3XX0=
 -->
