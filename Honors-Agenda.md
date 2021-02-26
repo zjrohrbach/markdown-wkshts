@@ -18,7 +18,7 @@ Agenda
 Homework   
 -------------  
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
-- You can now do 8.1 and 8.2-3 on your [Syllabus]: due by the 
+- You can now do 8.1 and 8.2-3 on your [Syllabus]: due by Fri (black day)/Tues (gold day).  There will be a HW quiz on that day.
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [practice]: https://avon.schoology.com/page/4709159232
@@ -26,11 +26,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMjU3OTYwLDY1MjgxNTMzMiwzNTczMT
-U0NjksMTU2ODA0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4
-LC0xODExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLT
-ExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1
-MDM1OTUsMjAzNDMzOTczMywtNjg3MjU2MDE2LDUxMTIzODQyMS
-wtMTUzMDQ3ODAyMSwxODE3ODQ0MDE3LC0xMzU3ODAzODEyLDE4
-NDc0MDQzMzddfQ==
+eyJoaXN0b3J5IjpbMTY2NjU5MTE5NSw2NTI4MTUzMzIsMzU3Mz
+E1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4
+OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC
+0xMTY3NDAxOTgxLDEzMDkxOTQwOCwxMjY0NzM3ODM3LC0xNTAz
+NTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1MTEyMzg0Mj
+EsLTE1MzA0NzgwMjEsMTgxNzg0NDAxNywtMTM1NzgwMzgxMiwx
+ODQ3NDA0MzM3XX0=
 -->
