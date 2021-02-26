@@ -39,10 +39,11 @@ Angular Kinematic Equations
 |----------------------------------------------|------------------------------------|
 |$1~\text{rev} = 360^{\circ} = 2\pi~\text{rad}$|$1~\text{rpm} = 0.1047~\text{rad/s}$|
 
-1. Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which takes 1.0 min to turn through 20 complete revolutions before reaching its final speed.
+1. Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which starts at rest and takes 1.0 min to turn through 20 complete revolutions before reaching its final speed.
 	1. What was its angular acceleration (assumed constant)?
 	2. What was its final angular speed **in rpm**?
 2. A bicycle has wheels of diameter 68 cm.  If the bicycle decelerates from 8.4 m/s to rest over a distance of 115 meters, find the angular acceleration of the wheel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ1NTU2ODgsNDM4MzUxMTY1XX0=
+eyJoaXN0b3J5IjpbLTIwMTExOTEzMTMsLTE5ODQ1NTU2ODgsND
+M4MzUxMTY1XX0=
 -->
