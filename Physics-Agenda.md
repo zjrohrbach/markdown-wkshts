@@ -9,17 +9,18 @@ Agenda
 2. Notes on **Work, Power, KE, and PE**
 3. Do the [3/1-2 Assignment][assmt]
 4. Discuss Proportionality Questions
-5. (*time permitting*) Do the [Skatepark PhET Lab][lab]
+5. Time to work on [Test Corrections][correct]
+6. (*time permitting*) Do the [Skatepark PhET Lab][lab]
 
 **If absent:**
 
 1. Watch and take notes over the [video][vid].
 2. Turn in the [3/1-2 Assignment][assmt]
-3. Do the [Skatepark PhET Lab][lab]
 
 Homework 
 -------------
 - Project Presentations start on **Tues, Mar 16**.  Make sure you know when you are [scheduled][sched] to give your presentation.
+- If you want to do [Test Corrections][correct], they n
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [assmt]: https://avon.schoology.com/assignment/4724577879/
@@ -28,11 +29,11 @@ Homework
 
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzQyNzk3OCw1OTg1NDE4ODYsNzIxMz
-U1MDIwLDE1MDg5OTE4NTAsLTEwNDA1MjA3NDAsMTc0MjE2NDk4
-NSwxNjQzMTQ3Nzc2LC03MDcyNzI0NSwtMTQ0MTg0NTI3OCwxOT
-IzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2
-ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNj
-E0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNThd
-fQ==
+eyJoaXN0b3J5IjpbLTg1MDA4MjQ3NSwxNDAzNDI3OTc4LDU5OD
+U0MTg4Niw3MjEzNTUwMjAsMTUwODk5MTg1MCwtMTA0MDUyMDc0
+MCwxNzQyMTY0OTg1LDE2NDMxNDc3NzYsLTcwNzI3MjQ1LC0xND
+QxODQ1Mjc4LDE5MjM3OTc0MDUsLTk4NzQ0MDEyNyw1NDEwNTEx
+MzksLTc3NDA3MzY4OSwxMDEzODkxNjk3LC01ODU4MjQ4Myw2MT
+c3ODA5MDQsLTE2MTQxOTI4NCw1MTI2OTM1NTQsOTA3ODkyMzQ2
+XX0=
 -->
