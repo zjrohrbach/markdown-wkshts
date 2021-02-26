@@ -8,7 +8,7 @@ Agenda
 1. [Warmup Questions][wu]
 2. Notes on **Work, Power, KE, and PE**
 3. Do the [3/1-2 Assignment][assmt]
-4. Discuss [Proportionality Questions][prop]
+4. Discuss Proportionality Questions
 5. (*time permitting*) Do the [Skatepark PhET Lab][lab]
 
 **If absent:**
@@ -24,14 +24,15 @@ Homework
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
 [assmt]: https://avon.schoology.com/assignment/4724577879/
 [lab]: https://avon.schoology.com/course/2624603689/assessments/4724606763
+[wu]: https://avon.schoology.com/page/4724715232
 
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MzkzNjkyLDU5ODU0MTg4Niw3MjEzNT
-UwMjAsMTUwODk5MTg1MCwtMTA0MDUyMDc0MCwxNzQyMTY0OTg1
-LDE2NDMxNDc3NzYsLTcwNzI3MjQ1LC0xNDQxODQ1Mjc4LDE5Mj
-M3OTc0MDUsLTk4NzQ0MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4
-OSwxMDEzODkxNjk3LC01ODU4MjQ4Myw2MTc3ODA5MDQsLTE2MT
-QxOTI4NCw1MTI2OTM1NTQsOTA3ODkyMzQ2LDYzMzQ2MzM1OF19
-
+eyJoaXN0b3J5IjpbMTQwMzQyNzk3OCw1OTg1NDE4ODYsNzIxMz
+U1MDIwLDE1MDg5OTE4NTAsLTEwNDA1MjA3NDAsMTc0MjE2NDk4
+NSwxNjQzMTQ3Nzc2LC03MDcyNzI0NSwtMTQ0MTg0NTI3OCwxOT
+IzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC03NzQwNzM2
+ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3NzgwOTA0LC0xNj
+E0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0Niw2MzM0NjMzNThd
+fQ==
 -->
