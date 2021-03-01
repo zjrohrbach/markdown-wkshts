@@ -9,13 +9,13 @@ Agenda
 2. Notes on **Work, Power, KE, and PE**
 3. Do the [3/1-2 Assignment][assmt]
 4. Discuss Proportionality Questions
-5. Time to work on [Test Corrections][correct]
-6. (*time permitting*) Do the [Skatepark PhET Lab][lab]
+5. Break / Brief amount of time to work on [Test Corrections][correct] (you may finish for HW
+6. Do the [Skatepark PhET Lab][lab]
 
 **If absent:**
 
-1. Watch and take notes over the [video][vid].
-2. Turn in the [3/1-2 Assignment][assmt]
+1. Watch and take notes over the [video][vid] to complete the [3/1-2 Assignment][assmt].  You do not need to turn this is.
+2. Do the [Skatepark PhET Lab][lab] and submit it.
 
 Homework 
 -------------
@@ -30,11 +30,11 @@ Homework
 
 [vid]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMzOTAxOTUsMTQwMzQyNzk3OCw1OT
-g1NDE4ODYsNzIxMzU1MDIwLDE1MDg5OTE4NTAsLTEwNDA1MjA3
-NDAsMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcyNzI0NSwtMT
-Q0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUx
-MTM5LC03NzQwNzM2ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNj
-E3NzgwOTA0LC0xNjE0MTkyODQsNTEyNjkzNTU0LDkwNzg5MjM0
-Nl19
+eyJoaXN0b3J5IjpbMTMxNzU3NDI1OCwtMTExMzM5MDE5NSwxND
+AzNDI3OTc4LDU5ODU0MTg4Niw3MjEzNTUwMjAsMTUwODk5MTg1
+MCwtMTA0MDUyMDc0MCwxNzQyMTY0OTg1LDE2NDMxNDc3NzYsLT
+cwNzI3MjQ1LC0xNDQxODQ1Mjc4LDE5MjM3OTc0MDUsLTk4NzQ0
+MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4OSwxMDEzODkxNjk3LC
+01ODU4MjQ4Myw2MTc3ODA5MDQsLTE2MTQxOTI4NCw1MTI2OTM1
+NTRdfQ==
 -->
