@@ -11,9 +11,11 @@ Agenda
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-> Time: 8am Friday, 1:25pm Friday, 8am Monday
+> Time: 8am Mon, 1:25pm Mon, 8am Tue
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
+
+If you missed the zoom, watch [this video](https://youtu.be/1dgEz3J_0vk)
 
 Homework   
 -------------  
@@ -28,11 +30,11 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4731439922/info
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NT
-I4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0
-OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC
-0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOCwxMjY0
-NzM3ODM3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1Nj
-AxNiw1MTEyMzg0MjEsLTE1MzA0NzgwMjEsMTgxNzg0NDAxNywt
-MTM1NzgwMzgxMl19
+eyJoaXN0b3J5IjpbODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2Nj
+Y1OTExOTUsNjUyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgx
+LC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLT
+c4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5
+MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5Nz
+MzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0xNTMwNDc4MDIxLDE4
+MTc4NDQwMTddfQ==
 -->
