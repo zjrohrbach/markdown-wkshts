@@ -48,12 +48,25 @@ Angular Kinematic Equations
 
 Torque
 ======
+
 1. (*period 2 only*) Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which starts at rest and takes 1.0 min to turn through 20 complete revolutions before reaching its final speed.
 	1. What was its angular acceleration (assumed constant)?
 	2. What was its final angular speed **in rpm**?
-2. 
+2. d
 
+
+
+Warmup Questions
+==========
+
+1. What symbol is measured in rad?
+
+2.What does <![if !msEquation]>ℓ<![endif]> stand for?
+
+3.What symbol would it be if I said that you had rotated through 18 rev?
+
+4.What symbol would it be if I said that you were rotating at 1300 rpm?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTMxNzAxNCwtMjAxMTE5MTMxMywtMT
+eyJoaXN0b3J5IjpbMTc2MTg2MTMyMCwtMjAxMTE5MTMxMywtMT
 k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
 -->
