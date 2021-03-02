@@ -59,7 +59,7 @@ Torque
 
 
 
-3. 
+3. A torque of $1.20~\text{m}\cdot\text{N}$ is applied to a disk of mass 4.80 kg 
 
 
 > Image Credit:
@@ -86,7 +86,7 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjMwNjE2MCwxNzE4NzA1OTgzLDExOD
-cyMTU2NTUsLTIwMTExOTEzMTMsLTE5ODQ1NTU2ODgsNDM4MzUx
-MTY1XX0=
+eyJoaXN0b3J5IjpbNzU0MTE1OTQ5LDE3MTg3MDU5ODMsMTE4Nz
+IxNTY1NSwtMjAxMTE5MTMxMywtMTk4NDU1NTY4OCw0MzgzNTEx
+NjVdfQ==
 -->
