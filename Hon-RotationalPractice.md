@@ -72,10 +72,8 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 
 5. Which bug has a bigger $v$?
 6. Which bug has a bigger $\omega$?
-7. Which bug has a bigger $\alpha$?
-8. Which bug has a bigger $a_T$?
-9. Which b
+7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjQ0MTQ2MCwtMjAxMTE5MTMxMywtMT
-k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzk3ODQyNjQsLTIwMTExOTEzMTMsLT
+E5ODQ1NTU2ODgsNDM4MzUxMTY1XX0=
 -->
