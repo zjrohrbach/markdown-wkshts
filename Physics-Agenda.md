@@ -10,8 +10,8 @@ Agenda
 
 **If absent:**
 
-1. Watch and take notes over the [video][vid] to complete the [3/1-2 Assignment][assmt].  You do not need to turn this is.
-2. Do the [Skatepark PhET Lab][lab] and submit it.
+1. Watch and take notes over the [video][vid].
+2. Send me a message to remind me that you were absent on lab day. 
 
 Homework 
 -------------
@@ -22,7 +22,7 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4724955003/
 [marble]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMxODQzMzksLTE0NDE3NDc2OTAsMT
+eyJoaXN0b3J5IjpbLTIxMTA1ODIyNDEsLTE0NDE3NDc2OTAsMT
 MxNzU3NDI1OCwtMTExMzM5MDE5NSwxNDAzNDI3OTc4LDU5ODU0
 MTg4Niw3MjEzNTUwMjAsMTUwODk5MTg1MCwtMTA0MDUyMDc0MC
 wxNzQyMTY0OTg1LDE2NDMxNDc3NzYsLTcwNzI3MjQ1LC0xNDQx
