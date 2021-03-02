@@ -59,7 +59,9 @@ Torque
 
 
 
-3. A torque of $1.20~\text{m}\cdot\text{N}$ is applied to a disk of mass 4.80 kg 
+3. A torque of $1.20~\text{m}\cdot\text{N}$ is applied to a disk of mass $4.80~\text{kg}$ until it reaches a rotational speed of $10,300~\text{rpm}$.  Through how many revolution does the disk rotate during this process?
+
+
 
 
 > Image Credit:
@@ -86,7 +88,7 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MTE1OTQ5LDE3MTg3MDU5ODMsMTE4Nz
+eyJoaXN0b3J5IjpbNjI0MDM4NDU0LDE3MTg3MDU5ODMsMTE4Nz
 IxNTY1NSwtMjAxMTE5MTMxMywtMTk4NDU1NTY4OCw0MzgzNTEx
 NjVdfQ==
 -->
