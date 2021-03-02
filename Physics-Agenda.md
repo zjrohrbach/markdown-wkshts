@@ -1,16 +1,12 @@
-Mon, Mar 1 / Tue, Mar 2
+Wed, Mar 3 / Thu, Mar 4
 ==================
 
 Agenda
 ---------
-**Objective:** Understand the difference between *kinetic* and *potential energy* and be able to make calculations with them
+**Objective:** Be able to understand the concept of *Conservation of Energy* and solve problems related to this concept.
 
-1. [Warmup Questions][wu]
-2. Notes on **Work, Power, KE, and PE**
-3. Do the [3/1-2 Assignment][assmt]
-4. Discuss Proportionality Questions
-5. Break / Brief amount of time to work on [Test Corrections][correct] (you may finish for HW
-6. Do the [Skatepark PhET Lab][lab]
+1. Notes on **Conservation of Energy**
+2. Do the Marble Lab Revisited
 
 **If absent:**
 
@@ -29,11 +25,11 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4724955003/
 [vid]: https://youtu.be/8I8XQ2gI4Zc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE3NDc2OTAsMTMxNzU3NDI1OCwtMT
-ExMzM5MDE5NSwxNDAzNDI3OTc4LDU5ODU0MTg4Niw3MjEzNTUw
-MjAsMTUwODk5MTg1MCwtMTA0MDUyMDc0MCwxNzQyMTY0OTg1LD
-E2NDMxNDc3NzYsLTcwNzI3MjQ1LC0xNDQxODQ1Mjc4LDE5MjM3
-OTc0MDUsLTk4NzQ0MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4OS
-wxMDEzODkxNjk3LC01ODU4MjQ4Myw2MTc3ODA5MDQsLTE2MTQx
-OTI4NF19
+eyJoaXN0b3J5IjpbNTI2NzQ0Mjg1LC0xNDQxNzQ3NjkwLDEzMT
+c1NzQyNTgsLTExMTMzOTAxOTUsMTQwMzQyNzk3OCw1OTg1NDE4
+ODYsNzIxMzU1MDIwLDE1MDg5OTE4NTAsLTEwNDA1MjA3NDAsMT
+c0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcyNzI0NSwtMTQ0MTg0
+NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMjcsNTQxMDUxMTM5LC
+03NzQwNzM2ODksMTAxMzg5MTY5NywtNTg1ODI0ODMsNjE3Nzgw
+OTA0XX0=
 -->
