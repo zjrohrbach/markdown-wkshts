@@ -59,14 +59,17 @@ Torque
 Warmup Questions
 ==========
 
+Symbols
+--------------
 1. What symbol is measured in rad?
+2. What does $\ell$ stand for?
+3. What symbol would it be if I said that you had rotated through 18 rev?
+4. What symbol would it be if I said that you were rotating at 1300 rpm?
 
-2.What does <![if !msEquation]>ℓ<![endif]> stand for?
+Relationships
+---------------
 
-3.What symbol would it be if I said that you had rotated through 18 rev?
-
-4.What symbol would it be if I said that you were rotating at 1300 rpm?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTg2MTMyMCwtMjAxMTE5MTMxMywtMT
+eyJoaXN0b3J5IjpbLTQ4ODg0MDE1OSwtMjAxMTE5MTMxMywtMT
 k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
 -->
