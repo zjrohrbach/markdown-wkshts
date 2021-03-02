@@ -56,6 +56,9 @@ Torque
 ![Torque Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2952/2018/01/31195250/CNX_UPhysics_12_02_torquebal.jpg)
 	1. Calculate the net torque about point $S$ if $m_1=10~\text{kg}$, $m_2=20~\text{kg}$, and $m_3=30~\text{kg}$
 	2. If you took $m_3$ off, what mass could you replace it with such that the system would balance?
+
+> Image Credit:
+>  OpenStax University Physics.  **Authored by**: OpenStax CNX.  **License**:  _[CC BY: Attribution](https://creativecommons.org/licenses/by/4.0/)_.  
 3. 
 
 
@@ -79,6 +82,7 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODcwNTk4MywxMTg3MjE1NjU1LC0yMD
-ExMTkxMzEzLC0xOTg0NTU1Njg4LDQzODM1MTE2NV19
+eyJoaXN0b3J5IjpbMTM1NjA1MTc5LDE3MTg3MDU5ODMsMTE4Nz
+IxNTY1NSwtMjAxMTE5MTMxMywtMTk4NDU1NTY4OCw0MzgzNTEx
+NjVdfQ==
 -->
