@@ -68,8 +68,14 @@ Symbols
 
 Relationships
 ---------------
+Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj/rotation/latest/rotation.html?simulation=rotation)
 
+5. Which bug has a bigger $v$?
+6. Which bug has a bigger $\omega$?
+7. Which bug has a bigger $\alpha$?
+8. Which bug has a bigger $a_T$?
+9. Which b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODg0MDE1OSwtMjAxMTE5MTMxMywtMT
+eyJoaXN0b3J5IjpbMTMzMjQ0MTQ2MCwtMjAxMTE5MTMxMywtMT
 k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
 -->
