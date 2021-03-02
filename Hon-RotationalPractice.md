@@ -52,7 +52,8 @@ Torque
 1. (*period 2 only*) Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which starts at rest and takes 1.0 min to turn through 20 complete revolutions before reaching its final speed.
 	1. What was its angular acceleration (assumed constant)?
 	2. What was its final angular speed **in rpm**?
-2. d
+2. Calculate the net torque about point $S$ if $m_1=10 
+![Torque Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2952/2018/01/31195250/CNX_UPhysics_12_02_torquebal.jpg)
 
 
 
@@ -76,6 +77,6 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzIxNTY1NSwtMjAxMTE5MTMxMywtMT
-k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
+eyJoaXN0b3J5IjpbLTg4ODg2MDc2MCwxMTg3MjE1NjU1LC0yMD
+ExMTkxMzEzLC0xOTg0NTU1Njg4LDQzODM1MTE2NV19
 -->
