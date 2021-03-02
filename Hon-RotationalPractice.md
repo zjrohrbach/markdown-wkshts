@@ -57,16 +57,14 @@ Torque
 	1. Calculate the net torque about point $S$ if $m_1=10~\text{kg}$, $m_2=20~\text{kg}$, and $m_3=30~\text{kg}$
 	2. If you took $m_3$ off, what mass could you replace it with such that the system would balance?
 
-<div style="font-size: 5px">
 
-> Image Credit:
->  OpenStax University Physics.  **Authored by**: OpenStax CNX.  **License**:  _[CC BY: Attribution](https://creativecommons.org/licenses/by/4.0/)_.  
->  Retrieved from <https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/12-2-examples-of-static-equilibrium/>
->  
-</div>
 
 3. 
 
+
+> Image Credit:
+>  OpenStax University Physics.  **Authored by**: OpenStax CNX.  **License**:  _[CC BY: Attribution](https://creativecommons.org/licenses/by/4.0/)_.  
+>  Retrieved 2021-03-02 from <https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/12-2-examples-of-static-equilibrium/>
 
 Warmup Questions
 ==========
@@ -88,7 +86,7 @@ Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI0OTQ2MzcsMTcxODcwNTk4MywxMT
-g3MjE1NjU1LC0yMDExMTkxMzEzLC0xOTg0NTU1Njg4LDQzODM1
-MTE2NV19
+eyJoaXN0b3J5IjpbLTI3NjMwNjE2MCwxNzE4NzA1OTgzLDExOD
+cyMTU2NTUsLTIwMTExOTEzMTMsLTE5ODQ1NTU2ODgsNDM4MzUx
+MTY1XX0=
 -->
