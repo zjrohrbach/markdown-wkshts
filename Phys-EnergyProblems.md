@@ -60,9 +60,10 @@ Exit
 
 | Equations          |                 |                       |
 |--------------------|-----------------|-----------------------|
-|   $W=Fd$           | $P=\frac{W}{t}$ |$\Sigma E_i=\Sigma E_f$|
+|   $W=Fd$           | $P=\frac{W}{t}$ | $F_G=mg$|
+|                | $\Sigma E_i=\Sigma E_f$||
 |$KE=\frac{1}{2}mv^2$|     $PE=mgh$    |     $W=\Delta E$      | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTczNzgxOCwtOTM2ODU1MTUyLC0xNz
-c5NDE2NDldfQ==
+eyJoaXN0b3J5IjpbMTcyNDg5NDUyOSwtMzY1NzM3ODE4LC05Mz
+Y4NTUxNTIsLTE3Nzk0MTY0OV19
 -->
