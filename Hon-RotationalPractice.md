@@ -70,10 +70,12 @@ Relationships
 ---------------
 Consider the two bugs on [this turntable](https://phet.colorado.edu/sims/cheerpj/rotation/latest/rotation.html?simulation=rotation)
 
+![Bugs on a turntable](/system/files/attachments/page_embeds/m/2021-03/Capture_603e678c34227.PNG)
+
 5. Which bug has a bigger $v$?
 6. Which bug has a bigger $\omega$?
 7. Which bug has a bigger $\alpha$? $a_T$? $a_C$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk3ODQyNjQsLTIwMTExOTEzMTMsLT
-E5ODQ1NTU2ODgsNDM4MzUxMTY1XX0=
+eyJoaXN0b3J5IjpbMTE4NzIxNTY1NSwtMjAxMTE5MTMxMywtMT
+k4NDU1NTY4OCw0MzgzNTExNjVdfQ==
 -->
