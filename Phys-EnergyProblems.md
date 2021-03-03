@@ -51,7 +51,7 @@ Conservation
 ======
 
 | Equations          |                       |                       |
-|--------------------|:----------------------|-----------------------|
+|-------------------:|:---------------------:|:----------------------|
 |   $W=Fd$           |    $P=\frac{W}{t}$    |        $F_G=mg$       |
 |                    |$\Sigma E_i=\Sigma E_f$|                       |
 |$KE=\frac{1}{2}mv^2$|        $PE=mgh$       |     $W=\Delta E$      | 
@@ -71,6 +71,6 @@ Conservation
 	1. If the hill goes all the way down to the ground, how fast should it be going at that point?
 	2. Continuing the problem, the rollercoaster continues to the top of the next hill, which is 35 m high.  What is its velocity at the top of the next hill?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIyNzIyNTUsLTEwNDg1NjkxMTYsLT
-M2NTczNzgxOCwtOTM2ODU1MTUyLC0xNzc5NDE2NDldfQ==
+eyJoaXN0b3J5IjpbMjA5NzE5MTczOCwtMTA0ODU2OTExNiwtMz
+Y1NzM3ODE4LC05MzY4NTUxNTIsLTE3Nzk0MTY0OV19
 -->
