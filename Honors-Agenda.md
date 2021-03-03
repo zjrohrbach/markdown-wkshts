@@ -17,7 +17,7 @@ Agenda
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
 
-If you missed the zoom, watch [this video]()
+If you missed the zoom, watch [this video](https://youtu.be/3uWwm-jut74)
 
 Homework   
 -------------  
@@ -33,11 +33,11 @@ Homework
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MT
-YwNDUyNzUsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTEx
-OTUsNjUyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NT
-E2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3
-MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MD
-gsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5NzMzLC02
-ODcyNTYwMTZdfQ==
+eyJoaXN0b3J5IjpbNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNz
+A2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1
+OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2OD
+A0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYx
+NDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5OD
+EsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAz
+NDMzOTczM119
 -->
