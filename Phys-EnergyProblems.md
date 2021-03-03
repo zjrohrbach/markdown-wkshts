@@ -58,7 +58,7 @@ Conservation
 
 1. Fill in the missing energy values:
 ![Conservation of Energy on a ramp](/system/files/attachments/page_embeds/m/2021-03/pic1_603fcdabf22e9.png)
-![Conservation of Energy with a pendulum]()
+![Conservation of Energy with a pendulum](/system/files/attachments/page_embeds/m/2021-03/pic2_603fcdb3437b0.png)
 > Images taken from Paul Hewitt's *Conceptual Physics*
 
 2. You are playing ski-ball.  You roll a ball (m = 0.20 kg) up from the bottom of the ramp with an initial speed of 7 m/s.  By the time the ball reaches the top of the frictionless ramp (which has a height of 1.5 meters), how fast is the ball travelling?
@@ -72,6 +72,6 @@ Conservation
 	1. If the hill goes all the way down to the ground, how fast should it be going at that point?
 	2. Continuing the problem, the rollercoaster continues to the top of the next hill, which is 35 m high.  What is its velocity at the top of the next hill?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2OTg2NDQsLTEwNDg1NjkxMTYsLTM2NT
-czNzgxOCwtOTM2ODU1MTUyLC0xNzc5NDE2NDldfQ==
+eyJoaXN0b3J5IjpbLTEwODAyNzczNjYsLTEwNDg1NjkxMTYsLT
+M2NTczNzgxOCwtOTM2ODU1MTUyLC0xNzc5NDE2NDldfQ==
 -->
