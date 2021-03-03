@@ -51,7 +51,7 @@ Conservation
 ======
 
 | Equations          |                       |                       |
-|--------------------|-----------------------|-----------------------|
+|--------------------|:----------------------|-----------------------|
 |   $W=Fd$           |    $P=\frac{W}{t}$    |        $F_G=mg$       |
 |                    |$\Sigma E_i=\Sigma E_f$|                       |
 |$KE=\frac{1}{2}mv^2$|        $PE=mgh$       |     $W=\Delta E$      | 
@@ -63,11 +63,14 @@ Conservation
 2. You are playing ski-ball.  You roll a ball (m = 0.20 kg) up from the bottom of the ramp with an initial speed of 7 m/s.  By the time the ball reaches the top of the frictionless ramp (which has a height of 1.5 meters), how fast is the ball travelling?
 3. Starting from rest, a child zooms down a frictionless slide from an initial height of 3.00 m.  What is her speed at the bottom of the slide?  Assume she has a mass of 25.0 kg.
 4. A rebellious teenager decides to defy the world by taking a rock with mass **450 g** and throwing it straight up into the air with a velocity of 37 m/s while standing on a cliff that is 90 m above the ground.  How high from the top of the cliff will the rock go (be careful about what you call a height of zero)?  Neglect air resistance.
-5. A rollercoaster (m = 1000 kg) starts from rest at the top of a 50 m hill.  The tracks are frictionless.
+5. Robert (m = 75 kg) starts at rest at the top of a carnival slide, which is 20 m above the ground.  As he slides down, friction does 1500 J of work.  How fast is he going when he gets to the ground?
+
+
+
+6. A rollercoaster (m = 1000 kg) starts from rest at the top of a 50 m hill.  The tracks are frictionless.
 	1. If the hill goes all the way down to the ground, how fast should it be going at that point?
 	2. Continuing the problem, the rollercoaster continues to the top of the next hill, which is 35 m high.  What is its velocity at the top of the next hill?
-6. Robert (m = 75 kg) starts at rest at the top of a carnival slide, which is 20 m above the ground.  As he slides down, friction does 1500 J of work.  How fast is he going when he gets to the ground?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg1NjkxMTYsLTM2NTczNzgxOCwtOT
-M2ODU1MTUyLC0xNzc5NDE2NDldfQ==
+eyJoaXN0b3J5IjpbLTIxMzIyNzIyNTUsLTEwNDg1NjkxMTYsLT
+M2NTczNzgxOCwtOTM2ODU1MTUyLC0xNzc5NDE2NDldfQ==
 -->
