@@ -6,8 +6,10 @@ Agenda
 **Objective:** Understand the concepts of *torque* and *moment of inertia*.
 
 1. Do some [Warmup Questions][wu]
-2. Notes on **Torque** and **Moment of Inertia**
-3. Do some [Torque Practice Problems][probs]
+2. Take Questions over the HW.
+3. (*Period 2 only*) Finish discussion about rotational kinematic equations by doing [Problem 1][probs]
+4. Notes on **Torque** and **Moment of Inertia**
+5. Do some [Torque Practice Problems][probs]
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -29,11 +31,11 @@ Homework
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYwNDUyNzUsODc4MzM4NjA2LC0xND
-c4NzE0MDU5LDE2NjY1OTExOTUsNjUyODE1MzMyLDM1NzMxNTQ2
-OSwxNTY4MDQ2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLT
-E4MTE1NjE0MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2
-NzQwMTk4MSwxMzA5MTk0MDgsMTI2NDczNzgzNywtMTUwMzUwMz
-U5NSwyMDM0MzM5NzMzLC02ODcyNTYwMTYsNTExMjM4NDIxLC0x
-NTMwNDc4MDIxXX0=
+eyJoaXN0b3J5IjpbMTI0NTA0Mjg1MywtMTYxNjA0NTI3NSw4Nz
+gzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NTI4MTUz
+MzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMT
+g3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3
+NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOCwxMjY0NzM3OD
+M3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1
+MTEyMzg0MjFdfQ==
 -->
