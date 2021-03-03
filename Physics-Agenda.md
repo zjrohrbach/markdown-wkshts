@@ -5,8 +5,9 @@ Agenda
 ---------
 **Objective:** Be able to understand the concept of *Conservation of Energy* and solve problems related to this concept.
 
-1. Notes on **Conservation of Energy**
-2. Do the [Marble Lab Revisited][marble]
+1. (*Period 6 only*) Go through some Proportionality Questions
+2. Notes on **Conservation of Energy**
+3. Do the [Marble Lab Revisited][marble]
 
 **If absent:**
 
@@ -23,11 +24,11 @@ Homework
 [marble]: https://avon.schoology.com/assignment/4737347924/
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjA3NzExOSwxODY5MDczNzMyLC0xND
-QxNzQ3NjkwLDEzMTc1NzQyNTgsLTExMTMzOTAxOTUsMTQwMzQy
-Nzk3OCw1OTg1NDE4ODYsNzIxMzU1MDIwLDE1MDg5OTE4NTAsLT
-EwNDA1MjA3NDAsMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcy
-NzI0NSwtMTQ0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMj
-csNTQxMDUxMTM5LC03NzQwNzM2ODksMTAxMzg5MTY5NywtNTg1
-ODI0ODNdfQ==
+eyJoaXN0b3J5IjpbMTE0MTU0NTAyNywxODA2MDc3MTE5LDE4Nj
+kwNzM3MzIsLTE0NDE3NDc2OTAsMTMxNzU3NDI1OCwtMTExMzM5
+MDE5NSwxNDAzNDI3OTc4LDU5ODU0MTg4Niw3MjEzNTUwMjAsMT
+UwODk5MTg1MCwtMTA0MDUyMDc0MCwxNzQyMTY0OTg1LDE2NDMx
+NDc3NzYsLTcwNzI3MjQ1LC0xNDQxODQ1Mjc4LDE5MjM3OTc0MD
+UsLTk4NzQ0MDEyNyw1NDEwNTExMzksLTc3NDA3MzY4OSwxMDEz
+ODkxNjk3XX0=
 -->
