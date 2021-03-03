@@ -24,7 +24,7 @@ Homework
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
 - Make sure you are working on your [Syllabus]
 	- 8.1 and 8.2-3 due Fri (black day)/Tues (gold day).  There will be a HW quiz on that day.
-	- 8.4 and 8.5-6 due Wed evening, Mar 10
+	- 8.4 due Wed evening, Mar 10 (you probably can't do 8.5-6, yet)
 - [Test Corrections][correct] should be done by next Friday
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
@@ -33,11 +33,11 @@ Homework
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4Nz
-gzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NTI4MTUz
-MzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMT
-g3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3
-NTg5MTE3LC0xMTY3NDAxOTgxLDEzMDkxOTQwOCwxMjY0NzM3OD
-M3LC0xNTAzNTAzNTk1LDIwMzQzMzk3MzMsLTY4NzI1NjAxNiw1
-MTEyMzg0MjFdfQ==
+eyJoaXN0b3J5IjpbMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MT
+YwNDUyNzUsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTEx
+OTUsNjUyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NT
+E2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3
+MzM2OSwtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MD
+gsMTI2NDczNzgzNywtMTUwMzUwMzU5NSwyMDM0MzM5NzMzLC02
+ODcyNTYwMTZdfQ==
 -->
