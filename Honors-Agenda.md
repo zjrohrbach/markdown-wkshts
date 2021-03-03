@@ -17,6 +17,8 @@ Agenda
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
 
+If you missed the zoom, watch [this video]()
+
 Homework   
 -------------  
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
@@ -31,7 +33,7 @@ Homework
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTA0Mjg1MywtMTYxNjA0NTI3NSw4Nz
+eyJoaXN0b3J5IjpbLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4Nz
 gzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NTI4MTUz
 MzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMT
 g3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3
