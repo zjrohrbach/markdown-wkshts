@@ -78,6 +78,13 @@ Conservation
 Review 
 ======
 
+| Equations          |                       |                       |
+|:------------------:|:---------------------:|:---------------------:|
+|       $W=Fd$       |    $P=\frac{W}{t}$    |        $F_G=mg$       |
+|                    |$\Sigma E_i=\Sigma E_f$|                       |
+|$KE=\frac{1}{2}mv^2$|        $PE=mgh$       |     $W=\Delta E$      | 
+
+
 1. A 75 N force, is used to pull a 20 kg block 1.3 m across the ground.
 	1. What is the work done on the block?  
 	2. If the block started from rest, what is its final velocity?  
@@ -86,13 +93,12 @@ Review
 	1. How much work was done by the brakes to stop the car?  
 	2. How far did the car travel if a force of 170,000 N was applied by the brakes?  
 3. A ski jumper with a mass of 93 kg starts from rest at the top of a ramp which is 55 m above the landing zone.  Assume he starts from rest at the top of the ramp and that the snow is frictionless.  What is his velocity when he reaches the end of the ramp, which is 35 m above the landing zone?
-4. Reggie hits a baseball, which has a mass of 0.145 kg, into the air with a velocity of 49 m/s.  What is the maximum height reached by the ball?  Neglect air resistance.  
-5. A skier (m = 78 kg) is lifted to the top of a 103 m tall mountain.  How much work is done by the lift? 
-6. A 0.10-kg marble starts at the bottom of a ramp with a speed of 2 m/s.
+4.  A skier (m = 78 kg) is lifted to the top of a 103 m tall mountain.  How much work is done by the lift? 
+5. A 0.10-kg marble starts at the bottom of a ramp with a speed of 2 m/s.
 	1. How far up the ramp can the marble go before it stops? (assuming no friction)
-	2. Assume that the marble instead only went up **12 cm**.  How much work was done by friction?
+	2. Assume that the marble instead only went up 0.12 m.  How much work was done by friction?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjE4NjkwNiwtMTA4MDI3NzM2NiwtMT
+eyJoaXN0b3J5IjpbLTM3NzEwMjAxMSwtMTA4MDI3NzM2NiwtMT
 A0ODU2OTExNiwtMzY1NzM3ODE4LC05MzY4NTUxNTIsLTE3Nzk0
 MTY0OV19
 -->
