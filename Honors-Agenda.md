@@ -3,7 +3,7 @@ Fri, Mar 5 / Tue, Mar 9
   
 Agenda  
 ---------  
-**Objective:** Understand the concepts of *torque* and *moment of inertia*.
+**Objective:** Apply torque to a real situation.  Learn how to calculate the moment of inertia of extended 
 
 1. Take questions over the HW
 2. Do the [Torque Lab][lab]
@@ -31,11 +31,11 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxNjI0MzUsNDkxNjEzOTAyLDM4MD
-EyNDg4OSwtMzQwNzA2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYw
-NiwtMTQ3ODcxNDA1OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNT
-czMTU0NjksMTU2ODA0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIx
-Nzg4LC0xODExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMT
-csLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1
-MDM1MDM1OTVdfQ==
+eyJoaXN0b3J5IjpbMTk1MzQzNjQ0MSwtMTc5MDE2MjQzNSw0OT
+E2MTM5MDIsMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MTYwNDUy
+NzUsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTExOTUsNj
+UyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NTE2NDc3
+NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3MzM2OS
+wtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MDgsMTI2
+NDczNzgzN119
 -->
