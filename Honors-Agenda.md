@@ -1,29 +1,23 @@
-Wed, Mar 3 / Thu, Mar 4
+Fri, Mar 5 / Tue, Mar 9
 ==================  
   
 Agenda  
 ---------  
 **Objective:** Understand the concepts of *torque* and *moment of inertia*.
 
-1. Do some [Warmup Questions][wu]
-2. Take Questions over the HW.
-3. (*Period 2 only*) Finish discussion about rotational kinematic equations by doing [Problem 1][probs]
-4. Notes on **Torque** and **Moment of Inertia**
-5. Do some [Torque Practice Problems][probs]
+1. 
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-> Time: 8am Wed, 1:25pm Wed, 8am Thu
+> Time: 8am Fri, 1:25pm Fri, 8am Tue
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
-
-If you missed the zoom, watch [this video](https://youtu.be/3uWwm-jut74)
 
 Homework   
 -------------  
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
 - Make sure you are working on your [Syllabus]
-	- 8.1 and 8.2-3 due Fri (black day)/Tues (gold day).  There will be a HW quiz on that day.
+	- 8.1 and 8.2-3 should be done.  HW quiz postponed until next class
 	- 8.4 due Wed evening, Mar 10 (you probably can't do 8.5-6, yet)
 - [Test Corrections][correct] should be done by next Friday
 
@@ -33,11 +27,11 @@ Homework
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNz
-A2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1
-OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2OD
-A0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYx
-NDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5OD
-EsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1MDM1MDM1OTUsMjAz
-NDMzOTczM119
+eyJoaXN0b3J5IjpbLTE2MTM4OTYyODUsNDkxNjEzOTAyLDM4MD
+EyNDg4OSwtMzQwNzA2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYw
+NiwtMTQ3ODcxNDA1OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNT
+czMTU0NjksMTU2ODA0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIx
+Nzg4LC0xODExNTYxNDEwLC03ODYyNzMzNjksLTE5Nzc1ODkxMT
+csLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEyNjQ3Mzc4MzcsLTE1
+MDM1MDM1OTVdfQ==
 -->
