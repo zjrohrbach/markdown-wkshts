@@ -63,15 +63,19 @@ Conservation
 
 2. You are playing ski-ball.  You roll a ball (m = 0.20 kg) up from the bottom of the ramp with an initial speed of 7 m/s.  By the time the ball reaches the top of the frictionless ramp (which has a height of 1.5 meters), how fast is the ball travelling?
 3. Starting from rest, a child zooms down a frictionless slide from an initial height of 3.00 m.  What is her speed at the bottom of the slide?  Assume she has a mass of 25.0 kg.
-4. A rebellious teenager decides to defy the world by taking a rock with mass **450 g** and throwing it straight up into the air with a velocity of 37 m/s while standing on a cliff that is 90 m above the ground.  How high from the top of the cliff will the rock go (be careful about what you call a height of zero)?  Neglect air resistance.
-5. Robert (m = 75 kg) starts at rest at the top of a carnival slide, which is 20 m above the ground.  As he slides down, friction does 1500 J of work.  How fast is he going when he gets to the ground?
-
+4. Robert (m = 75 kg) starts at rest at the top of a carnival slide, which is 20 m above the ground.  As he slides down, friction does 1500 J of work.  How fast is he going when he gets to the ground?
+5. A 1300-kg roller coaster starts at rest on the top of a 60-meter hill.  The track goes down to ground level before going up a second hill with a height of 35 meters.  There is no friction
+	1. Draw a picture
+	2. How fast is the coaster travelling at the bottom of the first hill?
+	3. How fast is the coaster travelling at the top of the second hill?
+	4. Now, let’s add friction to this problem.  With friction, the roller coaster does not make it to the top of the second hill; instead, it only reaches a height of 30 m before stopping.  How much work is done by friction?
 
 
 6. A rollercoaster (m = 1000 kg) starts from rest at the top of a 50 m hill.  The tracks are frictionless.
 	1. If the hill goes all the way down to the ground, how fast should it be going at that point?
 	2. Continuing the problem, the rollercoaster continues to the top of the next hill, which is 35 m high.  What is its velocity at the top of the next hill?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAyNzczNjYsLTEwNDg1NjkxMTYsLT
-M2NTczNzgxOCwtOTM2ODU1MTUyLC0xNzc5NDE2NDldfQ==
+eyJoaXN0b3J5IjpbNDI2MTA3NzI4LC0xMDgwMjc3MzY2LC0xMD
+Q4NTY5MTE2LC0zNjU3Mzc4MTgsLTkzNjg1NTE1MiwtMTc3OTQx
+NjQ5XX0=
 -->
