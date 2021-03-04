@@ -5,7 +5,10 @@ Agenda
 ---------  
 **Objective:** Understand the concepts of *torque* and *moment of inertia*.
 
-1. 
+1. Take questions over the HW
+2. Do the [Torque Lab][lab]
+3. Notes on **Moment of Inertia for Extended Objects**
+4. Do Problem #3 on the [Practice Problems][probs] from last class.
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -26,8 +29,9 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4731439922/info
 [wu]: https://avon.schoology.com/page/4736717996
 [probs]: https://avon.schoology.com/page/4736900872
+[lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM4OTYyODUsNDkxNjEzOTAyLDM4MD
+eyJoaXN0b3J5IjpbLTE3OTAxNjI0MzUsNDkxNjEzOTAyLDM4MD
 EyNDg4OSwtMzQwNzA2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYw
 NiwtMTQ3ODcxNDA1OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNT
 czMTU0NjksMTU2ODA0NjA4MSwtNzUxNjQ3NzQ4LC0xODc2NDIx
