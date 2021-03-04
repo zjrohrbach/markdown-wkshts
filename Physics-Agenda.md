@@ -6,9 +6,9 @@ Agenda
 **Objective:** Be able to understand the concept of *Conservation of Energy* and solve problems related to this concept.
 
 1. Finish and turn in the [Marble Lab Revisited][marble]
-2. Go through some Socrative questions
-3. Introduce the [Bonus Problem][godfather]
-4. Do the [3/5,9 Assignment][assmt]
+2. Introduce the [Bonus Problem][godfather]
+3. Do the [3/5,9 Assignment][assmt]
+4. Go through some Socrative questions
 
 **If absent:** Watch [this video][vid]
 
@@ -26,7 +26,7 @@ Homework
 [godfather]: https://avon.schoology.com/assignment/4744040535/
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwNzk5ODksLTQ5MDgzNjI0LC0yMT
+eyJoaXN0b3J5IjpbLTE5MDMxNjg4NTEsLTQ5MDgzNjI0LC0yMT
 AzOTcyNTkxLDExNDE1NDUwMjcsMTgwNjA3NzExOSwxODY5MDcz
 NzMyLC0xNDQxNzQ3NjkwLDEzMTc1NzQyNTgsLTExMTMzOTAxOT
 UsMTQwMzQyNzk3OCw1OTg1NDE4ODYsNzIxMzU1MDIwLDE1MDg5
