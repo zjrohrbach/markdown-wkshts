@@ -15,7 +15,7 @@ Agenda
 Homework 
 -------------
 - Project **Presentations** start on Tues, Mar 16.  Make sure you know when you are [scheduled][sched] to give your presentation.
-- [Unit 06 Test Corrections][correct] should be done Friday
+- [Unit 06 Test Corrections][correct] should be done
 - **Unit 07 (Energy) Test** is coming up on Fri, Mar 12 / Mon, Mar 15
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
@@ -23,11 +23,11 @@ Homework
 [marble]: https://avon.schoology.com/assignment/4737347924/
 [assmt]: https://avon.schoology.com/assignment/4740948004/info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NTU2NTc1LC0yMTAzOTcyNTkxLDExND
-E1NDUwMjcsMTgwNjA3NzExOSwxODY5MDczNzMyLC0xNDQxNzQ3
-NjkwLDEzMTc1NzQyNTgsLTExMTMzOTAxOTUsMTQwMzQyNzk3OC
-w1OTg1NDE4ODYsNzIxMzU1MDIwLDE1MDg5OTE4NTAsLTEwNDA1
-MjA3NDAsMTc0MjE2NDk4NSwxNjQzMTQ3Nzc2LC03MDcyNzI0NS
-wtMTQ0MTg0NTI3OCwxOTIzNzk3NDA1LC05ODc0NDAxMjcsNTQx
-MDUxMTM5XX0=
+eyJoaXN0b3J5IjpbMTA0ODY3Nzg5NiwtMjEwMzk3MjU5MSwxMT
+QxNTQ1MDI3LDE4MDYwNzcxMTksMTg2OTA3MzczMiwtMTQ0MTc0
+NzY5MCwxMzE3NTc0MjU4LC0xMTEzMzkwMTk1LDE0MDM0Mjc5Nz
+gsNTk4NTQxODg2LDcyMTM1NTAyMCwxNTA4OTkxODUwLC0xMDQw
+NTIwNzQwLDE3NDIxNjQ5ODUsMTY0MzE0Nzc3NiwtNzA3MjcyND
+UsLTE0NDE4NDUyNzgsMTkyMzc5NzQwNSwtOTg3NDQwMTI3LDU0
+MTA1MTEzOV19
 -->
