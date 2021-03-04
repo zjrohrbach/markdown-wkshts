@@ -3,12 +3,12 @@ Fri, Mar 5 / Tue, Mar 9
   
 Agenda  
 ---------  
-**Objective:** Apply torque to a real situation.  Learn how to calculate the moment of inertia of extended 
+**Objective:** Apply torque to a real situation.  Learn how to calculate the moment of inertia of extended objects.
 
 1. Take questions over the HW
-2. Do the [Torque Lab][lab]
-3. Notes on **Moment of Inertia for Extended Objects**
-4. Do Problem #3 on the [Practice Problems][probs] from last class.
+2. Notes on **Moment of Inertia for Extended Objects**
+3. Do Problem #3 on the [Practice Problems][probs] from last class.
+4. Do the [Torque Lab][lab]
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -31,11 +31,11 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzQzNjQ0MSwtMTc5MDE2MjQzNSw0OT
-E2MTM5MDIsMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MTYwNDUy
-NzUsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTExOTUsNj
-UyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NTE2NDc3
-NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3MzM2OS
-wtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MDgsMTI2
-NDczNzgzN119
+eyJoaXN0b3J5IjpbLTE1Nzk2MjcwOTUsLTE3OTAxNjI0MzUsND
+kxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3LC0xNjE2MDQ1
+Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OSwxNjY2NTkxMTk1LD
+Y1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0NjA4MSwtNzUxNjQ3
+NzQ4LC0xODc2NDIxNzg4LC0xODExNTYxNDEwLC03ODYyNzMzNj
+ksLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMTMwOTE5NDA4LDEy
+NjQ3Mzc4MzddfQ==
 -->
