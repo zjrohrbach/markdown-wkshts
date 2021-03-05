@@ -26,15 +26,12 @@ Homework
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 [correct]: https://avon.schoology.com/assignment/4731439922/info
-[wu]: https://avon.schoology.com/page/4736717996
-[probs]: https://avon.schoology.com/page/4736900872
-[lab]: https://avon.schoology.com/assignment/4743905851/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTE5MzA0NCwxNTU4MjE2MjUwLC0xNz
-kwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3
-NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMT
-Y2NjU5MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYw
-ODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMC
-wtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEz
-MDkxOTQwOF19
+eyJoaXN0b3J5IjpbNjk2OTAzOTA5LDE1NTgyMTYyNTAsLTE3OT
+AxNjI0MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3
+LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OSwxNj
+Y2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0NjA4
+MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYxNDEwLC
+03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMTMw
+OTE5NDA4XX0=
 -->
