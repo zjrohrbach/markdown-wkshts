@@ -6,7 +6,7 @@ Agenda
 **Objective:** Understand rotational Kinetic Energy and be able to apply it.
 
 1. Take questions over the HW
-2. Notes on **Moment of Inertia for Extended Objects**
+2. Notes on **Rotational Kinetic Energy**
 3. Do Problem #3 on the [Practice Problems][probs] from last class.
 4. Do the [Torque Lab][lab]
 
@@ -31,11 +31,11 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]: https://avon.schoology.com/assignment/4743905851/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk2NjYxLDE1NTgyMTYyNTAsLTE3OT
-AxNjI0MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3
-LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OSwxNj
-Y2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0NjA4
-MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYxNDEwLC
-03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMTMw
-OTE5NDA4XX0=
+eyJoaXN0b3J5IjpbLTc1NzA2MjUwMiwxNTU4MjE2MjUwLC0xNz
+kwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3
+NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMT
+Y2NjU5MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYw
+ODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMC
+wtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEz
+MDkxOTQwOF19
 -->
