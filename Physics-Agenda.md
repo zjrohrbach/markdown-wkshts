@@ -22,21 +22,16 @@ Homework
 - **Unit 07 (Energy) Test** is coming up on Fri, Mar 12 / Mon, Mar 15
 - Project **Presentations** start on Tues, Mar 16.  Make sure you know when you are [scheduled][sched] to give your presentation.
 - If you want to do the [Godfather Bonus Problem][godfather], it needs to be turned in before Spring Break.
-- [Unit 06 Test Corrections][correct] should be done
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVsn6ZkyMl5JvXYEBYTGRvoBX3OiSecqg16WeqB-1EcFXQ?e=287pOt
-[correct]: https://avon.schoology.com/assignment/4724955003/
-[marble]: https://avon.schoology.com/assignment/4737347924/
-[assmt]: https://avon.schoology.com/assignment/4740948004/
+[assmt]: https://avon.schoology.com/assignment/4744810915/
 [godfather]: https://avon.schoology.com/assignment/4744040535/
-[1]: https://avon.schoology.com/course/2624603689/materials/gp/4747676862
-[2]: https://avon.schoology.com/course/2624603689/materials/gp/4747676925
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzkyNTkzNiw3MDIzOTQ5MjgsNjI5Mj
-M3NzYsMTc2ODIxNTc5LC0xOTAzMTY4ODUxLC00OTA4MzYyNCwt
-MjEwMzk3MjU5MSwxMTQxNTQ1MDI3LDE4MDYwNzcxMTksMTg2OT
-A3MzczMiwtMTQ0MTc0NzY5MCwxMzE3NTc0MjU4LC0xMTEzMzkw
-MTk1LDE0MDM0Mjc5NzgsNTk4NTQxODg2LDcyMTM1NTAyMCwxNT
-A4OTkxODUwLC0xMDQwNTIwNzQwLDE3NDIxNjQ5ODUsMTY0MzE0
-Nzc3Nl19
+eyJoaXN0b3J5IjpbMTM2NDk1MzQ4NiwxMTg3OTI1OTM2LDcwMj
+M5NDkyOCw2MjkyMzc3NiwxNzY4MjE1NzksLTE5MDMxNjg4NTEs
+LTQ5MDgzNjI0LC0yMTAzOTcyNTkxLDExNDE1NDUwMjcsMTgwNj
+A3NzExOSwxODY5MDczNzMyLC0xNDQxNzQ3NjkwLDEzMTc1NzQy
+NTgsLTExMTMzOTAxOTUsMTQwMzQyNzk3OCw1OTg1NDE4ODYsNz
+IxMzU1MDIwLDE1MDg5OTE4NTAsLTEwNDA1MjA3NDAsMTc0MjE2
+NDk4NV19
 -->
