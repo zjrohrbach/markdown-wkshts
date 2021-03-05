@@ -12,7 +12,7 @@ Agenda
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-> Time: 8am Fri, 1:25pm Fri, 8am Tue
+> Time: 8am Mon, 1:25pm Mon, 8am Thu
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
 
@@ -31,7 +31,7 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]: https://avon.schoology.com/assignment/4743905851/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzA2MjUwMiwxNTU4MjE2MjUwLC0xNz
+eyJoaXN0b3J5IjpbMTg0ODA3ODY4MywxNTU4MjE2MjUwLC0xNz
 kwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3
 NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMT
 Y2NjU5MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYw
