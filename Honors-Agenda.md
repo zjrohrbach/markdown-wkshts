@@ -1,9 +1,9 @@
-Fri, Mar 5 / Tue, Mar 9
+Mon, Mar 8 / Thu, Mar 11
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Apply torque to a real situation.  Learn how to calculate the moment of inertia of extended objects.
+**Objective:** U
 
 1. Take questions over the HW
 2. Notes on **Moment of Inertia for Extended Objects**
@@ -31,11 +31,11 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]: https://avon.schoology.com/assignment/4743905851/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODIxNjI1MCwtMTc5MDE2MjQzNSw0OT
-E2MTM5MDIsMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MTYwNDUy
-NzUsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTExOTUsNj
-UyODE1MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NTE2NDc3
-NDgsLTE4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3MzM2OS
-wtMTk3NzU4OTExNywtMTE2NzQwMTk4MSwxMzA5MTk0MDgsMTI2
-NDczNzgzN119
+eyJoaXN0b3J5IjpbMTU3NDE5MDUzNCwxNTU4MjE2MjUwLC0xNz
+kwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3
+NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMT
+Y2NjU5MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYw
+ODEsLTc1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMC
+wtNzg2MjczMzY5LC0xOTc3NTg5MTE3LC0xMTY3NDAxOTgxLDEz
+MDkxOTQwOF19
 -->
