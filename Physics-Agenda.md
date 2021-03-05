@@ -18,6 +18,7 @@ Agenda
 
 Homework 
 -------------
+- Make sure the [lab][marble] is turned in
 - **Unit 07 (Energy) Test** is coming up on Fri, Mar 12 / Mon, Mar 15
 - Project **Presentations** start on Tues, Mar 16.  Make sure you know when you are [scheduled][sched] to give your presentation.
 - If you want to do the [Godfather Bonus Problem][godfather], it needs to be turned in before Spring Break.
@@ -30,11 +31,11 @@ Homework
 [godfather]: https://avon.schoology.com/assignment/4744040535/
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjM3NzYsMTc2ODIxNTc5LC0xOTAzMT
-Y4ODUxLC00OTA4MzYyNCwtMjEwMzk3MjU5MSwxMTQxNTQ1MDI3
-LDE4MDYwNzcxMTksMTg2OTA3MzczMiwtMTQ0MTc0NzY5MCwxMz
-E3NTc0MjU4LC0xMTEzMzkwMTk1LDE0MDM0Mjc5NzgsNTk4NTQx
-ODg2LDcyMTM1NTAyMCwxNTA4OTkxODUwLC0xMDQwNTIwNzQwLD
-E3NDIxNjQ5ODUsMTY0MzE0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4
-NDUyNzhdfQ==
+eyJoaXN0b3J5IjpbNzAyMzk0OTI4LDYyOTIzNzc2LDE3NjgyMT
+U3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLTIxMDM5NzI1OTEs
+MTE0MTU0NTAyNywxODA2MDc3MTE5LDE4NjkwNzM3MzIsLTE0ND
+E3NDc2OTAsMTMxNzU3NDI1OCwtMTExMzM5MDE5NSwxNDAzNDI3
+OTc4LDU5ODU0MTg4Niw3MjEzNTUwMjAsMTUwODk5MTg1MCwtMT
+A0MDUyMDc0MCwxNzQyMTY0OTg1LDE2NDMxNDc3NzYsLTcwNzI3
+MjQ1XX0=
 -->
