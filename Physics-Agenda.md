@@ -14,7 +14,7 @@ Agenda
 **If absent:** 
 
 1. Make sure your [Marble Lab][marble] is turned in.
-2. Watch [this video][vid] for help with the [3/5,9 Assignment][assmt]
+2. Watch these two videos (part 1, part 2) for help with the [3/5,9 Assignment][assmt]
 
 Homework 
 -------------
@@ -29,13 +29,14 @@ Homework
 [marble]: https://avon.schoology.com/assignment/4737347924/
 [assmt]: https://avon.schoology.com/assignment/4740948004/
 [godfather]: https://avon.schoology.com/assignment/4744040535/
-[vid]: 
+[1]: https://avon.schoology.com/course/2624603689/materials/gp/4747676862
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMzk0OTI4LDYyOTIzNzc2LDE3NjgyMT
-U3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLTIxMDM5NzI1OTEs
-MTE0MTU0NTAyNywxODA2MDc3MTE5LDE4NjkwNzM3MzIsLTE0ND
-E3NDc2OTAsMTMxNzU3NDI1OCwtMTExMzM5MDE5NSwxNDAzNDI3
-OTc4LDU5ODU0MTg4Niw3MjEzNTUwMjAsMTUwODk5MTg1MCwtMT
-A0MDUyMDc0MCwxNzQyMTY0OTg1LDE2NDMxNDc3NzYsLTcwNzI3
-MjQ1XX0=
+eyJoaXN0b3J5IjpbLTI2MTM3OTczNCw3MDIzOTQ5MjgsNjI5Mj
+M3NzYsMTc2ODIxNTc5LC0xOTAzMTY4ODUxLC00OTA4MzYyNCwt
+MjEwMzk3MjU5MSwxMTQxNTQ1MDI3LDE4MDYwNzcxMTksMTg2OT
+A3MzczMiwtMTQ0MTc0NzY5MCwxMzE3NTc0MjU4LC0xMTEzMzkw
+MTk1LDE0MDM0Mjc5NzgsNTk4NTQxODg2LDcyMTM1NTAyMCwxNT
+A4OTkxODUwLC0xMDQwNTIwNzQwLDE3NDIxNjQ5ODUsMTY0MzE0
+Nzc3Nl19
 -->
