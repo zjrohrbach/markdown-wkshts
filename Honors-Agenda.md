@@ -7,8 +7,7 @@ Agenda
 
 1. Take questions over the HW
 2. Notes on **Rotational Kinetic Energy**
-3. Do Problem #3 on the [Practice Problems][probs] from last class.
-4. Do the [Torque Lab][lab]
+3. Take the HW Quiz
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -20,9 +19,9 @@ Homework
 -------------  
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
 - Make sure you are working on your [Syllabus]
-	- 8.1 and 8.2-3 should be done.  HW quiz postponed until next class
 	- 8.4 and 8.5-6 due Wed evening, Mar 10
-- [Test Corrections][correct] should be done by next Friday
+	- 8-7 due Mon evening, Mar 15
+- [Test Corrections][correct] should be done by Friday
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
@@ -31,7 +30,7 @@ Homework
 [probs]: https://avon.schoology.com/page/4736900872
 [lab]: https://avon.schoology.com/assignment/4743905851/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODA3ODY4MywxNTU4MjE2MjUwLC0xNz
+eyJoaXN0b3J5IjpbLTI0MTE5MzA0NCwxNTU4MjE2MjUwLC0xNz
 kwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3
 NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMT
 Y2NjU5MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYw
