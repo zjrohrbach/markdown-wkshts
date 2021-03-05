@@ -11,7 +11,10 @@ Agenda
 4. Do the [3/5,9 Assignment][assmt]
 5. Go through some Socrative questions
 
-**If absent:** Watch [this video][vid]
+**If absent:** 
+
+1. Make sure your [Marble Lab][marble] is turned in.
+2. Watch [this video][vid] for help with the [3/5,9 Assignment][assmt]
 
 Homework 
 -------------
@@ -27,11 +30,11 @@ Homework
 [godfather]: https://avon.schoology.com/assignment/4744040535/
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODIxNTc5LC0xOTAzMTY4ODUxLC00OT
-A4MzYyNCwtMjEwMzk3MjU5MSwxMTQxNTQ1MDI3LDE4MDYwNzcx
-MTksMTg2OTA3MzczMiwtMTQ0MTc0NzY5MCwxMzE3NTc0MjU4LC
-0xMTEzMzkwMTk1LDE0MDM0Mjc5NzgsNTk4NTQxODg2LDcyMTM1
-NTAyMCwxNTA4OTkxODUwLC0xMDQwNTIwNzQwLDE3NDIxNjQ5OD
-UsMTY0MzE0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4NDUyNzgsMTky
-Mzc5NzQwNV19
+eyJoaXN0b3J5IjpbNjI5MjM3NzYsMTc2ODIxNTc5LC0xOTAzMT
+Y4ODUxLC00OTA4MzYyNCwtMjEwMzk3MjU5MSwxMTQxNTQ1MDI3
+LDE4MDYwNzcxMTksMTg2OTA3MzczMiwtMTQ0MTc0NzY5MCwxMz
+E3NTc0MjU4LC0xMTEzMzkwMTk1LDE0MDM0Mjc5NzgsNTk4NTQx
+ODg2LDcyMTM1NTAyMCwxNTA4OTkxODUwLC0xMDQwNTIwNzQwLD
+E3NDIxNjQ5ODUsMTY0MzE0Nzc3NiwtNzA3MjcyNDUsLTE0NDE4
+NDUyNzhdfQ==
 -->
