@@ -50,11 +50,11 @@ Warmup
 Conservation
 ======
 
-| Equations          |                       |                       |
-|:------------------:|:---------------------:|:---------------------:|
-|       $W=Fd$       |    $P=\frac{W}{t}$    |        $F_G=mg$       |
-|                    |$\Sigma E_i=\Sigma E_f$|                       |
-|$KE=\frac{1}{2}mv^2$|        $PE=mgh$       |     $W=\Delta E$      | 
+| Equations          |                           |                       |
+|:------------------:|:-------------------------:|:---------------------:|
+|       $W=Fd$       |    $P=\frac{W}{t}$        |        $F_G=mg$       |
+|                    |$\Sigma E_i + W=\Sigma E_f$|                       |
+|$KE=\frac{1}{2}mv^2$|        $PE=mgh$           |     $W=\Delta E$      | 
 
 1. Fill in the missing energy values:
 ![Conservation of Energy on a ramp](/system/files/attachments/page_embeds/m/2021-03/pic1_603fcdabf22e9.png)
@@ -78,17 +78,17 @@ Conservation
 Review 
 ======
 
-| Equations          |                       |                       |
-|:------------------:|:---------------------:|:---------------------:|
-|       $W=Fd$       |    $P=\frac{W}{t}$    |        $F_G=mg$       |
-|                    |$\Sigma E_i=\Sigma E_f$|                       |
-|$KE=\frac{1}{2}mv^2$|        $PE=mgh$       |     $W=\Delta E$      | 
+| Equations          |                           |                       |
+|:------------------:|:-------------------------:|:---------------------:|
+|       $W=Fd$       |    $P=\frac{W}{t}$        |        $F_G=mg$       |
+|                    |$\Sigma E_i + W=\Sigma E_f$|                       |
+|$KE=\frac{1}{2}mv^2$|        $PE=mgh$           |     $W=\Delta E$      | 
 
 
 1. A 75 N force, is used to pull a 20 kg block 1.3 m across the ground.
 	1. What is the work done on the block?  
 	2. If the block started from rest, what is its final velocity?  
-	3. f this took 2.3 s, what was the power exerted by the person pulling the block?  
+	3. If this took 2.3 s, what was the power exerted by the person pulling the block?  
 2. A car (m = 1100 kg) that is originally traveling 55 m/s, hits the brakes and comes to a complete stop.
 	1. How much work was done by the brakes to stop the car?  
 	2. How far did the car travel if a force of 170,000 N was applied by the brakes?  
@@ -98,7 +98,7 @@ Review
 	1. How far up the ramp can the marble go before it stops? (assuming no friction)
 	2. Assume that the marble instead only went up 0.12 m.  How much work was done by friction?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzEwMjAxMSwtMTA4MDI3NzM2NiwtMT
-A0ODU2OTExNiwtMzY1NzM3ODE4LC05MzY4NTUxNTIsLTE3Nzk0
-MTY0OV19
+eyJoaXN0b3J5IjpbLTIwNjk0NjI2NzAsLTM3NzEwMjAxMSwtMT
+A4MDI3NzM2NiwtMTA0ODU2OTExNiwtMzY1NzM3ODE4LC05MzY4
+NTUxNTIsLTE3Nzk0MTY0OV19
 -->
