@@ -1,13 +1,13 @@
-Mon, Mar 8 / Thu, Mar 11
+Wed, Mar 10 E-Learning
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Understand rotational Kinetic Energy and be able to apply it.
+**Objective:** Make sure you can do rotational kinematics, dynamics, and moment of inertia problems.
 
-1. Take questions over the HW
-2. Notes on **Rotational Kinetic Energy**
-3. Take the HW Quiz
+1. There is no additional work other than what is already assigned on your syllabus.
+2. Make sure [8.4 and 8.5-6] assignments are turned in by the end of today.
+3. I will host open Office Hours from 
 
 **If absent:** Please make an effort to log in to Zoom during class time  
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
@@ -27,11 +27,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 [correct]: https://avon.schoology.com/assignment/4731439922/info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2OTAzOTA5LDE1NTgyMTYyNTAsLTE3OT
-AxNjI0MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3
-LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OSwxNj
-Y2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0NjA4
-MSwtNzUxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYxNDEwLC
-03ODYyNzMzNjksLTE5Nzc1ODkxMTcsLTExNjc0MDE5ODEsMTMw
-OTE5NDA4XX0=
+eyJoaXN0b3J5IjpbLTczMDgyNTY4Nyw2OTY5MDM5MDksMTU1OD
+IxNjI1MCwtMTc5MDE2MjQzNSw0OTE2MTM5MDIsMzgwMTI0ODg5
+LC0zNDA3MDYyNzcsLTE2MTYwNDUyNzUsODc4MzM4NjA2LC0xND
+c4NzE0MDU5LDE2NjY1OTExOTUsNjUyODE1MzMyLDM1NzMxNTQ2
+OSwxNTY4MDQ2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLT
+E4MTE1NjE0MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2
+NzQwMTk4MV19
 -->
