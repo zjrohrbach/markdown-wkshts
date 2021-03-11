@@ -1,17 +1,18 @@
-Wed, Mar 10 E-Learning
+Fri, Mar 12 / Mon, Mar 15
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Make sure you can do rotational kinematics, dynamics, and moment of inertia problems.
+**Objective:** Understand *angular momentum* and its conservation.
 
-1. There is no additional work other than what is already assigned on your syllabus.
-2. Make sure [8.4 and 8.5-6][8.4] assignments are turned in by the end of today.
-3. I will host open Office Hours from 1:00 to 2:00 on Zoom
-	> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
-	> Time: 1:00pm - 2:00pm on Wed, Mar 10
-	> Meeting ID: 896 5236 1206  
-	> Passcode: J5ePse 
+1. Notes on **Angular M
+
+**If absent**: Please join us on Zoom
+
+> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)  
+> Time: 8:00am Fri, 1:25pm Fri, 8:00am Mon
+> Meeting ID: 896 5236 1206  
+> Passcode: J5ePse 
 
 Homework   
 -------------  
@@ -26,11 +27,11 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4731439922/
 [8.4]: https://avon.schoology.com/assignment/4724385833/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDA0NTQzMiw2OTY5MDM5MDksMTU1OD
-IxNjI1MCwtMTc5MDE2MjQzNSw0OTE2MTM5MDIsMzgwMTI0ODg5
-LC0zNDA3MDYyNzcsLTE2MTYwNDUyNzUsODc4MzM4NjA2LC0xND
-c4NzE0MDU5LDE2NjY1OTExOTUsNjUyODE1MzMyLDM1NzMxNTQ2
-OSwxNTY4MDQ2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLT
-E4MTE1NjE0MTAsLTc4NjI3MzM2OSwtMTk3NzU4OTExNywtMTE2
-NzQwMTk4MV19
+eyJoaXN0b3J5IjpbLTIzNDMwNzg1MiwxNzcwMDQ1NDMyLDY5Nj
+kwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkw
+MiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4Nz
+gzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NTI4MTUz
+MzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMT
+g3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2MjczMzY5LC0xOTc3
+NTg5MTE3XX0=
 -->
