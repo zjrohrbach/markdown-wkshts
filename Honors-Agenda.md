@@ -19,19 +19,19 @@ Agenda
 
 Homework   
 -------------  
-- Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	
+- Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
 - The rest of the [syllabus] is due on Test Day!
-- Test Day is Thurs, Mar 18 / Fri, Mar 19
+- Test Day is Thurs, Mar 18 / Fri, Mar 19 (last day before break!)
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 [read]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODAxMDkzOCwtMTY2MzY5MDA1MiwxNz
-cwMDQ1NDMyLDY5NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYy
-NDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMT
-YxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5
-MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLT
-c1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2
-MjczMzY5XX0=
+eyJoaXN0b3J5IjpbMjgzMzQ0OTg2LC0xNjYzNjkwMDUyLDE3Nz
+AwNDU0MzIsNjk2OTAzOTA5LDE1NTgyMTYyNTAsLTE3OTAxNjI0
+MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3LC0xNj
+E2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OSwxNjY2NTkx
+MTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0NjA4MSwtNz
+UxNjQ3NzQ4LC0xODc2NDIxNzg4LC0xODExNTYxNDEwLC03ODYy
+NzMzNjldfQ==
 -->
