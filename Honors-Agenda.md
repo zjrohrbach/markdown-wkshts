@@ -7,7 +7,8 @@ Agenda
 
 1. Notes on **Angular Momentum**
 2. Do the [Angular Momentum Reading][read] and discuss
-3. Work time
+3. Angular Momentum Demos
+4. Work time
 
 **If absent**: Please join us on Zoom
 
@@ -26,11 +27,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 [read]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM2OTAwNTIsMTc3MDA0NTQzMiw2OT
-Y5MDM5MDksMTU1ODIxNjI1MCwtMTc5MDE2MjQzNSw0OTE2MTM5
-MDIsMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MTYwNDUyNzUsOD
-c4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTExOTUsNjUyODE1
-MzMyLDM1NzMxNTQ2OSwxNTY4MDQ2MDgxLC03NTE2NDc3NDgsLT
-E4NzY0MjE3ODgsLTE4MTE1NjE0MTAsLTc4NjI3MzM2OSwtMTk3
-NzU4OTExN119
+eyJoaXN0b3J5IjpbMTc5ODAxMDkzOCwtMTY2MzY5MDA1MiwxNz
+cwMDQ1NDMyLDY5NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYy
+NDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMT
+YxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5
+MTE5NSw2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLT
+c1MTY0Nzc0OCwtMTg3NjQyMTc4OCwtMTgxMTU2MTQxMCwtNzg2
+MjczMzY5XX0=
 -->
