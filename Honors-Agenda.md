@@ -7,7 +7,7 @@ Agenda
 
 1. Questions on HW (make sure to do a conservation of angular momentum problem)
 2. Do the [Review Questions](https://avon.schoology.com/course/2624603229/materials/gp/4770986170)
-3. Play [Rotational Motion Jeopardy]
+3. Play Rotational Motion Jeopardy
 
 **If absent**: Please join us on Zoom
 
@@ -25,11 +25,11 @@ Homework
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOT
-U5MzYzMzYxLDI4MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1
-NDMyLDY5NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LD
-Q5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMTYxNjA0
-NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NS
-w2NTI4MTUzMzIsMzU3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0
-Nzc0OF19
+eyJoaXN0b3J5IjpbMTExMzIyMDY5MSwtMTI0MjUyNjYxMywtNT
+U0MjgxMzk0LDE5NTkzNjMzNjEsMjgzMzQ0OTg2LC0xNjYzNjkw
+MDUyLDE3NzAwNDU0MzIsNjk2OTAzOTA5LDE1NTgyMTYyNTAsLT
+E3OTAxNjI0MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2
+Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNiwtMTQ3ODcxNDA1OS
+wxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNTczMTU0NjksMTU2ODA0
+NjA4MV19
 -->
