@@ -1,14 +1,13 @@
-Fri, Mar 12 / Mon, Mar 15
+Tue, Mar 16 / Wed, Mar 17
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Understand *angular momentum* and its conservation.
+**Objective:** Review what we know about rotational motion.
 
-1. Notes on **Angular Momentum**
-2. Do the [Angular Momentum Reading][read] and discuss
-3. Angular Momentum Demos
-4. Work time
+1. Questions on HW (make sure to do a conservation of angular momentum problem)
+2. Do the Review Questions
+3. Rotational Motion Jeopardy
 
 **If absent**: Please join us on Zoom
 
@@ -21,17 +20,17 @@ Homework
 -------------  
 - Be working on your project! Presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
 - The rest of the [syllabus] is due on Test Day!
-- Test Day is Thurs, Mar 18 / Fri, Mar 19 (last day before break!)
+- Test Day is **next class**!
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843178
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4766712406
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTM2MzM2MSwyODMzNDQ5ODYsLTE2Nj
-M2OTAwNTIsMTc3MDA0NTQzMiw2OTY5MDM5MDksMTU1ODIxNjI1
-MCwtMTc5MDE2MjQzNSw0OTE2MTM5MDIsMzgwMTI0ODg5LC0zND
-A3MDYyNzcsLTE2MTYwNDUyNzUsODc4MzM4NjA2LC0xNDc4NzE0
-MDU5LDE2NjY1OTExOTUsNjUyODE1MzMyLDM1NzMxNTQ2OSwxNT
-Y4MDQ2MDgxLC03NTE2NDc3NDgsLTE4NzY0MjE3ODgsLTE4MTE1
-NjE0MTBdfQ==
+eyJoaXN0b3J5IjpbLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4Mz
+M0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5NjkwMzkw
+OSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkwMiwzOD
+AxMjQ4ODksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4NzgzMzg2
+MDYsLTE0Nzg3MTQwNTksMTY2NjU5MTE5NSw2NTI4MTUzMzIsMz
+U3MzE1NDY5LDE1NjgwNDYwODEsLTc1MTY0Nzc0OCwtMTg3NjQy
+MTc4OF19
 -->
