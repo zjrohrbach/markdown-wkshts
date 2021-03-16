@@ -1,12 +1,13 @@
-Fri, Mar 12 / Mon, Mar 15
+Tue, Mar 16 - Fri, Mar 19
 ==================
 
 Agenda
 ---------
-**Objective:** Make sure to $W/t$ through this test!  You have a lot of $mgy$, you just need to $F_\parallel d$ hard and stick with it!
+**Objective:** Learn from your classmates about interesting physics applications
 
-1. Do [Review Warmup #1][1] and [Review Warmups #2-3][2]
-2. Take both the [Computer Portion][t] and Paper Portion of the test.
+1. Presentation Day (See the [Schedule][sched])
+2. When you come in, please find your group.
+3. You will be completing a notetaker: write down three things you learn from each presentation.  Will be collected at the end of
 
 **If absent**
 
@@ -27,11 +28,11 @@ Homework
 [t]: https://avon.schoology.com/assignment/4745402916/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg0ODYzNiwtNTEyODU0MjA4LC0xOT
-Y1MDQwMDU1LC0zMTg2ODA3MjYsMTU5ODgxNTIzOCwxMTg3OTI1
-OTM2LDcwMjM5NDkyOCw2MjkyMzc3NiwxNzY4MjE1NzksLTE5MD
-MxNjg4NTEsLTQ5MDgzNjI0LC0yMTAzOTcyNTkxLDExNDE1NDUw
-MjcsMTgwNjA3NzExOSwxODY5MDczNzMyLC0xNDQxNzQ3NjkwLD
-EzMTc1NzQyNTgsLTExMTMzOTAxOTUsMTQwMzQyNzk3OCw1OTg1
-NDE4ODZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjU2NDY0MDIsLTE4ODg0ODYzNiwtNT
+EyODU0MjA4LC0xOTY1MDQwMDU1LC0zMTg2ODA3MjYsMTU5ODgx
+NTIzOCwxMTg3OTI1OTM2LDcwMjM5NDkyOCw2MjkyMzc3NiwxNz
+Y4MjE1NzksLTE5MDMxNjg4NTEsLTQ5MDgzNjI0LC0yMTAzOTcy
+NTkxLDExNDE1NDUwMjcsMTgwNjA3NzExOSwxODY5MDczNzMyLC
+0xNDQxNzQ3NjkwLDEzMTc1NzQyNTgsLTExMTMzOTAxOTUsMTQw
+MzQyNzk3OF19
 -->
