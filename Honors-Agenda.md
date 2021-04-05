@@ -1,15 +1,14 @@
-Thu, Mar 18 / Fri, Mar 19
+Mon, Apr 5 / Tue, Apr 6
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Prove what you know about rotational motion.
+**Objective:** Apply the physics you've learned this year to solve  a problem
 
-1. Take the [Computer Portion](https://avon.schoology.com/course/2624603229/assessments/4778658020) of the test
-2. Take the Paper portion of the test.
+1. Reminders about the Project and the [Presentation Schedule][sched]
+2. Do the [Loop Lab]
 
-**If absent,** we will make up your test when you get back from break.
-
+**If absent,** please send me a message so we can figure out a way to make up the lab.
 <!--
 **If absent**: Please join us on Zoom
 
@@ -21,15 +20,18 @@ Agenda
 
 Homework   
 -------------  
-- Project presentations start on *Apr 7*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
+- Project presentations start on *next class*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
+- [Test Corrections] are open!
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
+[correct]:
+[lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg2ODk1NjIsLTkxNzkyODQyMiwtMT
-I0MjUyNjYxMywtNTU0MjgxMzk0LDE5NTkzNjMzNjEsMjgzMzQ0
-OTg2LC0xNjYzNjkwMDUyLDE3NzAwNDU0MzIsNjk2OTAzOTA5LD
-E1NTgyMTYyNTAsLTE3OTAxNjI0MzUsNDkxNjEzOTAyLDM4MDEy
-NDg4OSwtMzQwNzA2Mjc3LC0xNjE2MDQ1Mjc1LDg3ODMzODYwNi
-wtMTQ3ODcxNDA1OSwxNjY2NTkxMTk1LDY1MjgxNTMzMiwzNTcz
-MTU0NjldfQ==
+eyJoaXN0b3J5IjpbLTE3OTgxMDE2NiwtMTQ1ODY4OTU2MiwtOT
+E3OTI4NDIyLC0xMjQyNTI2NjEzLC01NTQyODEzOTQsMTk1OTM2
+MzM2MSwyODMzNDQ5ODYsLTE2NjM2OTAwNTIsMTc3MDA0NTQzMi
+w2OTY5MDM5MDksMTU1ODIxNjI1MCwtMTc5MDE2MjQzNSw0OTE2
+MTM5MDIsMzgwMTI0ODg5LC0zNDA3MDYyNzcsLTE2MTYwNDUyNz
+UsODc4MzM4NjA2LC0xNDc4NzE0MDU5LDE2NjY1OTExOTUsNjUy
+ODE1MzMyXX0=
 -->
