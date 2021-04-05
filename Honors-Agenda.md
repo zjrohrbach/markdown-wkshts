@@ -10,6 +10,7 @@ Agenda
 3. Do the [Loop Lab]
 
 **If absent,** please send me a message so we can figure out a way to make up the lab.
+
 <!--
 **If absent**: Please join us on Zoom
 
@@ -22,17 +23,17 @@ Agenda
 Homework   
 -------------  
 - Project presentations start on *next class*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
-- [Test Corrections] are open!
+- [Test Corrections][correct[ are open!
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [correct]: https://avon.schoology.com/assignment/4835376289/
-[lab]:
+[lab]: https://avon.schoology.com/assignment/4836012940/info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE2OTUzMDQsMTE5MzY4NjAyNiwtMT
-c5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0MjIsLTEyNDI1
-MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4MzM0NDk4Ni
-wtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5NjkwMzkwOSwxNTU4
-MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4OD
-ksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0
-Nzg3MTQwNTldfQ==
+eyJoaXN0b3J5IjpbLTE4MzkwNTUyMzAsLTEwMDE2OTUzMDQsMT
+E5MzY4NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5
+Mjg0MjIsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMz
+YxLDI4MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5
+NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMz
+kwMiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4
+NzgzMzg2MDZdfQ==
 -->
