@@ -5,8 +5,9 @@ Agenda
 ---------  
 **Objective:** Apply the physics you've learned this year to solve  a problem
 
-1. Reminders about the Project and the [Presentation Schedule][sched]
-2. Do the [Loop Lab]
+1. New Seats!
+2. Reminders about the Project and the [Presentation Schedule][sched]
+3. Do the [Loop Lab]
 
 **If absent,** please send me a message so we can figure out a way to make up the lab.
 <!--
@@ -27,11 +28,11 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4835376289/
 [lab]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzY4NjAyNiwtMTc5ODEwMTY2LC0xND
-U4Njg5NTYyLC05MTc5Mjg0MjIsLTEyNDI1MjY2MTMsLTU1NDI4
-MTM5NCwxOTU5MzYzMzYxLDI4MzM0NDk4NiwtMTY2MzY5MDA1Mi
-wxNzcwMDQ1NDMyLDY5NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkw
-MTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4ODksLTM0MDcwNjI3Ny
-wtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0Nzg3MTQwNTksMTY2
-NjU5MTE5NV19
+eyJoaXN0b3J5IjpbLTEwMDE2OTUzMDQsMTE5MzY4NjAyNiwtMT
+c5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0MjIsLTEyNDI1
+MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4MzM0NDk4Ni
+wtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5NjkwMzkwOSwxNTU4
+MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkwMiwzODAxMjQ4OD
+ksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4NzgzMzg2MDYsLTE0
+Nzg3MTQwNTldfQ==
 -->
