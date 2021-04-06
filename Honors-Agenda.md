@@ -1,15 +1,14 @@
-Mon, Apr 5 / Tue, Apr 6
+Wed, Apr 7 - Mon, Apr 12
 ==================  
   
 Agenda  
 ---------  
 **Objective:** Apply the physics you've learned this year to solve  a problem
 
-1. New Seats!
-2. Reminders about the Project and the [Presentation Schedule][sched]
-3. Do the [Loop Lab][lab]
+1. Listen to projects (see [Presentation Schedule][sched])
+2. Complete the notetaker.
 
-**If absent,** please send me a message so we can figure out a way to make up the lab.
+**If absent:** If today was not your presentation day, you have nothing to make up.  If it was, please message me so we can schedule a time to make it up.
 
 <!--
 **If absent**: Please join us on Zoom
@@ -22,18 +21,17 @@ Agenda
 
 Homework   
 -------------  
-- Project presentations start on *next class*.  See the [schedule][sched] for your presentation day.	However, try to get it done before break!
 - [Test Corrections][correct] are open!
 
 [sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [correct]: https://avon.schoology.com/assignment/4835376289/
 [lab]: https://avon.schoology.com/assignment/4836012940/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMT
-E5MzY4NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5
-Mjg0MjIsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMz
-YxLDI4MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5
-NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMz
-kwMiwzODAxMjQ4ODksLTM0MDcwNjI3NywtMTYxNjA0NTI3NSw4
-NzgzMzg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTQxMTU5NDc3OSwtMTMwMDYwMjM3MywtMT
+AwMTY5NTMwNCwxMTkzNjg2MDI2LC0xNzk4MTAxNjYsLTE0NTg2
+ODk1NjIsLTkxNzkyODQyMiwtMTI0MjUyNjYxMywtNTU0MjgxMz
+k0LDE5NTkzNjMzNjEsMjgzMzQ0OTg2LC0xNjYzNjkwMDUyLDE3
+NzAwNDU0MzIsNjk2OTAzOTA5LDE1NTgyMTYyNTAsLTE3OTAxNj
+I0MzUsNDkxNjEzOTAyLDM4MDEyNDg4OSwtMzQwNzA2Mjc3LC0x
+NjE2MDQ1Mjc1XX0=
 -->
