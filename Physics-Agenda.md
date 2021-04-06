@@ -1,12 +1,14 @@
-Mon, Apr 5 / Tue, Apr 6
+Wed, Apr 7 / Thu, Apr 8
 ==================
 
 Agenda
 ---------
-**Objective:** Be introduced to the concept of *Simple Harmonic Motion*; Design an experiment that you could use to determine what affects the period of a pendulum.
+**Objective:** Determine what factors affect the period of a pendulum.
 
-1. Notes on **Simple Harmonic Motion**
-2. Get started on the [Pendulum Lab][lab]
+1. Brief Review
+2. Data Collection for the [Pendulum Lab][lab]
+3. Turn in Lab.
+4. (*time permitting*) Notes on **Types of Simple Harmonic Oscillators**
 
 **If absent**: Coming Soon!
 
@@ -19,11 +21,11 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4835420000/
 [lab]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMT
-g4ODQ4NjM2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4
-MDcyNiwxNTk4ODE1MjM4LDExODc5MjU5MzYsNzAyMzk0OTI4LD
-YyOTIzNzc2LDE3NjgyMTU3OSwtMTkwMzE2ODg1MSwtNDkwODM2
-MjQsLTIxMDM5NzI1OTEsMTE0MTU0NTAyNywxODA2MDc3MTE5LD
-E4NjkwNzM3MzIsLTE0NDE3NDc2OTAsMTMxNzU3NDI1OCwtMTEx
-MzM5MDE5NV19
+eyJoaXN0b3J5IjpbNTk1ODgzNjU4LDEyNzQxNTIxODMsLTIwNj
+M0NjY4MzQsLTE4ODg0ODYzNiwtNTEyODU0MjA4LC0xOTY1MDQw
+MDU1LC0zMTg2ODA3MjYsMTU5ODgxNTIzOCwxMTg3OTI1OTM2LD
+cwMjM5NDkyOCw2MjkyMzc3NiwxNzY4MjE1NzksLTE5MDMxNjg4
+NTEsLTQ5MDgzNjI0LC0yMTAzOTcyNTkxLDExNDE1NDUwMjcsMT
+gwNjA3NzExOSwxODY5MDczNzMyLC0xNDQxNzQ3NjkwLDEzMTc1
+NzQyNThdfQ==
 -->
