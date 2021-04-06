@@ -16,17 +16,17 @@ Agenda
 
 Homework 
 -------------
-- Make sure your {Lab][lab] is turned in.
+- Make sure your [Lab][lab] is turned in.
 - [Test Corrections][correct] are open!  Make sure to get them finished before next Friday!
 
 [correct]: https://avon.schoology.com/assignment/4835420000/
-[lab]: 
+[lab]: https://avon.schoology.com/assignment/4841068270/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQxNDA2NjYsMTI3NDE1MjE4MywtMj
-A2MzQ2NjgzNCwtMTg4ODQ4NjM2LC01MTI4NTQyMDgsLTE5NjUw
-NDAwNTUsLTMxODY4MDcyNiwxNTk4ODE1MjM4LDExODc5MjU5Mz
-YsNzAyMzk0OTI4LDYyOTIzNzc2LDE3NjgyMTU3OSwtMTkwMzE2
-ODg1MSwtNDkwODM2MjQsLTIxMDM5NzI1OTEsMTE0MTU0NTAyNy
-wxODA2MDc3MTE5LDE4NjkwNzM3MzIsLTE0NDE3NDc2OTAsMTMx
-NzU3NDI1OF19
+eyJoaXN0b3J5IjpbLTE0ODcxMjYyMzksLTIwNjQxNDA2NjYsMT
+I3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4NjM2LC01MTI4
+NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNiwxNTk4ODE1Mj
+M4LDExODc5MjU5MzYsNzAyMzk0OTI4LDYyOTIzNzc2LDE3Njgy
+MTU3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLTIxMDM5NzI1OT
+EsMTE0MTU0NTAyNywxODA2MDc3MTE5LDE4NjkwNzM3MzIsLTE0
+NDE3NDc2OTBdfQ==
 -->
