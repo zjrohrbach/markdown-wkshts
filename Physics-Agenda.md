@@ -1,14 +1,12 @@
-Wed, Apr 7 / Thu, Apr 8
+Fri, Apr 9 / Mon, Apr 12
 ==================
 
 Agenda
 ---------
-**Objective:** Determine what factors affect the period of a pendulum.
+**Objective:** Be able to explain *why* different factors do and do not affect the period of a pendulum.
 
-1. Brief Review
-2. Data Collection for the [Pendulum Lab][lab]
-3. Turn in Lab.
-4. (*time permitting*) Notes on **Types of Simple Harmonic Oscillators**
+1. Lab debrief
+2. Notes on **Simple Harmonic Oscillators**
 
 **If absent**: Coming Soon!
 
@@ -17,16 +15,16 @@ Agenda
 Homework 
 -------------
 - Make sure your [Lab][lab] is turned in.
-- [Test Corrections][correct] are open!  Make sure to get them finished before next Friday!
+- [Test Corrections][correct] are open!  Make sure to get them finished before Friday!
 
 [correct]: https://avon.schoology.com/assignment/4835420000/
 [lab]: https://avon.schoology.com/assignment/4841068270/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxMjYyMzksLTIwNjQxNDA2NjYsMT
-I3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4NjM2LC01MTI4
-NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNiwxNTk4ODE1Mj
-M4LDExODc5MjU5MzYsNzAyMzk0OTI4LDYyOTIzNzc2LDE3Njgy
-MTU3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLTIxMDM5NzI1OT
-EsMTE0MTU0NTAyNywxODA2MDc3MTE5LDE4NjkwNzM3MzIsLTE0
-NDE3NDc2OTBdfQ==
+eyJoaXN0b3J5IjpbNzI3NzI5NTksLTE0ODcxMjYyMzksLTIwNj
+QxNDA2NjYsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4
+NjM2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNi
+wxNTk4ODE1MjM4LDExODc5MjU5MzYsNzAyMzk0OTI4LDYyOTIz
+Nzc2LDE3NjgyMTU3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLT
+IxMDM5NzI1OTEsMTE0MTU0NTAyNywxODA2MDc3MTE5LDE4Njkw
+NzM3MzJdfQ==
 -->
