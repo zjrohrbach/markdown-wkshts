@@ -11,8 +11,8 @@ Agenda
 
 
 **If absent**: 
-4. Watch [this video][vid] 
-5. Complete the the [Pendulum Lab Graphing][labpaper] and [turn it in][graph]
+1. Watch [this video][vid] 
+2. Complete the the [Pendulum Lab Graphing][labpaper] and [turn it in][graph]
 
 
 Homework 
@@ -27,11 +27,11 @@ Homework
 [labpaper]: https://avon.schoology.com/course/2624603689/materials/gp/4846832816
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzI4NDI5NiwtMTM4ODg4MDczNiwtMT
-Q4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYz
-NDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MD
-A1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgsMTE4NzkyNTkzNiw3
-MDIzOTQ5MjgsNjI5MjM3NzYsMTc2ODIxNTc5LC0xOTAzMTY4OD
-UxLC00OTA4MzYyNCwtMjEwMzk3MjU5MSwxMTQxNTQ1MDI3LDE4
-MDYwNzcxMTldfQ==
+eyJoaXN0b3J5IjpbLTE1MDUzNTk0NDgsLTEzODg4ODA3MzYsLT
+E0ODcxMjYyMzksLTIwNjQxNDA2NjYsMTI3NDE1MjE4MywtMjA2
+MzQ2NjgzNCwtMTg4ODQ4NjM2LC01MTI4NTQyMDgsLTE5NjUwND
+AwNTUsLTMxODY4MDcyNiwxNTk4ODE1MjM4LDExODc5MjU5MzYs
+NzAyMzk0OTI4LDYyOTIzNzc2LDE3NjgyMTU3OSwtMTkwMzE2OD
+g1MSwtNDkwODM2MjQsLTIxMDM5NzI1OTEsMTE0MTU0NTAyNywx
+ODA2MDc3MTE5XX0=
 -->
