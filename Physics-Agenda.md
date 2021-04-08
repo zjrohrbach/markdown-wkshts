@@ -6,10 +6,13 @@ Agenda
 **Objective:** Be able to explain *why* different factors do and do not affect the period of a pendulum.
 
 1. Lab debrief
-2. Do the [Pendulum Lab Graphing][graph]
-3. Start working through the [4/9,12 Assignment][assmt]
+2. Start working through the [4/9,12 Assignment][assmt]
+3. Do the [Pendulum Lab Graphing][graph]
 
-**If absent**: Watch [this video][vid] to complete the the [Pendulum Lab Graphing][labpaper] and [turn it in][graph]
+
+**If absent**: 
+4. Watch [this video][vid] 
+5. Complete the the [Pendulum Lab Graphing][labpaper] and [turn it in][graph]
 
 
 Homework 
@@ -24,7 +27,7 @@ Homework
 [labpaper]: https://avon.schoology.com/course/2624603689/materials/gp/4846832816
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDkxNTAyMCwtMTM4ODg4MDczNiwtMT
+eyJoaXN0b3J5IjpbMTUxMzI4NDI5NiwtMTM4ODg4MDczNiwtMT
 Q4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYz
 NDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MD
 A1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgsMTE4NzkyNTkzNiw3
