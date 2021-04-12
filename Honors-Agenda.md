@@ -6,6 +6,7 @@ Agenda
 **Objective:** Apply the physics you've learned this year to solve  a problem
 
 1. Finish one final round of presentations (Periods 1 & 2 only)
+2. Take Notes on **Simple Harmonic Motion and Springs**
 
 **If absent**: Please join us on Zoom starting halfway through the period
 
@@ -16,17 +17,15 @@ Agenda
 
 Homework   
 -------------  
-- [Test Corrections][correct] are open!
+- [Test Corrections][correct] need to be turned in by Friday
 
-[sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EVMXHFfIjQJDml8sDSyMeYsBLcV4ZCg-pDrGaicpsu_iBQ?e=RfXTgy
 [correct]: https://avon.schoology.com/assignment/4835376289/
-[lab]: https://avon.schoology.com/assignment/4836012940/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI4ODI0OCwtNDExNTk0Nzc5LC0xMz
-AwNjAyMzczLC0xMDAxNjk1MzA0LDExOTM2ODYwMjYsLTE3OTgx
-MDE2NiwtMTQ1ODY4OTU2MiwtOTE3OTI4NDIyLC0xMjQyNTI2Nj
-EzLC01NTQyODEzOTQsMTk1OTM2MzM2MSwyODMzNDQ5ODYsLTE2
-NjM2OTAwNTIsMTc3MDA0NTQzMiw2OTY5MDM5MDksMTU1ODIxNj
-I1MCwtMTc5MDE2MjQzNSw0OTE2MTM5MDIsMzgwMTI0ODg5LC0z
-NDA3MDYyNzddfQ==
+eyJoaXN0b3J5IjpbMTYyOTI4MTkyNSwtMTc5Mjg4MjQ4LC00MT
+E1OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4
+NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0Mj
+IsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4
+MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5NjkwMz
+kwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkwMiwz
+ODAxMjQ4ODldfQ==
 -->
