@@ -20,16 +20,16 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/4835420000/
 [4/13]: https://avon.schoology.com/assignment/4858310642/
-[lab]: 
-[data]: 
+[lab]: https://avon.schoology.com/course/2624603689/materials/gp/4859615315
+[data]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EbtSgAQjq21NgYTkEgo9T60BuFAVKdx9iyCF2k5xgej8HQ?e=OO2iCB
 [vid]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjYxNDI5LDEwMjMwNTMwNTUsLTE1MD
-UzNTk0NDgsLTEzODg4ODA3MzYsLTE0ODcxMjYyMzksLTIwNjQx
-NDA2NjYsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4Nj
-M2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNiwx
-NTk4ODE1MjM4LDExODc5MjU5MzYsNzAyMzk0OTI4LDYyOTIzNz
-c2LDE3NjgyMTU3OSwtMTkwMzE2ODg1MSwtNDkwODM2MjQsLTIx
-MDM5NzI1OTFdfQ==
+eyJoaXN0b3J5IjpbMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
+A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
+NjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYzNDY2OD
+M0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MDA1NSwt
+MzE4NjgwNzI2LDE1OTg4MTUyMzgsMTE4NzkyNTkzNiw3MDIzOT
+Q5MjgsNjI5MjM3NzYsMTc2ODIxNTc5LC0xOTAzMTY4ODUxLC00
+OTA4MzYyNF19
 -->
