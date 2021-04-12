@@ -11,7 +11,8 @@ Agenda
 
 
 **If absent**: 
-1. Watch the video [v
+1. Use the [video][vid1] to complete the [4/13-14 Assignment][4/13] and turn it in.
+2. Take notes over Simple Harmonic Oscillators using [this video][vid2]
 
 
 Homework 
@@ -20,9 +21,11 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/4835420000/
 [4/13]: https://avon.schoology.com/assignment/4858310642/
+[vid1]: 
+[vid2]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTY4NDA5MywtMTUwNTM1OTQ0OCwtMT
+eyJoaXN0b3J5IjpbMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMT
 M4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0
 MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1ND
 IwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgs
