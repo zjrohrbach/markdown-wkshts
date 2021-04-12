@@ -19,12 +19,13 @@ Agenda
 Homework   
 -------------  
 - [Test Corrections][correct] need to be turned in by Friday
-- Get
+- Get started on your [Syllabus][syl]
 
 [correct]: https://avon.schoology.com/assignment/4835376289/
 [prac]: https://avon.schoology.com/page/4857644125
+[syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTEwNDM4MCwtMTc5Mjg4MjQ4LC00MT
+eyJoaXN0b3J5IjpbLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MT
 E1OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4
 NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0Mj
 IsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4
