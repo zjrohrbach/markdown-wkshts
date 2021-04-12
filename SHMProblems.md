@@ -1,3 +1,6 @@
+Pendulum Concepts
+-------------------------
+
 1. What are the two things that affect the period of a pendulum?
 2. Why do you suppose that amplitude does not affect the period of a pendulum?
 3. Why do you suppose that mass does not affect the period of the pendulum?
@@ -9,13 +12,17 @@
 	1. What is the frequency with which the flautist takes step?
 	2. What is the period of one step?
 7. What is the equation for period of a pendulum?
-8. What is the frequency and period of a pendulum that has a mass of 0.25 kg and a length of 2 meters?
-9. The same pendulum as discussed in the last problem is taken to another planet, where it has a period of 5.2 seconds.  What is the acceleration of gravity on that other planet?
-10. Pendulum A and pendulum B are identical, except that pendulum A has twice as much amplitude.
+
+Pendulum Problems
+------------------------
+
+1. What is the frequency and period of a pendulum that has a mass of 0.25 kg and a length of 2 meters?
+2. The same pendulum as discussed in the last problem is taken to another planet, where it has a period of 5.2 seconds.  What is the acceleration of gravity on that other planet?
+3. Pendulum A and pendulum B are identical, except that pendulum A has twice as much amplitude.
 	1. Which pendulum has the larger period?  How do you know?
 	2. Which pendulum has the larger top speed?  How do you know?
 	3. Which pendulum has the larger maximum restoring force?  How do you know?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgxNjY4MTIsLTE5NTg5NDQ2NDgsLT
-gxMzU2NTU5Nl19
+eyJoaXN0b3J5IjpbMjM4MTg0NTk4LC0yMDk4MTY2ODEyLC0xOT
+U4OTQ0NjQ4LC04MTM1NjU1OTZdfQ==
 -->
