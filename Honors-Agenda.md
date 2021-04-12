@@ -5,7 +5,7 @@ Agenda
 ---------  
 **Objective:** Apply the physics you've learned this year to solve  a problem
 
-1. Finish one 
+1. Finish one final round of presentations (Periods 1 & 2 only)
 
 **If absent**: Please join us on Zoom starting halfway through the period
 
@@ -22,7 +22,7 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4835376289/
 [lab]: https://avon.schoology.com/assignment/4836012940/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTg2MzUwNiwtNDExNTk0Nzc5LC0xMz
+eyJoaXN0b3J5IjpbLTE3OTI4ODI0OCwtNDExNTk0Nzc5LC0xMz
 AwNjAyMzczLC0xMDAxNjk1MzA0LDExOTM2ODYwMjYsLTE3OTgx
 MDE2NiwtMTQ1ODY4OTU2MiwtOTE3OTI4NDIyLC0xMjQyNTI2Nj
 EzLC01NTQyODEzOTQsMTk1OTM2MzM2MSwyODMzNDQ5ODYsLTE2
