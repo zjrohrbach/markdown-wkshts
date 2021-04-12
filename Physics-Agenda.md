@@ -7,12 +7,13 @@ Agenda
 
 1. Brief review of the factors that affect the period of a pendulum
 2. Do the [4/13-14 Assignment][4/13]
-3. Notes on **Simple Harmonic Oscillators** (Pendulums and Springs)
+3. Discuss springs
+4. Do [Spring Lab A][lab] and 
 
 
 **If absent**: 
-1. Use the [video][vid1] to complete the [4/13-14 Assignment][4/13] and turn it in.
-2. Take notes over Simple Harmonic Oscillators using [this video][vid2]
+5. Use the [video][vid1] to complete the [4/13-14 Assignment][4/13] and turn it in.
+6. Take notes over Simple Harmonic Oscillators using [this video][vid2]
 
 
 Homework 
@@ -25,11 +26,11 @@ Homework
 [vid2]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMT
-M4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0
-MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1ND
-IwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgs
-MTE4NzkyNTkzNiw3MDIzOTQ5MjgsNjI5MjM3NzYsMTc2ODIxNT
-c5LC0xOTAzMTY4ODUxLC00OTA4MzYyNCwtMjEwMzk3MjU5MSwx
-MTQxNTQ1MDI3XX0=
+eyJoaXN0b3J5IjpbLTEzODA3ODE1NCwxMDIzMDUzMDU1LC0xNT
+A1MzU5NDQ4LC0xMzg4ODgwNzM2LC0xNDg3MTI2MjM5LC0yMDY0
+MTQwNjY2LDEyNzQxNTIxODMsLTIwNjM0NjY4MzQsLTE4ODg0OD
+YzNiwtNTEyODU0MjA4LC0xOTY1MDQwMDU1LC0zMTg2ODA3MjYs
+MTU5ODgxNTIzOCwxMTg3OTI1OTM2LDcwMjM5NDkyOCw2MjkyMz
+c3NiwxNzY4MjE1NzksLTE5MDMxNjg4NTEsLTQ5MDgzNjI0LC0y
+MTAzOTcyNTkxXX0=
 -->
