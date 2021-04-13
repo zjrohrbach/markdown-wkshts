@@ -7,14 +7,14 @@ Agenda
 
 1. Brief review of the factors that affect the period of a pendulum
 2. Do the [4/13-14 Assignment][4/13]
-3. Take Notes on **Types of SHM**
+3. Take Notes on **Springs**
 4. Do [Spring Lab A][lab] and [Record your Data][data]
 
 
 **If absent**
 
-1. Use [this video][vid1] to complete the [4/13-14 Assignment][4/13].
-2. Use [this video][vid2] to take notes on **Types of SHM**
+1. Use [this video][vid1] to complete the [4/13-14 Assignment][4/13].  You don't need to turn this in.
+2. Use [this video][vid2] to take notes on **Springs**
 
 
 Homework 
@@ -25,15 +25,15 @@ Homework
 [4/13]: https://avon.schoology.com/assignment/4858310642/
 [lab]: https://avon.schoology.com/course/2624603689/materials/gp/4859615315
 [data]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EbtSgAQjq21NgYTkEgo9T60BuFAVKdx9iyCF2k5xgej8HQ?e=OO2iCB
-[vid1]: 
-[vid2]: 
+[vid1]: https://avon.schoology.com/course/2624603689/materials/gp/4862098053
+[vid2]: https://avon.schoology.com/course/2624603689/materials/gp/4862097990
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2ODAwMzkyLDExOTc5MzA3MDUsODkwNj
-YxNDI5LDEwMjMwNTMwNTUsLTE1MDUzNTk0NDgsLTEzODg4ODA3
-MzYsLTE0ODcxMjYyMzksLTIwNjQxNDA2NjYsMTI3NDE1MjE4My
-wtMjA2MzQ2NjgzNCwtMTg4ODQ4NjM2LC01MTI4NTQyMDgsLTE5
-NjUwNDAwNTUsLTMxODY4MDcyNiwxNTk4ODE1MjM4LDExODc5Mj
-U5MzYsNzAyMzk0OTI4LDYyOTIzNzc2LDE3NjgyMTU3OSwtMTkw
-MzE2ODg1MV19
+eyJoaXN0b3J5IjpbLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5Nz
+kzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0
+OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2Ni
+wxMjc0MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUx
+Mjg1NDIwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MT
+UyMzgsMTE4NzkyNTkzNiw3MDIzOTQ5MjgsNjI5MjM3NzYsMTc2
+ODIxNTc5XX0=
 -->
