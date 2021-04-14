@@ -1,13 +1,11 @@
-Tue, Apr 13 / Wed, Apr 14
+Thu, Apr 15 / Fri, Apr 16
 ==================
 
 Agenda
 ---------
-**Objective:** Be able to solve problems related to pendulums.  Also, be able to compare and contrast the motion of pendulums and springs
+**Objective:** Be able to determine the spring constant of a spring.  Design a lab to determine the factors that affect the period of a spring
 
-1. Brief review of the factors that affect the period of a pendulum
-2. Do the [4/13-14 Assignment][4/13]
-3. Take Notes on **Springs**
+1. Brief review of springs.
 4. Do [Spring Lab A][lab] and [Record your Data][data]
 
 
@@ -29,11 +27,11 @@ Homework
 [vid2]: https://avon.schoology.com/course/2624603689/materials/gp/4862097990
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5Nz
-kzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0
-OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2Ni
-wxMjc0MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUx
-Mjg1NDIwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MT
-UyMzgsMTE4NzkyNTkzNiw3MDIzOTQ5MjgsNjI5MjM3NzYsMTc2
-ODIxNTc5XX0=
+eyJoaXN0b3J5IjpbMTc1MDY4Mzc3NiwtODAzNjAzMTcxLDg5Nj
+gwMDM5MiwxMTk3OTMwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1
+LC0xNTA1MzU5NDQ4LC0xMzg4ODgwNzM2LC0xNDg3MTI2MjM5LC
+0yMDY0MTQwNjY2LDEyNzQxNTIxODMsLTIwNjM0NjY4MzQsLTE4
+ODg0ODYzNiwtNTEyODU0MjA4LC0xOTY1MDQwMDU1LC0zMTg2OD
+A3MjYsMTU5ODgxNTIzOCwxMTg3OTI1OTM2LDcwMjM5NDkyOCw2
+MjkyMzc3Nl19
 -->
