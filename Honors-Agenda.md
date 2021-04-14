@@ -1,4 +1,4 @@
-Tue, Apr 13 / Wed, Apr 14
+Thu, Apr 15 / Fri, Apr 16
 ==================  
   
 Agenda  
@@ -6,8 +6,7 @@ Agenda
 **Objective:** Apply the physics you've learned this year to solve  a problem
 
 1. Finish one final round of presentations (Periods 1 & 2 only)
-2. Take Notes on **Simple Harmonic Motion \& Springs**
-3. Work through a couple [Practice Problems][prac]
+2. Take Notes on **Simple Harmonic Motion \& Springs*ork through a couple [Practice Problems][prac]
 
 **If absent**: Please join us on Zoom starting halfway through the period
 
@@ -25,11 +24,11 @@ Homework
 [prac]: https://avon.schoology.com/page/4857644125
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MT
-E1OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4
-NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0Mj
-IsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwxOTU5MzYzMzYxLDI4
-MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMDQ1NDMyLDY5NjkwMz
-kwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1LDQ5MTYxMzkwMiwz
-ODAxMjQ4ODldfQ==
+eyJoaXN0b3J5IjpbLTE1OTUwNzI0OTQsLTMxODA0NjQwMiwtMT
+c5Mjg4MjQ4LC00MTE1OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2
+OTUzMDQsMTE5MzY4NjAyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NT
+YyLC05MTc5Mjg0MjIsLTEyNDI1MjY2MTMsLTU1NDI4MTM5NCwx
+OTU5MzYzMzYxLDI4MzM0NDk4NiwtMTY2MzY5MDA1MiwxNzcwMD
+Q1NDMyLDY5NjkwMzkwOSwxNTU4MjE2MjUwLC0xNzkwMTYyNDM1
+LDQ5MTYxMzkwMl19
 -->
