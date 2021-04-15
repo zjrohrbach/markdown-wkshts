@@ -17,6 +17,8 @@ Agenda
 > Meeting ID: 896 5236 1206  
 > Passcode: J5ePse 
 
+[Link to Zoom Recording](https://youtu.be/Dye035uUHJM)
+
 Homework   
 -------------  
 - [Test Corrections][correct] need to be turned in by Friday
@@ -26,11 +28,11 @@ Homework
 [prac]: https://avon.schoology.com/page/4857644125
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMT
-IyNDg4MjY1NCwtMzE4MDQ2NDAyLC0xNzkyODgyNDgsLTQxMTU5
-NDc3OSwtMTMwMDYwMjM3MywtMTAwMTY5NTMwNCwxMTkzNjg2MD
-I2LC0xNzk4MTAxNjYsLTE0NTg2ODk1NjIsLTkxNzkyODQyMiwt
-MTI0MjUyNjYxMywtNTU0MjgxMzk0LDE5NTkzNjMzNjEsMjgzMz
-Q0OTg2LC0xNjYzNjkwMDUyLDE3NzAwNDU0MzIsNjk2OTAzOTA5
-LDE1NTgyMTYyNTBdfQ==
+eyJoaXN0b3J5IjpbMTE5NTA1NjMxOCwyMDEzMDU2NTMyLC0yMT
+E5OTM4MDI0LC0xMjI0ODgyNjU0LC0zMTgwNDY0MDIsLTE3OTI4
+ODI0OCwtNDExNTk0Nzc5LC0xMzAwNjAyMzczLC0xMDAxNjk1Mz
+A0LDExOTM2ODYwMjYsLTE3OTgxMDE2NiwtMTQ1ODY4OTU2Miwt
+OTE3OTI4NDIyLC0xMjQyNTI2NjEzLC01NTQyODEzOTQsMTk1OT
+M2MzM2MSwyODMzNDQ5ODYsLTE2NjM2OTAwNTIsMTc3MDA0NTQz
+Miw2OTY5MDM5MDldfQ==
 -->
