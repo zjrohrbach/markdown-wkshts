@@ -21,11 +21,11 @@ Homework
 [4/13]: https://avon.schoology.com/assignment/4858310642/
 [lab-A]: https://avon.schoology.com/course/2624603689/materials/gp/4859615315
 [data]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EbtSgAQjq21NgYTkEgo9T60BuFAVKdx9iyCF2k5xgej8HQ?e=OO2iCB
-[lab-B]: 
+[lab-B]: https://avon.schoology.com/course/2624603689/materials/gp/4866274196
 [vid]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODAzNDM5NiwtODAzNjAzMTcxLDg5Nj
+eyJoaXN0b3J5IjpbLTU1ODQ2MDM1OSwtODAzNjAzMTcxLDg5Nj
 gwMDM5MiwxMTk3OTMwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1
 LC0xNTA1MzU5NDQ4LC0xMzg4ODgwNzM2LC0xNDg3MTI2MjM5LC
 0yMDY0MTQwNjY2LDEyNzQxNTIxODMsLTIwNjM0NjY4MzQsLTE4
