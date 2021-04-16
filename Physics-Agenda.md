@@ -1,35 +1,33 @@
-Thu, Apr 15 / Fri, Apr 16
-==================
-
-Agenda
----------
-**Objective:** Be able to determine the spring constant of a spring.  Design a lab to determine the factors that affect the period of a spring
-
-1. Brief review of springs.
-2. Do [Spring Lab A][lab-A] and [Record your Data][data]
-3. Get set up for [Spring Lab B][lab-B] so we can take data next class.
-
-
-**If absent**  Use [this video][vid] to set up your lab report for [Spring Lab B][lab-B]
-
-
-Homework 
--------------
-- [Test Corrections][correct] are open!  Make sure to get them finished before Friday!
-
-[correct]: https://avon.schoology.com/assignment/4835420000/
-[4/13]: https://avon.schoology.com/assignment/4858310642/
-[lab-A]: https://avon.schoology.com/course/2624603689/materials/gp/4859615315
-[data]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/EbtSgAQjq21NgYTkEgo9T60BuFAVKdx9iyCF2k5xgej8HQ?e=OO2iCB
-[lab-B]: https://avon.schoology.com/course/2624603689/materials/gp/4866274196
-[vid]: 
-
+Mon, Apr 19 / Tue, Apr 20  
+==================  
+  
+Agenda  
+---------  
+**Objective:** Determine the factors that affect the period of a spring  
+  
+1. Brief review of springs.  
+2. Take data for [Spring Lab B][lab-B]  
+ - We will vary *Spring Constant* together as a class.  
+ - Pairs of groups will each get *Mass* and *Amplitude* data.  
+3. [Turn in][turnin] your lab report.  
+  
+  
+**If absent:** Use [this sample data][sample] to complete your lab report and [turn it in][turnin].  
+  
+  
+Homework   
+-------------  
+- Make sure Spring Lab B is turned in.  
+  
+[lab-B]: https://avon.schoology.com/course/2624603689/materials/gp/4866274196  
+[sample]: https://avon.schoology.com/course/2624603689/materials/gp/4872306613  
+[turnin]: https://avon.schoology.com/assignment/4872294724/_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODQ2MDM1OSwtODAzNjAzMTcxLDg5Nj
-gwMDM5MiwxMTk3OTMwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1
-LC0xNTA1MzU5NDQ4LC0xMzg4ODgwNzM2LC0xNDg3MTI2MjM5LC
-0yMDY0MTQwNjY2LDEyNzQxNTIxODMsLTIwNjM0NjY4MzQsLTE4
-ODg0ODYzNiwtNTEyODU0MjA4LC0xOTY1MDQwMDU1LC0zMTg2OD
-A3MjYsMTU5ODgxNTIzOCwxMTg3OTI1OTM2LDcwMjM5NDkyOCw2
-MjkyMzc3Nl19
+eyJoaXN0b3J5IjpbNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2OD
+AwMzkyLDExOTc5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTUs
+LTE1MDUzNTk0NDgsLTEzODg4ODA3MzYsLTE0ODcxMjYyMzksLT
+IwNjQxNDA2NjYsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4
+ODQ4NjM2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MD
+cyNiwxNTk4ODE1MjM4LDExODc5MjU5MzYsNzAyMzk0OTI4LDYy
+OTIzNzc2XX0=
 -->
