@@ -27,7 +27,16 @@ Pendulum Problems
 	1. Which pendulum has the larger period?  How do you know?
 	2. Which pendulum has the larger top speed?  How do you know?
 	3. Which pendulum has the larger maximum restoring force?  How do you know?
+
+Spring and Pendulum Problems
+----------------
+
+1. In the dark of night you are assigned the dubious task of determining the height of a tower upon which you will lay siege.  Conveniently, a pendulum is hanging from the tower to the ground.  If the pendulum has a period of 24 s, how tall is the tower?
+2. A pinball machine uses a spring that is compressed **4.0 cm** to launch a ball.  If the spring constant is 13 N/m, what is the force on the ball at the moment the spring is released?  
+3. A spring with a spring constant of 30.0 N/m is attached to a 2.3 kg mass, and the system is set in motion.  Find the period and frequency.
+4. When a mass of 0.25 kg is attached to a certain spring, it makes 20 complete vibrations in 4.0 s.  What is the spring constant of the spring?
+5. Eddie wants to find the spring constant of a spring, so he hangs the spring vertically and attaches a 0.40 kg mass to the spring’s end.  If the spring stretches **3.0 cm** from its equilibrium position, what is the spring constant?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTU0MTAyMCwtMjA5ODE2NjgxMiwtMT
-k1ODk0NDY0OCwtODEzNTY1NTk2XX0=
+eyJoaXN0b3J5IjpbMjgzMDM1MjQsLTIwOTgxNjY4MTIsLTE5NT
+g5NDQ2NDgsLTgxMzU2NTU5Nl19
 -->
