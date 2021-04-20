@@ -1,4 +1,4 @@
-Mon, Apr 19 / Tue, Apr 20  
+Wed, Apr 21 / Thu, Apr 22
 ==================    
   
 Agenda    
@@ -29,13 +29,13 @@ Homework
 - Finish the [Spring Lab][lab]
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
-[lab]
+[lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOT
-UwNTYzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4
-MjY1NCwtMzE4MDQ2NDAyLC0xNzkyODgyNDgsLTQxMTU5NDc3OS
-wtMTMwMDYwMjM3MywtMTAwMTY5NTMwNCwxMTkzNjg2MDI2LC0x
-Nzk4MTAxNjYsLTE0NTg2ODk1NjIsLTkxNzkyODQyMiwtMTI0Mj
-UyNjYxMywtNTU0MjgxMzk0LDE5NTkzNjMzNjEsMjgzMzQ0OTg2
-LC0xNjYzNjkwMDUyXX0=
+eyJoaXN0b3J5IjpbMTM3ODU0NTgwNCwxNDA2NDEzMjY1LC0yND
+UxMDg4NzMsMTE5NTA1NjMxOCwyMDEzMDU2NTMyLC0yMTE5OTM4
+MDI0LC0xMjI0ODgyNjU0LC0zMTgwNDY0MDIsLTE3OTI4ODI0OC
+wtNDExNTk0Nzc5LC0xMzAwNjAyMzczLC0xMDAxNjk1MzA0LDEx
+OTM2ODYwMjYsLTE3OTgxMDE2NiwtMTQ1ODY4OTU2MiwtOTE3OT
+I4NDIyLC0xMjQyNTI2NjEzLC01NTQyODEzOTQsMTk1OTM2MzM2
+MSwyODMzNDQ5ODZdfQ==
 -->
