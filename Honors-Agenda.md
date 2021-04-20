@@ -6,7 +6,7 @@ Agenda
 **Objective:** Test our spring equations to make sure they match reality.
   
 1. Do the [Spring Lab][lab]
-2. If we finish, go ahead and [turn it in][turnin]
+2. If we finish, go ahead and turn it in
 
 <!---
 3. Work through [Equation of Motions with Desmos](https://avon.schoology.com/page/4872547273) problems.  
@@ -14,7 +14,7 @@ Agenda
 5. [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)  
 -->
   
-**If absent**: Please join us on Zoom during your regular class time  
+**If absent**: Please use this [PhET Simulation](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html) to get your data for the lab.  Use the 'Intro' tab.  If you have questions, please let me know.
  
  <!-- 
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)    
@@ -26,11 +26,12 @@ Agenda
 Homework     
 -------------    
 - Be working on your [Syllabus][syl]  
-- Finish the [Spring Lab][turnin]
+- Finish the [Spring Lab][lab]
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
+[lab]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzQ0NzQ3MiwtMjQ1MTA4ODczLDExOT
+eyJoaXN0b3J5IjpbMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOT
 UwNTYzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4
 MjY1NCwtMzE4MDQ2NDAyLC0xNzkyODgyNDgsLTQxMTU5NDc3OS
 wtMTMwMDYwMjM3MywtMTAwMTY5NTMwNCwxMTkzNjg2MDI2LC0x
