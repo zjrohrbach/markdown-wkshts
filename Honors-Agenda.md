@@ -3,13 +3,15 @@ Mon, Apr 19 / Tue, Apr 20
   
 Agenda    
 ---------    
-**Objective:** Be able to understand how the SHM Equation of Motion applies to physical reality.  Understand the terms *underdamped*, *critically damped*, and *overdamped*.  
+**Objective:** Test our spring equations to make sure they match reality.
   
-1. (*period 2 only*) Notes on  **Equations of Motion** and  [Energy and Equations Practice Problems](https://avon.schoology.com/page/4867526316)  
+1. Do the [Spring Lab]
+
+<!---
 2. Work through [Equation of Motions with Desmos](https://avon.schoology.com/page/4872547273) problems.  
 3. Notes on **Damping** and (if time permits) **SHM in a Pendulum**  
 4. [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)  
-5. Work time  
+-->
   
 **If absent**: Please join us on Zoom during your regular class time  
   
@@ -26,7 +28,7 @@ Homework
 [correct]: https://avon.schoology.com/assignment/4835376289/  
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDUzMDQ2OSwxMTk1MDU2MzE4LDIwMT
+eyJoaXN0b3J5IjpbLTc5MzQ1NTU2MiwxMTk1MDU2MzE4LDIwMT
 MwNTY1MzIsLTIxMTk5MzgwMjQsLTEyMjQ4ODI2NTQsLTMxODA0
 NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OTQ3NzksLTEzMDA2MDIzNz
 MsLTEwMDE2OTUzMDQsMTE5MzY4NjAyNiwtMTc5ODEwMTY2LC0x
