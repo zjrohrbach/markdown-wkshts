@@ -10,7 +10,7 @@ Agenda
 
 <!---
 3. Work through [Equation of Motions with Desmos](https://avon.schoology.com/page/4872547273) problems.  
-4. Notes on **Damping** and (if time permits) **SHM in a Pendulum**  
+4. Notes on **Damping**, **SHM in a Pendulum**  
 5. [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)  
 -->
   
@@ -31,11 +31,11 @@ Homework
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDA0NjA1MiwxMzc4NTQ1ODA0LDE0MD
-Y0MTMyNjUsLTI0NTEwODg3MywxMTk1MDU2MzE4LDIwMTMwNTY1
-MzIsLTIxMTk5MzgwMjQsLTEyMjQ4ODI2NTQsLTMxODA0NjQwMi
-wtMTc5Mjg4MjQ4LC00MTE1OTQ3NzksLTEzMDA2MDIzNzMsLTEw
-MDE2OTUzMDQsMTE5MzY4NjAyNiwtMTc5ODEwMTY2LC0xNDU4Nj
-g5NTYyLC05MTc5Mjg0MjIsLTEyNDI1MjY2MTMsLTU1NDI4MTM5
-NCwxOTU5MzYzMzYxXX0=
+eyJoaXN0b3J5IjpbNDg4MDQ5MzcwLC05NjAwNDYwNTIsMTM3OD
+U0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMx
+OCwyMDEzMDU2NTMyLC0yMTE5OTM4MDI0LC0xMjI0ODgyNjU0LC
+0zMTgwNDY0MDIsLTE3OTI4ODI0OCwtNDExNTk0Nzc5LC0xMzAw
+NjAyMzczLC0xMDAxNjk1MzA0LDExOTM2ODYwMjYsLTE3OTgxMD
+E2NiwtMTQ1ODY4OTU2MiwtOTE3OTI4NDIyLC0xMjQyNTI2NjEz
+LC01NTQyODEzOTRdfQ==
 -->
