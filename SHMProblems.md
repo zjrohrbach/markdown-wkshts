@@ -31,9 +31,10 @@ Pendulum Problems
 Spring and Pendulum Problems
 ----------------
 
-|             Equations              |
-|:----------------------------------:|
-|  $T_P=2\pi\sqrt{\frac{\ell}{g}}$  |
+|             Equations           |         |
+|:-------------------------------:|:------:|
+| $T_P=2\pi\sqrt{\frac{\ell}{g}}$ | |
+|  $T_S=2\pi\sqrt{\frac{m}{k}}$   | #
 
 1. In the dark of night you are assigned the dubious task of determining the height of a tower upon which you will lay siege.  Conveniently, a pendulum is hanging from the tower to the ground.  If the pendulum has a period of 24 s, how tall is the tower?
 2. A pinball machine uses a spring that is compressed **4.0 cm** to launch a ball.  If the spring constant is 13 N/m, what is the force on the ball at the moment the spring is released?  
@@ -41,6 +42,6 @@ Spring and Pendulum Problems
 4. When a mass of 0.25 kg is attached to a certain spring, it makes 20 complete vibrations in 4.0 s.  What is the spring constant of the spring?
 5. Eddie wants to find the spring constant of a spring, so he hangs the spring vertically and attaches a 0.40 kg mass to the spring’s end.  If the spring stretches **3.0 cm** from its equilibrium position, what is the spring constant?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODUwMzUzNiwyODMwMzUyNCwtMjA5OD
-E2NjgxMiwtMTk1ODk0NDY0OCwtODEzNTY1NTk2XX0=
+eyJoaXN0b3J5IjpbNzQ3NTEyMjU4LDI4MzAzNTI0LC0yMDk4MT
+Y2ODEyLC0xOTU4OTQ0NjQ4LC04MTM1NjU1OTZdfQ==
 -->
