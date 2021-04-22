@@ -12,11 +12,12 @@ Agenda
 3. Worktime
 
   
-**If absent**: 
+**If absent**: Please make every effort to join us on Zoom during class time.
 
-1. Watch [this video](https://youtu.be/ObTnw3mamlw) for an overview of the notes we took.
-2. Also, complete the [Waves Reading][read] so that you are prepared for the discussions we will have about waves next week.
-3. Make sure to take note of the updated due dates posted below.
+> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)      
+> Time: 8:00am Black and Gold Days; 1:25pm Black Days    
+> Meeting ID: 896 5236 1206      
+> Passcode: J5ePse
 
   
 Homework     
@@ -30,11 +31,11 @@ Homework
 [lab]: https://avon.schoology.com/assignment/4882381987/
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyODA0MzIyLC0xMzE5MzM2OTUwLC0yNz
-A2Njk0NzksLTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3ODU0NTgw
-NCwxNDA2NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMxOCwyMD
-EzMDU2NTMyLC0yMTE5OTM4MDI0LC0xMjI0ODgyNjU0LC0zMTgw
-NDY0MDIsLTE3OTI4ODI0OCwtNDExNTk0Nzc5LC0xMzAwNjAyMz
-czLC0xMDAxNjk1MzA0LDExOTM2ODYwMjYsLTE3OTgxMDE2Niwt
-MTQ1ODY4OTU2Ml19
+eyJoaXN0b3J5IjpbLTEyOTc1Mzc5OTMsLTEzMTkzMzY5NTAsLT
+I3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0NjA1MiwxMzc4NTQ1
+ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3MywxMTk1MDU2MzE4LD
+IwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEyMjQ4ODI2NTQsLTMx
+ODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OTQ3NzksLTEzMDA2MD
+IzNzMsLTEwMDE2OTUzMDQsMTE5MzY4NjAyNiwtMTc5ODEwMTY2
+LC0xNDU4Njg5NTYyXX0=
 -->
