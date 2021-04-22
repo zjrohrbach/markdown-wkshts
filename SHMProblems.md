@@ -31,8 +31,8 @@ Pendulum Problems
 Spring and Pendulum Problems
 ----------------
 
-|             Equations           |         |
-|:-------------------------------:|:------:|
+|             Equations           |           |
+|:-------------------------------:|:---------:|
 | $T_P=2\pi\sqrt{\frac{\ell}{g}}$ |           |
 |  $T_S=2\pi\sqrt{\frac{m}{k}}$   | $F_S=-kd$ |
 
@@ -41,7 +41,23 @@ Spring and Pendulum Problems
 3. A spring with a spring constant of 30.0 N/m is attached to a 2.3 kg mass, and the system is set in motion.  Find the period and frequency.
 4. When a mass of 0.25 kg is attached to a certain spring, it makes 20 complete vibrations in 4.0 s.  What is the spring constant of the spring?
 5. Eddie wants to find the spring constant of a spring, so he hangs the spring vertically and attaches a 0.40 kg mass to the spring’s end.  If the spring stretches **3.0 cm** from its equilibrium position, what is the spring constant?
+
+Waves
+---------
+
+
+1. A buoy on the ocean stays at a stationary location.  An ocean wave comes toward it.  The distance between one crest and the next crest is 3 meters.  The buoy moves up and down with a frequency of 0.25 Hz.
+	1. Draw a picture of this situation
+	2. What is the wavelength of the wave? (_Use your picture to help you_)
+	3. What is the period of the wave?
+	4. How fast is the wave travelling?
+2. Simple harmonic motion is motion that repeats because of a restoring force.  How is a wave an example of simple harmonic motion?
+3. Why does it make sense that a wave with a higher frequency also must have a shorter wavelength?
+4. If a child on a swing goes back and forth (one oscillation) 11 times in 30 seconds, find her period and frequency.
+5. A sound wave has a wavelength of 2.13 m and a frequency of 160 Hz, what is the velocity of the wave?
+6. The radio station WZPL broadcasts at a frequency of **99.5 MHz**.  Radio waves travel at a speed of $3\times 10^9~\text{<![endif]><![endif]> m/s.  How long is the wavelength of WZPL’s radio waves? (Hint: <![if !msEquation]><![if !vml]>![](file:///C:/Users/ZJROHR~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)<![endif]><![endif]> Hz = <![if !msEquation]><![if !vml]>![](file:///C:/Users/ZJROHR~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)<![endif]><![endif]> MHz)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA0Nzc3MjQsMjgzMDM1MjQsLTIwOT
-gxNjY4MTIsLTE5NTg5NDQ2NDgsLTgxMzU2NTU5Nl19
+eyJoaXN0b3J5IjpbLTE5OTMyMTQwNzgsLTEzMzA0Nzc3MjQsMj
+gzMDM1MjQsLTIwOTgxNjY4MTIsLTE5NTg5NDQ2NDgsLTgxMzU2
+NTU5Nl19
 -->
