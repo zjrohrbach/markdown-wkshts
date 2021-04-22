@@ -5,14 +5,14 @@ Agenda
 ---------  
 **Objective:** Determine the factors that affect the period of a spring  
   
-1.Do the [Waves Reading][wave-read]
-  
+1. Do the [Waves Reading][wave-read]
+2. Notes on **Types of Waves**
+3. Do the [4/23,26 Assignment][4/23]
   
 **If absent:** 
 
-1. Finish [Spring Lab B][lab-B] and make sure it is [turned in][turnin].
-2. Watch [this video][notes-vid] and take notes of **Pendulums and Springs**
-3. Use [this video][4/21-vid] to help you complete and turn in the  [4/21-22 Assignment][4/21]  
+1. Copy down [these notes][wave-notes] into your notebook.
+2. Do the [4/23,26 Assignment][4/23].
   
 Homework   
 -------------  
@@ -21,11 +21,11 @@ Homework
 [wave-read]: https://avon.schoology.com/course/2624603689/materials/gp/4890554768
 [4/23]: https://avon.schoology.com/assignment/4890550147/info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njk1MjcyOSwtNDgzMDA1MTA1LDQwMj
-c1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1
-LDg5MDY2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4LC0xMz
-g4ODgwNzM2LC0xNDg3MTI2MjM5LC0yMDY0MTQwNjY2LDEyNzQx
-NTIxODMsLTIwNjM0NjY4MzQsLTE4ODg0ODYzNiwtNTEyODU0Mj
-A4LC0xOTY1MDQwMDU1LC0zMTg2ODA3MjYsMTU5ODgxNTIzOCwx
-MTg3OTI1OTM2XX0=
+eyJoaXN0b3J5IjpbLTE1OTUyMTcwMTUsLTQ4MzAwNTEwNSw0MD
+I3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcw
+NSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMT
+M4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0
+MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1ND
+IwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgs
+MTE4NzkyNTkzNl19
 -->
