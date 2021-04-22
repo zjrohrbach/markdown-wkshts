@@ -1,4 +1,4 @@
-Mon, Apr 19 / Tue, Apr 20  
+Fri, Apr 23 / Mon, Apr 26
 ==================  
   
 Agenda  
@@ -16,12 +16,13 @@ Agenda
   
 Homework   
 -------------  
-- Make sure Spring Lab B is turned in.  
+- (*none right now*)
   
 [wave-read]: https://avon.schoology.com/course/2624603689/materials/gp/4890554768
-[4/23]: https://avon.schoology.com/assignment/4890550147/info
+[4/23]: https://avon.schoology.com/assignment/4890550147/
+[wave-notes]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyMTcwMTUsLTQ4MzAwNTEwNSw0MD
+eyJoaXN0b3J5IjpbLTIwMjY4ODU4MzMsLTQ4MzAwNTEwNSw0MD
 I3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcw
 NSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMT
 M4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0
