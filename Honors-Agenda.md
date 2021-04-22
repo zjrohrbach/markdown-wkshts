@@ -24,16 +24,18 @@ Agenda
 Homework     
 -------------    
 - Be working on your [Syllabus][syl] 
-	- Updated due date:
+- Updated due dates: 
+	- 11-1 to 11-3: this evening, 4/22
+	- 11-4: Mon, 4/26
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzM5MjMzLC0zNDkwMzI4MSwtOTYwMD
-Q2MDUyLDEzNzg1NDU4MDQsMTQwNjQxMzI2NSwtMjQ1MTA4ODcz
-LDExOTUwNTYzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMT
-IyNDg4MjY1NCwtMzE4MDQ2NDAyLC0xNzkyODgyNDgsLTQxMTU5
-NDc3OSwtMTMwMDYwMjM3MywtMTAwMTY5NTMwNCwxMTkzNjg2MD
-I2LC0xNzk4MTAxNjYsLTE0NTg2ODk1NjIsLTkxNzkyODQyMiwt
-MTI0MjUyNjYxM119
+eyJoaXN0b3J5IjpbMTU2ODYwOTcwNiwtMzQ5MDMyODEsLTk2MD
+A0NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3
+MywxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLT
+EyMjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1
+OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4Nj
+AyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0MjIs
+LTEyNDI1MjY2MTNdfQ==
 -->
