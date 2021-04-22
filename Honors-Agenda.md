@@ -3,7 +3,7 @@ Fri, Apr 23 (Periods 1,7)
   
 Agenda    
 ---------    
-**Objective:** Apply damping to SHM.  Investigate SHM in Pendula and Waves.
+**Objective:** Apply our discussion of SHM to waves.
   
 1. Debrief the [Lab][lab]
 2. Do a short [Waves Reading][read] and discuss
@@ -33,11 +33,11 @@ Homework
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 [int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU3MzE2MTMsLTEyOTc1Mzc5OTMsLT
-EzMTkzMzY5NTAsLTI3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0
-NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3My
-wxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEy
-MjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OT
-Q3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4NjAy
-NiwtMTc5ODEwMTY2XX0=
+eyJoaXN0b3J5IjpbMjAxOTc2MTk2MCwtMTAyNTczMTYxMywtMT
+I5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcwNjY5NDc5LC0zNDkw
+MzI4MSwtOTYwMDQ2MDUyLDEzNzg1NDU4MDQsMTQwNjQxMzI2NS
+wtMjQ1MTA4ODczLDExOTUwNTYzMTgsMjAxMzA1NjUzMiwtMjEx
+OTkzODAyNCwtMTIyNDg4MjY1NCwtMzE4MDQ2NDAyLC0xNzkyOD
+gyNDgsLTQxMTU5NDc3OSwtMTMwMDYwMjM3MywtMTAwMTY5NTMw
+NCwxMTkzNjg2MDI2XX0=
 -->
