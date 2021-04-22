@@ -17,22 +17,23 @@ Agenda
 **If absent**: Please make an effort to log in to Zoom during class time.
 
 > [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)    
-> Time: 8:00am Black and Gold Days; 1:25pm Black Days  
+> Time: 8:00am Thursday
 > Meeting ID: 896 5236 1206    
 > Passcode: J5ePse   
   
 Homework     
 -------------    
-- Be working on your [Syllabus][syl]  
+- Be working on your [Syllabus][syl] 
+	- Updated due date:
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTIyODQ1NCwtMzQ5MDMyODEsLTk2MD
-A0NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3
-MywxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLT
-EyMjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1
-OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4Nj
-AyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0MjIs
-LTEyNDI1MjY2MTNdfQ==
+eyJoaXN0b3J5IjpbMzc0MzM5MjMzLC0zNDkwMzI4MSwtOTYwMD
+Q2MDUyLDEzNzg1NDU4MDQsMTQwNjQxMzI2NSwtMjQ1MTA4ODcz
+LDExOTUwNTYzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMT
+IyNDg4MjY1NCwtMzE4MDQ2NDAyLC0xNzkyODgyNDgsLTQxMTU5
+NDc3OSwtMTMwMDYwMjM3MywtMTAwMTY5NTMwNCwxMTkzNjg2MD
+I2LC0xNzk4MTAxNjYsLTE0NTg2ODk1NjIsLTkxNzkyODQyMiwt
+MTI0MjUyNjYxM119
 -->
