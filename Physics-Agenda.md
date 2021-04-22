@@ -5,10 +5,8 @@ Agenda
 ---------  
 **Objective:** Determine the factors that affect the period of a spring  
   
-1. Finish [Spring Lab B][lab-B] and [turn it in][turnin].
-2. Notes on **Pendulums vs. Springs**
-3. Conceptual Question Discussion
-4. Do the [4/21-22 Assignment][4/21]  
+1.Do the [Waves Reading][wave-read]
+  
   
 **If absent:** 
 
@@ -20,18 +18,14 @@ Homework
 -------------  
 - Make sure Spring Lab B is turned in.  
   
-[lab-B]: https://avon.schoology.com/course/2624603689/materials/gp/4866274196  
-[sample]: https://avon.schoology.com/course/2624603689/materials/gp/4872306613  
-[turnin]: https://avon.schoology.com/assignment/4872294724/_
-[4/21]: https://avon.schoology.com/assignment/4883281204/
-[4/21-vid]:
-[notes-vid]: 
+[wave-read]: https://avon.schoology.com/course/2624603689/materials/gp/4890554768
+[4/23]: https://avon.schoology.com/assignment/4890550147/info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMz
-YwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0Mjks
-MTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMT
-Q4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYz
-NDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MD
-A1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgsMTE4NzkyNTkzNiw3
-MDIzOTQ5MjhdfQ==
+eyJoaXN0b3J5IjpbMTg0Njk1MjcyOSwtNDgzMDA1MTA1LDQwMj
+c1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1
+LDg5MDY2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4LC0xMz
+g4ODgwNzM2LC0xNDg3MTI2MjM5LC0yMDY0MTQwNjY2LDEyNzQx
+NTIxODMsLTIwNjM0NjY4MzQsLTE4ODg0ODYzNiwtNTEyODU0Mj
+A4LC0xOTY1MDQwMDU1LC0zMTg2ODA3MjYsMTU5ODgxNTIzOCwx
+MTg3OTI1OTM2XX0=
 -->
