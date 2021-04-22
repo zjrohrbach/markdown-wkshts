@@ -1,5 +1,4 @@
-Thu, Apr 22 (Period 2)
-==================    
+Fri, Apr 26 (Pd 1==================    
   
 Agenda    
 ---------    
@@ -9,7 +8,8 @@ Agenda
 2. Do a short [Waves Reading][read] and discuss
 	- [Waves PhET Animation](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
 	- [Longitudinal vs Transverse Waves](https://www.acs.psu.edu/drussell/demos/waves/wavemotion.html)
-3. Worktime
+3. Work through the concept of [Interference][int]
+4. Worktime
 
   
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -30,12 +30,13 @@ Homework
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
+[int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc1Mzc5OTMsLTEzMTkzMzY5NTAsLT
-I3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0NjA1MiwxMzc4NTQ1
-ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3MywxMTk1MDU2MzE4LD
-IwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEyMjQ4ODI2NTQsLTMx
-ODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OTQ3NzksLTEzMDA2MD
-IzNzMsLTEwMDE2OTUzMDQsMTE5MzY4NjAyNiwtMTc5ODEwMTY2
-LC0xNDU4Njg5NTYyXX0=
+eyJoaXN0b3J5IjpbLTE5MDE0MDE5NTQsLTEyOTc1Mzc5OTMsLT
+EzMTkzMzY5NTAsLTI3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0
+NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3My
+wxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEy
+MjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OT
+Q3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4NjAy
+NiwtMTc5ODEwMTY2XX0=
 -->
