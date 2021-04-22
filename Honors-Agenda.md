@@ -6,8 +6,11 @@ Agenda
 **Objective:** Apply damping to SHM.  Investigate SHM in Pendula and Waves.
   
 1.  Work through [Equation of Motions with Desmos](https://avon.schoology.com/page/4872547273) problems.  
-2. Notes on **Damping**, **SHM in a Pendulum**, and **Waves**
-3. [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)  
+2. Notes on **Damping** and **SHM in a Pendulum**.
+	- [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)
+3. Do a short [Waves Reading][read] and discuss
+	- [Waves PhET Animation]()
+	- [
 
 
   
@@ -25,11 +28,11 @@ Homework
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3OD
-U0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMx
-OCwyMDEzMDU2NTMyLC0yMTE5OTM4MDI0LC0xMjI0ODgyNjU0LC
-0zMTgwNDY0MDIsLTE3OTI4ODI0OCwtNDExNTk0Nzc5LC0xMzAw
-NjAyMzczLC0xMDAxNjk1MzA0LDExOTM2ODYwMjYsLTE3OTgxMD
-E2NiwtMTQ1ODY4OTU2MiwtOTE3OTI4NDIyLC0xMjQyNTI2NjEz
-LC01NTQyODEzOTRdfQ==
+eyJoaXN0b3J5IjpbMTA3NTg3NTcyMCwtMzQ5MDMyODEsLTk2MD
+A0NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3
+MywxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLT
+EyMjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1
+OTQ3NzksLTEzMDA2MDIzNzMsLTEwMDE2OTUzMDQsMTE5MzY4Nj
+AyNiwtMTc5ODEwMTY2LC0xNDU4Njg5NTYyLC05MTc5Mjg0MjIs
+LTEyNDI1MjY2MTNdfQ==
 -->
