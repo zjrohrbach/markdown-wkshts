@@ -30,8 +30,9 @@ Homework
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
+[read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODYwOTcwNiwtMzQ5MDMyODEsLTk2MD
+eyJoaXN0b3J5IjpbLTI3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MD
 A0NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3
 MywxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLT
 EyMjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1
