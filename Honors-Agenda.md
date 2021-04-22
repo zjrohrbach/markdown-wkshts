@@ -1,4 +1,5 @@
-Fri, Apr 26 (Pd 1==================    
+Fri, Apr 23 (Periods 1,7)
+==================    
   
 Agenda    
 ---------    
@@ -32,7 +33,7 @@ Homework
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 [int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE0MDE5NTQsLTEyOTc1Mzc5OTMsLT
+eyJoaXN0b3J5IjpbLTEwMjU3MzE2MTMsLTEyOTc1Mzc5OTMsLT
 EzMTkzMzY5NTAsLTI3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0
 NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3My
 wxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEy
