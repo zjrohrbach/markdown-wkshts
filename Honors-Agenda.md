@@ -9,9 +9,9 @@ Agenda
 2. Notes on **Damping** and **SHM in a Pendulum**.
 	- [Damping Animation](https://www.geogebra.org/m/sAAwEXgy)
 3. Do a short [Waves Reading][read] and discuss
-	- [Waves PhET Animation]()
-	- [
-
+	- [Waves PhET Animation](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
+	- [Longitudinal vs Transverse Waves](https://www.acs.psu.edu/drussell/demos/waves/wavemotion.html)
+4. Worktime
 
   
 **If absent**: Please make an effort to log in to Zoom during class time.
@@ -28,7 +28,7 @@ Homework
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTg3NTcyMCwtMzQ5MDMyODEsLTk2MD
+eyJoaXN0b3J5IjpbMTgwMTIyODQ1NCwtMzQ5MDMyODEsLTk2MD
 A0NjA1MiwxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3
 MywxMTk1MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLT
 EyMjQ4ODI2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1
