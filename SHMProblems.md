@@ -44,7 +44,10 @@ Spring and Pendulum Problems
 
 Waves
 ---------
-
+|             Equations           |              |
+|:-------------------------------:|:------------:|
+| $T_P=2\pi\sqrt{\frac{\ell}{g}}$ | $v=f\lambda$ |
+|  $T_S=2\pi\sqrt{\frac{m}{k}}$   |   $F_S=-kd$  |
 
 1. A buoy on the ocean stays at a stationary location.  An ocean wave comes toward it.  The distance between one crest and the next crest is 3 meters.  The buoy moves up and down with a frequency of 0.25 Hz.
 	1. Draw a picture of this situation
@@ -55,9 +58,9 @@ Waves
 3. Why does it make sense that a wave with a higher frequency also must have a shorter wavelength?
 4. If a child on a swing goes back and forth (one oscillation) 11 times in 30 seconds, find her period and frequency.
 5. A sound wave has a wavelength of 2.13 m and a frequency of 160 Hz, what is the velocity of the wave?
-6. The radio station WZPL broadcasts at a frequency of **99.5 MHz**.  Radio waves travel at a speed of $3\times 10^9~\text{m/s}$ How long is the wavelength of WZPL’s radio waves? (Hint: $10^6~\text{Hz}=1~\text{Hz}$)
+6. The radio station WZPL broadcasts at a frequency of **99.5 MHz**.  Radio waves travel at a speed of $3\times 10^8~\text{m/s}$ How long is the wavelength of WZPL’s radio waves? (Hint: $10^6~\text{Hz}=1~\text{MHz}$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEzMjA0OTQsLTEzMzA0Nzc3MjQsMj
-gzMDM1MjQsLTIwOTgxNjY4MTIsLTE5NTg5NDQ2NDgsLTgxMzU2
-NTU5Nl19
+eyJoaXN0b3J5IjpbNzg3MTcwMzQsLTEzMzA0Nzc3MjQsMjgzMD
+M1MjQsLTIwOTgxNjY4MTIsLTE5NTg5NDQ2NDgsLTgxMzU2NTU5
+Nl19
 -->
