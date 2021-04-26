@@ -1,4 +1,4 @@
-Fri, Apr 23 (Periods 1,7)
+Tue, Apr 27 / Wed, Apr 28
 ==================    
   
 Agenda    
@@ -23,21 +23,22 @@ Agenda
   
 Homework     
 -------------    
+- Make sure your [Lab][lab] is turned in!
 - Be working on your [Syllabus][syl] 
 - Updated due dates: 
-	- 11-1 to 11-3: this evening, 4/22
-	- 11-4: Mon, 4/26
+	- 11-12, Conceptual, Misconceptual due Tue, May 4
+	- Test will be on Wed-Thu, May 5-6
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
 [lab]: https://avon.schoology.com/assignment/4882381987/
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 [int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTc2MTk2MCwtMTAyNTczMTYxMywtMT
-I5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcwNjY5NDc5LC0zNDkw
-MzI4MSwtOTYwMDQ2MDUyLDEzNzg1NDU4MDQsMTQwNjQxMzI2NS
-wtMjQ1MTA4ODczLDExOTUwNTYzMTgsMjAxMzA1NjUzMiwtMjEx
-OTkzODAyNCwtMTIyNDg4MjY1NCwtMzE4MDQ2NDAyLC0xNzkyOD
-gyNDgsLTQxMTU5NDc3OSwtMTMwMDYwMjM3MywtMTAwMTY5NTMw
-NCwxMTkzNjg2MDI2XX0=
+eyJoaXN0b3J5IjpbLTIwOTg0MDk5NjAsMjAxOTc2MTk2MCwtMT
+AyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcw
+NjY5NDc5LC0zNDkwMzI4MSwtOTYwMDQ2MDUyLDEzNzg1NDU4MD
+QsMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOTUwNTYzMTgsMjAx
+MzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4MjY1NCwtMzE4MD
+Q2NDAyLC0xNzkyODgyNDgsLTQxMTU5NDc3OSwtMTMwMDYwMjM3
+MywtMTAwMTY5NTMwNF19
 -->
