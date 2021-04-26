@@ -3,7 +3,7 @@ Fri, Apr 23 / Mon, Apr 26
   
 Agenda  
 ---------  
-**Objective:** Determine the factors that affect the period of a spring  
+**Objective:** Understand the differe
   
 1. Do the [Waves Reading][wave-read]
 2. Notes on **Types of Waves**
@@ -22,11 +22,11 @@ Homework
 [4/23]: https://avon.schoology.com/assignment/4890550147/
 [wave-notes]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY4ODU4MzMsLTQ4MzAwNTEwNSw0MD
-I3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcw
-NSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMT
-M4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0
-MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1ND
-IwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2LDE1OTg4MTUyMzgs
-MTE4NzkyNTkzNl19
+eyJoaXN0b3J5IjpbLTEzMjY0NjkxODAsLTIwMjY4ODU4MzMsLT
+Q4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAz
+OTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMT
+UwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2
+NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4ND
+g2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2
+LDE1OTg4MTUyMzhdfQ==
 -->
