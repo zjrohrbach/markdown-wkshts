@@ -5,12 +5,8 @@ Agenda
 ---------    
 **Objective:** Apply our discussion of SHM to waves.
   
-1. Debrief the [Lab][lab]
-2. Do a short [Waves Reading][read] and discuss
-	- [Waves PhET Animation](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
-	- [Longitudinal vs Transverse Waves](https://www.acs.psu.edu/drussell/demos/waves/wavemotion.html)
-3. Work through the concept of [Interference][int]
-4. Worktime
+1. (*period 2 only*) Finish the [Lab][lab]
+2. Discuss the [Interference Handout][int]
 
   
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -34,11 +30,11 @@ Homework
 [read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
 [int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0MDk5NjAsMjAxOTc2MTk2MCwtMT
-AyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcw
-NjY5NDc5LC0zNDkwMzI4MSwtOTYwMDQ2MDUyLDEzNzg1NDU4MD
-QsMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOTUwNTYzMTgsMjAx
-MzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4MjY1NCwtMzE4MD
-Q2NDAyLC0xNzkyODgyNDgsLTQxMTU5NDc3OSwtMTMwMDYwMjM3
-MywtMTAwMTY5NTMwNF19
+eyJoaXN0b3J5IjpbNDE2NzU3NDc5LC0yMDk4NDA5OTYwLDIwMT
+k3NjE5NjAsLTEwMjU3MzE2MTMsLTEyOTc1Mzc5OTMsLTEzMTkz
+MzY5NTAsLTI3MDY2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0NjA1Mi
+wxMzc4NTQ1ODA0LDE0MDY0MTMyNjUsLTI0NTEwODg3MywxMTk1
+MDU2MzE4LDIwMTMwNTY1MzIsLTIxMTk5MzgwMjQsLTEyMjQ4OD
+I2NTQsLTMxODA0NjQwMiwtMTc5Mjg4MjQ4LC00MTE1OTQ3Nzks
+LTEzMDA2MDIzNzNdfQ==
 -->
