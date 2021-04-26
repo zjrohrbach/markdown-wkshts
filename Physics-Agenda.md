@@ -7,8 +7,8 @@ Agenda
   
 1. Brief Wave Review
 2. Work on the two labs
-	- [Wave Modeling Lab][model]
-	- [Slinky Lab][slinky]
+	- [Wave Modeling Lab][model] - your group will turn in your butcher paper.  There will be nothing else collected for this one.
+	- [Slinky Lab][slinky] - everyone needs to turn in **their own work** [here][slinky].
   
 **If absent:** 
 
@@ -21,11 +21,11 @@ Homework
 [model]:
 [slinky]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMDA3Mjg4LC0yMDI2ODg1ODMzLC00OD
-MwMDUxMDUsNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2ODAwMzky
-LDExOTc5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTUsLTE1MD
-UzNTk0NDgsLTEzODg4ODA3MzYsLTE0ODcxMjYyMzksLTIwNjQx
-NDA2NjYsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4Nj
-M2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNiwx
-NTk4ODE1MjM4XX0=
+eyJoaXN0b3J5IjpbMTk0MzIxNDQ1Myw0NjEwMDcyODgsLTIwMj
+Y4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3
+MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
+A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
+NjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYzNDY2OD
+M0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MDA1NSwt
+MzE4NjgwNzI2XX0=
 -->
