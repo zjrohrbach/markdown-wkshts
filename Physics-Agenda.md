@@ -7,7 +7,8 @@ Agenda
   
 1. Brief Wave Review
 2. Work on the two labs
-	- 
+	- [Wave Modeling Lab][model]
+	- [Slinky Lab][slinky]
   
 **If absent:** 
 
@@ -17,15 +18,14 @@ Homework
 -------------  
 - **Simple Harmonic Motion Test** coming up on Monday.
   
-[wave-read]: https://avon.schoology.com/course/2624603689/materials/gp/4890554768
-[4/23]: https://avon.schoology.com/assignment/4890550147/
-[wave-notes]: 
+[model]:
+[slinky]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY3MTg4ODAsLTIwMjY4ODU4MzMsLT
-Q4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAz
-OTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMT
-UwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2
-NDE0MDY2NiwxMjc0MTUyMTgzLC0yMDYzNDY2ODM0LC0xODg4ND
-g2MzYsLTUxMjg1NDIwOCwtMTk2NTA0MDA1NSwtMzE4NjgwNzI2
-LDE1OTg4MTUyMzhdfQ==
+eyJoaXN0b3J5IjpbNDYxMDA3Mjg4LC0yMDI2ODg1ODMzLC00OD
+MwMDUxMDUsNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2ODAwMzky
+LDExOTc5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTUsLTE1MD
+UzNTk0NDgsLTEzODg4ODA3MzYsLTE0ODcxMjYyMzksLTIwNjQx
+NDA2NjYsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4Nj
+M2LC01MTI4NTQyMDgsLTE5NjUwNDAwNTUsLTMxODY4MDcyNiwx
+NTk4ODE1MjM4XX0=
 -->
