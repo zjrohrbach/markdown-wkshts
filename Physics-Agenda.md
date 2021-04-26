@@ -10,9 +10,7 @@ Agenda
 	- [Wave Modeling Lab][model] - your group will turn in your butcher paper.  There will be nothing else collected for this one.
 	- [Slinky Lab][slinky] - everyone needs to turn in **their own work** [here][slinky].
   
-**If absent:** 
-
-1. 
+**If absent:** Please send me a message so that we can arrange a time for you to make up the labs.
   
 Homework   
 -------------  
@@ -21,7 +19,7 @@ Homework
 [model]:
 [slinky]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzIxNDQ1Myw0NjEwMDcyODgsLTIwMj
+eyJoaXN0b3J5IjpbMTg4Mjg1ODczMCw0NjEwMDcyODgsLTIwMj
 Y4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3
 MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
 A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
