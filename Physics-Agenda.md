@@ -16,10 +16,10 @@ Homework
 -------------  
 - **Simple Harmonic Motion Test** coming up on Monday.
   
-[model]:
-[slinky]: 
+[model]: https://avon.schoology.com/course/2624603689/materials/gp/4904422216
+[slinky]: https://avon.schoology.com/assignment/4904417865/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mjg1ODczMCw0NjEwMDcyODgsLTIwMj
+eyJoaXN0b3J5IjpbLTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMj
 Y4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3
 MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
 A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
