@@ -1,12 +1,16 @@
-M==================    
+Mon-Tue, 5/3-4
+==================    
   
 Agenda    
 ---------    
-**Objective:** Apply our discussion of SHM to waves.
+**Objective:** Review what we know about SHM and waves.
   
-1. Debrief lab and lesson from last class.
-2. Slinky Lab
-3. Worktime
+1. Debrief lesson from last class.
+2. Questions on HW
+3. (*time permitting for oe*) Slinky Lab
+4. Review
+	- Questions
+	- Kahoot
 
   
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -28,11 +32,11 @@ Homework
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503  
 [lab]: https://avon.schoology.com/assignment/4882381987/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzE2NTY1NCwxODA5NDQ0ODU4LC04Mj
-czNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2
-MTk2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOTMzNj
-k1MCwtMjcwNjY5NDc5LC0zNDkwMzI4MSwtOTYwMDQ2MDUyLDEz
-Nzg1NDU4MDQsMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOTUwNT
-YzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4MjY1
-NCwtMzE4MDQ2NDAyXX0=
+eyJoaXN0b3J5IjpbMjcyNjM2OTU3LDE4MDk0NDQ4NTgsLTgyNz
+M2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQwOTk2MCwyMDE5NzYx
+OTYwLC0xMDI1NzMxNjEzLC0xMjk3NTM3OTkzLC0xMzE5MzM2OT
+UwLC0yNzA2Njk0NzksLTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3
+ODU0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1Nj
+MxOCwyMDEzMDU2NTMyLC0yMTE5OTM4MDI0LC0xMjI0ODgyNjU0
+LC0zMTgwNDY0MDJdfQ==
 -->
