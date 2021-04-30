@@ -12,24 +12,23 @@ Agenda
   
 **If absent:** 
 
-1. Take notes over Constructive and Destructive Interference using [this scan][scan]
-2. Work on the [SHM Review Problems][prob] and [check your work][key]
-3. Quiz yourself with [Review Jeopardy][jeop]
+1. Watch the [video][vid]
+2. Quiz yourself on the [Review Jeopardy][jeop] questions
   
 Homework   
 -------------  
 - **Simple Harmonic Motion Test** coming up next class.
   
-[prob]: 
+[prob]: https://avon.schoology.com/course/2624603689/materials/gp/4918472438
 [key]: 
 [jeop]: 
-[scan]: 
+[vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTMxMzk3NSwtMzY3ODMxNTQ5LDQ2MT
-AwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMjc1OTcy
-MSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1LDg5MD
-Y2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4LC0xMzg4ODgw
-NzM2LC0xNDg3MTI2MjM5LC0yMDY0MTQwNjY2LDEyNzQxNTIxOD
-MsLTIwNjM0NjY4MzQsLTE4ODg0ODYzNiwtNTEyODU0MjA4LC0x
-OTY1MDQwMDU1XX0=
+eyJoaXN0b3J5IjpbLTI5MTY2Mzk0OSwtNzY5MzEzOTc1LC0zNj
+c4MzE1NDksNDYxMDA3Mjg4LC0yMDI2ODg1ODMzLC00ODMwMDUx
+MDUsNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2ODAwMzkyLDExOT
+c5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTUsLTE1MDUzNTk0
+NDgsLTEzODg4ODA3MzYsLTE0ODcxMjYyMzksLTIwNjQxNDA2Nj
+YsMTI3NDE1MjE4MywtMjA2MzQ2NjgzNCwtMTg4ODQ4NjM2LC01
+MTI4NTQyMDhdfQ==
 -->
