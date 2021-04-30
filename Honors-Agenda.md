@@ -20,22 +20,20 @@ Agenda
   
 Homework     
 -------------    
-- Make sure your [Lab][lab] is turned in!
-- Be working on your [Syllabus][syl] 
-- Updated due dates: 
-	- 11-12, Conceptual, Misconceptual due Tue, May 4
-	- Test will be on Wed-Thu, May 5-6
+- Make sure your [Lab][lab] is turned in!  
+- Be working on your [Syllabus][syl]   
+- Updated due dates:   
+	- 11-12, Conceptual, Misconceptual due Tue, May 4  
+	- Test will be on Wed-Thu, May 5-6  
   
-[syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503
+[syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503  
 [lab]: https://avon.schoology.com/assignment/4882381987/
-[read]: https://avon.schoology.com/course/2624603229/materials/gp/4888823570
-[int]: https://avon.schoology.com/course/2624603229/materials/gp/4890222513
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzYyNjIsLTgyNzM2OTEyOCwtMTc0Mz
-A0NTc5MSwtMjA5ODQwOTk2MCwyMDE5NzYxOTYwLC0xMDI1NzMx
-NjEzLC0xMjk3NTM3OTkzLC0xMzE5MzM2OTUwLC0yNzA2Njk0Nz
-ksLTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3ODU0NTgwNCwxNDA2
-NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMxOCwyMDEzMDU2NT
-MyLC0yMTE5OTM4MDI0LC0xMjI0ODgyNjU0LC0zMTgwNDY0MDIs
-LTE3OTI4ODI0OF19
+eyJoaXN0b3J5IjpbMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC0xNz
+QzMDQ1NzkxLC0yMDk4NDA5OTYwLDIwMTk3NjE5NjAsLTEwMjU3
+MzE2MTMsLTEyOTc1Mzc5OTMsLTEzMTkzMzY5NTAsLTI3MDY2OT
+Q3OSwtMzQ5MDMyODEsLTk2MDA0NjA1MiwxMzc4NTQ1ODA0LDE0
+MDY0MTMyNjUsLTI0NTEwODg3MywxMTk1MDU2MzE4LDIwMTMwNT
+Y1MzIsLTIxMTk5MzgwMjQsLTEyMjQ4ODI2NTQsLTMxODA0NjQw
+MiwtMTc5Mjg4MjQ4XX0=
 -->
