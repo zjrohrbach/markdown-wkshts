@@ -11,14 +11,14 @@ Agenda
   
 **If absent:** 
 
-1. Complete the [Computer Portion of the test]()
-2. Send me a message so that we can reschedule the Paper 
+1. Complete the [Computer Portion of the test](https://avon.schoology.com/assignment/4918749646/)
+2. Send me a message so that we can reschedule the Paper Portion of your test
   
 Homework   
 -------------  
 - *none*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE1MTU4NzEsMjQ4Nzc4NTc3LDE0NT
+eyJoaXN0b3J5IjpbLTExNzk5NDI3MDEsMjQ4Nzc4NTc3LDE0NT
 I5MjM2MDQsLTc2OTMxMzk3NSwtMzY3ODMxNTQ5LDQ2MTAwNzI4
 OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMjc1OTcyMSwtOD
 AzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1LDg5MDY2MTQy
