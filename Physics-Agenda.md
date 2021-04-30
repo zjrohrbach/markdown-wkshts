@@ -7,22 +7,24 @@ Agenda
   
 1. Debrief the simulation lab you did with the sub
 2. Notes on **Constructive and Destructive Interference**.
+3. Practice Problems
+4. Review Jeopardy
   
 **If absent:** 
 
-1. 
+1. Take notes over Constructive and Destructive Interference using [this scan][scan]
   
 Homework   
 -------------  
 - **Simple Harmonic Motion Test** coming up next class.
   
-
+[scan]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDA0NTI4MSwtMzY3ODMxNTQ5LDQ2MT
-AwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMjc1OTcy
-MSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1LDg5MD
-Y2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4LC0xMzg4ODgw
-NzM2LC0xNDg3MTI2MjM5LC0yMDY0MTQwNjY2LDEyNzQxNTIxOD
-MsLTIwNjM0NjY4MzQsLTE4ODg0ODYzNiwtNTEyODU0MjA4LC0x
-OTY1MDQwMDU1XX0=
+eyJoaXN0b3J5IjpbLTE0MDE0MTAyMTYsLTM2NzgzMTU0OSw0Nj
+EwMDcyODgsLTIwMjY4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3
+MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OT
+A2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4
+MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0MDY2NiwxMjc0MTUyMT
+gzLC0yMDYzNDY2ODM0LC0xODg4NDg2MzYsLTUxMjg1NDIwOCwt
+MTk2NTA0MDA1NV19
 -->
