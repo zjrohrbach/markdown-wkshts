@@ -20,11 +20,10 @@ Homework
 - **Simple Harmonic Motion Test** coming up next class.
   
 [prob]: https://avon.schoology.com/course/2624603689/materials/gp/4918472438
-[key]: 
-[jeop]: 
+[jeop]: https://jeopardylabs.com/play/08-simple-harmonic-motion
 [vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTY2Mzk0OSwtNzY5MzEzOTc1LC0zNj
+eyJoaXN0b3J5IjpbMTQ1MjkyMzYwNCwtNzY5MzEzOTc1LC0zNj
 c4MzE1NDksNDYxMDA3Mjg4LC0yMDI2ODg1ODMzLC00ODMwMDUx
 MDUsNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2ODAwMzkyLDExOT
 c5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTUsLTE1MDUzNTk0
