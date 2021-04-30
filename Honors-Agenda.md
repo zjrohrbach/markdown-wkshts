@@ -10,7 +10,7 @@ Agenda
 3. (*time permitting for periods 1 & 7 only*) Slinky Lab
 4. Review
 	- [Questions](https://avon.schoology.com/course/2624603229/materials/gp/4918275970)
-	- [Kahoot]()
+	- [Kahoot](https://create.kahoot.it/share/2021-honors-physics-waves-review/cac31036-9ec5-4929-8f76-128df822eef4)
 
 **If absent**: Please make every effort to join us on Zoom during class time.
 
@@ -27,11 +27,11 @@ Homework
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MD
-k0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQw
-OTk2MCwyMDE5NzYxOTYwLC0xMDI1NzMxNjEzLC0xMjk3NTM3OT
-kzLC0xMzE5MzM2OTUwLC0yNzA2Njk0NzksLTM0OTAzMjgxLC05
-NjAwNDYwNTIsMTM3ODU0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMD
-g4NzMsMTE5NTA1NjMxOCwyMDEzMDU2NTMyLC0yMTE5OTM4MDI0
-LC0xMjI0ODgyNjU0XX0=
+eyJoaXN0b3J5IjpbLTE0NzM1MjM5MTMsLTM5ODgzNDc2NCwtMj
+E2MzAxOTYwLDE4MDk0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0
+NTc5MSwtMjA5ODQwOTk2MCwyMDE5NzYxOTYwLC0xMDI1NzMxNj
+EzLC0xMjk3NTM3OTkzLC0xMzE5MzM2OTUwLC0yNzA2Njk0Nzks
+LTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3ODU0NTgwNCwxNDA2ND
+EzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMxOCwyMDEzMDU2NTMy
+LC0yMTE5OTM4MDI0XX0=
 -->
