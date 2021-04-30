@@ -9,8 +9,8 @@ Agenda
 2. Questions on HW
 3. (*time permitting for periods 1 & 7 only*) Slinky Lab
 4. Review
-	- Questions
-	- Kahoot
+	- [Questions](https://avon.schoology.com/course/2624603229/materials/gp/4918275970)
+	- [Kahoot]()
 
 **If absent**: Please make every effort to join us on Zoom during class time.
 
@@ -27,11 +27,11 @@ Homework
   
 [syl]: https://avon.schoology.com/course/2624603229/materials?f=369843503  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mj
-czNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2
-MTk2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOTMzNj
-k1MCwtMjcwNjY5NDc5LC0zNDkwMzI4MSwtOTYwMDQ2MDUyLDEz
-Nzg1NDU4MDQsMTQwNjQxMzI2NSwtMjQ1MTA4ODczLDExOTUwNT
-YzMTgsMjAxMzA1NjUzMiwtMjExOTkzODAyNCwtMTIyNDg4MjY1
-NCwtMzE4MDQ2NDAyXX0=
+eyJoaXN0b3J5IjpbLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MD
+k0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQw
+OTk2MCwyMDE5NzYxOTYwLC0xMDI1NzMxNjEzLC0xMjk3NTM3OT
+kzLC0xMzE5MzM2OTUwLC0yNzA2Njk0NzksLTM0OTAzMjgxLC05
+NjAwNDYwNTIsMTM3ODU0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMD
+g4NzMsMTE5NTA1NjMxOCwyMDEzMDU2NTMyLC0yMTE5OTM4MDI0
+LC0xMjI0ODgyNjU0XX0=
 -->
