@@ -5,7 +5,8 @@ Agenda
 ---------  
 **Objective:** Understand sound and how it propagates.
   
-1. Do the [
+1. Introduce the [Final Exam Review Packet][rev]
+2. Do the [Sound reading][read] and discuss.
   
 **If absent:** 
 
@@ -16,12 +17,13 @@ Homework
 - Be working on your [Final Exam Review][rev]
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
+[read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMTYzNTQ4LDgzMzQ5NTU1LC0zNzk3Nz
-EyMDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwt
-MzY3ODMxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMD
-A1MTA1LDQwMjc1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5Miwx
-MTk3OTMwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1LC0xNTA1Mz
-U5NDQ4LC0xMzg4ODgwNzM2LC0xNDg3MTI2MjM5LC0yMDY0MTQw
-NjY2XX0=
+eyJoaXN0b3J5IjpbMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5Nz
+cxMjAxLDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUs
+LTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4Mz
+AwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIs
+MTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNT
+M1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0
+MDY2Nl19
 -->
