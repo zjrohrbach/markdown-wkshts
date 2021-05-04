@@ -12,7 +12,8 @@ Agenda
   
 **If absent:** 
 
-1. 
+1. Do the [Sound reading][read]
+2. Take notes over [Sound and Resonance][notes]
   
 Homework   
 -------------  
@@ -20,12 +21,13 @@ Homework
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
+[notes]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOT
-I3NTAxOTQsODMzNDk1NTUsLTM3OTc3MTIwMSwyNDg3Nzg1Nzcs
-MTQ1MjkyMzYwNCwtNzY5MzEzOTc1LC0zNjc4MzE1NDksNDYxMD
-A3Mjg4LC0yMDI2ODg1ODMzLC00ODMwMDUxMDUsNDAyNzU5NzIx
-LC04MDM2MDMxNzEsODk2ODAwMzkyLDExOTc5MzA3MDUsODkwNj
-YxNDI5LDEwMjMwNTMwNTUsLTE1MDUzNTk0NDgsLTEzODg4ODA3
-MzZdfQ==
+eyJoaXN0b3J5IjpbNTk1NDM0NzM5LDE5NjkyNTgxMCwtMTMxND
+c3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEs
+MjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3OD
+MxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1
+LDQwMjc1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OT
+MwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4
+XX0=
 -->
