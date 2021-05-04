@@ -12,8 +12,9 @@ Agenda
   
 **If absent:** 
 
-1. Do the [Sound reading][read]
-2. Take notes over [Sound and Resonance][notes]
+1. Read the introduction to the [Final Exam Review Packet][rev]
+2. Do the [Sound reading][read]
+3. Take notes over [Sound and Resonance][notes]
   
 Homework   
 -------------  
@@ -23,11 +24,11 @@ Homework
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
 [notes]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDM0NzM5LDE5NjkyNTgxMCwtMTMxND
-c3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEs
-MjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3OD
-MxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1
-LDQwMjc1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OT
-MwNzA1LDg5MDY2MTQyOSwxMDIzMDUzMDU1LC0xNTA1MzU5NDQ4
-XX0=
+eyJoaXN0b3J5IjpbMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMT
+Q3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAx
+LDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUsLTM2Nz
+gzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4MzAwNTEw
+NSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5Nz
+kzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0
+OF19
 -->
