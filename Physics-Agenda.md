@@ -8,6 +8,7 @@ Agenda
 1. Introduce the [Final Exam Review Packet][rev]
 2. Do the [Sound reading][read] and discuss.
 3. Notes on **Sound and Resonance**
+4. Breaking Glass Mythbusters
   
 **If absent:** 
 
@@ -20,11 +21,11 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5NCw4Mz
-M0OTU1NSwtMzc5NzcxMjAxLDI0ODc3ODU3NywxNDUyOTIzNjA0
-LC03NjkzMTM5NzUsLTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMj
-Y4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3
-MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
-A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
-NjIzOV19
+eyJoaXN0b3J5IjpbMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOT
+I3NTAxOTQsODMzNDk1NTUsLTM3OTc3MTIwMSwyNDg3Nzg1Nzcs
+MTQ1MjkyMzYwNCwtNzY5MzEzOTc1LC0zNjc4MzE1NDksNDYxMD
+A3Mjg4LC0yMDI2ODg1ODMzLC00ODMwMDUxMDUsNDAyNzU5NzIx
+LC04MDM2MDMxNzEsODk2ODAwMzkyLDExOTc5MzA3MDUsODkwNj
+YxNDI5LDEwMjMwNTMwNTUsLTE1MDUzNTk0NDgsLTEzODg4ODA3
+MzZdfQ==
 -->
