@@ -7,6 +7,7 @@ Agenda
   
 1. Introduce the [Final Exam Review Packet][rev]
 2. Do the [Sound reading][read] and discuss.
+3. Notes on **Sound and Resonance**
   
 **If absent:** 
 
@@ -19,11 +20,11 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5Nz
-cxMjAxLDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUs
-LTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4Mz
-AwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIs
-MTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNT
-M1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEyNjIzOSwtMjA2NDE0
-MDY2Nl19
+eyJoaXN0b3J5IjpbLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5NCw4Mz
+M0OTU1NSwtMzc5NzcxMjAxLDI0ODc3ODU3NywxNDUyOTIzNjA0
+LC03NjkzMTM5NzUsLTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMj
+Y4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3
+MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMz
+A1MzA1NSwtMTUwNTM1OTQ0OCwtMTM4ODg4MDczNiwtMTQ4NzEy
+NjIzOV19
 -->
