@@ -1,3 +1,9 @@
+
+|Equation|
+|--|
+|$f=f_s\left( \frac{v \pm v_o}{v \mp v_s} \right)$|
+
+
 1. You are at a train station in London getting ready to go out to the country to see your grandparents.  You are walking at a slow pace of 0.5 m/s, and the train (which is stationary) is producing a whistle of 1070 Hz.
 	1. You are on the other end of the station from the train.  As you walk towards it, what frequency will you hear for the whistle?
 	2. All of a sudden, the train starts to move towards you. The train continues to make the whistle (at the same 1070 Hz frequency as before), and is traveling at an initial velocity of 7 m/s.  You break out into a dead sprint towards the train at 6.2 m/s.  What frequency will you now hear for the whistle?
@@ -15,5 +21,5 @@
 	2. What frequency do you hear after the car passes?
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5Njg3MDY4LC03MDY5Mzk1OTddfQ==
+eyJoaXN0b3J5IjpbMzQ5MjY4OTkxLC03MDY5Mzk1OTddfQ==
 -->
