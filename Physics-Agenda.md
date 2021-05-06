@@ -1,34 +1,30 @@
-Wed, May 5 / Thu, May 6
+Fri, May 7 / Mon, May 10
 ==================  
   
 Agenda  
 ---------  
 **Objective:** Understand sound and how it propagates.
   
-1. Introduce the [Final Exam Review Packet][rev]
-2. Do the [Sound reading][read] and discuss.
-3. Notes on **Sound and Resonance**
-4. Breaking Glass Mythbusters
+1. 
   
 **If absent:** 
 
-1. Read the introduction to the [Final Exam Review Packet][rev]
-2. Do the [Sound reading][read]
-3. Take notes over [Sound and Resonance][notes]
+1. 
   
 Homework   
 -------------  
 - Be working on your [Final Exam Review][rev]
+- Test Corrections need to be done by Friday, May 14
+- All Makeup Work must be turned in by Friday, May 21
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
-[read]: https://avon.schoology.com/course/2624603689/materials/gp/4929985209
-[notes]: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMT
-Q3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAx
-LDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUsLTM2Nz
-gzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4MzAwNTEw
-NSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MDAzOTIsMTE5Nz
-kzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NSwtMTUwNTM1OTQ0
-OF19
+eyJoaXN0b3J5IjpbMjYxMDMzNzI5LDE1NDg0NDY4NDcsMTk2OT
+I1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAxOTQsODMzNDk1NTUs
+LTM3OTc3MTIwMSwyNDg3Nzg1NzcsMTQ1MjkyMzYwNCwtNzY5Mz
+EzOTc1LC0zNjc4MzE1NDksNDYxMDA3Mjg4LC0yMDI2ODg1ODMz
+LC00ODMwMDUxMDUsNDAyNzU5NzIxLC04MDM2MDMxNzEsODk2OD
+AwMzkyLDExOTc5MzA3MDUsODkwNjYxNDI5LDEwMjMwNTMwNTVd
+fQ==
 -->
