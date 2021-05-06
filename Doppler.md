@@ -1,7 +1,7 @@
 
-|Equation|
-|--|
-|$f=f_s\left( \frac{v \pm v_o}{v \mp v_s} \right)$|
+| Equation                              |
+|---------------------------------------|
+| $f=f_s (\frac{v \pm v_o}{v \mp v_s})$ |
 
 
 1. You are at a train station in London getting ready to go out to the country to see your grandparents.  You are walking at a slow pace of 0.5 m/s, and the train (which is stationary) is producing a whistle of 1070 Hz.
@@ -21,5 +21,5 @@
 	2. What frequency do you hear after the car passes?
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MjY4OTkxLC03MDY5Mzk1OTddfQ==
+eyJoaXN0b3J5IjpbMTg3MDQ2MzU1NywtNzA2OTM5NTk3XX0=
 -->
