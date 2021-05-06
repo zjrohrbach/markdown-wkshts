@@ -7,10 +7,13 @@
 
 2. You are on a boat travelling toward a stationary dolphin.  The dolphin whistles at a frequency of 1200 Hz.  You hear a frequency of 1280 Hz.  How fast is your boat travelling?
 
-3. The engine of a racecar emits a relatively constant frequency of 400 Hz.  The racecar has a velocity of 45 m/s.
+-----
+
+
+1. The engine of a racecar emits a relatively constant frequency of 400 Hz.  The racecar has a velocity of 45 m/s.
 	1. What frequency do you (a stationary observer) hear as the car approaches?
 	2. What frequency do you hear after the car passes?
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjkzOTU5N119
+eyJoaXN0b3J5IjpbNzY5Njg3MDY4LC03MDY5Mzk1OTddfQ==
 -->
