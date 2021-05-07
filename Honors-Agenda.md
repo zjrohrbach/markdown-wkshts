@@ -1,15 +1,14 @@
-Wed-Thu, 5/5-6
+Fri, May 7 / Mon, May 10
 ==================    
   
 Agenda    
 ---------    
-**Objective:** Prove what you know about SHM and waves.
+**Objective:** Be introduced to the field of *electrostatics*.
   
-1. Introduce the [Final Exam Review Packet][rev]
-2. Take the Paper and [Computer][test] portions of the Test
-3. Worktime on the Final Exam Review
+1. As you come into the room, ***PLEASE DO NOT TOUCH THE LAB EQUIPMENT***
+2. Do the Electrostatics Stations!
 
-**If absent:** Please email me so that we can schedule a time to make up your test.
+**If absent:** Please email me so that we can figure out a way for you to get the information from the Lab Stations that you missed.
 
 <!--
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -27,11 +26,11 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3Nzg1ODUsLTE0NzM1MjM5MTMsLT
-M5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MDk0NDQ4NTgsLTgyNzM2
-OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQwOTk2MCwyMDE5NzYxOT
-YwLC0xMDI1NzMxNjEzLC0xMjk3NTM3OTkzLC0xMzE5MzM2OTUw
-LC0yNzA2Njk0NzksLTM0OTAzMjgxLC05NjAwNDYwNTIsMTM3OD
-U0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMDg4NzMsMTE5NTA1NjMx
-OCwyMDEzMDU2NTMyXX0=
+eyJoaXN0b3J5IjpbLTExNDAxNTc3NjgsLTIwNDc3Nzg1ODUsLT
+E0NzM1MjM5MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MDk0
+NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQwOT
+k2MCwyMDE5NzYxOTYwLC0xMDI1NzMxNjEzLC0xMjk3NTM3OTkz
+LC0xMzE5MzM2OTUwLC0yNzA2Njk0NzksLTM0OTAzMjgxLC05Nj
+AwNDYwNTIsMTM3ODU0NTgwNCwxNDA2NDEzMjY1LC0yNDUxMDg4
+NzMsMTE5NTA1NjMxOF19
 -->
