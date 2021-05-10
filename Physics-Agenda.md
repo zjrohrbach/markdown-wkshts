@@ -7,11 +7,14 @@ Agenda
   
 1. Review what we learned about the Doppler Effect
 2. Do the [5/11-12 Assignment][assmt]
-3. ((Light??))
+3. Notes on the **Electromagnetic Spectrum**
+4. Reading about [Transparency and Opacity][reading]
   
 **If absent:** 
 
 1. Complete the [5/11-12 Assignment][assmt] and turn it in.
+2. Take notes over [Electromagnetic Spectrum][notes]
+3. Read about [Transparency and Opacity][reading]
   
 Homework   
 -------------  
@@ -22,13 +25,14 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [assmt]: https://avon.schoology.com/assignment/4947041397/
 [correct]: https://avon.schoology.com/course/2624603689/materials?f=384894111
-[video]: 
+[reading]: 
+[notes]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MT
-A5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3Njcw
-MSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEsMjQ4Nz
-c4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3ODMxNTQ5
-LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMj
-c1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1
-XX0=
+eyJoaXN0b3J5IjpbLTEzMDc2MjYyODgsLTYyNzM4ODk4MSwtMT
+UwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgx
+MCwtMTMxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNz
+k3NzEyMDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3
+NSwtMzY3ODMxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtND
+gzMDA1MTA1LDQwMjc1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5
+Ml19
 -->
