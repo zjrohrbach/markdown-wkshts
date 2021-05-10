@@ -5,7 +5,8 @@ Agenda
 ---------    
 **Objective:** Be able to explain the phenomena you saw in the stations last class.  Be able to use Coulomb's Law to solve a multi-charge problem.
   
-1. Notes on **Ele
+1. Notes on **Electrostatics**
+2. 
 
 
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -24,7 +25,7 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjQyMzQ2Niw2MTgwNDIzMzcsMTU4MD
+eyJoaXN0b3J5IjpbMTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MD
 c5OTQwNSwtMjA0Nzc3ODU4NSwtMTQ3MzUyMzkxMywtMzk4ODM0
 NzY0LC0yMTYzMDE5NjAsMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC
 0xNzQzMDQ1NzkxLC0yMDk4NDA5OTYwLDIwMTk3NjE5NjAsLTEw
