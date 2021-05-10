@@ -1,9 +1,9 @@
-Fri, May 7 / Mon, May 10
+Tue, May 11 / Wed, May 12
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Understand sound and how it propagates.
+**Objective:** Be able to perform Doppler Effect calculations; be introduced to light.
   
 1. Review of Sound
 2. Notes over the **Doppler Effect**
@@ -27,11 +27,11 @@ Homework
 [correct]: https://avon.schoology.com/course/2624603689/materials?f=384894111
 [video]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5Mj
-U4MTAsLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwt
-Mzc5NzcxMjAxLDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMT
-M5NzUsLTM2NzgzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMs
-LTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMzYwMzE3MSw4OTY4MD
-AzOTIsMTE5NzkzMDcwNSw4OTA2NjE0MjksMTAyMzA1MzA1NV19
-
+eyJoaXN0b3J5IjpbLTE1MDk5MjgxNTYsNjEwOTk0ODcsMTU0OD
+Q0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5
+NCw4MzM0OTU1NSwtMzc5NzcxMjAxLDI0ODc3ODU3NywxNDUyOT
+IzNjA0LC03NjkzMTM5NzUsLTM2NzgzMTU0OSw0NjEwMDcyODgs
+LTIwMjY4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMz
+YwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0Mjld
+fQ==
 -->
