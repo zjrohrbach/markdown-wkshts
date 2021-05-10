@@ -17,8 +17,10 @@ Second Assignment
 -------
 
 | Equation                              | |
-|---------------------------------------|---|
-| $f=f_s (\frac{v \pm v_o}{v \mp v_s})$ | speed of sound in air: 3
+|---------------------------------------|------|
+| $f=f_s (\frac{v \pm v_o}{v \mp v_s})$ | $v=f\lambda$ | 
+
+*speed of sound in air:* 340 m/s 
 
 1. You are on a boat travelling toward a stationary dolphin.  The dolphin whistles at a frequency of 1200 Hz.  You hear a frequency of 1280 Hz.  How fast is your boat travelling?
 2. The engine of a racecar emits a relatively constant frequency of 400 Hz.  The racecar has a velocity of 45 m/s.
@@ -27,5 +29,5 @@ Second Assignment
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 3. What is the wavelength of a sound wave that has a frequency of 520 Hz?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODcyODY3OSwtNzA2OTM5NTk3XX0=
+eyJoaXN0b3J5IjpbNzQ4MTk2ODQ5LC03MDY5Mzk1OTddfQ==
 -->
