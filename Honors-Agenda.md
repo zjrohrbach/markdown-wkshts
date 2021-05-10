@@ -21,15 +21,18 @@ Homework
 -------------    
 - Be working on your [Final Exam Review][rev]
 - Last day for Makeup Work is Friday, May 21
+- Be working on your [syllabus]:
+	- 16-5 and 16-6 due Friday, 5/14
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
+[syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MD
-c5OTQwNSwtMjA0Nzc3ODU4NSwtMTQ3MzUyMzkxMywtMzk4ODM0
-NzY0LC0yMTYzMDE5NjAsMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC
-0xNzQzMDQ1NzkxLC0yMDk4NDA5OTYwLDIwMTk3NjE5NjAsLTEw
-MjU3MzE2MTMsLTEyOTc1Mzc5OTMsLTEzMTkzMzY5NTAsLTI3MD
-Y2OTQ3OSwtMzQ5MDMyODEsLTk2MDA0NjA1MiwxMzc4NTQ1ODA0
-LDE0MDY0MTMyNjVdfQ==
+eyJoaXN0b3J5IjpbLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxOD
+A0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIz
+OTEzLC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC
+04MjczNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAx
+OTc2MTk2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOT
+MzNjk1MCwtMjcwNjY5NDc5LC0zNDkwMzI4MSwtOTYwMDQ2MDUy
+LDEzNzg1NDU4MDRdfQ==
 -->
