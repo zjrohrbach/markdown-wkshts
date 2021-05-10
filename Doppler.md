@@ -23,13 +23,13 @@ Second Assignment
 
 *speed of sound in air:* 340 m/s 
 
-1. 
+1. You are traveling east at 23 m/s.  A police car approaches you from behind, also traveling east, at 34 m/s.  What frequency will you hear if the siren emits a tone of 920 Hz?
 2. The engine of a racecar emits a relatively constant frequency of 400 Hz.  The racecar has a velocity of 45 m/s.
 	1. What frequency do you (a stationary observer) hear as the car approaches?
 	2. What frequency do you hear after the car passes?
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 3. What is the wavelength of a sound wave that has a frequency of 520 Hz?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMzODkyNzMsNzQ4MTk2ODQ5LC03MD
+eyJoaXN0b3J5IjpbLTE5NzQ0MjQ1NDcsNzQ4MTk2ODQ5LC03MD
 Y5Mzk1OTddfQ==
 -->
