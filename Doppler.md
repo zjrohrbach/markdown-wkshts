@@ -17,8 +17,8 @@ First Assignment
 Second Assignment
 -------
 
-| Equation                              | |
-|---------------------------------------|------|
+| Equations                             | |
+|:--------------------------------------|------|
 | $f=f_s (\frac{v \pm v_o}{v \mp v_s})$ | $v=f\lambda$ | 
 
 *speed of sound in air:* 340 m/s 
@@ -30,6 +30,6 @@ Second Assignment
 	3. Let’s say you were Lakitu chasing the car at a speed of 52 m/s.  What frequency would you hear now?
 3. What is the wavelength of a sound wave that has a frequency of 520 Hz?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ0MjQ1NDcsNzQ4MTk2ODQ5LC03MD
-Y5Mzk1OTddfQ==
+eyJoaXN0b3J5IjpbNjQxNzg5NjkzLDc0ODE5Njg0OSwtNzA2OT
+M5NTk3XX0=
 -->
