@@ -5,16 +5,13 @@ Agenda
 ---------  
 **Objective:** Be able to perform Doppler Effect calculations; be introduced to light.
   
-1. Review of Sound
-2. Notes over the **Doppler Effect**
-3. Work on the [5/7,10 Assignment][assmt]
-4. Time to work on [Test Corrections][correct]
+1. Review what we learned about the Doppler Effect
+2. Do the [5/11-12 Assignment][assmt]
+3. ((Light??))
   
 **If absent:** 
 
-1. Watch the [Doppler Effect Notes][video]
-2. Complete the [5/7,10 Assignment][assmt]
-3. Check the HW listed below
+1. Complete the [5/11-12 Assignment][assmt] and turn it in.
   
 Homework   
 -------------  
@@ -23,15 +20,15 @@ Homework
 - All Makeup Work must be turned in by Friday, May 21
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
-[assmt]: https://avon.schoology.com/assignment/4936779575/
+[assmt]: https://avon.schoology.com/assignment/4947041397/
 [correct]: https://avon.schoology.com/course/2624603689/materials?f=384894111
 [video]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk5MjgxNTYsNjEwOTk0ODcsMTU0OD
-Q0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5
-NCw4MzM0OTU1NSwtMzc5NzcxMjAxLDI0ODc3ODU3NywxNDUyOT
-IzNjA0LC03NjkzMTM5NzUsLTM2NzgzMTU0OSw0NjEwMDcyODgs
-LTIwMjY4ODU4MzMsLTQ4MzAwNTEwNSw0MDI3NTk3MjEsLTgwMz
-YwMzE3MSw4OTY4MDAzOTIsMTE5NzkzMDcwNSw4OTA2NjE0Mjld
-fQ==
+eyJoaXN0b3J5IjpbLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MT
+A5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3Njcw
+MSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEsMjQ4Nz
+c4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3ODMxNTQ5
+LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMj
+c1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5MiwxMTk3OTMwNzA1
+XX0=
 -->
