@@ -3,18 +3,14 @@ Tue, May 11 / Wed, May 12
   
 Agenda  
 ---------  
-**Objective:** Be able to perform Doppler Effect calculations; be introduced to light.
-  
-1. Review what we learned about the Doppler Effect
-2. Do the [5/11-12 Assignment][assmt]
-3. Notes on the **Electromagnetic Spectrum**
-4. Reading about [Transparency and Opacity][reading]
+**Objective:** Understand the *Law of Reflection*.
+ 
+ 1. Review of what we have learned about electromagnetic waves.
+ 2. (*period 6 only*) Reading about [Transparency and Opacity][reading]
   
 **If absent:** 
 
-1. Complete the [5/11-12 Assignment][assmt] and turn it in.
-2. Take notes over [Electromagnetic Spectrum][notes]
-3. Read about [Transparency and Opacity][reading]
+1. Make sure you've done the reading about [Transparency and Opacity][reading]
   
 Homework   
 -------------  
@@ -23,16 +19,14 @@ Homework
 - All Makeup Work must be turned in by Friday, May 21
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
-[assmt]: https://avon.schoology.com/assignment/4947041397/
 [correct]: https://avon.schoology.com/course/2624603689/materials?f=384894111
 [reading]: https://avon.schoology.com/course/2624603689/materials/gp/4948285864
-[notes]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMT
-UwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgx
-MCwtMTMxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNz
-k3NzEyMDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3
-NSwtMzY3ODMxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtND
-gzMDA1MTA1LDQwMjc1OTcyMSwtODAzNjAzMTcxLDg5NjgwMDM5
-Ml19
+eyJoaXN0b3J5IjpbMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNj
+I3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1NDg0NDY4
+NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAxOTQsOD
+MzNDk1NTUsLTM3OTc3MTIwMSwyNDg3Nzg1NzcsMTQ1MjkyMzYw
+NCwtNzY5MzEzOTc1LC0zNjc4MzE1NDksNDYxMDA3Mjg4LC0yMD
+I2ODg1ODMzLC00ODMwMDUxMDUsNDAyNzU5NzIxLC04MDM2MDMx
+NzFdfQ==
 -->
