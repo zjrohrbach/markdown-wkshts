@@ -5,7 +5,9 @@ Agenda
 ---------    
 **Objective:** Be able to explain the concept of *electric field* and apply it.
   
-1. Notes on **Electric Fiel
+1. Notes on **Electric Field**
+2. d
+3. Worktime on [Test Corrections][tc] and [Syllabus][syllabus]
 
 **If absent**: Please make every effort to join us on Zoom during class time.
 
@@ -18,7 +20,7 @@ Agenda
 Homework     
 -------------    
 - Be working on your [Final Exam Review][rev]
-- Last day for Makeup Work is Friday, May 21
+- Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
 - Be working on your [syllabus]:
 	- 16-5 and 16-6 due Friday, 5/14
 	- 16-7 and 16-8 due Tuesday, 5/18
@@ -27,8 +29,9 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
+[tc]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc5MzkzMjcsMTU4NDIxMDIyNywyNj
+eyJoaXN0b3J5IjpbLTExNTQzMTg4NDIsMTU4NDIxMDIyNywyNj
 Y1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMz
 NywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC
 0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mjcz
