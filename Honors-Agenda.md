@@ -6,7 +6,7 @@ Agenda
 **Objective:** Be able to explain the concept of *electric field* and apply it.
   
 1. Notes on **Electric Field**
-2. d
+2. Do a few [Practice Problems][prac]
 3. Worktime on [Test Corrections][tc] and [Syllabus][syllabus]
 
 **If absent**: Please make every effort to join us on Zoom during class time.
@@ -30,12 +30,13 @@ Homework
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
+[prac]: https://avon.schoology.com/page/4956492038
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwOTQxNzc1LC0xMTU0MzE4ODQyLDE1OD
-QyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMjMxNjk1
-NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3ODU4NSwtMT
-Q3MzUyMzkxMywtMzk4ODM0NzY0LC0yMTYzMDE5NjAsMTgwOTQ0
-NDg1OCwtODI3MzY5MTI4LC0xNzQzMDQ1NzkxLC0yMDk4NDA5OT
-YwLDIwMTk3NjE5NjAsLTEwMjU3MzE2MTMsLTEyOTc1Mzc5OTMs
-LTEzMTkzMzY5NTBdfQ==
+eyJoaXN0b3J5IjpbOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4ND
+IxMDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1
+LDYxODA0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xND
+czNTIzOTEzLC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0
+ODU4LC04MjczNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5Nj
+AsMjAxOTc2MTk2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5Mywt
+MTMxOTMzNjk1MF19
 -->
