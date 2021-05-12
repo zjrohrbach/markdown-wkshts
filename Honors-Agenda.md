@@ -3,13 +3,9 @@ Thu, May 13 / Fri, May 14
   
 Agenda    
 ---------    
-**Objective:** Be able to explain the phenomena you saw in the stations last class.  Be able to use Coulomb's Law to solve a multi-charge problem.
+**Objective:** Be able to explain the concept of *electric field* and apply it.
   
-1. Hand out the [Electricity Syllabus][syllabus]
-2. Notes on **Electrostatics**
-3. Do a [Multi-Charge Practice Problem](https://avon.schoology.com/course/2624603229/materials/gp/4946764596)
-4. Worktime
-
+1. Notes on **Electric Fiel
 
 **If absent**: Please make every effort to join us on Zoom during class time.
 
@@ -25,16 +21,18 @@ Homework
 - Last day for Makeup Work is Friday, May 21
 - Be working on your [syllabus]:
 	- 16-5 and 16-6 due Friday, 5/14
+	- 16-7 and 16-8 due Tuesday, 5/18
+	- Ch 16 Conceptual Questions due Tuesday, 5/18
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDIxMDIyNywyNjY1NDg3OTUsLTc3NT
-Q0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMzNywxNTgwNzk5NDA1
-LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC0zOTg4MzQ3NjQsLT
-IxNjMwMTk2MCwxODA5NDQ0ODU4LC04MjczNjkxMjgsLTE3NDMw
-NDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2MTk2MCwtMTAyNTczMT
-YxMywtMTI5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcwNjY5NDc5
-LC0zNDkwMzI4MV19
+eyJoaXN0b3J5IjpbLTEwNzc5MzkzMjcsMTU4NDIxMDIyNywyNj
+Y1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMz
+NywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC
+0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mjcz
+NjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2MT
+k2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5MywtMTMxOTMzNjk1
+MCwtMjcwNjY5NDc5XX0=
 -->
