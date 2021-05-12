@@ -1,4 +1,4 @@
-Tue, May 11 / Wed, May 12
+Thu, May 13 / Fri, May 14
 ==================    
   
 Agenda    
@@ -30,11 +30,11 @@ Homework
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMj
-MxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3ODU4
-NSwtMTQ3MzUyMzkxMywtMzk4ODM0NzY0LC0yMTYzMDE5NjAsMT
-gwOTQ0NDg1OCwtODI3MzY5MTI4LC0xNzQzMDQ1NzkxLC0yMDk4
-NDA5OTYwLDIwMTk3NjE5NjAsLTEwMjU3MzE2MTMsLTEyOTc1Mz
-c5OTMsLTEzMTkzMzY5NTAsLTI3MDY2OTQ3OSwtMzQ5MDMyODEs
-LTk2MDA0NjA1Ml19
+eyJoaXN0b3J5IjpbMTU4NDIxMDIyNywyNjY1NDg3OTUsLTc3NT
+Q0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMzNywxNTgwNzk5NDA1
+LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC0zOTg4MzQ3NjQsLT
+IxNjMwMTk2MCwxODA5NDQ0ODU4LC04MjczNjkxMjgsLTE3NDMw
+NDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2MTk2MCwtMTAyNTczMT
+YxMywtMTI5NzUzNzk5MywtMTMxOTMzNjk1MCwtMjcwNjY5NDc5
+LC0zNDkwMzI4MV19
 -->
