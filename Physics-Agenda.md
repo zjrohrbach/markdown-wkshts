@@ -1,14 +1,15 @@
-Thu, May 13 / Fri, May 14
+Mon, May 17 / Tue, May 18
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Understand the *Law of Reflection*.
+**Objective:** Understand the concept of *refraction*.
  
- 1. Review of what we have learned about electromagnetic waves.
- 2. (*period 6 only*) Reading about [Transparency and Opacity][reading]
- 3. Do the **Reflection Lab**
- 4. Notes on **Reflection**
+ 1. Review of what we have learned reflection, transparency, and color.
+ 2. Do the [Refraction Reading][read]
+ 3. Rotation
+	 - Work on the [Final Exam Review][rev]
+	 - Do the 
   
 **If absent:** 
 
@@ -27,11 +28,11 @@ Homework
 [reading]: https://avon.schoology.com/course/2624603689/materials/gp/4948285864
 [notes]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NT
-E0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4
-NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3NjcwMSwxMT
-kyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEsMjQ4Nzc4NTc3
-LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3ODMxNTQ5LDQ2MT
-AwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1MTA1LDQwMjc1OTcy
-MV19
+eyJoaXN0b3J5IjpbNzk2MzE4NjUyLDQzNTUyMTE0NiwxNDMzMD
+Y3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5Mjgx
+NTYsNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMT
+Q3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAx
+LDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUsLTM2Nz
+gzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4MzAwNTEw
+NV19
 -->
