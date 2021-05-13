@@ -9,7 +9,8 @@ Agenda
  2. Do the [Refraction Reading][read]
  3. Rotation
 	 - Work on the [Final Exam Review][rev]
-	 - Do the 
+	 - Do the [Refraction Lab][lab]
+ 4. Take notes on **Refraction**
   
 **If absent:** 
 
@@ -20,19 +21,18 @@ Agenda
 Homework   
 -------------  
 - Be working on your [Final Exam Review][rev]
-- [Test Corrections][correct] need to be done by Friday, May 14
 - All Makeup Work must be turned in by Friday, May 21
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
-[correct]: https://avon.schoology.com/course/2624603689/materials?f=384894111
-[reading]: https://avon.schoology.com/course/2624603689/materials/gp/4948285864
+[read]:
 [notes]: 
+[lab]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MzE4NjUyLDQzNTUyMTE0NiwxNDMzMD
-Y3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5Mjgx
-NTYsNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMT
-Q3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAx
-LDI0ODc3ODU3NywxNDUyOTIzNjA0LC03NjkzMTM5NzUsLTM2Nz
-gzMTU0OSw0NjEwMDcyODgsLTIwMjY4ODU4MzMsLTQ4MzAwNTEw
-NV19
+eyJoaXN0b3J5IjpbLTE1MjY3Njg5OTAsNDM1NTIxMTQ2LDE0Mz
+MwNjcwNjksLTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTky
+ODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMT
+MxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEy
+MDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMz
+Y3ODMxNTQ5LDQ2MTAwNzI4OCwtMjAyNjg4NTgzMywtNDgzMDA1
+MTA1XX0=
 -->
