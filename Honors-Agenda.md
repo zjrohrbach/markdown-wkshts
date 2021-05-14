@@ -1,9 +1,9 @@
-Thu, May 13 / Fri, May 14
+Mon, May 17 / Tue, May 18
 ==================    
   
 Agenda    
 ---------    
-**Objective:** Be able to explain the concept of *electric field* and apply it.
+**Objective:** Be able to explain how electric field gives rise to the possibility of electrical circuits and be able to describe Ohm's Law
   
 1. Notes on **Electric Field**
 2. Do a few [Practice Problems][prac]
@@ -22,9 +22,8 @@ Homework
 - Be working on your [Final Exam Review][rev]
 - Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
 - Be working on your [syllabus]:
-	- 16-5 and 16-6 due Friday, 5/14
-	- 16-7 and 16-8 due Tuesday, 5/18
-	- Ch 16 Conceptual Questions due Tuesday, 5/18
+	- All Ch 16 should be turned in
+	- 
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [test]: https://avon.schoology.com/assignment/4925783860/assessment_questions
@@ -32,11 +31,11 @@ Homework
 [tc]: https://avon.schoology.com/assignment/4956419938/
 [prac]: https://avon.schoology.com/page/4956492038
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4ND
-IxMDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1
-LDYxODA0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xND
-czNTIzOTEzLC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0
-ODU4LC04MjczNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5Nj
-AsMjAxOTc2MTk2MCwtMTAyNTczMTYxMywtMTI5NzUzNzk5Mywt
-MTMxOTMzNjk1MF19
+eyJoaXN0b3J5IjpbMzk2MTcyMjUxLDk1ODcwMDU4LC0xMTU0Mz
+E4ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYs
+MTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nz
+c3ODU4NSwtMTQ3MzUyMzkxMywtMzk4ODM0NzY0LC0yMTYzMDE5
+NjAsMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC0xNzQzMDQ1NzkxLC
+0yMDk4NDA5OTYwLDIwMTk3NjE5NjAsLTEwMjU3MzE2MTMsLTEy
+OTc1Mzc5OTNdfQ==
 -->
