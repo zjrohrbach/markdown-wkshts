@@ -18,7 +18,7 @@ Agenda
   
 Homework   
 -------------  
-- Be working on your [Final Exam Review][rev]
+- Be working on your [Final Exam Review][rev] (due on exam day!)
 - All Makeup Work must be turned in by Friday, May 21
 - Next class will be review for the final Exam
 - Final Exam Schedule:
@@ -33,7 +33,7 @@ Homework
 [notes]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTk0MzAxMywtMTgxODY2MjI3MSwtMT
+eyJoaXN0b3J5IjpbMTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMT
 A2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5
 NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNj
 I3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1NDg0NDY4
