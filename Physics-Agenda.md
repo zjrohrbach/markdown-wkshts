@@ -7,9 +7,7 @@ Agenda
  
  1. Review of what we have learned reflection, transparency, and color.
  2. Do the [Refraction Reading][read]
- 3. Rotation
-	 - Work on the [Final Exam Review][rev]
-	 - Do the [Refraction Lab][lab]
+ 3. Do the [Refraction Lab][lab]
  4. Take notes on **Refraction**
   
 **If absent:** 
@@ -29,11 +27,11 @@ Homework
 [notes]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4OD
-Q3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjks
-LTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MT
-A5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3Njcw
-MSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEsMjQ4Nz
-c4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3NSwtMzY3ODMxNTQ5
-XX0=
+eyJoaXN0b3J5IjpbLTE4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLT
+cyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2
+LDE0MzMwNjcwNjksLTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMT
+UwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgx
+MCwtMTMxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNz
+k3NzEyMDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3
+NV19
 -->
