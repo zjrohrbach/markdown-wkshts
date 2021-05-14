@@ -20,6 +20,12 @@ Homework
 -------------  
 - Be working on your [Final Exam Review][rev]
 - All Makeup Work must be turned in by Friday, May 21
+- Next class will be review for the final Exam
+- Final Exam Schedule:
+	- Mon: 6th
+	- Tues: 1st, 3rd
+	- Wed: 2nd, 4th
+	- Thu: 5th, 7th
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4962372229
@@ -27,11 +33,11 @@ Homework
 [notes]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLT
-cyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2
-LDE0MzMwNjcwNjksLTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMT
-UwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgx
-MCwtMTMxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1LC0zNz
-k3NzEyMDEsMjQ4Nzc4NTc3LDE0NTI5MjM2MDQsLTc2OTMxMzk3
-NV19
+eyJoaXN0b3J5IjpbMTQyMTk0MzAxMywtMTgxODY2MjI3MSwtMT
+A2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5
+NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNj
+I3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1NDg0NDY4
+NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAxOTQsOD
+MzNDk1NTUsLTM3OTc3MTIwMSwyNDg3Nzg1NzcsMTQ1MjkyMzYw
+NF19
 -->
