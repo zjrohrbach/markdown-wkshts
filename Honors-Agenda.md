@@ -22,7 +22,7 @@ Agenda
   
 Homework     
 -------------    
-- Be working on your [Final Exam Review][rev]
+- Be working on your [Final Exam Review][rev] (due on exam day **before the Exams are passed out**)
 	- *Questions to skip: #85, 87, 88, 91, 92*
 - Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
 - Your [syllabus] needs to be done:
@@ -35,11 +35,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI4MTY4MTEsODAxMzQ5MjIxLDE3Mz
-AwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIy
-NywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxOD
-A0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIz
-OTEzLC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC
-04MjczNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAx
-OTc2MTk2MF19
+eyJoaXN0b3J5IjpbMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MD
+EzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0
+MiwxNTg0MjEwMjI3LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMz
+IzMTY5NTUsNjE4MDQyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1
+ODUsLTE0NzM1MjM5MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLD
+E4MDk0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5
+ODQwOTk2MF19
 -->
