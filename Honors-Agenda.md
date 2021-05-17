@@ -5,8 +5,11 @@ Agenda
 ---------    
 **Objective:** Be able to explain how electric field gives rise to the possibility of electrical circuits and be able to describe Ohm's Law
   
-1. Notes on **Electric Circuits**
-2. Circuits Lab
+1. Do an Electricity Review Kahoot.
+2. Go over questions on HW or Review
+3. Do a selection of review problems together: #
+
+
 
 **If absent**: Please make every effort to join us on Zoom during class time.
 
@@ -21,7 +24,7 @@ Homework
 - Be working on your [Final Exam Review][rev]
 	- *Questions to skip: #85, 87, 88, 91, 92*
 - Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
-- Be working on your [syllabus]:
+- Your [syllabus] needs to be done:
 	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
 	- Ch 19 is *cancelled*
@@ -30,11 +33,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNjk4NzIsODAxMzQ5MjIxLDE3MzAwOT
-AwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywy
-NjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0Mj
-MzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEz
-LC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mj
-czNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2
-MTk2MF19
+eyJoaXN0b3J5IjpbLTYxNTQ2OTMzMiw4MDEzNDkyMjEsMTczMD
+A5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3
+LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MD
+QyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1ODUsLTE0NzM1MjM5
+MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MDk0NDQ4NTgsLT
+gyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQwOTk2MCwyMDE5
+NzYxOTYwXX0=
 -->
