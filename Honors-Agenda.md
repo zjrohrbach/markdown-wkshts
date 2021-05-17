@@ -7,7 +7,8 @@ Agenda
   
 1. Do an Electricity Review Kahoot.
 2. Go over questions on HW or Review
-3. Do a selection of review problems together: #
+3. Do a selection of review problems together: #19, 33, 73, 95, (maybe 97, too)
+4. Worktime
 
 
 
@@ -28,12 +29,13 @@ Homework
 	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
 	- Ch 19 is *cancelled*
+- I will be available on Zoom to answer final exam q
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTQ2OTMzMiw4MDEzNDkyMjEsMTczMD
+eyJoaXN0b3J5IjpbLTU5NTgyOTQ5Miw4MDEzNDkyMjEsMTczMD
 A5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3
 LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MD
 QyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1ODUsLTE0NzM1MjM5
