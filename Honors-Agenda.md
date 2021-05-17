@@ -19,21 +19,22 @@ Agenda
 Homework     
 -------------    
 - Be working on your [Final Exam Review][rev]
+	- *Questions to skip: #85, 87, 88, 91, 92*
 - Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
 - Be working on your [syllabus]:
-	- All Ch 16 should be turned in
+	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
-	- Ch 19 is **cancelled**
+	- Ch 19 is *cancelled*
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4Nz
-AwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywyNjY1NDg3OTUs
-LTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMzNywxNTgwNz
-k5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC0zOTg4MzQ3
-NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04MjczNjkxMjgsLT
-E3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2MTk2MCwtMTAy
-NTczMTYxM119
+eyJoaXN0b3J5IjpbNjMzNjk4NzIsODAxMzQ5MjIxLDE3MzAwOT
+AwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywy
+NjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0Mj
+MzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEz
+LC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mj
+czNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAxOTc2
+MTk2MF19
 -->
