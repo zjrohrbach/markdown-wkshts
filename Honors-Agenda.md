@@ -1,4 +1,4 @@
-Mon, May 17 / Tue, May 18
+Wed, May 19 / Thu, May 20
 ==================    
   
 Agenda    
@@ -29,17 +29,17 @@ Homework
 	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
 	- Ch 19 is *cancelled*
-- I will be available on Zoom to answer final exam questions at **7pm on Monday**.
+- I will be available on Zoom to answer final exam questions **8:15-9:00pm on Monday**. (this is to make up for the fi
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzQ1Njc3MCw4MDEzNDkyMjEsMTczMD
-A5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3
-LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MD
-QyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1ODUsLTE0NzM1MjM5
-MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MDk0NDQ4NTgsLT
-gyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5ODQwOTk2MCwyMDE5
-NzYxOTYwXX0=
+eyJoaXN0b3J5IjpbLTE4NjgzOTQ5MjMsODAxMzQ5MjIxLDE3Mz
+AwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIy
+NywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxOD
+A0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIz
+OTEzLC0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC
+04MjczNjkxMjgsLTE3NDMwNDU3OTEsLTIwOTg0MDk5NjAsMjAx
+OTc2MTk2MF19
 -->
