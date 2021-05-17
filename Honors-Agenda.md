@@ -29,13 +29,13 @@ Homework
 	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
 	- Ch 19 is *cancelled*
-- I will be available on Zoom to answer final exam questions **8:15-9:00pm on Monday**. (this is to make up for the fi
+- I will be available on Zoom to answer final exam questions **8:15-9:00pm on Monday**. (I will not be present at school during 2nd period on Monday)
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgzOTQ5MjMsODAxMzQ5MjIxLDE3Mz
+eyJoaXN0b3J5IjpbLTE1MjI4MTY4MTEsODAxMzQ5MjIxLDE3Mz
 AwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIy
 NywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxOD
 A0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIz
