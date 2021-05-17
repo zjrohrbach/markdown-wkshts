@@ -1,20 +1,18 @@
-Mon, May 17 / Tue, May 18
+Wed, May 19 / Thu, May 20
 ==================  
   
 Agenda  
 ---------  
-**Objective:** Understand the concept of *refraction*.
+**Objective:** Begin reviewing for the Final Exam
  
- 1. Review of what we have learned reflection, transparency, and color.
- 2. Do the [Refraction Reading][read]
- 3. Do the [Refraction Lab][lab]
- 4. Take notes on **Refraction**
+ 1. Take a bit of time to debrief the [Lab][lab] from last class and turn it in.
+ 2. Do a Sound & Light Review Kahoot
+ 3. 
   
 **If absent:** 
 
-1. Do the [Refraction Reading][read]
-2. Do the [Refraction Lab][lab]
-3. Take notes on [Refraction][notes]
+1. Make sure your [
+2. Do the [Kahoot][kahoot] to review Sound and Light.
   
 Homework   
 -------------  
@@ -30,14 +28,13 @@ Homework
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 [read]: https://avon.schoology.com/course/2624603689/materials/gp/4962372229
 [lab]: https://avon.schoology.com/assignment/4962614629/
-[notes]: 
-
+[kahoot]: https://kahoot.it/challenge/07669193?challenge-id=82ea98e6-c948-415e-aaff-cb19e2b6925d_1621271365217
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMT
-A2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5
-NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNj
-I3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1NDg0NDY4
-NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAxOTQsOD
-MzNDk1NTUsLTM3OTc3MTIwMSwyNDg3Nzg1NzcsMTQ1MjkyMzYw
-NF19
+eyJoaXN0b3J5IjpbLTI5OTg2NTgwMiwxNzk1MDk0ODg3LC0xOD
+E4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsODg0NzMy
+NDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5LC0xND
+UxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5MjgxNTYsNjEwOTk0
+ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3MDEsMT
+E5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAxLDI0ODc3ODU3
+N119
 -->
