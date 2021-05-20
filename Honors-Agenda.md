@@ -18,21 +18,18 @@ Homework
 - Your [Final Exam Review][rev] is due on exam day **before the Exams are passed out**.  It will be physically handed in; no need to upload to Schoology.
 	- *Questions to skip: #85, 87, 88, 91, 92*
 - Last day for Makeup Work and [Test Corrections][tc] is TODAY!
-- 
-	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
-	- All Ch 18 should be done by Friday, May 21
-	- Ch 19 is *cancelled*
+- Ch 16 and Ch 18 HW should be turned in.  (Ch 19 was cancelled)
 - I will be available on Zoom to answer final exam questions **8:15-9:00pm on Monday**. (I will not be present at school during 2nd period on Monday)
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjkwNzEzNiwyMDc0NjEyNzMwLC0xNT
-IyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4
-LC0xMTU0MzE4ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03Nz
-U0NDI5MDYsMTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQw
-NSwtMjA0Nzc3ODU4NSwtMTQ3MzUyMzkxMywtMzk4ODM0NzY0LC
-0yMTYzMDE5NjAsMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC0xNzQz
-MDQ1NzkxXX0=
+eyJoaXN0b3J5IjpbLTE0MjY0MDc0MDgsMjA3NDYxMjczMCwtMT
+UyMjgxNjgxMSw4MDEzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1
+OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3LDI2NjU0ODc5NSwtNz
+c1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MDQyMzM3LDE1ODA3OTk0
+MDUsLTIwNDc3Nzg1ODUsLTE0NzM1MjM5MTMsLTM5ODgzNDc2NC
+wtMjE2MzAxOTYwLDE4MDk0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0
+MzA0NTc5MV19
 -->
