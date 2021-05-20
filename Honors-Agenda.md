@@ -1,31 +1,24 @@
-Wed, May 19 / Thu, May 20
+Fri, May 21
 ==================    
   
 Agenda    
 ---------    
-**Objective:** Be able to explain how electric field gives rise to the possibility of electrical circuits and be able to describe Ohm's Law
+**Objective:** Review for the Final Exam
   
-1. Do an Electricity Review Kahoot.
-2. Go over questions on HW or Review
-3. Do a selection of review problems together: #19, 33, 73, 95, (maybe 97, too)
-4. Worktime
+1. Take questions over the review
+2. Play Physics Review Password
+3. Worktime
 
 
-
-**If absent**: Please make every effort to join us on Zoom during class time.
-
-> [Link](https://us02web.zoom.us/j/89652361206?pwd=L3ZYQzBGNitFK0J6K1M4Nk1iM1dYQT09)      
-> Time: 8:00am Black and Gold Days; 1:25pm Black Days    
-> Meeting ID: 896 5236 1206      
-> Passcode: J5ePse
+**If absent**: Make sure to work on your review.  Send me any questions that you have.
 
   
 Homework     
 -------------    
-- Be working on your [Final Exam Review][rev] (due on exam day **before the Exams are passed out**)
+- Your [Final Exam Review][rev] is due on exam day **before the Exams are passed out**.  It will be physically handed in; no need to upload to Schoology.
 	- *Questions to skip: #85, 87, 88, 91, 92*
-- Last day for Makeup Work and [Test Corrections][tc] is Friday, May 21 
-- Your [syllabus] needs to be done:
+- Last day for Makeup Work and [Test Corrections][tc] is TODAY!
+- 
 	- All Ch 16 should be turned in (*Remember, I made #32 into bonus*)
 	- All Ch 18 should be done by Friday, May 21
 	- Ch 19 is *cancelled*
@@ -35,11 +28,11 @@ Homework
 [syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
 [tc]: https://avon.schoology.com/assignment/4956419938/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MD
-EzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0
-MiwxNTg0MjEwMjI3LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMz
-IzMTY5NTUsNjE4MDQyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1
-ODUsLTE0NzM1MjM5MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLD
-E4MDk0NDQ4NTgsLTgyNzM2OTEyOCwtMTc0MzA0NTc5MSwtMjA5
-ODQwOTk2MF19
+eyJoaXN0b3J5IjpbLTUxNjkwNzEzNiwyMDc0NjEyNzMwLC0xNT
+IyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4
+LC0xMTU0MzE4ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03Nz
+U0NDI5MDYsMTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQw
+NSwtMjA0Nzc3ODU4NSwtMTQ3MzUyMzkxMywtMzk4ODM0NzY0LC
+0yMTYzMDE5NjAsMTgwOTQ0NDg1OCwtODI3MzY5MTI4LC0xNzQz
+MDQ1NzkxXX0=
 -->
