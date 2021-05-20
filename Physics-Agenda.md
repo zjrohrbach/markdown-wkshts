@@ -14,7 +14,7 @@ Agenda
   
 Homework   
 -------------  
-- Be working on your [Final Exam Review][rev] (due on exam day **before the Exams are passed out**)
+- Your [Final Exam Review][rev] is due on exam day **before the Exams are passed out**.  It will be physically handed in; no need to upload to Schoology.
 - All Makeup Work must be turned in the end of the day today!
 - Final Exam Schedule:
 	- Mon: 6th
@@ -24,11 +24,11 @@ Homework
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MT
-g2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0
-MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NT
-E0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4
-NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3NjcwMSwxMT
-kyNzUwMTk0LDgzMzQ5NTU1LC0zNzk3NzEyMDEsMjQ4Nzc4NTc3
+eyJoaXN0b3J5IjpbNTUwMjIzMjQ5LDI2NjQwODgyMiwxNzk1MD
+k0ODg3LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEw
+NDQsODg0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMD
+Y3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5Mjgx
+NTYsNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMT
+Q3NzY3MDEsMTE5Mjc1MDE5NCw4MzM0OTU1NSwtMzc5NzcxMjAx
 XX0=
 -->
