@@ -7,10 +7,9 @@ Agenda
  
  1. Take questions over the review
  2. Play Physics Review Password
-  
-**If absent:** 
+ 3. Sound & Light Kahoot
+ 4. Worktime
 
-1. 
   
 Homework   
 -------------  
@@ -24,7 +23,7 @@ Homework
 
 [rev]: https://avon.schoology.com/course/2624603689/materials?f=450604587
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMjIzMjQ5LDI2NjQwODgyMiwxNzk1MD
+eyJoaXN0b3J5IjpbNDM1MjYyNTAyLDI2NjQwODgyMiwxNzk1MD
 k0ODg3LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEw
 NDQsODg0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMD
 Y3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5Mjgx
