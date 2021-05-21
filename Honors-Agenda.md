@@ -1,4 +1,4 @@
-Fri, May 21
+Mon, May 24
 ==================    
   
 Agenda    
@@ -20,14 +20,13 @@ Homework
 - I will be available on Zoom to answer final exam questions **8:15-9:00pm this evening**
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
-[syllabus]: https://avon.schoology.com/course/2624603229/materials?f=369843924#foldersexpanded=
-[tc]: https://avon.schoology.com/assignment/4956419938/
+[video]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDc4MTU0MywtMTQyNjQwNzQwOCwyMD
-c0NjEyNzMwLC0xNTIyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkw
-MDMxLDk1ODcwMDU4LC0xMTU0MzE4ODQyLDE1ODQyMTAyMjcsMj
-Y2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMjMxNjk1NSw2MTgwNDIz
-MzcsMTU4MDc5OTQwNSwtMjA0Nzc3ODU4NSwtMTQ3MzUyMzkxMy
-wtMzk4ODM0NzY0LC0yMTYzMDE5NjAsMTgwOTQ0NDg1OCwtODI3
-MzY5MTI4XX0=
+eyJoaXN0b3J5IjpbMTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNz
+Q2MTI3MzAsLTE1MjI4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAw
+MzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywyNj
+Y1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMz
+NywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC
+0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mjcz
+NjkxMjhdfQ==
 -->
