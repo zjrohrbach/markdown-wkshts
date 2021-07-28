@@ -1,9 +1,10 @@
 Thu, Jul 29 / Fri, Jul 30
 ==================  
 
-Objective
+Objectives
 ------------
-
+- Be introduced to how the class will run
+- 
 
 
 Agenda  
@@ -18,14 +19,14 @@ Announcements
 - Be looking for a reading book that is interesting to you.
 - Have a **notebook** and **calculator** by Wed, 8/4
 
-[CIG]: 
+[CIG]: https://avon.schoology.com/course/5138386942/materials/gp/5144909687
 [docx]: https://avon.schoology.com/course/5138386942/materials/gp/5144858412
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTE0MjYxOCwxNjkyMjQ4NzUxLDQzNT
-I2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2MjI3
-MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1Mj
-MwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIx
-MCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1ND
-g0NDY4NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAx
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTI4NDAwMTU2LDE2OTIyNDg3NTEsNDM1Mj
+YyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3LC0xODE4NjYyMjcx
+LC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsODg0NzMyNDAsMzUyMz
+AyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5LC0xNDUxNDE2MjEw
+LC02MjczODg5ODEsLTE1MDk5MjgxNTYsNjEwOTk0ODcsMTU0OD
+Q0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3MDEsMTE5Mjc1MDE5
+NF19
 -->
