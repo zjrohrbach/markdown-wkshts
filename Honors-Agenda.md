@@ -14,19 +14,39 @@ Agenda
 
   
 Homework     
+Thu, Jul 29 / Fri, Jul 30
+==================  
+
+Objectives
+------------
+- Be introduced to how the class will run.
+- Design a lab to investigate the motion of cars.
+
+Agenda  
+---------  
+
+ 1. Seat Assignments
+ 2. Go over the [Course Info Guide][CIG]
+ 3. Start the [][docx]
+
+Announcements
 -------------    
 - Your [Final Exam Review][rev] is due on exam day **before the Exams are passed out**.  It will be physically handed in; no need to upload to Schoology.
-	- *Questions to skip: #85, 87, 88, 91, 92*
+	- *QuBe looking for a reading book that is interestionsng to skip: #85, 87, 88, 91, 92*
 - I will be available on Zoom to answer final exam questions **8:15-9:00pm this evening**
 
 [rev]: https://avon.schoology.com/course/2624603229/materials?f=369844930
-[video]: 
+[videoyou.
+- Have a **notebook** and **calculator** by Wed, 8/4
+
+[CIG]: 
+[docx]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNz
-Q2MTI3MzAsLTE1MjI4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAw
-MzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywyNj
-Y1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LDYxODA0MjMz
-NywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDczNTIzOTEzLC
-0zOTg4MzQ3NjQsLTIxNjMwMTk2MCwxODA5NDQ0ODU4LC04Mjcz
-NjkxMjhdfQ==
+eyJoaXN0b3J5IjpbMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0Mj
+Y0MDc0MDgsMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDky
+MjEsMTczMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNT
+g0MjEwMjI3LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5
+NTUsNjE4MDQyMzM3LDE1ODA3OTk0MDUsLTIwNDc3Nzg1ODUsLT
+E0NzM1MjM5MTMsLTM5ODgzNDc2NCwtMjE2MzAxOTYwLDE4MDk0
+NDQ4NThdfQ==
 -->
