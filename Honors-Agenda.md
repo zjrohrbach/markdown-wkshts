@@ -18,10 +18,10 @@ Announcements
 -------------  
 - Have a **notebook** and **calculator** by Wed, 8/4
 
-[CIG]: 
+[CIG]: https://avon.schoology.com/course/5138386902/materials/gp/5145129178
 [docx]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzcxMTgyOSwyMDM0NTE2NTMwLDEzND
+eyJoaXN0b3J5IjpbLTY4MDIyNzczOSwyMDM0NTE2NTMwLDEzND
 gwMTIyODcsMTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3
 MzAsLTE1MjI4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOT
 U4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIxMDIyNywyNjY1NDg3
