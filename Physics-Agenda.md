@@ -13,22 +13,19 @@ Agenda
  2. Go over the [Course Info Guide][CIG]
  3. Start the [Ball Measurement Lab][docx]
 
-### Resources if absent:
-
-  
 Announcements
 -------------  
 - Be looking for a reading book that is interesting to you.
 - Have a **notebook** and **calculator** by Wed, 8/4
 
 [CIG]: 
-[docx]:
+[docx]: https://avon.schoology.com/course/5138386942/materials/gp/5144858412
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjI0ODc1MSw0MzUyNjI1MDIsMjY2ND
-A4ODIyLDE3OTUwOTQ4ODcsLTE4MTg2NjIyNzEsLTEwNjUzMzM1
-MjAsLTcyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIwOTQsNDM1NT
-IxMTQ2LDE0MzMwNjcwNjksLTE0NTE0MTYyMTAsLTYyNzM4ODk4
-MSwtMTUwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3LDE5Nj
-kyNTgxMCwtMTMxNDc3NjcwMSwxMTkyNzUwMTk0LDgzMzQ5NTU1
-XX0=
+eyJoaXN0b3J5IjpbLTQ5MTE0MjYxOCwxNjkyMjQ4NzUxLDQzNT
+I2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2MjI3
+MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1Mj
+MwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIx
+MCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1ND
+g0NDY4NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAx
+OTRdfQ==
 -->
