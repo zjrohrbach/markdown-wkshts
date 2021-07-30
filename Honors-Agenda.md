@@ -17,14 +17,16 @@ Announcements
 -------------  
 - Have a **notebook** and **calculator** by Wed, 8/4
 
-[CIG]: https://avon.schoology.com/course/5138386902/materials/gp/5145129178
 [docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
+[submit]: https://avon.schoology.com/assignment/5144856368/
+[exp]: https://youtu.be/znYqB1OTjak?t=115
+[acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwOTg4ODUsLTY4MDIyNzczOSwyMD
-M0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcyODgwLC0xNDI2NDA3
-NDA4LDIwNzQ2MTI3MzAsLTE1MjI4MTY4MTEsODAxMzQ5MjIxLD
-E3MzAwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIx
-MDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2OTU1LD
-YxODA0MjMzNywxNTgwNzk5NDA1LC0yMDQ3Nzc4NTg1LC0xNDcz
-NTIzOTEzXX0=
+eyJoaXN0b3J5IjpbNTk4MjY1MjYwLC0yMTE0MDk4ODg1LC02OD
+AyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4
+MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLD
+gwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4
+ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMT
+IzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3
+ODU4NV19
 -->
