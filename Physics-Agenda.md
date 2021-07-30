@@ -10,7 +10,7 @@ Objectives
 Agenda  
 ---------  
 
- 1. Finish the Car Lab and turn it in
+1. Finish the Car Lab and turn it in
 	- [Document to Download][docx]
 	- [Submission Link][submit]
 2. Take notes over Experimental Design[\*][exp]
@@ -29,7 +29,7 @@ Announcements
 [exp]: https://youtu.be/znYqB1OTjak?t=115
 [acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzOTQ4Njg1LDE1Mjk5NDYwNTgsMTY5Mj
+eyJoaXN0b3J5IjpbNjE2MzA0Mjk1LDE1Mjk5NDYwNTgsMTY5Mj
 I0ODc1MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcs
 LTE4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4OD
 Q3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjks
