@@ -1,31 +1,33 @@
-Thu, Jul 29 / Fri, Jul 30
-==================  
+
+Mon, Aug 2 / Tue, Aug 3
+=====================
 
 Objectives
 ------------
-- Be introduced to how the class will run.
-- Design a lab to investigate the motion of a dropped ball.
+- Be able to explain the physical significance of the slope of a graph.
+- Understand the principles of good experimental design.
 
 Agenda  
 ---------  
 
- 1. Seat Assignments
+ 1. Figi
  2. Go over the [Course Info Guide][CIG]
- 3. Start the [Ball Measurement Lab][docx]
+ 3. Start the [Car Lab][docx]
 
 Announcements
 -------------  
-- Be looking for a reading book that is interesting to you.
-- Have a **notebook** and **calculator** by Wed, 8/4
+- Have a **notebook** and **calculator** by next class
 
-[CIG]: https://avon.schoology.com/course/5138386942/materials/gp/5144909687
-[docx]: https://avon.schoology.com/course/5138386942/materials/gp/5144858412
+[docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
+[submit]: https://avon.schoology.com/assignment/5144856368/
+[exp]: https://youtu.be/znYqB1OTjak?t=115
+[acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTk0NjA1OCwxNjkyMjQ4NzUxLDQzNT
-I2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2MjI3
-MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1Mj
-MwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIx
-MCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3LDE1ND
-g0NDY4NDcsMTk2OTI1ODEwLC0xMzE0Nzc2NzAxLDExOTI3NTAx
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTkxMDE5MTY0OCwxNTI5OTQ2MDU4LDE2OT
+IyNDg3NTEsNDM1MjYyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3
+LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsOD
+g0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5
+LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5MjgxNTYsNj
+EwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3
+MDFdfQ==
 -->
