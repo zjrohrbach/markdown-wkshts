@@ -14,12 +14,14 @@ Agenda
 	- [Document to Download][docx]
 	- [Submission Link][submit]
 2. Take notes over Experimental Design[\*][exp]
-3. Watch
+3. Watch the [Accuracy and Precision in the Olympics](https://www.youtube.com/watch?v=9ON0cALHPs8) video
+4. Take notes over Accuracy & Precision[\*][acc]
 
-*If absent: video versions of the notes are provided if you click on the asterisks (\*)*
+*\*If absent: video versions of the notes are provided if you click on the asterisks (\*)*
 
 Announcements
 -------------  
+- Be on the lookout for a good reading book.  We will go to the library on Friday.
 - Have a **notebook** and **calculator** by next class
 
 [docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
@@ -27,11 +29,11 @@ Announcements
 [exp]: https://youtu.be/znYqB1OTjak?t=115
 [acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjM0MTcxMywxNTI5OTQ2MDU4LDE2OT
-IyNDg3NTEsNDM1MjYyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3
-LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsOD
-g0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5
-LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5MjgxNTYsNj
-EwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3
-MDFdfQ==
+eyJoaXN0b3J5IjpbNzIzOTQ4Njg1LDE1Mjk5NDYwNTgsMTY5Mj
+I0ODc1MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcs
+LTE4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4OD
+Q3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjks
+LTE0NTE0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MT
+A5OTQ4NywxNTQ4NDQ2ODQ3LDE5NjkyNTgxMCwtMTMxNDc3Njcw
+MV19
 -->
