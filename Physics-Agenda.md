@@ -13,9 +13,10 @@ Agenda
  1. Finish the Car Lab and turn it in
 	- [Document to Download][docx]
 	- [Submission Link][submit]
-2. Take notes over Experimental Design [\*][exp]
+2. Take notes over Experimental Design[\*][exp]
+3. Watch
 
-*If absent: please click on the asterisks (\*) to be 
+*If absent: video versions of the notes are provided if you click on the asterisks (\*)*
 
 Announcements
 -------------  
@@ -26,11 +27,11 @@ Announcements
 [exp]: https://youtu.be/znYqB1OTjak?t=115
 [acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ4NjU5NTEsMTUyOTk0NjA1OCwxNj
-kyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4
-NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LD
-g4NDczMjQwLDM1MjMwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2
-OSwtMTQ1MTQxNjIxMCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LD
-YxMDk5NDg3LDE1NDg0NDY4NDcsMTk2OTI1ODEwLC0xMzE0Nzc2
-NzAxXX0=
+eyJoaXN0b3J5IjpbMTI1NjM0MTcxMywxNTI5OTQ2MDU4LDE2OT
+IyNDg3NTEsNDM1MjYyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3
+LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsOD
+g0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5
+LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MDk5MjgxNTYsNj
+EwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTAsLTEzMTQ3NzY3
+MDFdfQ==
 -->
