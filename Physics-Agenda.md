@@ -13,11 +13,12 @@ Agenda
 1. Finish the Car Lab and turn it in
 	- [Document to Download][docx]
 	- [Submission Link][submit]
-2. Take notes over Experimental Design[\*][exp]
+2. Take notes over Experimental Design <sub>([video version][exp])</sub>
 3. Watch the [Accuracy and Precision in the Olympics](https://www.youtube.com/watch?v=9ON0cALHPs8) video
-4. Take notes over Accuracy & Precision[\*][acc]
+4. Take notes over Accuracy & Precision  <sub>([video version][acc])</sub>
 
-*\*If absent: video versions of the notes are provided if you click on the asterisks (\*)*
+*If you are absent, please take a look at the video version of the notes provided.*
+
 
 Announcements
 -------------  
@@ -29,7 +30,7 @@ Announcements
 [exp]: https://youtu.be/znYqB1OTjak?t=115
 [acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MzA0Mjk1LDE1Mjk5NDYwNTgsMTY5Mj
+eyJoaXN0b3J5IjpbOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5Mj
 I0ODc1MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcs
 LTE4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4OD
 Q3MzI0MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjks
