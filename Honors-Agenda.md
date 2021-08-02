@@ -1,19 +1,17 @@
-Mon, Aug 2
+Wed, Aug 4
 =========  
 
 Objectives
 ------------
-- Investigate the connections between position graphs and the motion of objects.
-- Be able to explain what physics studies and how it is related to other scientific fields.
+- Be able to answer the questions *"How far?*" and *"How fast?"* using both scalars and vectors.
 
 Agenda  
 ---------  
 
- 1. Review of where we finished last time
- 2. Finish the Car Lab & Debrief
-	 - [Document to Download (docx)][docx]
-	 - [Submission Link][submit]
- 3. Notes: ***What is Physics?***
+ 1. Notes over Distance and Displacement If you were absent,  [click here for video](https://youtu.be/Kg8_x4kYRfk)
+-   Average vs Instantaneous Velocity (read pp. 23-25)
+-   Problem Solving Method
+-   Two examples: (1) Basic (2) p. 46 #66
 
 Announcements
 -------------  
@@ -22,11 +20,11 @@ Announcements
 [docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
 [submit]: https://avon.schoology.com/assignment/5145141276/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjExND
-A5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0ODAxMjI4
-NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjczMCwtMT
-UyMjgxNjgxMSw4MDEzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1
-OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3LDI2NjU0ODc5NSwtNz
-c1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MDQyMzM3LDE1ODA3OTk0
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk3Mjk1ODUsNTQ2MzMxODIzLDU2MT
+YyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1
+MzAsMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMj
+A3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDkyMjEsMTczMDA5
+MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEwMjI3LD
+I2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5NTUsNjE4MDQy
+MzM3XX0=
 -->
