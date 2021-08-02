@@ -12,7 +12,7 @@ Agenda
  2. Finish the Car Lab
 	 - [Document to Download (docx)][docx]
 	 - [Submission Link][submit]
- 3. 
+ 3. k
 
 Announcements
 -------------  
@@ -21,11 +21,11 @@ Announcements
 [docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
 [submit]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02OD
-AyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4
-MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLD
-gwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4
-ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMT
-IzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3
-ODU4NV19
+eyJoaXN0b3J5IjpbLTIwODA4NTQ1MDMsNTYxNjIyNjk4LC0yMT
+E0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MDEy
+Mjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMwLC
+0xNTIyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcw
+MDU4LC0xMTU0MzE4ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC
+03NzU0NDI5MDYsMTIzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5
+OTQwNV19
 -->
