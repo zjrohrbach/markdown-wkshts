@@ -1,17 +1,18 @@
-Thu, Jul 29 
+Mon, Aug 2
 =========  
 
 Objectives
 ------------
-- Be introduced to how the class will run.
-- Design a lab to investigate the motion of battery-powered cars.
+- Investigate the connections between position graphs and the motion of objects
 
 Agenda  
 ---------  
 
  1. Seat Assignments
  2. Go over the [Course Info Guide][CIG]
- 3. Start the [Car Lab][docx]
+ 3. Finish the Car Lab
+	 - [Document to Download (docx)][docx]
+	 - [Submission Link][sub]
 
 Announcements
 -------------  
@@ -22,11 +23,11 @@ Announcements
 [exp]: https://youtu.be/znYqB1OTjak?t=115
 [acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjY1MjYwLC0yMTE0MDk4ODg1LC02OD
-AyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4
-MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLD
-gwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4
-ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMT
-IzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3
-ODU4NV19
+eyJoaXN0b3J5IjpbLTE0Njg4OTIzNDksLTIxMTQwOTg4ODUsLT
+Y4MDIyNzczOSwyMDM0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcy
+ODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3MzAsLTE1MjI4MTY4MT
+EsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4NzAwNTgsLTExNTQz
+MTg4NDIsMTU4NDIxMDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNi
+wxMjMyMzE2OTU1LDYxODA0MjMzNywxNTgwNzk5NDA1LC0yMDQ3
+Nzc4NTg1XX0=
 -->
