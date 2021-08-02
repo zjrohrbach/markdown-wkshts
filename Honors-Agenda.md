@@ -8,26 +8,24 @@ Objectives
 Agenda  
 ---------  
 
- 1. Seat Assignments
- 2. Go over the [Course Info Guide][CIG]
- 3. Finish the Car Lab
+ 1. Review of where we finished last time
+ 2. Finish the Car Lab
 	 - [Document to Download (docx)][docx]
-	 - [Submission Link][sub]
+	 - [Submission Link][submit]
+ 3. 
 
 Announcements
 -------------  
 - Have a **notebook** and **calculator** by Wed, 8/4
 
 [docx]: https://avon.schoology.com/course/5138386902/materials/gp/5145136677
-[submit]: https://avon.schoology.com/assignment/5144856368/
-[exp]: https://youtu.be/znYqB1OTjak?t=115
-[acc]: https://www.youtube.com/watch?v=cwpJSqLofKo
+[submit]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg4OTIzNDksLTIxMTQwOTg4ODUsLT
-Y4MDIyNzczOSwyMDM0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcy
-ODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3MzAsLTE1MjI4MTY4MT
-EsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4NzAwNTgsLTExNTQz
-MTg4NDIsMTU4NDIxMDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNi
-wxMjMyMzE2OTU1LDYxODA0MjMzNywxNTgwNzk5NDA1LC0yMDQ3
-Nzc4NTg1XX0=
+eyJoaXN0b3J5IjpbNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02OD
+AyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4
+MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLD
+gwMTM0OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4
+ODQyLDE1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMT
+IzMjMxNjk1NSw2MTgwNDIzMzcsMTU4MDc5OTQwNSwtMjA0Nzc3
+ODU4NV19
 -->
