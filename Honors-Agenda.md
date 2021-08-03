@@ -20,13 +20,13 @@ Agenda
 
 Announcements
 -------------  
-- 
+- Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). You can now do the section on *Distance, Displacement, Velocity, and Speed*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDMyMjk4NiwtNzc4Mjg4MDI2LDU0Nj
-MzMTgyMyw1NjE2MjI2OTgsLTIxMTQwOTg4ODUsLTY4MDIyNzcz
-OSwyMDM0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcyODgwLC0xND
-I2NDA3NDA4LDIwNzQ2MTI3MzAsLTE1MjI4MTY4MTEsODAxMzQ5
-MjIxLDE3MzAwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMT
-U4NDIxMDIyNywyNjY1NDg3OTUsLTc3NTQ0MjkwNiwxMjMyMzE2
-OTU1XX0=
+eyJoaXN0b3J5IjpbMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2LC03Nz
+gyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjExNDA5ODg4
+NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0ODAxMjI4NywxNz
+Q1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjczMCwtMTUyMjgx
+NjgxMSw4MDEzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1OCwtMT
+E1NDMxODg0MiwxNTg0MjEwMjI3LDI2NjU0ODc5NSwtNzc1NDQy
+OTA2XX0=
 -->
