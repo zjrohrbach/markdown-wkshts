@@ -8,22 +8,25 @@ Objectives
 Agenda  
 ---------  
 
- 1. Notebook & Calculator Check
- 2. Register for access to the online textbook ([Mastering Physics](https://avon.schoology.com/page/5157628668).
- 3. Notes: Distance and Displacement <sub>[video version](https://youtu.be/Kg8_x4kYRfk)</sub>
- 4. Average vs Instantaneous Velocity (read pp. 23-25)
- 5. Problem Solving Method
- 6. Two examples: (1) Basic (2) p. 46 #66
+ 1. Register for access to the online textbook ([Mastering Physics](https://avon.schoology.com/page/5157628668).
+ 2. Hand out Syllabus.
+ 3.  1. Notebook & Calculator Check
+ 4. Notes: Distance and Displacement <sub>[video version](https://youtu.be/Kg8_x4kYRfk)</sub>
+ 5. Average vs Instantaneous Velocity (read pp. 23-25)
+ 6. Problem Solving Method
+ 7. Two examples: (1) Basic (2) p. 46 #66
+ 
+*If you are absent, please take a look at the video version of the notes provided.*
 
 Announcements
 -------------  
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc0MzI1NjgsLTc3ODI4ODAyNiw1ND
-YzMzE4MjMsNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3
-MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMT
-QyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLDgwMTM0
-OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4ODQyLD
-E1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMjMx
-Njk1NV19
+eyJoaXN0b3J5IjpbODkzNzkyMzcxLC03NzgyODgwMjYsNTQ2Mz
+MxODIzLDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5
+LDIwMzQ1MTY1MzAsMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0Mj
+Y0MDc0MDgsMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDky
+MjEsMTczMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNT
+g0MjEwMjI3LDI2NjU0ODc5NSwtNzc1NDQyOTA2LDEyMzIzMTY5
+NTVdfQ==
 -->
