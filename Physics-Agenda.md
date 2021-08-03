@@ -3,8 +3,7 @@ Wed, Aug 4
 
 Objectives
 ------------
-- Be able to explain the physical significance of the slope of a graph.
-- Understand the principles of good experimental design.
+Be confident in your ability to identify the design of an experiment, summarize the results, and then assess accuracy and precision.
 
 Agenda  
 ---------  
@@ -14,7 +13,7 @@ Agenda
 	- [Document to Download][docx]
 	- [Submission Link][submit]
 3. Calculator Check
-4. *(time permitting)* Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub & Unit Conversions 
+4. *(time permitting)* Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -23,13 +22,16 @@ Announcements
 -------------  
 - Be on the lookout for a good reading book.  We will go to the library next class
 
+[docx]:
+[submit]: 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzA1OTc4OSw5MTM5ODc5NjYsMTUyOT
-k0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIs
-MTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNz
-IwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5NCw0MzU1MjExNDYs
-MTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNjI3Mzg4OTgxLC0xNT
-A5OTI4MTU2LDYxMDk5NDg3LDE1NDg0NDY4NDcsMTk2OTI1ODEw
-XX0=
+eyJoaXN0b3J5IjpbOTA4OTAxMDU4LDkxMzk4Nzk2NiwxNTI5OT
+Q2MDU4LDE2OTIyNDg3NTEsNDM1MjYyNTAyLDI2NjQwODgyMiwx
+Nzk1MDk0ODg3LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03Mj
+AyMDEwNDQsODg0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0Niwx
+NDMzMDY3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MD
+k5MjgxNTYsNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTBd
+fQ==
 -->
