@@ -22,16 +22,16 @@ Announcements
 -------------  
 - Be on the lookout for a good reading book.  We will go to the library next class
 
-[docx]:
-[submit]: 
+[docx]: https://avon.schoology.com/course/5138386942/materials/gp/5156629515
+[submit]: https://avon.schoology.com/assignment/5144898517/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4OTAxMDU4LDkxMzk4Nzk2NiwxNTI5OT
-Q2MDU4LDE2OTIyNDg3NTEsNDM1MjYyNTAyLDI2NjQwODgyMiwx
-Nzk1MDk0ODg3LC0xODE4NjYyMjcxLC0xMDY1MzMzNTIwLC03Mj
-AyMDEwNDQsODg0NzMyNDAsMzUyMzAyMDk0LDQzNTUyMTE0Niwx
-NDMzMDY3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5ODEsLTE1MD
-k5MjgxNTYsNjEwOTk0ODcsMTU0ODQ0Njg0NywxOTY5MjU4MTBd
-fQ==
+eyJoaXN0b3J5IjpbMTg0OTExNzgwNSw5MDg5MDEwNTgsOTEzOT
+g3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1MSw0MzUyNjI1MDIs
+MjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MTg2NjIyNzEsLTEwNj
+UzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIwOTQs
+NDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NTE0MTYyMTAsLTYyNz
+M4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3
+XX0=
 -->
