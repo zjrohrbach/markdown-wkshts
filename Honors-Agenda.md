@@ -9,7 +9,7 @@ Agenda
 ---------  
 
  1. Notebook & Calculator Check
- 2. Register for access to the online textbook.
+ 2. Register for access to the online textbook ([Mastering Physics](https://avon.schoology.com/page/5157628668).
  3. Notes: Distance and Displacement <sub>[video version](https://youtu.be/Kg8_x4kYRfk)</sub>
  4. Average vs Instantaneous Velocity (read pp. 23-25)
  5. Problem Solving Method
@@ -19,11 +19,11 @@ Announcements
 -------------  
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODI4ODAyNiw1NDYzMzE4MjMsNTYxNj
-IyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUz
-MCwxMzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMD
-c0NjEyNzMwLC0xNTIyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkw
-MDMxLDk1ODcwMDU4LC0xMTU0MzE4ODQyLDE1ODQyMTAyMjcsMj
-Y2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMjMxNjk1NSw2MTgwNDIz
-MzddfQ==
+eyJoaXN0b3J5IjpbLTExMjc0MzI1NjgsLTc3ODI4ODAyNiw1ND
+YzMzE4MjMsNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3
+MzksMjAzNDUxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMT
+QyNjQwNzQwOCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLDgwMTM0
+OTIyMSwxNzMwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4ODQyLD
+E1ODQyMTAyMjcsMjY2NTQ4Nzk1LC03NzU0NDI5MDYsMTIzMjMx
+Njk1NV19
 -->
