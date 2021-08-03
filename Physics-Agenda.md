@@ -10,6 +10,11 @@ Agenda
 ---------  
 
 1. Experimental Design Warmup Questions
+2. Density Dry Lab
+	- [Document to Download][docx]
+	- [Submission Link][submit]
+3. Calculator Check
+4. *(time permitting)* Notes on Scientific Notation & Unit Conversions
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -20,7 +25,7 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDIzNTQ0MSw5MTM5ODc5NjYsMTUyOT
+eyJoaXN0b3J5IjpbMTIwODIzNDk4Nyw5MTM5ODc5NjYsMTUyOT
 k0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIs
 MTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNz
 IwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5NCw0MzU1MjExNDYs
