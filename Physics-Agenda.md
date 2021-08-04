@@ -12,7 +12,7 @@ Agenda
 1. Go to the library to pick out reading book (5th period will do this at the end, instead)
 2. SSR
 3. Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
-4. Do [Measurement #1]()
+4. Do [Measurement #1](https://avon.schoology.com/course/5138386942/materials/gp/5161151692)
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -24,7 +24,7 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ4ODQ0MjYsMTg0OTExNzgwNSw5MD
+eyJoaXN0b3J5IjpbLTEyODE3NDIyMzYsMTg0OTExNzgwNSw5MD
 g5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1
 MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MT
 g2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0
