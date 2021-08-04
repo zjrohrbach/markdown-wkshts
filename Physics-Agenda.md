@@ -1,19 +1,17 @@
-Wed, Aug 4
+Thu, Aug 5 / Fri, Aug 6
 =====================
 
 Objectives
 ------------
-Be confident in your ability to identify the design of an experiment, summarize the results, and then assess accuracy and precision.
+- Be able to convert back and forth between scientific notation and standard notation.
+- Be able to perform unit conversions.
 
 Agenda  
 ---------  
 
-1. Experimental Design Warmup Questions
-2. Density Dry Lab
-	- [Document to Download][docx]
-	- [Submission Link][submit]
-3. Calculator Check
-4. *(time permitting)* Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
+1. Go to the library to pick out reading book (
+2. *(time permitting)* Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
+3. Do [Measurement #1]()
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -22,16 +20,14 @@ Announcements
 -------------  
 - Be on the lookout for a good reading book.  We will go to the library next class
 
-[docx]: https://avon.schoology.com/course/5138386942/materials/gp/5156629515
-[submit]: https://avon.schoology.com/assignment/5144898517/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTExNzgwNSw5MDg5MDEwNTgsOTEzOT
-g3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1MSw0MzUyNjI1MDIs
-MjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MTg2NjIyNzEsLTEwNj
-UzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIwOTQs
-NDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NTE0MTYyMTAsLTYyNz
-M4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4NywxNTQ4NDQ2ODQ3
+eyJoaXN0b3J5IjpbMTE3MDg1NzMwMywxODQ5MTE3ODA1LDkwOD
+kwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUx
+LDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxOD
+Y2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQw
+LDM1MjMwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MT
+QxNjIxMCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3
 XX0=
 -->
