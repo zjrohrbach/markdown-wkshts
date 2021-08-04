@@ -9,25 +9,26 @@ Objectives
 Agenda  
 ---------  
 
-1. Go to the library to pick out reading book (
-2. *(time permitting)* Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
-3. Do [Measurement #1]()
+1. Go to the library to pick out reading book (5th period will do this at the end, instead)
+2. SSR
+3. Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
+4. Do [Measurement #1]()
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
 
 Announcements
 -------------  
-- Be on the lookout for a good reading book.  We will go to the library next class
-
+- Make sure to have calculator, notebook, and reading book with you every day!
+- If you have a 'zero' for the calculator check, please bring it in next week and show it to me... for full credit!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDg1NzMwMywxODQ5MTE3ODA1LDkwOD
-kwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUx
-LDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxOD
-Y2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQw
-LDM1MjMwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MT
-QxNjIxMCwtNjI3Mzg4OTgxLC0xNTA5OTI4MTU2LDYxMDk5NDg3
-XX0=
+eyJoaXN0b3J5IjpbLTE0NDQ4ODQ0MjYsMTg0OTExNzgwNSw5MD
+g5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1
+MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MT
+g2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0
+MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NT
+E0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4
+N119
 -->
