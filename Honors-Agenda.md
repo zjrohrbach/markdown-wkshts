@@ -10,22 +10,23 @@ Agenda
 ---------  
 
  1. Notes on Acceleration <sub>[video](https://youtu.be/CMV-KWRMGKQ)</sub>
- 2. 
+ 2. Accelerated Car Mini-Lab
+ 3. Worktime
  
 *If you are absent, please take a look at the video version of the notes provided.*
 
-Announcements
+Homework
 -------------  
 Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
 - Distance, Displacement, Velocity, and Speed due Wed
 - Acceleration due Wed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzUzODc0LC0xMTEzNTg4NzAsMTQ0Mj
-g2Njk2NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNTQ2MzMxODIz
-LDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMz
-Q1MTY1MzAsMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0MjY0MDc0
-MDgsMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDkyMjEsMT
-czMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEw
-MjI3XX0=
+eyJoaXN0b3J5IjpbLTg0NDM4NjUsLTExMTM1ODg3MCwxNDQyOD
+Y2OTY1LC05NDAzMjI5ODYsLTc3ODI4ODAyNiw1NDYzMzE4MjMs
+NTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3MzksMjAzND
+UxNjUzMCwxMzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQw
+OCwyMDc0NjEyNzMwLC0xNTIyODE2ODExLDgwMTM0OTIyMSwxNz
+MwMDkwMDMxLDk1ODcwMDU4LC0xMTU0MzE4ODQyLDE1ODQyMTAy
+MjddfQ==
 -->
