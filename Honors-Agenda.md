@@ -9,7 +9,7 @@ Objectives
 Agenda  
 ---------  
 
- 1. Notes
+ 1. Notes on Acceleration <sub>[video](
  
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -20,7 +20,7 @@ Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/mate
 - Distance, Displacement, Velocity, and Speed due Wed
 - Acceleration due Wed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTM5ODE1NCwtMTExMzU4ODcwLDE0ND
+eyJoaXN0b3J5IjpbMTY5MTc1NTc2MCwtMTExMzU4ODcwLDE0ND
 I4NjY5NjUsLTk0MDMyMjk4NiwtNzc4Mjg4MDI2LDU0NjMzMTgy
 Myw1NjE2MjI2OTgsLTIxMTQwOTg4ODUsLTY4MDIyNzczOSwyMD
 M0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcyODgwLC0xNDI2NDA3
