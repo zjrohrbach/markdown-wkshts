@@ -9,7 +9,8 @@ Objectives
 Agenda  
 ---------  
 
- 1. Notes on Acceleration <sub>[video](
+ 1. Notes on Acceleration <sub>[video](https://youtu.be/CMV-KWRMGKQ)</sub>
+ 2. 
  
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -20,11 +21,11 @@ Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/mate
 - Distance, Displacement, Velocity, and Speed due Wed
 - Acceleration due Wed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTc1NTc2MCwtMTExMzU4ODcwLDE0ND
-I4NjY5NjUsLTk0MDMyMjk4NiwtNzc4Mjg4MDI2LDU0NjMzMTgy
-Myw1NjE2MjI2OTgsLTIxMTQwOTg4ODUsLTY4MDIyNzczOSwyMD
-M0NTE2NTMwLDEzNDgwMTIyODcsMTc0NTcyODgwLC0xNDI2NDA3
-NDA4LDIwNzQ2MTI3MzAsLTE1MjI4MTY4MTEsODAxMzQ5MjIxLD
-E3MzAwOTAwMzEsOTU4NzAwNTgsLTExNTQzMTg4NDIsMTU4NDIx
-MDIyN119
+eyJoaXN0b3J5IjpbLTQ3MzUzODc0LC0xMTEzNTg4NzAsMTQ0Mj
+g2Njk2NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNTQ2MzMxODIz
+LDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMz
+Q1MTY1MzAsMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0MjY0MDc0
+MDgsMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDkyMjEsMT
+czMDA5MDAzMSw5NTg3MDA1OCwtMTE1NDMxODg0MiwxNTg0MjEw
+MjI3XX0=
 -->
