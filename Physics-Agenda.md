@@ -13,7 +13,7 @@ Agenda
 2. Notes: Solving 2-step Unit Conversions
 3. Do [Measurement #2](https://avon.schoology.com/course/5138386942/materials/gp/5168770970)
 4. Check the feedback on the [Density Dry Lab](https://avon.schoology.com/assignment/5144898517/)
-5. Do the [Graphing Practice]()
+5. Do [One More Graphing Practice](https://avon.schoology.com/assignment/5168769122/)
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -26,11 +26,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMTMzMTIwLC0xMTA2MTk3NTE1LC0xMj
-gxNzQyMjM2LDE4NDkxMTc4MDUsOTA4OTAxMDU4LDkxMzk4Nzk2
-NiwxNTI5OTQ2MDU4LDE2OTIyNDg3NTEsNDM1MjYyNTAyLDI2Nj
-QwODgyMiwxNzk1MDk0ODg3LC0xODE4NjYyMjcxLC0xMDY1MzMz
-NTIwLC03MjAyMDEwNDQsODg0NzMyNDAsMzUyMzAyMDk0LDQzNT
-UyMTE0NiwxNDMzMDY3MDY5LC0xNDUxNDE2MjEwLC02MjczODg5
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMT
+I4MTc0MjIzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5
+NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNj
+Y0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMz
+MzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5NCw0Mz
+U1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNjI3Mzg4
+OTgxXX0=
 -->
