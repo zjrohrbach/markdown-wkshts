@@ -1,16 +1,15 @@
-Thu, Aug 5 / Fri, Aug 6
+Mon, Aug 9 / Tue, Aug 10
 =====================
 
 Objectives
 ------------
-- Be able to convert back and forth between scientific notation and standard notation.
-- Be able to perform unit conversions.
+- Be able to perform two-step unit conversions.
+- Review what we've learned about experimental design, scientific notation, and unit conversions
 
 Agenda  
 ---------  
 
-1. Go to the library to pick out reading book (5th period will do this at the end, instead)
-2. SSR
+1. SSR
 3. Notes on Scientific Notation <sub>[video](https://youtu.be/whDUeprgqLs)</sub> & Unit Conversions <sub>[video](https://youtu.be/MMhN9PMQvLw)</sub>
 4. Do [Measurement #1](https://avon.schoology.com/course/5138386942/materials/gp/5161151692)
 
@@ -21,14 +20,15 @@ Announcements
 -------------  
 - Make sure to have calculator, notebook, and reading book with you every day!
 - If you have a 'zero' for the calculator check, please bring it in next week and show it to me... for full credit!
+- We will have a **Quiz** over Science, Math
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE3NDIyMzYsMTg0OTExNzgwNSw5MD
-g5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1
-MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MT
-g2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0
-MCwzNTIzMDIwOTQsNDM1NTIxMTQ2LDE0MzMwNjcwNjksLTE0NT
-E0MTYyMTAsLTYyNzM4ODk4MSwtMTUwOTkyODE1Niw2MTA5OTQ4
-N119
+eyJoaXN0b3J5IjpbMTY0MDUyOTAyMCwtMTI4MTc0MjIzNiwxOD
+Q5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1
+OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NT
+A5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAx
+MDQ0LDg4NDczMjQwLDM1MjMwMjA5NCw0MzU1MjExNDYsMTQzMz
+A2NzA2OSwtMTQ1MTQxNjIxMCwtNjI3Mzg4OTgxLC0xNTA5OTI4
+MTU2XX0=
 -->
