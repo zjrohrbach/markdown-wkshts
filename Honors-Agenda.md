@@ -10,9 +10,9 @@ Agenda
 ---------  
 
  1. Review questions
-
- 3. Syllabus worktime (and go over a few questions).
- 4. Notes: Graphs of Motion
+ 2. Syllabus worktime (and go over a few questions).
+ 3. Notes: Graphs of Motion
+ 4. [Graphs of Motion Investigation](https://avon.schoology.com/course/5138386902/materials/gp/5173187643) <sub>[video Nearpod](https://share.nearpod.com/ULGCrzl2zib)</sub>
  
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -24,11 +24,11 @@ Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/mate
 - Acceleration due Wed
 - Graphs of Motion due Friday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDc2Njk3OSwtNDUyNzE5MTM0LC04ND
-QzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2
-LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjExND
-A5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0ODAxMjI4
-NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjczMCwtMT
-UyMjgxNjgxMSw4MDEzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1
-OF19
+eyJoaXN0b3J5IjpbLTE3NTc3ODc3NzksLTQ1MjcxOTEzNCwtOD
+Q0Mzg2NSwtMTExMzU4ODcwLDE0NDI4NjY5NjUsLTk0MDMyMjk4
+NiwtNzc4Mjg4MDI2LDU0NjMzMTgyMyw1NjE2MjI2OTgsLTIxMT
+QwOTg4ODUsLTY4MDIyNzczOSwyMDM0NTE2NTMwLDEzNDgwMTIy
+ODcsMTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3MzAsLT
+E1MjI4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4NzAw
+NThdfQ==
 -->
