@@ -1,10 +1,10 @@
-Fri, Aug 6
+Mon, Aug 9
 =========  
 
 Objectives
 ------------
 - Review the concepts we've learned.
-- Be able to describe the motion of an object using a position-time graph.
+- Be able to describe the motion of an object using position-time and velocity-time graphs.
 
 Agenda  
 ---------  
@@ -13,7 +13,7 @@ Agenda
  2. Syllabus worktime (and go over a few questions).
  3. [Graphs of Motion Investigation Worksheet](https://avon.schoology.com/course/5138386902/materials/gp/5173187643) <sub>[video](https://share.nearpod.com/ULGCrzl2zib)</sub>
  4.  Notes: Graphs of Motion
- 5. Velocity Graphs Nearpod
+ 5. Velocity Graphs Nearpod <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5173196438)</sub>
  
 *If you are absent, please take a look at the video version of the notes provided.*
 
@@ -25,11 +25,11 @@ Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/mate
 - Acceleration due Wed
 - Graphs of Motion due Friday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDc5MTc1OCwtNDUyNzE5MTM0LC04ND
-QzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2
-LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjExND
-A5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0ODAxMjI4
-NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjczMCwtMT
-UyMjgxNjgxMSw4MDEzNDkyMjEsMTczMDA5MDAzMSw5NTg3MDA1
-OF19
+eyJoaXN0b3J5IjpbLTc4ODA2MjMsLTQ1MjcxOTEzNCwtODQ0Mz
+g2NSwtMTExMzU4ODcwLDE0NDI4NjY5NjUsLTk0MDMyMjk4Niwt
+Nzc4Mjg4MDI2LDU0NjMzMTgyMyw1NjE2MjI2OTgsLTIxMTQwOT
+g4ODUsLTY4MDIyNzczOSwyMDM0NTE2NTMwLDEzNDgwMTIyODcs
+MTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3MzAsLTE1Mj
+I4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4NzAwNThd
+fQ==
 -->
