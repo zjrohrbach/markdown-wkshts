@@ -19,17 +19,18 @@ Agenda
 
 Homework
 -------------  
-Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
+- Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
-- Distance, Displacement, Velocity, and Speed due Wed
-- Acceleration due Wed
-- Graphs of Motion due Friday
+	- Distance, Displacement, Velocity, and Speed due Wed
+	- Acceleration due Wed
+	- Graphs of Motion due Friday
+- If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODA2MjMsLTQ1MjcxOTEzNCwtODQ0Mz
-g2NSwtMTExMzU4ODcwLDE0NDI4NjY5NjUsLTk0MDMyMjk4Niwt
-Nzc4Mjg4MDI2LDU0NjMzMTgyMyw1NjE2MjI2OTgsLTIxMTQwOT
-g4ODUsLTY4MDIyNzczOSwyMDM0NTE2NTMwLDEzNDgwMTIyODcs
-MTc0NTcyODgwLC0xNDI2NDA3NDA4LDIwNzQ2MTI3MzAsLTE1Mj
-I4MTY4MTEsODAxMzQ5MjIxLDE3MzAwOTAwMzEsOTU4NzAwNThd
-fQ==
+eyJoaXN0b3J5IjpbLTM4MDAzMzk5LC03ODgwNjIzLC00NTI3MT
+kxMzQsLTg0NDM4NjUsLTExMTM1ODg3MCwxNDQyODY2OTY1LC05
+NDAzMjI5ODYsLTc3ODI4ODAyNiw1NDYzMzE4MjMsNTYxNjIyNj
+k4LC0yMTE0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUzMCwx
+MzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMDc0Nj
+EyNzMwLC0xNTIyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkwMDMx
+XX0=
 -->
