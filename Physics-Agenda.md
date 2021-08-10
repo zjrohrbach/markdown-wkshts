@@ -13,21 +13,23 @@ Agenda
 2. Do Some Practice Unit Conversions
 3. Take the Quiz
 	- Paper Portion
-	- Computer Graphing Portion
+	- [Computer Graphing Portion](https://avon.schoology.com/assignment/5181054603/)
 
+<!--
 *If you are absent, please take a look at the video version of the notes provided.*
+-->
 
 
 Announcements
 -------------  
-- (none)
+- If you are absent, do the Computer Graphing from home.  Then, send me a message so we can schedule a time to make up the paper portion.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMT
-A2MTk3NTE1LC0xMjgxNzQyMjM2LDE4NDkxMTc4MDUsOTA4OTAx
-MDU4LDkxMzk4Nzk2NiwxNTI5OTQ2MDU4LDE2OTIyNDg3NTEsND
-M1MjYyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3LC0xODE4NjYy
-MjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsODg0NzMyNDAsMz
-UyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5LC0xNDUxNDE2
-MjEwXX0=
+eyJoaXN0b3J5IjpbLTI3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MT
+k1MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3
+ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNj
+kyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4
+NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LD
+g4NDczMjQwLDM1MjMwMjA5NCw0MzU1MjExNDYsMTQzMzA2NzA2
+OV19
 -->
