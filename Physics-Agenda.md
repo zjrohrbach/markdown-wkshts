@@ -1,36 +1,33 @@
-Mon, Aug 9 / Tue, Aug 10
+Wed, Aug 11
 =====================
 
 Objectives
 ------------
-- Be able to perform two-step unit conversions.
 - Review what we've learned about experimental design, scientific notation, and unit conversions
+- Prove your knowledge!
 
 Agenda  
 ---------  
 
 1. SSR
-2. Notes: Solving 2-step Unit Conversions
-3. Do [Measurement #2](https://avon.schoology.com/course/5138386942/materials/gp/5168770970)
-4. Check the feedback on the [Density Dry Lab](https://avon.schoology.com/assignment/5144898517/)
-5. Do [One More Graphing Practice](https://avon.schoology.com/assignment/5168769122/)
+2. Do Some Practice Unit Conversions
+3. Take the Quiz
+	- Paper Portion
+	- Computer Graphing Portion
 
 *If you are absent, please take a look at the video version of the notes provided.*
 
 
 Announcements
 -------------  
-- Make sure to have calculator, notebook, and reading book with you every day!
-- If you have a 'zero' for the calculator check, please bring it in next week and show it to me... for full credit!
-- We will have a **Quiz** over Science, Math, and Measurement next class.
-
+- (none)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMT
-I4MTc0MjIzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5
-NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNj
-Y0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMz
-MzUyMCwtNzIwMjAxMDQ0LDg4NDczMjQwLDM1MjMwMjA5NCw0Mz
-U1MjExNDYsMTQzMzA2NzA2OSwtMTQ1MTQxNjIxMCwtNjI3Mzg4
-OTgxXX0=
+eyJoaXN0b3J5IjpbMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMT
+A2MTk3NTE1LC0xMjgxNzQyMjM2LDE4NDkxMTc4MDUsOTA4OTAx
+MDU4LDkxMzk4Nzk2NiwxNTI5OTQ2MDU4LDE2OTIyNDg3NTEsND
+M1MjYyNTAyLDI2NjQwODgyMiwxNzk1MDk0ODg3LC0xODE4NjYy
+MjcxLC0xMDY1MzMzNTIwLC03MjAyMDEwNDQsODg0NzMyNDAsMz
+UyMzAyMDk0LDQzNTUyMTE0NiwxNDMzMDY3MDY5LC0xNDUxNDE2
+MjEwXX0=
 -->
