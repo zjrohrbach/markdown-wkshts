@@ -1,10 +1,9 @@
-Mon, Aug 9
+Wed, Aug 11
 =========  
 
 Objectives
 ------------
-- Review the concepts we've learned.
-- Be able to describe the motion of an object using position-time and velocity-time graphs.
+- Be able to describe the motion of an object using velocity-time graphs.
 
 Agenda  
 ---------  
@@ -26,11 +25,11 @@ Homework
 	- Graphs of Motion due Friday
 - If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDAzMzk5LC03ODgwNjIzLC00NTI3MT
-kxMzQsLTg0NDM4NjUsLTExMTM1ODg3MCwxNDQyODY2OTY1LC05
-NDAzMjI5ODYsLTc3ODI4ODAyNiw1NDYzMzE4MjMsNTYxNjIyNj
-k4LC0yMTE0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUzMCwx
-MzQ4MDEyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMDc0Nj
-EyNzMwLC0xNTIyODE2ODExLDgwMTM0OTIyMSwxNzMwMDkwMDMx
-XX0=
+eyJoaXN0b3J5IjpbLTkzMjYyMTcwLC0zODAwMzM5OSwtNzg4MD
+YyMywtNDUyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0
+Mjg2Njk2NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNTQ2MzMxOD
+IzLDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIw
+MzQ1MTY1MzAsMTM0ODAxMjI4NywxNzQ1NzI4ODAsLTE0MjY0MD
+c0MDgsMjA3NDYxMjczMCwtMTUyMjgxNjgxMSw4MDEzNDkyMjFd
+fQ==
 -->
