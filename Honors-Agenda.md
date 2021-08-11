@@ -9,7 +9,7 @@ Objectives
 Agenda  
 ---------  
 
- 1. Go over how to submit homework ([Android:](), [iPhone](https://www.youtube.com/watch?v=kf-FPT-3NS4))
+ 1. Go over how to submit homework ([Android: CamScanner](https://avon.schoology.com/course/5138386902/materials/link/view/5144956975), [iPhone: GeniusScan](https://www.youtube.com/watch?v=kf-FPT-3NS4))
  2. Notes: Position and Velocity Graphs <sub>[video](https://www.youtube.com/watch?v=zrbw3aPlUxw)</sub>
  3. Velocity Graphs Nearpod <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5173196438)</sub>
  4. Notes: Kinematic Equations <sub>[video](https://www.youtube.com/watch?v=B1f7LrpcCuo)</sub>
@@ -21,16 +21,16 @@ Homework
 -------------  
 - Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
-	- Distance, Displacement, Velocity, and Speed due Wed
-	- Acceleration due Wed
+	- *Distance, Displacement, Velocity, and Speed* and *Acceleration* should be done
 	- Graphs of Motion due Friday
+	- Motion at a Constant Acceleration due next Mon
 - If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTY0ODAsLTExMzk3NjU5MzYsNDg1NT
-MxMzI3LC0zODAwMzM5OSwtNzg4MDYyMywtNDUyNzE5MTM0LC04
-NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOT
-g2LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjEx
-NDA5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0ODAxMj
-I4NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjczMF19
-
+eyJoaXN0b3J5IjpbLTU0NTM0NDI1MiwtMTEzOTc2NTkzNiw0OD
+U1MzEzMjcsLTM4MDAzMzk5LC03ODgwNjIzLC00NTI3MTkxMzQs
+LTg0NDM4NjUsLTExMTM1ODg3MCwxNDQyODY2OTY1LC05NDAzMj
+I5ODYsLTc3ODI4ODAyNiw1NDYzMzE4MjMsNTYxNjIyNjk4LC0y
+MTE0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MD
+EyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMw
+XX0=
 -->
