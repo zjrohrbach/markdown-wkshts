@@ -22,15 +22,15 @@ Homework
 - Get started on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
 	- *Distance, Displacement, Velocity, and Speed* and *Acceleration* should be done
-	- Graphs of Motion due Friday
-	- Motion at a Constant Acceleration due next Mon
+	- *Graphs of Motion* due Friday
+	- *Motion at a Constant Acceleration* due next Mon
 - If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTM0NDI1MiwtMTEzOTc2NTkzNiw0OD
-U1MzEzMjcsLTM4MDAzMzk5LC03ODgwNjIzLC00NTI3MTkxMzQs
-LTg0NDM4NjUsLTExMTM1ODg3MCwxNDQyODY2OTY1LC05NDAzMj
-I5ODYsLTc3ODI4ODAyNiw1NDYzMzE4MjMsNTYxNjIyNjk4LC0y
-MTE0MDk4ODg1LC02ODAyMjc3MzksMjAzNDUxNjUzMCwxMzQ4MD
-EyMjg3LDE3NDU3Mjg4MCwtMTQyNjQwNzQwOCwyMDc0NjEyNzMw
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTYxNTE1MDgsLTExMzk3NjU5MzYsND
+g1NTMxMzI3LC0zODAwMzM5OSwtNzg4MDYyMywtNDUyNzE5MTM0
+LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2NSwtOTQwMz
+IyOTg2LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwt
+MjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1MzAsMTM0OD
+AxMjI4NywxNzQ1NzI4ODAsLTE0MjY0MDc0MDgsMjA3NDYxMjcz
+MF19
 -->
