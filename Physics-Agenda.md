@@ -9,8 +9,9 @@ Agenda
 ---------  
 
 1. Notes: Types of Numbers <sub>[notes pdf][notes]</sub>
-2. Read about Speed and Velocity <sub>video [part 1][vid1] [part 2][vid2]</sub>
-3. Exit Questions
+2. Read about [Speed][1] and [Velocity][2]
+3. Discuss <sub>video [part 1][vid1] [part 2][vid2]</sub>
+4. Exit Questions
 
 
 *If you are absent, please take a look at the video version of the notes provided.*
@@ -23,12 +24,14 @@ Announcements
 [notes]: https://avon.schoology.com/course/5138386942/materials/gp/5188977838
 [vid1]: https://youtu.be/vZ5Bl1M6xBc
 [vid2]: https://youtu.be/XluhzFftzdw
+[1]: https://avon.schoology.com/course/5138386942/materials/gp/5190702955
+[2]: https://avon.schoology.com/course/5138386942/materials/gp/5190702988
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcwNTgzNTUsMjAyNDc1MjUyNCwxOD
-g2NjQ3MTQwLC0yNzIwMzgyNywxMzAzMzM0ODI3LDE1NTE5NTMx
-MzYsLTExMDYxOTc1MTUsLTEyODE3NDIyMzYsMTg0OTExNzgwNS
-w5MDg5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0
-ODc1MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLT
-E4MTg2NjIyNzEsLTEwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3
-MzI0MF19
+eyJoaXN0b3J5IjpbLTgxNzA1MzAxMywtMTU2NzA1ODM1NSwyMD
+I0NzUyNTI0LDE4ODY2NDcxNDAsLTI3MjAzODI3LDEzMDMzMzQ4
+MjcsMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0MjIzNi
+wxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0
+NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIsMT
+c5NTA5NDg4NywtMTgxODY2MjI3MSwtMTA2NTMzMzUyMCwtNzIw
+MjAxMDQ0XX0=
 -->
