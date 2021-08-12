@@ -20,11 +20,11 @@ Announcements
 -------------  
 - Have a great weekend!
 
-[notes]: 
-[vid1]: 
-[vid2]: 
+[notes]: https://avon.schoology.com/course/5138386942/materials/gp/5188977838
+[vid1]: https://youtu.be/vZ5Bl1M6xBc
+[vid2]: https://youtu.be/XluhzFftzdw
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTMzMDI4NywyMDI0NzUyNTI0LDE4OD
+eyJoaXN0b3J5IjpbLTEzNTEyMTE2NiwyMDI0NzUyNTI0LDE4OD
 Y2NDcxNDAsLTI3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MTk1MzEz
 NiwtMTEwNjE5NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3ODA1LD
 kwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4
