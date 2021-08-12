@@ -9,7 +9,7 @@ Agenda
 ---------  
 
 1. Notes: Types of Numbers <sub>[notes pdf][notes]</sub>
-2. Read about Speed and Velocity <sub>[video version][vid]</sub>
+2. Read about Speed and Velocity <sub>video [part 1][vid1] [part 2][vid2]</sub>
 3. Exit Questions
 
 
@@ -21,13 +21,14 @@ Announcements
 - Have a great weekend!
 
 [notes]: 
-[vid]: 
+[vid1]: 
+[vid2]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDc1MjUyNCwxODg2NjQ3MTQwLC0yNz
-IwMzgyNywxMzAzMzM0ODI3LDE1NTE5NTMxMzYsLTExMDYxOTc1
-MTUsLTEyODE3NDIyMzYsMTg0OTExNzgwNSw5MDg5MDEwNTgsOT
-EzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0ODc1MSw0MzUyNjI1
-MDIsMjY2NDA4ODIyLDE3OTUwOTQ4ODcsLTE4MTg2NjIyNzEsLT
-EwNjUzMzM1MjAsLTcyMDIwMTA0NCw4ODQ3MzI0MCwzNTIzMDIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTMzOTMzMDI4NywyMDI0NzUyNTI0LDE4OD
+Y2NDcxNDAsLTI3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MTk1MzEz
+NiwtMTEwNjE5NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3ODA1LD
+kwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4
+NzUxLDQzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMT
+gxODY2MjI3MSwtMTA2NTMzMzUyMCwtNzIwMjAxMDQ0LDg4NDcz
+MjQwXX0=
 -->
