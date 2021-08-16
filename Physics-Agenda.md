@@ -9,8 +9,9 @@ Agenda
 ---------  
 
 1. Notes: Direction of Acceleration <sub>[video][dir]</sub>
+2. Do [Motion #1][m1]
 
-*If you are absent,* please take notes on the videos provided and attempt the assignments on a separate sheet of paper.  
+*If you are absent,* please take notes on the videos provided and attempt the assignments on a separate sheet of paper.  You can send me a picture of your work to get feedback.
 
 
 Announcements
@@ -18,8 +19,10 @@ Announcements
 - Have a great weekend!
 
 [dir]: https://youtu.be/q4ec-myEBIE?t=389
+[m1]:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzcwNTI2MCwtODE3MDUzMDEzLC0xNT
+eyJoaXN0b3J5IjpbMTIwODU3MDExNCwtODE3MDUzMDEzLC0xNT
 Y3MDU4MzU1LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MCwtMjcyMDM4
 MjcsMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMTA2MTk3NTE1LC
 0xMjgxNzQyMjM2LDE4NDkxMTc4MDUsOTA4OTAxMDU4LDkxMzk4
