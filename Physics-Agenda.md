@@ -3,7 +3,8 @@ Thu, Aug 12 / Fri, Aug 13
 
 Objectives
 ------------
-
+- Be able to use the directions of velocity and acceleration to determine the behavior of an object.
+- Be able to solve problems using the equations $v=d/t$ and $a=\Delta v/t$.
 
 Agenda  
 ---------  
@@ -27,11 +28,11 @@ Announcements
 [ps]: https://youtu.be/TLnfLPr76Xo
 [m2]: https://avon.schoology.com/course/5138386942/materials/gp/5201801029
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg1NjY4LDEzOTA5NDY2NTAsLTgxNz
-A1MzAxMywtMTU2NzA1ODM1NSwyMDI0NzUyNTI0LDE4ODY2NDcx
-NDAsLTI3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MTk1MzEzNiwtMT
-EwNjE5NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3ODA1LDkwODkw
-MTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUxLD
-QzNTI2MjUwMiwyNjY0MDg4MjIsMTc5NTA5NDg4NywtMTgxODY2
-MjI3MV19
+eyJoaXN0b3J5IjpbOTI0MzkzMDA2LC0xNzM4NTY2OCwxMzkwOT
+Q2NjUwLC04MTcwNTMwMTMsLTE1NjcwNTgzNTUsMjAyNDc1MjUy
+NCwxODg2NjQ3MTQwLC0yNzIwMzgyNywxMzAzMzM0ODI3LDE1NT
+E5NTMxMzYsLTExMDYxOTc1MTUsLTEyODE3NDIyMzYsMTg0OTEx
+NzgwNSw5MDg5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMT
+Y5MjI0ODc1MSw0MzUyNjI1MDIsMjY2NDA4ODIyLDE3OTUwOTQ4
+ODddfQ==
 -->
