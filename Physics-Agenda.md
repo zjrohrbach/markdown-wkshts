@@ -20,14 +20,14 @@ Agenda
 
 Announcements
 -------------  
-- Have a great weekend!
+- If you end up quarantined, please make sure to c
 
 [dir]: https://youtu.be/q4ec-myEBIE?t=389
 [m1]: https://avon.schoology.com/course/5138386942/materials/gp/5201801022
 [ps]: https://youtu.be/TLnfLPr76Xo
-[m2]: 
+[m2]: https://avon.schoology.com/course/5138386942/materials/gp/5201801029
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjA5MTM0OSwxMzkwOTQ2NjUwLC04MT
+eyJoaXN0b3J5IjpbLTg3OTQ2MTc4OSwxMzkwOTQ2NjUwLC04MT
 cwNTMwMTMsLTE1NjcwNTgzNTUsMjAyNDc1MjUyNCwxODg2NjQ3
 MTQwLC0yNzIwMzgyNywxMzAzMzM0ODI3LDE1NTE5NTMxMzYsLT
 ExMDYxOTc1MTUsLTEyODE3NDIyMzYsMTg0OTExNzgwNSw5MDg5
