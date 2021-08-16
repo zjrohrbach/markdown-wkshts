@@ -10,7 +10,7 @@ Agenda
 
 1. Notes: Direction of Acceleration <sub>[video][dir]</sub>
 
-*If you are absent, please take a look at the video version of the notes provided.*
+*If you are absent, please take note on the video version of the notes provided.*
 
 
 Announcements
@@ -19,7 +19,7 @@ Announcements
 
 [dir]: https://youtu.be/q4ec-myEBIE?t=389
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUxNjEzMSwtODE3MDUzMDEzLC0xNT
+eyJoaXN0b3J5IjpbMTI4MzgwMzQyOSwtODE3MDUzMDEzLC0xNT
 Y3MDU4MzU1LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MCwtMjcyMDM4
 MjcsMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMTA2MTk3NTE1LC
 0xMjgxNzQyMjM2LDE4NDkxMTc4MDUsOTA4OTAxMDU4LDkxMzk4
