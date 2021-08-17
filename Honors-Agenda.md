@@ -11,8 +11,14 @@ Agenda
 
  1. Take questions on the HW.
  2. Work through the rest of the [Practice Problems][pp]
- 
+ 3. Take the **HW Quiz**
+ 4. (*time permitting*) Get started on the Challenge Lab
+
+*If absent, please try Practice Problems #3-4 
+
+<!--
 *If you are absent, please take a look at the video version of the notes provided.*
+-->
 
 Homework
 -------------  
@@ -24,7 +30,7 @@ Homework
 
 [pp]: https://avon.schoology.com/course/5138386902/materials/gp/5197060132
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ1MjA1MjAsNTc4ODUxMzM4LC0xOT
+eyJoaXN0b3J5IjpbLTE2Mjg2Mjg2ODMsNTc4ODUxMzM4LC0xOT
 c3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5
 NzY1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOTksLTc4ODA2MjMsLT
 Q1MjcxOTEzNCwtODQ0Mzg2NSwtMTExMzU4ODcwLDE0NDI4NjY5
