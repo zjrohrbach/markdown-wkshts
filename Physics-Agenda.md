@@ -22,9 +22,9 @@ Announcements
 - If you end up quarantined, please make sure to check Schoology every day.
 
 [m2]: https://avon.schoology.com/course/5138386942/materials/gp/5201801029
-[m3]: 
+[m3]: https://avon.schoology.com/course/5138386942/materials/gp/5201801039
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2ODIzMjMzLDkyNDM5MzAwNiwtMTczOD
+eyJoaXN0b3J5IjpbMjgzNjM4MDY1LDkyNDM5MzAwNiwtMTczOD
 U2NjgsMTM5MDk0NjY1MCwtODE3MDUzMDEzLC0xNTY3MDU4MzU1
 LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MCwtMjcyMDM4MjcsMTMwMz
 MzNDgyNywxNTUxOTUzMTM2LC0xMTA2MTk3NTE1LC0xMjgxNzQy
