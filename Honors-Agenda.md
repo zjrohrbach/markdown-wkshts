@@ -24,13 +24,13 @@ Homework
 -------------  
 - Be working on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
-	- Everything up through *Motion at a Constant Acceleration** should be done
+	- Everything up through *Motion at a Constant Acceleration* should be done
 	- *Free Fall* due Friday
 - If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 
 [pp]: https://avon.schoology.com/course/5138386902/materials/gp/5197060132
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODI2NTY2Miw1Nzg4NTEzMzgsLTE5Nz
+eyJoaXN0b3J5IjpbLTUwNzIxMjY0Miw1Nzg4NTEzMzgsLTE5Nz
 c2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgsLTExMzk3
 NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwtNzg4MDYyMywtND
 UyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2
