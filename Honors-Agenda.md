@@ -14,7 +14,7 @@ Agenda
  3. Take the **HW Quiz**
  4. (*time permitting*) Get started on the Challenge Lab
 
-*If absent, please try Practice Problems #3-4 
+*If absent, please send me a message so we can schedule a time to make up the HW quiz.  Also, try [Practice Problems][pp] #3-4.*
 
 <!--
 *If you are absent, please take a look at the video version of the notes provided.*
@@ -30,11 +30,11 @@ Homework
 
 [pp]: https://avon.schoology.com/course/5138386902/materials/gp/5197060132
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2Mjg2ODMsNTc4ODUxMzM4LC0xOT
-c3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5
-NzY1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOTksLTc4ODA2MjMsLT
-Q1MjcxOTEzNCwtODQ0Mzg2NSwtMTExMzU4ODcwLDE0NDI4NjY5
-NjUsLTk0MDMyMjk4NiwtNzc4Mjg4MDI2LDU0NjMzMTgyMyw1Nj
-E2MjI2OTgsLTIxMTQwOTg4ODUsLTY4MDIyNzczOSwyMDM0NTE2
-NTMwXX0=
+eyJoaXN0b3J5IjpbLTQ2ODI2NTY2Miw1Nzg4NTEzMzgsLTE5Nz
+c2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgsLTExMzk3
+NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwtNzg4MDYyMywtND
+UyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2
+NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MT
+YyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1
+MzBdfQ==
 -->
