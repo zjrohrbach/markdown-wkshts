@@ -1,4 +1,4 @@
-Wed, Aug 18
+Thu, Aug 19 / Fri, Aug 20
 =====================
 
 Objectives
@@ -9,7 +9,7 @@ Agenda
 ---------  
 
 1. SSR
-2. Warmup Questions
+2. Warmup Problem
 3. Finish [Motion #2][m2]
 4. [Motion #3][m3]
 5. Start Quiz Corrections ([link to the Computer Portion][c])
@@ -25,11 +25,11 @@ Announcements
 [m3]: https://avon.schoology.com/course/5138386942/materials/gp/5201801039
 [c]: https://avon.schoology.com/assignment/5181054603/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mz
-g1NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAxMywtMTU2NzA1ODM1
-NSwyMDI0NzUyNTI0LDE4ODY2NDcxNDAsLTI3MjAzODI3LDEzMD
-MzMzQ4MjcsMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0
-MjIzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMT
-UyOTk0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2MjUwMiwyNjY0MDg4
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5Mj
+QzOTMwMDYsLTE3Mzg1NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAx
+MywtMTU2NzA1ODM1NSwyMDI0NzUyNTI0LDE4ODY2NDcxNDAsLT
+I3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MTk1MzEzNiwtMTEwNjE5
+NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3ODA1LDkwODkwMTA1OC
+w5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjkyMjQ4NzUxLDQzNTI2
+MjUwMl19
 -->
