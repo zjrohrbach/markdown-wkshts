@@ -18,15 +18,15 @@ Announcements
 -------------  
 - If you'd like to do test corrections on the paper portion, please get an SRT pass from me.
 
-[lab]: 
+[lab]: https://avon.schoology.com/course/5138386942/materials/gp/5218294314
 [data]: 
-[vid]: 
+[vid]: https://flipgrid.com/s/db3eacca55df
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDk0MTM1MywtMTI4MDk1MDEzNCwtMz
-Y3Njg4MDkxLDkyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1
-MCwtODE3MDUzMDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMT
-g4NjY0NzE0MCwtMjcyMDM4MjcsMTMwMzMzNDgyNywxNTUxOTUz
-MTM2LC0xMTA2MTk3NTE1LC0xMjgxNzQyMjM2LDE4NDkxMTc4MD
-UsOTA4OTAxMDU4LDkxMzk4Nzk2NiwxNTI5OTQ2MDU4LDE2OTIy
-NDg3NTFdfQ==
+eyJoaXN0b3J5IjpbOTE4MDY1NTg3LC0xMjgwOTUwMTM0LC0zNj
+c2ODgwOTEsOTI0MzkzMDA2LC0xNzM4NTY2OCwxMzkwOTQ2NjUw
+LC04MTcwNTMwMTMsLTE1NjcwNTgzNTUsMjAyNDc1MjUyNCwxOD
+g2NjQ3MTQwLC0yNzIwMzgyNywxMzAzMzM0ODI3LDE1NTE5NTMx
+MzYsLTExMDYxOTc1MTUsLTEyODE3NDIyMzYsMTg0OTExNzgwNS
+w5MDg5MDEwNTgsOTEzOTg3OTY2LDE1Mjk5NDYwNTgsMTY5MjI0
+ODc1MV19
 -->
