@@ -10,7 +10,7 @@ Agenda
 ---------  
 
  1. Calculation for the **Challenge Lab** <sub>[video explanation][vid]<sub>
- 3. 
+ 2. (*time permitting*) Check your calculations!
 
 
 *If you are absent, please take a look at the video version of the notes provided.  You will also be asked to [turn in][lab] your calculation for the Challenge Lab.*
@@ -23,16 +23,14 @@ Homework
 	- __Test__ on Wednesday!
 - Finish and upload your [*Challenge Lab*][lab]
 
-[vid]: 
-[lab]: 
-
-
+[vid]: https://youtu.be/N1Jut9B96Ro
+[lab]: https://avon.schoology.com/assignment/5217769944/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nz
-g4NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYx
-NTE1MDgsLTExMzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OS
-wtNzg4MDYyMywtNDUyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4
-NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNT
-Q2MzMxODIzLDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3
-NzM5XX0=
+eyJoaXN0b3J5IjpbLTIwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMT
+k1OTIxNzE3Myw1Nzg4NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3
+MjE2NDcsLTEyOTYxNTE1MDgsLTExMzk3NjU5MzYsNDg1NTMxMz
+I3LC0zODAwMzM5OSwtNzg4MDYyMywtNDUyNzE5MTM0LC04NDQz
+ODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2LC
+03NzgyODgwMjYsNTQ2MzMxODIzLDU2MTYyMjY5OCwtMjExNDA5
+ODg4NV19
 -->
