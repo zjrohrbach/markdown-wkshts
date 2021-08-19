@@ -13,7 +13,7 @@ Agenda
  3. 
 
 
-*If you are absent, please take a look at the video version of the notes provided.  You will also *
+*If you are absent, please take a look at the video version of the notes provided.  You will also be asked to [turn in][lab] your calculation for the Challenge Lab.*
 
 
 Homework
@@ -28,11 +28,11 @@ Homework
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTgxMTk5OSwxOTU5MjE3MTczLDU3OD
-g1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5NjE1
-MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4MDAzMzk5LC
-03ODgwNjIzLC00NTI3MTkxMzQsLTg0NDM4NjUsLTExMTM1ODg3
-MCwxNDQyODY2OTY1LC05NDAzMjI5ODYsLTc3ODI4ODAyNiw1ND
-YzMzE4MjMsNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3
-MzldfQ==
+eyJoaXN0b3J5IjpbLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nz
+g4NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYx
+NTE1MDgsLTExMzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OS
+wtNzg4MDYyMywtNDUyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4
+NzAsMTQ0Mjg2Njk2NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNT
+Q2MzMxODIzLDU2MTYyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3
+NzM5XX0=
 -->
