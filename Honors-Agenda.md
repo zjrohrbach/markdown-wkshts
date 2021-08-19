@@ -1,4 +1,4 @@
-Wed, Aug 18
+Fri, Aug 20
 =========  
 
 Objectives
@@ -10,33 +10,28 @@ Agenda
 ---------  
 
  1. Take questions on the HW.
- 2. Work through the rest of the [Practice Problems][pp]
- 3. Take the **HW Quiz**
- 4. (*time permitting*) Get started on the Challenge Lab
+ 2. Calculation for the **Challenge Lab** <sub>[video explanation on how to do the challenge lab calculation][vid]<sub>
+ 3. 
 
-*If absent, please send me a message so we can schedule a time to make up the HW quiz.  Also, try [Practice Problems][pp] #3-4.*
 
-<!--
 *If you are absent, please take a look at the video version of the notes provided.*
--->
+
 
 Homework
 -------------  
 - Be working on your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
 
-	- Everything up through *Motion at a Constant Acceleration* should be done
-	- *Free Fall* due Friday
-	- *Conceptual Questions* and *Misconceptual Questions* due next week
+	- Everything should be done by Test Day
 	- __Test__ on Wednesday!
 - If you're not sure about unit conversions, please check out [this video](https://www.youtube.com/watch?v=wwtcSoBxv4w)
 
-[pp]: https://avon.schoology.com/course/5138386902/materials/gp/5197060132
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTIxNzE3Myw1Nzg4NTEzMzgsLTE5Nz
-c2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgsLTExMzk3
-NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwtNzg4MDYyMywtND
-UyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2Njk2
-NSwtOTQwMzIyOTg2LC03NzgyODgwMjYsNTQ2MzMxODIzLDU2MT
-YyMjY5OCwtMjExNDA5ODg4NSwtNjgwMjI3NzM5LDIwMzQ1MTY1
-MzBdfQ==
+eyJoaXN0b3J5IjpbMTMwNTY5MjYwMiwxOTU5MjE3MTczLDU3OD
+g1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5NjE1
+MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4MDAzMzk5LC
+03ODgwNjIzLC00NTI3MTkxMzQsLTg0NDM4NjUsLTExMTM1ODg3
+MCwxNDQyODY2OTY1LC05NDAzMjI5ODYsLTc3ODI4ODAyNiw1ND
+YzMzE4MjMsNTYxNjIyNjk4LC0yMTE0MDk4ODg1LC02ODAyMjc3
+MzldfQ==
 -->
