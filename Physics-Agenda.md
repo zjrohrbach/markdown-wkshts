@@ -8,10 +8,10 @@ Learn how displacement graphs can be related to the motion of an object.
 Agenda  
 ---------  
 
-1. Warmup Problems
+1. [Motion #3][m3]
 3. Start the [Car Lab][lab] <sub>[Sample Data][data] and [Video Explanation][vid]</sub>
 
-*If you are absent,* please start the Car Lab using the sample data and video provided.  For today, all you need to do is get the data; we will do the graph and analysis next week.
+*If you are absent,* Do Motion #3 and email me a picture (unless you already did this last time).  Also, start the Car Lab using the sample data and video provided.  For today, all you need to do is get the data; we will do the graph and analysis next week.
 
 
 Announcements
@@ -22,7 +22,7 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386942/materials/gp/5218294376
 [vid]: https://flipgrid.com/s/db3eacca55df
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDg3OTczOCwtMTI4MDk1MDEzNCwtMz
+eyJoaXN0b3J5IjpbMTQ4MTQzNjMxMCwtMTI4MDk1MDEzNCwtMz
 Y3Njg4MDkxLDkyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1
 MCwtODE3MDUzMDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMT
 g4NjY0NzE0MCwtMjcyMDM4MjcsMTMwMzMzNDgyNywxNTUxOTUz
