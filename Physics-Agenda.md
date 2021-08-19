@@ -9,7 +9,8 @@ Agenda
 ---------  
 
 1. [Motion #3][m3]
-3. Start the [Car Lab][lab] <sub>[Sample Data][data] and [Video Explanation][vid]</sub>
+2. Start the [Car Lab][lab] <sub>[Sample Data][data] and [Video Explanation][vid]</sub>
+3. (*Period 3*) Time to work on Quiz Corrections
 
 _If you are absent,_ please attempt the Motion #3 on a separate sheet of paper (unless you already did this last time). You can send me a picture of your work to get feedback.
 
@@ -25,11 +26,11 @@ Announcements
 [vid]: https://flipgrid.com/s/db3eacca55df
 [m3]: https://avon.schoology.com/course/5138386942/materials/gp/5201801039
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLT
-M2NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1NjY4LDEzOTA5NDY2
-NTAsLTgxNzA1MzAxMywtMTU2NzA1ODM1NSwyMDI0NzUyNTI0LD
-E4ODY2NDcxNDAsLTI3MjAzODI3LDEzMDMzMzQ4MjcsMTU1MTk1
-MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0MjIzNiwxODQ5MTE3OD
-A1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUyOTk0NjA1OCwxNjky
-MjQ4NzUxXX0=
+eyJoaXN0b3J5IjpbLTE3MDAzMDg5NzIsLTIwNTA5MzM5NTksLT
+EyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1
+NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAxMywtMTU2NzA1ODM1NS
+wyMDI0NzUyNTI0LDE4ODY2NDcxNDAsLTI3MjAzODI3LDEzMDMz
+MzQ4MjcsMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0Mj
+IzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUy
+OTk0NjA1OF19
 -->
