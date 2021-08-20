@@ -19,15 +19,13 @@ Agenda
 Homework
 -------------  
 - **Test Next Class**
-- Your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557). 
-	- Everything should be done by Test Day
-	- __Test__ on Wednesday!
-- Finish and upload your [*Challenge Lab*][lab]
+- Your [Syllabus](https://avon.schoology.com/course/5138386902/materials?f=469192557) should be done by next class.
+- Make sure you've finished and uploaded your [*Challenge Lab*][lab]
 
 [vid]: https://youtu.be/N1Jut9B96Ro
 [lab]: https://avon.schoology.com/assignment/5217769944/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTcxNzc2NCwtMjA5OTc3NTIyNSwtMT
+eyJoaXN0b3J5IjpbLTQ0Nzg1Njg4OCwtMjA5OTc3NTIyNSwtMT
 g0NzA5NTIzMCwxOTU5MjE3MTczLDU3ODg1MTMzOCwtMTk3NzYw
 MDY0NSwtMTQ2MTcyMTY0NywtMTI5NjE1MTUwOCwtMTEzOTc2NT
 kzNiw0ODU1MzEzMjcsLTM4MDAzMzk5LC03ODgwNjIzLC00NTI3
