@@ -1,4 +1,4 @@
-Thu, Aug 19 / Fri, Aug 20
+Mon, Aug 23 / Tue, Aug 24
 =====================
 
 Objectives
@@ -8,13 +8,10 @@ Learn how displacement graphs can be related to the motion of an object.
 Agenda  
 ---------  
 
-1. [Motion #3][m3]
-2. Start the [Car Lab][lab] <sub>[Sample Data][data] and [Video Explanation][vid]</sub>
-3. (*Period 3*) Time to work on Quiz Corrections
+1. Finish getting the [Car Lab][lab] data <sub>[Sample Data][data] and [Video Explanation][vid]</sub>
+3. Car Lab Analysis.
 
-_If you are absent,_ please attempt the Motion #3 on a separate sheet of paper (unless you already did this last time). You can send me a picture of your work to get feedback.
-
-Also, start the Car Lab using the sample data and video provided.  For today, all you need to do is get the data; we will do the graph and analysis next week.
+_If you are absent,_ finish the Car Lab using the sample data and video provided.  You can email me a picture of your work or 
 
 
 Announcements
@@ -26,11 +23,11 @@ Announcements
 [vid]: https://flipgrid.com/s/db3eacca55df
 [m3]: https://avon.schoology.com/course/5138386942/materials/gp/5201801039
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAzMDg5NzIsLTIwNTA5MzM5NTksLT
-EyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1
-NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAxMywtMTU2NzA1ODM1NS
-wyMDI0NzUyNTI0LDE4ODY2NDcxNDAsLTI3MjAzODI3LDEzMDMz
-MzQ4MjcsMTU1MTk1MzEzNiwtMTEwNjE5NzUxNSwtMTI4MTc0Mj
-IzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5ODc5NjYsMTUy
-OTk0NjA1OF19
+eyJoaXN0b3J5IjpbNzE1NDgwODQsLTE3MDAzMDg5NzIsLTIwNT
+A5MzM5NTksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMw
+MDYsLTE3Mzg1NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAxMywtMT
+U2NzA1ODM1NSwyMDI0NzUyNTI0LDE4ODY2NDcxNDAsLTI3MjAz
+ODI3LDEzMDMzMzQ4MjcsMTU1MTk1MzEzNiwtMTEwNjE5NzUxNS
+wtMTI4MTc0MjIzNiwxODQ5MTE3ODA1LDkwODkwMTA1OCw5MTM5
+ODc5NjZdfQ==
 -->
