@@ -3,7 +3,7 @@ Thu, Aug 26 / Fri, Aug 27
 
 Objectives
 ------------
-- 
+Verify that the displacement graph of a real object matches our expectations.
 
 Agenda  
 ---------  
@@ -22,7 +22,7 @@ Announcements
 
 [lab]: https://avon.schoology.com/course/5138386942/materials/gp/5247798090
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUwMTkzMzksNjY5NzI3Mzc0LDE4OD
+eyJoaXN0b3J5IjpbLTE4NjYzMjQzNDcsNjY5NzI3Mzc0LDE4OD
 AzMzQ3NDksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2
 OSwtMTcwMDMwODk3MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNC
 wtMzY3Njg4MDkxLDkyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0
