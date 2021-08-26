@@ -8,8 +8,9 @@ Objectives
 Agenda  
 ---------  
 
-1. Brief review of 
+1. Brief review of Graphs of Motion
 2. Graphing Motion Kahoot
+3. [Car Lab II][lab]
 
 *If you are absent, take notes using the sample videos provided.*
 
@@ -18,11 +19,11 @@ Announcements
 -------------  
 - **Test** is coming up next Wednesday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDMzNDc0OSwtNzQ3Mzc5OTAxLC0yOD
-g3MDM2MzUsMzIwMzcyODY5LC0xNzAwMzA4OTcyLC0yMDUwOTMz
-OTU5LC0xMjgwOTUwMTM0LC0zNjc2ODgwOTEsOTI0MzkzMDA2LC
-0xNzM4NTY2OCwxMzkwOTQ2NjUwLC04MTcwNTMwMTMsLTE1Njcw
-NTgzNTUsMjAyNDc1MjUyNCwxODg2NjQ3MTQwLC0yNzIwMzgyNy
-wxMzAzMzM0ODI3LDE1NTE5NTMxMzYsLTExMDYxOTc1MTUsLTEy
-ODE3NDIyMzZdfQ==
+eyJoaXN0b3J5IjpbNjY5NzI3Mzc0LDE4ODAzMzQ3NDksLTc0Nz
+M3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwtMTcwMDMwODk3
+MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNCwtMzY3Njg4MDkxLD
+kyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1MCwtODE3MDUz
+MDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MC
+wtMjcyMDM4MjcsMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMTA2
+MTk3NTE1XX0=
 -->
