@@ -3,13 +3,13 @@ Wed, Aug 25
 
 Objectives
 ------------
-Prove what you know about kinematics.
+- 
 
 Agenda  
 ---------  
 
- 1. Take the Test (FR Version and [MC Version][test])
- 2. Use any remaining time to work on your [Challenge Lab Writeup][lab]
+ 1. 
+
 
 <!--
 *If you are absent, please take a look at the video version of the review provided.*
@@ -22,14 +22,14 @@ Homework
 
 - Make sure you've finished and uploaded your [Challenge Lab][lab] by Friday
 
-[lab]: https://avon.schoology.com/assignment/5217769944/
-[test]: https://avon.schoology.com/course/5138386902/assessments/5144956991
+[eprac]: https://avon.schoology.com/assignments/5249366728/
+[notes]: https://youtu.be/hDmpGaLFf-c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTM3NTkwNiwzODM1NjgwMjksLTExOT
-QwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1MjI1LC0xODQ3MDk1
-MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC0xOTc3NjAwNjQ1LC
-0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5NzY1OTM2LDQ4
-NTUzMTMyNywtMzgwMDMzOTksLTc4ODA2MjMsLTQ1MjcxOTEzNC
-wtODQ0Mzg2NSwtMTExMzU4ODcwLDE0NDI4NjY5NjUsLTk0MDMy
-Mjk4Nl19
+eyJoaXN0b3J5IjpbLTIwNjA1NTcwNzIsLTk2OTM3NTkwNiwzOD
+M1NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1
+MjI1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC
+0xOTc3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0x
+MTM5NzY1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOTksLTc4ODA2Mj
+MsLTQ1MjcxOTEzNCwtODQ0Mzg2NSwtMTExMzU4ODcwLDE0NDI4
+NjY5NjVdfQ==
 -->
