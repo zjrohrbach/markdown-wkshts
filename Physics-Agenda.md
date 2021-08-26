@@ -9,8 +9,9 @@ Agenda
 ---------  
 
 1. Brief review of Graphs of Motion
-2. Graphing Motion Kahoot
-3. [Car Lab II][lab]
+2. (*5th Period Only*) Finish Nearpod
+3. Graphing Motion Kahoot
+4. [Car Lab II][lab]
 
 *If you are absent, take notes using the sample videos provided.*
 
@@ -18,12 +19,14 @@ Agenda
 Announcements
 -------------  
 - **Test** is coming up next Wednesday
+
+[lab]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NzI3Mzc0LDE4ODAzMzQ3NDksLTc0Nz
-M3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwtMTcwMDMwODk3
-MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNCwtMzY3Njg4MDkxLD
-kyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1MCwtODE3MDUz
-MDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MC
-wtMjcyMDM4MjcsMTMwMzMzNDgyNywxNTUxOTUzMTM2LC0xMTA2
-MTk3NTE1XX0=
+eyJoaXN0b3J5IjpbODM2NTkzMjgsNjY5NzI3Mzc0LDE4ODAzMz
+Q3NDksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwt
+MTcwMDMwODk3MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNCwtMz
+Y3Njg4MDkxLDkyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1
+MCwtODE3MDUzMDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMT
+g4NjY0NzE0MCwtMjcyMDM4MjcsMTMwMzMzNDgyNywxNTUxOTUz
+MTM2XX0=
 -->
