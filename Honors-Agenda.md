@@ -25,16 +25,16 @@ Homework
 - Get started on your Syllabus.  You can do *Graphical Vector Addition* and *Vector Addition Calculations*
 
 
-[notes]: 
+[notes]: https://avon.schoology.com/course/5138386902/materials/gp/5254332433
 [nissan]: 
 [prob]: 
-[prob-vid]: 
+[prob-vid]: https://avon.schoology.com/course/5138386902/materials/gp/5254298326
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTk2MjkxMiwtMzQ4ODQyMzkzLC05Nj
-kzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3MTEwOTAx
-OSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5MjE3MTczLD
-U3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5
-NjE1MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4MDAzMz
-k5LC03ODgwNjIzLC00NTI3MTkxMzQsLTg0NDM4NjUsLTExMTM1
-ODg3MF19
+eyJoaXN0b3J5IjpbLTIwMzgzOTk2OTgsLTM0ODg0MjM5MywtOT
+Y5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkw
+MTksLTIwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3My
+w1Nzg4NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEy
+OTYxNTE1MDgsLTExMzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMz
+M5OSwtNzg4MDYyMywtNDUyNzE5MTM0LC04NDQzODY1LC0xMTEz
+NTg4NzBdfQ==
 -->
