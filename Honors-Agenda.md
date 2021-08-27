@@ -12,8 +12,8 @@ Agenda
  1. Notes: Vector Components <sub>[video][notes]</sub>
  2. [Nissan Truck Commercial][nissan]
  3. [Vector Practice Problem][prob] <sub>[video][prob-vid]</sub>
- 4. Go over Test Correction po
- 5. Work time and Test Corrections
+ 4. Go over Test Correction policy
+ 5. Work time
 
 
 
@@ -25,14 +25,16 @@ Homework
 -------------  
 
 - Get started on your Syllabus.  You can now do *Graphical Vector Addition* and *Vector Addition Calculations*
+- Get your [Test Corrections][correct] done by next Friday.  If you need, you can get an SRT Pass
 
 
 [notes]: https://avon.schoology.com/course/5138386902/materials/gp/5254332433
 [nissan]: https://youtu.be/U-7L-xsYG04?t=17
 [prob]: https://avon.schoology.com/page/5254291644
 [prob-vid]: https://avon.schoology.com/course/5138386902/materials/gp/5254298326
+[correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTUxNDk0MCwtMzQ4ODQyMzkzLC05Nj
+eyJoaXN0b3J5IjpbMTgzMjI2MDQ3MCwtMzQ4ODQyMzkzLC05Nj
 kzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3MTEwOTAx
 OSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5MjE3MTczLD
 U3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5
