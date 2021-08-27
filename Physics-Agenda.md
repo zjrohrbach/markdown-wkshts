@@ -18,17 +18,17 @@ Agenda
 Announcements
 -------------  
 - **Test** is coming up next class!
-- If you want extra review materials, you can see this document and its key.
+- If you want extra review materials, you can see [this document](https://avon.schoology.com/course/5138386942/materials/gp/5255692289) and its [key](https://avon.schoology.com/course/5138386942/materials/gp/5255689901).
 
 [lab]: https://avon.schoology.com/course/5138386942/materials/gp/5247798090
 [rev]: https://edpuzzle.com/assignments/61294572d1272c4184f0b7fb/watch
 [pr]: https://avon.schoology.com/course/5138386942/materials/gp/5255692257
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzQzNjM1NiwtMTg2NjMyNDM0Nyw2Nj
-k3MjczNzQsMTg4MDMzNDc0OSwtNzQ3Mzc5OTAxLC0yODg3MDM2
-MzUsMzIwMzcyODY5LC0xNzAwMzA4OTcyLC0yMDUwOTMzOTU5LC
-0xMjgwOTUwMTM0LC0zNjc2ODgwOTEsOTI0MzkzMDA2LC0xNzM4
-NTY2OCwxMzkwOTQ2NjUwLC04MTcwNTMwMTMsLTE1NjcwNTgzNT
-UsMjAyNDc1MjUyNCwxODg2NjQ3MTQwLC0yNzIwMzgyNywxMzAz
-MzM0ODI3XX0=
+eyJoaXN0b3J5IjpbLTE1NjM0NDg2MjcsLTE4NjYzMjQzNDcsNj
+Y5NzI3Mzc0LDE4ODAzMzQ3NDksLTc0NzM3OTkwMSwtMjg4NzAz
+NjM1LDMyMDM3Mjg2OSwtMTcwMDMwODk3MiwtMjA1MDkzMzk1OS
+wtMTI4MDk1MDEzNCwtMzY3Njg4MDkxLDkyNDM5MzAwNiwtMTcz
+ODU2NjgsMTM5MDk0NjY1MCwtODE3MDUzMDEzLC0xNTY3MDU4Mz
+U1LDIwMjQ3NTI1MjQsMTg4NjY0NzE0MCwtMjcyMDM4MjcsMTMw
+MzMzNDgyN119
 -->
