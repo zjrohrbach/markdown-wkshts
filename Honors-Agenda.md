@@ -11,7 +11,7 @@ Agenda
 
  1. Notes: Vector Components <sub>[video][notes]</sub>
  2. [Nissan Truck Commercial][nissan]
- 3. [Vector Practice Problem][prob] <sub>[video][prob-vid]</su
+ 3. [Vector Practice Problem][prob] <sub>[video][prob-vid]</sub>
 
 
 
@@ -22,17 +22,19 @@ Agenda
 Homework
 -------------  
 
-- Make sure you've finished and uploaded your [Challenge Lab][lab]
+- Get started on your Syllabus.  You can do *Graphical Vector Addition* and *Vector Addition Calculations*
 
-[eprac]: https://avon.schoology.com/assignments/5249366728/
-[notes]: https://youtu.be/hDmpGaLFf-c
-[lab]: https://avon.schoology.com/assignment/5217769944/
+
+[notes]: 
+[nissan]: 
+[prob]: 
+[prob-vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NDkyOTkyLC0zNDg4NDIzOTMsLTk2OT
-M3NTkwNiwzODM1NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5MDE5
-LC0yMDk5Nzc1MjI1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNT
-c4ODUxMzM4LC0xOTc3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2
-MTUxNTA4LC0xMTM5NzY1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOT
-ksLTc4ODA2MjMsLTQ1MjcxOTEzNCwtODQ0Mzg2NSwtMTExMzU4
-ODcwXX0=
+eyJoaXN0b3J5IjpbMTQ2NTk2MjkxMiwtMzQ4ODQyMzkzLC05Nj
+kzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3MTEwOTAx
+OSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5MjE3MTczLD
+U3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5
+NjE1MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4MDAzMz
+k5LC03ODgwNjIzLC00NTI3MTkxMzQsLTg0NDM4NjUsLTExMTM1
+ODg3MF19
 -->
