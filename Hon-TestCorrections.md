@@ -8,7 +8,7 @@ As noted on the Course Information Guide,
 How to do Test Corrections
 -----------------------------------
 
-A valid correction has three parts: (1) Question number, (2) Correct answer, (3) An explanation of why your first answer was wrong or why your new answer was right. (_**Without part 3, I won't grade your corrections!**_)  
+A valid correction has three parts: (1) Question number, (2) Correct answer (*with work shown*), (3) An explanation of why your first answer was wrong or why your new answer was right. (_**Without part 3, I won't grade your corrections!**_)  
   
 You may either type your corrections and upload them or handwrite them, scan them, and upload them.
 
@@ -21,6 +21,6 @@ When to do Test Corrections
   
 **[LINK TO THE MC TEST](https://avon.schoology.com/assignment/4925783860/course/5138386902/assessments/5144956991)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg0ODE5OTYsMjA3ODYxMjA1OSw3Mz
+eyJoaXN0b3J5IjpbLTEzNDY4MDUxMzksMjA3ODYxMjA1OSw3Mz
 A5OTgxMTZdfQ==
 -->
