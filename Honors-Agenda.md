@@ -9,8 +9,9 @@ Objectives
 Agenda  
 ---------  
 
- 1. Notes: Intro to 2D Vectors <sub>[video][notes]</sub>
- 2. Do the [Graphical Vector Addition E-Practice][eprac]
+ 1. Notes: Vector Components <sub>[video][notes]</sub>
+ 2. [Nissan Truck Commercial][nissan]
+ 3. [Vector Practice Problem][prob] <sub>[video][prob-vid]</su
 
 
 
@@ -27,11 +28,11 @@ Homework
 [notes]: https://youtu.be/hDmpGaLFf-c
 [lab]: https://avon.schoology.com/assignment/5217769944/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4Mz
-U2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3NzUy
-MjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nzg4NTEzMzgsLT
-E5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgsLTEx
-Mzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwtNzg4MDYyMy
-wtNDUyNzE5MTM0LC04NDQzODY1LC0xMTEzNTg4NzAsMTQ0Mjg2
-Njk2NV19
+eyJoaXN0b3J5IjpbMjM5NDkyOTkyLC0zNDg4NDIzOTMsLTk2OT
+M3NTkwNiwzODM1NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5MDE5
+LC0yMDk5Nzc1MjI1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNT
+c4ODUxMzM4LC0xOTc3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2
+MTUxNTA4LC0xMTM5NzY1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOT
+ksLTc4ODA2MjMsLTQ1MjcxOTEzNCwtODQ0Mzg2NSwtMTExMzU4
+ODcwXX0=
 -->
