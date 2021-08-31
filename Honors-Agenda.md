@@ -9,10 +9,8 @@ Agenda
 ---------  
 
 1. Notes: Projectile Motion <sub>[video][notes]</sub>
-3. [Nissan Truck Commercial][nissan]
-4. [Vector Practice Problem][prob] <sub>[video][prob-vid]</sub>
-5. Go over Test Correction policy
-6. Work time on Syllabus
+2. 
+3. Work time on Syllabus
 
 
 
@@ -30,11 +28,11 @@ Homework
 [notes]: https://youtu.be/jdEYuQKZsxM
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2OTQ3OTU2LC04ODQ5OTEzNDIsLTM0OD
-g0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0
-Nyw3NzExMDkwMTksLTIwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMT
-k1OTIxNzE3Myw1Nzg4NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3
-MjE2NDcsLTEyOTYxNTE1MDgsLTExMzk3NjU5MzYsNDg1NTMxMz
-I3LC0zODAwMzM5OSwtNzg4MDYyMywtNDUyNzE5MTM0LC04NDQz
-ODY1XX0=
+eyJoaXN0b3J5IjpbMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0zND
+g4NDIzOTMsLTk2OTM3NTkwNiwzODM1NjgwMjksLTExOTQwMzg2
+NDcsNzcxMTA5MDE5LC0yMDk5Nzc1MjI1LC0xODQ3MDk1MjMwLD
+E5NTkyMTcxNzMsNTc4ODUxMzM4LC0xOTc3NjAwNjQ1LC0xNDYx
+NzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5NzY1OTM2LDQ4NTUzMT
+MyNywtMzgwMDMzOTksLTc4ODA2MjMsLTQ1MjcxOTEzNCwtODQ0
+Mzg2NV19
 -->
