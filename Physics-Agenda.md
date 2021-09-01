@@ -14,7 +14,7 @@ Agenda
 4. (*time permitting*) Work on Test Corrections (*[link to Concept Portion][test]*)
 
 
-*If you are absent, watch the video versions of the notes and try K*
+*If you are absent, watch the video versions of the notes and try Kinematics #1.  I'm going to take a completion grade on it.*
 
 
 
@@ -24,8 +24,10 @@ Announcements
 - If you'd like to do test corrections on the Problem Portion, get an SRT pass from me.
 
 [test]: https://avon.schoology.com/assignment/5269291220/
+[k1]: https://avon.schoology.com/course/5138386942/materials/gp/5275625632
+[v]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjQ5MDgwMywxNjkxNTIyMjA5LC0xNT
+eyJoaXN0b3J5IjpbMTM3NTQ3ODU1MSwxNjkxNTIyMjA5LC0xNT
 YzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0
 NzQ5LC03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLT
 E3MDAzMDg5NzIsLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLTM2
