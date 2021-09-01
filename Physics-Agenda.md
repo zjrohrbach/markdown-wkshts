@@ -4,13 +4,13 @@ Thu, Sept 2 / Fri, Sept 3
 Objectives
 ------------
 - Be able to use the Kinematic Equations to solve horizontal-motion problems
-- 
+
 Agenda  
 ---------  
 
 1. SSR
 2. Notes: Kinematic Equations <sub>[Video][v]</sub>
-3. Do [Kinematics #1]
+3. Do [Kinematics #1][k1]
 4. (*time permitting*) Work on Test Corrections (*[link to Concept Portion][test]*)
 
 
@@ -25,13 +25,13 @@ Announcements
 
 [test]: https://avon.schoology.com/assignment/5269291220/
 [k1]: https://avon.schoology.com/course/5138386942/materials/gp/5275625632
-[v]: 
+[v]: https://avon.schoology.com/course/5138386942/materials/gp/5275086868
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTQ3ODU1MSwxNjkxNTIyMjA5LC0xNT
-YzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0
-NzQ5LC03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLT
-E3MDAzMDg5NzIsLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLTM2
-NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1NjY4LDEzOTA5NDY2NT
-AsLTgxNzA1MzAxMywtMTU2NzA1ODM1NSwyMDI0NzUyNTI0LDE4
-ODY2NDcxNDBdfQ==
+eyJoaXN0b3J5IjpbNjA0NzI3MTc4LDE2OTE1MjIyMDksLTE1Nj
+M0NDg2MjcsLTE4NjYzMjQzNDcsNjY5NzI3Mzc0LDE4ODAzMzQ3
+NDksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwtMT
+cwMDMwODk3MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNCwtMzY3
+Njg4MDkxLDkyNDM5MzAwNiwtMTczODU2NjgsMTM5MDk0NjY1MC
+wtODE3MDUzMDEzLC0xNTY3MDU4MzU1LDIwMjQ3NTI1MjQsMTg4
+NjY0NzE0MF19
 -->
