@@ -9,8 +9,8 @@ Agenda
 ---------  
 
 1. Notes: Projectile Motion <sub>[video][notes]</sub>
-2. Do the [Projectile Motion PhET Lab][lab]
-3. Work time on Syllabus
+2. Do the [Projectile Motion PhET Lab][phet]
+3. Work time on Syllabus/Test Corrections
 
 
 
@@ -26,14 +26,14 @@ Homework
 
 
 [notes]: https://youtu.be/jdEYuQKZsxM
-[phet]: 
+[phet]: https://avon.schoology.com/assignment/5269223163/info
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NSwtOD
-g0OTkxMzQyLC0zNDg4NDIzOTMsLTk2OTM3NTkwNiwzODM1Njgw
-MjksLTExOTQwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1MjI1LC
-0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC0xOTc3
-NjAwNjQ1LC0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5Nz
-Y1OTM2LDQ4NTUzMTMyNywtMzgwMDMzOTksLTc4ODA2MjMsLTQ1
-MjcxOTEzNF19
+eyJoaXN0b3J5IjpbMTU4ODgwODYzNiwtMTUxMDA5MjA3NCwyMD
+QyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1
+OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLT
+IwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nzg4
+NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNT
+E1MDgsLTExMzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwt
+Nzg4MDYyM119
 -->
