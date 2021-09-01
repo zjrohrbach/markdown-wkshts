@@ -1,33 +1,34 @@
-Wed, Sept 1
+Thu, Sept 2 / Fri, Sept 3
 =====================
 
 Objectives
 ------------
-Prove what you've learned about motion.
-
+- Be able to use the Kinematic Equations to solve horizontal-motion problems
+- 
 Agenda  
 ---------  
 
-1. Go over a few review questions
-2. Take the test ([Concept portion][test] and Problem Portion)
+1. SSR
+2. Notes: Kinematic Equations <sub>[Video][v]</sub>
+3. Work on 
 
-<!--
-*If you are absent, watch the video review in order to prepare for the test*
--->
-*If absent, please send me a message so we can figure out when we will take your test.*
+
+*If you are absent, watch the video versions of the notes *
+
 
 
 Announcements
 -------------  
-(*none*)
+- You can do test corrections on the [Concept Portion][test] of the test.  Turn them in when they are finished.
+- If you'd like to do test corrections on the Problem Portion, get an SRT pass from me.
 
 [test]: https://avon.schoology.com/assignment/5269291220/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTUyMjIwOSwtMTU2MzQ0ODYyNywtMT
-g2NjMyNDM0Nyw2Njk3MjczNzQsMTg4MDMzNDc0OSwtNzQ3Mzc5
-OTAxLC0yODg3MDM2MzUsMzIwMzcyODY5LC0xNzAwMzA4OTcyLC
-0yMDUwOTMzOTU5LC0xMjgwOTUwMTM0LC0zNjc2ODgwOTEsOTI0
-MzkzMDA2LC0xNzM4NTY2OCwxMzkwOTQ2NjUwLC04MTcwNTMwMT
-MsLTE1NjcwNTgzNTUsMjAyNDc1MjUyNCwxODg2NjQ3MTQwLC0y
-NzIwMzgyN119
+eyJoaXN0b3J5IjpbMjA3MDY4MDYzMiwxNjkxNTIyMjA5LC0xNT
+YzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0
+NzQ5LC03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLT
+E3MDAzMDg5NzIsLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLTM2
+NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1NjY4LDEzOTA5NDY2NT
+AsLTgxNzA1MzAxMywtMTU2NzA1ODM1NSwyMDI0NzUyNTI0LDE4
+ODY2NDcxNDBdfQ==
 -->
