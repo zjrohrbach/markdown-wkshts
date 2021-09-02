@@ -10,11 +10,12 @@ Agenda
 
 1. Take questions on the HW
 2. Go over the [Projectile Concept Warmup Question](https://avon.schoology.com/page/5280715766)
-3. Do some [Projectile Motion Practice Problems](
+3. Do some [Projectile Motion Practice Problems](https://avon.schoology.com/page/5280722337) <sub>[Key](https://avon.schoology.com/course/5138386902/materials/gp/5280726554)</sub>
+4. Worktime
 
 
 
-*If you are absent, please take a look at the video version of the notes provided and work on the PhET lab.*
+*If you are absent, please take a look at Practice Problems and check your work using the key.  I currently don't have a video for this one, but please send me messages with questions.*
 
 
 
@@ -30,11 +31,11 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTY2NTg2MywtMTUxMDA5MjA3NCwyMD
-QyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1
-OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLT
-IwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nzg4
-NTEzMzgsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNT
-E1MDgsLTExMzk3NjU5MzYsNDg1NTMxMzI3LC0zODAwMzM5OSwt
-Nzg4MDYyM119
+eyJoaXN0b3J5IjpbMzgyNDc5MDYzLC0xNTEwMDkyMDc0LDIwND
+I5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4ODQyMzkzLC05NjkzNzU5
+MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3MTEwOTAxOSwtMj
+A5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5MjE3MTczLDU3ODg1
+MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0NywtMTI5NjE1MT
+UwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4MDAzMzk5LC03
+ODgwNjIzXX0=
 -->
