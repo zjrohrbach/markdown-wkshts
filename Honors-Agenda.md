@@ -8,8 +8,8 @@ Be able to calculate the motion of an object in Two Dimensions.
 Agenda  
 ---------  
 
-1. Finish the[Projectile Motion Practice Problems](https://avon.schoology.com/page/5280722337) <sub>[Key](https://avon.schoology.com/course/5138386902/materials/gp/5280726554)</sub>
-2. Notes on the Range Equation <sub>[video]()</sub>
+1. Finish the [Projectile Motion Practice Problems](https://avon.schoology.com/page/5280722337) <sub>[Key](https://avon.schoology.com/course/5138386902/materials/gp/5280726554)</sub>
+2. Notes on the Range Equation <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5249121209)</sub>
 3. Worktime
 
 
@@ -30,11 +30,11 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MDE3ODQsMzgyNDc5MDYzLC0xNTEwMD
-kyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4ODQyMzkz
-LC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3MT
-EwOTAxOSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5MjE3
-MTczLDU3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMTY0Ny
-wtMTI5NjE1MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcsLTM4
-MDAzMzk5XX0=
+eyJoaXN0b3J5IjpbLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC0xNT
+EwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4ODQy
+MzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LD
+c3MTEwOTAxOSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5
+MjE3MTczLDU3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMT
+Y0NywtMTI5NjE1MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcs
+LTM4MDAzMzk5XX0=
 -->
