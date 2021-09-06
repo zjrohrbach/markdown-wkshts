@@ -8,9 +8,12 @@ Be able to calculate the motion of an object in Two Dimensions.
 Agenda  
 ---------  
 
-1. Finish the [Projectile Motion Practice Problems](https://avon.schoology.com/page/5280722337) <sub>[Key](https://avon.schoology.com/course/5138386902/materials/gp/5280726554)</sub>
-2. Notes on the Range Equation <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5249121209)</sub>
-3. Worktime
+1. I'm sorry to not be
+2. Watch [this video]()
+	- If you lost it, here's a link to the [Projectile Motion Practice Problems](https://avon.schoology.com/page/5280722337)
+	- If it's useful, here's a link to a pdf [key](https://avon.schoology.com/course/5138386902/materials/gp/5280726554)
+3. Take notes on the Range Equation by watching [this video](https://avon.schoology.com/course/5138386902/materials/gp/5249121209)
+4. Work on your syllabus.
 
 
 
@@ -25,16 +28,16 @@ Homework
 	- You should be done or almost done with *Graphical Vector Addition* and *Vector Addition Calculations*
 	- *Projectile Motion Intro* and HW Quiz moved to Thu, Sept 9 (*__next class!__*)
 	- No other changes to due dates at this time.
-- Get your [Test Corrections][correct] done by next Friday.  If you need, you can get an SRT Pass
+- Get your [Test Corrections][correct] done by Friday.  If you need, you can come in tomorrow morning to get an SRT Pass
 
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC0xNT
-EwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4ODQy
-MzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LD
-c3MTEwOTAxOSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwxOTU5
-MjE3MTczLDU3ODg1MTMzOCwtMTk3NzYwMDY0NSwtMTQ2MTcyMT
-Y0NywtMTI5NjE1MTUwOCwtMTEzOTc2NTkzNiw0ODU1MzEzMjcs
-LTM4MDAzMzk5XX0=
+eyJoaXN0b3J5IjpbLTcyNTUyNjEwNiwtMTk1ODE1NzczMCwzOD
+I0NzkwNjMsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NSwtODg0OTkx
+MzQyLC0zNDg4NDIzOTMsLTk2OTM3NTkwNiwzODM1NjgwMjksLT
+ExOTQwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1MjI1LC0xODQ3
+MDk1MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC0xOTc3NjAwNj
+Q1LC0xNDYxNzIxNjQ3LC0xMjk2MTUxNTA4LC0xMTM5NzY1OTM2
+LDQ4NTUzMTMyN119
 -->
