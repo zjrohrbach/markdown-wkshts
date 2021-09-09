@@ -8,30 +8,28 @@ Be able to calculate the motion of an object in Two Dimensions.
 Agenda  
 ---------  
 
-1. I'm sorry to not be here today.  You have two videos to watch for today.
-2. Watch [this video]() (*If you lost your practice problems from last time, here's a link to the [worksheet](https://avon.schoology.com/page/5280722337)*)
-3. Take notes on the Range Equation by watching [this video](https://avon.schoology.com/course/5138386902/materials/gp/5249121209)
-4. Make sure to read the homework below... Especially pay attention to the fact that we have an open-note HW quiz next time.  It will focus on the *Projectile Motion Intro Problems*.
-5. Work on your syllabus.  If you have questions, please send me a Schoology message.
+1. Take questions over the homework
+2. Do the YAPP
+3. Take the Ch 3 HW Quiz
+4. 
 
 
 Homework
 -------------  
 
+- We will be outside on Monday morning.  (Meet in the classro
 - Make sure you are staying on top of your Syllabus
-	- You should be **all done** with *Graphical Vector Addition* and *Vector Addition Calculations*
-	- *Projectile Motion Intro* and HW Quiz moved to Thu, Sept 9 (*__next class!__*)
-	- You can also now do *Projectile Motion Involved* (due on Monday)
-- Make sure your [Test Corrections][correct] are done by Friday.  If you need, you can come in tomorrow morning to get an SRT Pass from me
+	-  *Projectile Motion Involved* problems due on Monday
+- Make sure your [Test Corrections][correct] are done by tomorrow.
 
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMz
-gyNDc5MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5
-MTM0MiwtMzQ4ODQyMzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC
-0xMTk0MDM4NjQ3LDc3MTEwOTAxOSwtMjA5OTc3NTIyNSwtMTg0
-NzA5NTIzMCwxOTU5MjE3MTczLDU3ODg1MTMzOCwtMTk3NzYwMD
-Y0NSwtMTQ2MTcyMTY0NywtMTI5NjE1MTUwOCwtMTEzOTc2NTkz
-Niw0ODU1MzEzMjddfQ==
+eyJoaXN0b3J5IjpbNTUyMjU0NjIxLC0xOTc2MDI1ODc3LC0xOT
+U4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcw
+NTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LD
+M4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3
+NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nzg4NTEzMz
+gsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgs
+LTExMzk3NjU5MzZdfQ==
 -->
