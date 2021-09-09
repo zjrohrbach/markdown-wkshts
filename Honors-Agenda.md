@@ -10,7 +10,7 @@ Agenda
 
 1. Take questions over the homework
 2. Do a [Warmup Question](https://avon.schoology.com/page/5280723561)
-3. Do the YAPP
+3. Do the [YAPP](https://avon.schoology.com/page/5298471812)
 4. Take the Ch 3 HW Quiz
 
 
@@ -25,7 +25,7 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2Nzc4NDMyLC0xOTc2MDI1ODc3LC0xOT
+eyJoaXN0b3J5IjpbMjc0NzI2NDA2LC0xOTc2MDI1ODc3LC0xOT
 U4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcw
 NTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LD
 M4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3
