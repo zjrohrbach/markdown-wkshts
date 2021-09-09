@@ -10,11 +10,9 @@ Agenda
 ---------  
 
 1. SSR
-2. Do [Kinematics #2][k2]
-3. Notes: Free Fall <sub>[video][v]</sub>
-4. Work time
-	- Test Corrections (*[link to Concept Portion][test]*)
-	- [Kinematics #3][k3]
+2. Free Fall Discussion and Demos
+3. [Kinematics #4][k4]
+4. 
 
 
 *If you are absent, watch the video versions of the notes and try Kinematics #2-3.  I'm going to take a completion grade on Kinematics #3 (but not #2), so please send me a picture of your work on that one.*
@@ -23,19 +21,16 @@ Agenda
 
 Announcements
 -------------  
-- You can do test corrections on the [Concept Portion][test] of the test.  Turn them in when they are finished.
-- If you'd like to do test corrections on the Problem Portion, get an SRT pass from me.
+- You can do test corrections on the [Concept Portion][test] or Paper Portion (sent to you in a message) of the test.  Turn them in when they are finished.
 
 [test]: https://avon.schoology.com/assignment/5269291220/
-[v]: https://avon.schoology.com/course/5138386942/materials/gp/5275093314
-[k2]: https://avon.schoology.com/course/5138386942/materials/gp/5275625728
-[k3]: https://avon.schoology.com/course/5138386942/materials/gp/5275625819
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDQ0MzA0OSw2MDQ3MjcxNzgsMTY5MT
-UyMjIwOSwtMTU2MzQ0ODYyNywtMTg2NjMyNDM0Nyw2Njk3Mjcz
-NzQsMTg4MDMzNDc0OSwtNzQ3Mzc5OTAxLC0yODg3MDM2MzUsMz
-IwMzcyODY5LC0xNzAwMzA4OTcyLC0yMDUwOTMzOTU5LC0xMjgw
-OTUwMTM0LC0zNjc2ODgwOTEsOTI0MzkzMDA2LC0xNzM4NTY2OC
-wxMzkwOTQ2NjUwLC04MTcwNTMwMTMsLTE1NjcwNTgzNTUsMjAy
-NDc1MjUyNF19
+eyJoaXN0b3J5IjpbMjAyNDMyNjM0MywtNTU0NDQzMDQ5LDYwND
+cyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2MzI0
+MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MDEsLT
+I4ODcwMzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5NzIsLTIwNTA5
+MzM5NTksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMwMD
+YsLTE3Mzg1NjY4LDEzOTA5NDY2NTAsLTgxNzA1MzAxMywtMTU2
+NzA1ODM1NV19
 -->
