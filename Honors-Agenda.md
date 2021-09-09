@@ -1,4 +1,4 @@
-Tue, Sept 7
+Thu, Sept 9
 =========  
 
 Objectives
@@ -25,7 +25,7 @@ Homework
 
 [correct]: https://avon.schoology.com/assignment/5144957009/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NzI2NDA2LC0xOTc2MDI1ODc3LC0xOT
+eyJoaXN0b3J5IjpbNTk4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOT
 U4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcw
 NTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LD
 M4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3
