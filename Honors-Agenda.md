@@ -1,35 +1,28 @@
-Thu, Sept 9
+Mon, Sept 13
 =========  
 
 Objectives
 ------------
-Be able to calculate the motion of an object in Two Dimensions.
+Be able to use the range equation to aim a projectile.
 
 Agenda  
 ---------  
 
-1. Take questions over the homework
-2. Do a [Warmup Question](https://avon.schoology.com/page/5280723561)
-3. Do the [YAPP](https://avon.schoology.com/page/5298471812)
-4. Take the Ch 3 HW Quiz
+1. Do the Air Rocket Lab outside.
+2. Use any remaining time to work on the writeup.
 
 
 Homework
 -------------  
 
-- We will be outside on Monday morning.  (Meet in the classroom, but be prepared to be on the football field)
-- Make sure you are staying on top of your Syllabus
-	-  *Projectile Motion Involved* problems due on Monday
-- Make sure your [Test Corrections][correct] are done by tomorrow.
-
-
-[correct]: https://avon.schoology.com/assignment/5144957009/
+-  *Projectile Motion Involved* problems should be done
+- [Air Rocket Lab] Writeup is due Monday.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOT
-U4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcw
-NTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LD
-M4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3
-NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1Nzg4NTEzMz
-gsLTE5Nzc2MDA2NDUsLTE0NjE3MjE2NDcsLTEyOTYxNTE1MDgs
-LTExMzk3NjU5MzZdfQ==
+eyJoaXN0b3J5IjpbMjgzNzM3NDgwLDU5ODM2MzE3NSwtMTk3Nj
+AyNTg3NywtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAwOTIw
+NzQsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0zNDg4NDIzOTMsLT
+k2OTM3NTkwNiwzODM1NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5
+MDE5LC0yMDk5Nzc1MjI1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNz
+MsNTc4ODUxMzM4LC0xOTc3NjAwNjQ1LC0xNDYxNzIxNjQ3LC0x
+Mjk2MTUxNTA4XX0=
 -->
