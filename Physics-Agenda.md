@@ -1,25 +1,28 @@
-Mon, Sept 13 / Tue, Sept 14
+Wed, Sept 15 / Fri, Sept 17
 =====================
 
 Objectives
 ------------
-Be able to use the Kinematic Equations to make your instructor miserable.
+Review what we've learned about Kinematics
 
 Agenda  
 ---------  
 
-1. Do the **Water Balloon Challenge!!**
+1. SSR
+2. Collect any remaining Water Balloon Challenges
+3. Kinematics Kahoot
+4. Do [Kinematics #5][k5] and [check
 
 
 Announcements
 -------------  
-- Make sure your Water Balloon Challenge Lab gets finished!
+- Test next class!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzczMjM4MSwzOTc2ODIzMzQsLTU1ND
-Q0MzA0OSw2MDQ3MjcxNzgsMTY5MTUyMjIwOSwtMTU2MzQ0ODYy
-NywtMTg2NjMyNDM0Nyw2Njk3MjczNzQsMTg4MDMzNDc0OSwtNz
-Q3Mzc5OTAxLC0yODg3MDM2MzUsMzIwMzcyODY5LC0xNzAwMzA4
-OTcyLC0yMDUwOTMzOTU5LC0xMjgwOTUwMTM0LC0zNjc2ODgwOT
-EsOTI0MzkzMDA2LC0xNzM4NTY2OCwxMzkwOTQ2NjUwLC04MTcw
-NTMwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTE4MDI0MTUsMjA0MzczMjM4MSwzOT
+c2ODIzMzQsLTU1NDQ0MzA0OSw2MDQ3MjcxNzgsMTY5MTUyMjIw
+OSwtMTU2MzQ0ODYyNywtMTg2NjMyNDM0Nyw2Njk3MjczNzQsMT
+g4MDMzNDc0OSwtNzQ3Mzc5OTAxLC0yODg3MDM2MzUsMzIwMzcy
+ODY5LC0xNzAwMzA4OTcyLC0yMDUwOTMzOTU5LC0xMjgwOTUwMT
+M0LC0zNjc2ODgwOTEsOTI0MzkzMDA2LC0xNzM4NTY2OCwxMzkw
+OTQ2NjUwXX0=
 -->
