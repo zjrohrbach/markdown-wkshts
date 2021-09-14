@@ -13,7 +13,7 @@ Agenda
 3. Kinematics Kahoot
 4. Worktime
 	- Do [Kinematics #5][k5] 
-	- Ccheck your answers][k5-ans]
+	- Check your answers: (1) 5.53 sec; (2) -6 m/s<sup>2</sup>; (3) 4.9 m
 	- Work on the [Review][rev]
 
 *If you are absent, do Kinematics #5 and the Review.  Send questions to me.*
@@ -29,7 +29,7 @@ Announcements
 [rev]: https://avon.schoology.com/course/5138386942/materials/gp/5314445950
 [rev-key]: https://avon.schoology.com/course/5138386942/materials/gp/5314444185
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg5MTk2MzIsLTM0NDMyNjk1OSwyMD
+eyJoaXN0b3J5IjpbLTE3NzY3ODc5MzcsLTM0NDMyNjk1OSwyMD
 QzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3
 OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LD
 Y2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MDEsLTI4ODcw
