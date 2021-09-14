@@ -9,7 +9,8 @@ Agenda
 ---------  
 
 1. Questions over HW and the HW quiz.
-2. Debrief the Air Rocket lab and work on [wri
+2. Debrief the Air Rocket lab and work on writeup
+3. Notes on Relative Velocity
 
 
 Homework
@@ -19,11 +20,11 @@ Homework
 - You can now do the rest of the syllabus
 - Test will be on Wednesday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDQxMjc2NiwtMTM1NDg1NTE5MSw1OT
-gzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5
-MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0Mi
-wtMzQ4ODQyMzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0
-MDM4NjQ3LDc3MTEwOTAxOSwtMjA5OTc3NTIyNSwtMTg0NzA5NT
-IzMCwxOTU5MjE3MTczLDU3ODg1MTMzOCwtMTk3NzYwMDY0NSwt
-MTQ2MTcyMTY0N119
+eyJoaXN0b3J5IjpbLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
+k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
+OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzND
+IsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5
+NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3NzUyMjUsLTE4NDcwOT
+UyMzAsMTk1OTIxNzE3Myw1Nzg4NTEzMzgsLTE5Nzc2MDA2NDUs
+LTE0NjE3MjE2NDddfQ==
 -->
