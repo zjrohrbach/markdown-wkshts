@@ -14,6 +14,7 @@ Agenda
 4. Worktime
 	- Do [Kinematics #5][k5] 
 	- Check your answers: (1) 5.53 sec; (2) -6 m/s<sup>2</sup>; (3) 4.9 m
+	- Get your work checked off
 	- Work on the [Review][rev]
 
 *If you are absent, do Kinematics #5 and the Review.  Send questions to me.*
@@ -29,11 +30,11 @@ Announcements
 [rev]: https://avon.schoology.com/course/5138386942/materials/gp/5314445950
 [rev-key]: https://avon.schoology.com/course/5138386942/materials/gp/5314444185
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY3ODc5MzcsLTM0NDMyNjk1OSwyMD
-QzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3
-OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LD
-Y2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MDEsLTI4ODcw
-MzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5NzIsLTIwNTA5MzM5NT
-ksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3
-Mzg1NjY4XX0=
+eyJoaXN0b3J5IjpbLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLT
+M0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQz
+MDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC
+0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDcz
+Nzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5Nz
+IsLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5
+MjQzOTMwMDZdfQ==
 -->
