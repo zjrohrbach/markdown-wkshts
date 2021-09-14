@@ -12,8 +12,9 @@ Agenda
 2. Collect any remaining Water Balloon Challenges
 3. Kinematics Kahoot
 4. Worktime
-	- Do [Kinematics #5][k5] and [check your answers][k5-ans]
-	- Work on the [Review][rev] and [check your answers][rev-key]
+	- Do [Kinematics #5][k5] 
+	- Ccheck your answers][k5-ans]
+	- Work on the [Review][rev]
 
 *If you are absent, do Kinematics #5 and the Review.  Send questions to me.*
 
@@ -25,14 +26,14 @@ Announcements
 
 [k5]: https://avon.schoology.com/course/5138386942/materials/gp/5275625989
 [k5-ans]: https://avon.schoology.com/page/5314440587
-[rev]:
-[rev-key]:
+[rev]: https://avon.schoology.com/course/5138386942/materials/gp/5314445950
+[rev-key]: https://avon.schoology.com/course/5138386942/materials/gp/5314444185
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDkzMTgxOSwtMzQ0MzI2OTU5LDIwND
-M3MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0NzI3MTc4
-LDE2OTE1MjIyMDksLTE1NjM0NDg2MjcsLTE4NjYzMjQzNDcsNj
-Y5NzI3Mzc0LDE4ODAzMzQ3NDksLTc0NzM3OTkwMSwtMjg4NzAz
-NjM1LDMyMDM3Mjg2OSwtMTcwMDMwODk3MiwtMjA1MDkzMzk1OS
-wtMTI4MDk1MDEzNCwtMzY3Njg4MDkxLDkyNDM5MzAwNiwtMTcz
-ODU2NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzg5MTk2MzIsLTM0NDMyNjk1OSwyMD
+QzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3
+OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LD
+Y2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MDEsLTI4ODcw
+MzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5NzIsLTIwNTA5MzM5NT
+ksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3
+Mzg1NjY4XX0=
 -->
