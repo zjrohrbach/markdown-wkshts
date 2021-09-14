@@ -15,23 +15,24 @@ Agenda
 	- Do [Kinematics #5][k5] and [check your answers][k5-ans]
 	- Work on the [Review][rev] and [check your answers][rev-key]
 
-*If you are absent, do Kinematics #5 and the Review.  
+*If you are absent, do Kinematics #5 and the Review.  Send questions to me.*
 
 
 Announcements
 -------------  
 - Test next class!
+- If you'd like more review materials, here's the [Review][rev] and its [key][rev-key]
 
 [k5]: 
 [k5-ans]: 
 [rev]:
 [rev-key]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA5NTA1NzAsMjA0MzczMjM4MSwzOT
-c2ODIzMzQsLTU1NDQ0MzA0OSw2MDQ3MjcxNzgsMTY5MTUyMjIw
-OSwtMTU2MzQ0ODYyNywtMTg2NjMyNDM0Nyw2Njk3MjczNzQsMT
-g4MDMzNDc0OSwtNzQ3Mzc5OTAxLC0yODg3MDM2MzUsMzIwMzcy
-ODY5LC0xNzAwMzA4OTcyLC0yMDUwOTMzOTU5LC0xMjgwOTUwMT
-M0LC0zNjc2ODgwOTEsOTI0MzkzMDA2LC0xNzM4NTY2OCwxMzkw
-OTQ2NjUwXX0=
+eyJoaXN0b3J5IjpbLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5Nz
+Y4MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5
+LC0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxOD
+gwMzM0NzQ5LC03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4
+NjksLTE3MDAzMDg5NzIsLTIwNTA5MzM5NTksLTEyODA5NTAxMz
+QsLTM2NzY4ODA5MSw5MjQzOTMwMDYsLTE3Mzg1NjY4LDEzOTA5
+NDY2NTBdfQ==
 -->
