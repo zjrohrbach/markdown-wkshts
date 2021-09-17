@@ -1,9 +1,9 @@
-Wed, Sept 15 / Fri, Sept 17
+Mon, Sept 20 / Tue, Sept 21
 =====================
 
 Objectives
 ------------
-Review what we've learned about Kinematics
+Prove what you know about Kinematics
 
 Agenda  
 ---------  
@@ -30,11 +30,11 @@ Announcements
 [rev]: https://avon.schoology.com/course/5138386942/materials/gp/5314445950
 [rev-key]: https://avon.schoology.com/course/5138386942/materials/gp/5314444185
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLT
-M0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQz
-MDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC
-0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDcz
-Nzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5Nz
-IsLTIwNTA5MzM5NTksLTEyODA5NTAxMzQsLTM2NzY4ODA5MSw5
-MjQzOTMwMDZdfQ==
+eyJoaXN0b3J5IjpbLTk4NjY5Mzc5NywtMjAwNDcwNTA5OCwtMT
+c3Njc4NzkzNywtMzQ0MzI2OTU5LDIwNDM3MzIzODEsMzk3Njgy
+MzM0LC01NTQ0NDMwNDksNjA0NzI3MTc4LDE2OTE1MjIyMDksLT
+E1NjM0NDg2MjcsLTE4NjYzMjQzNDcsNjY5NzI3Mzc0LDE4ODAz
+MzQ3NDksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OS
+wtMTcwMDMwODk3MiwtMjA1MDkzMzk1OSwtMTI4MDk1MDEzNCwt
+MzY3Njg4MDkxXX0=
 -->
