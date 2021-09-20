@@ -3,12 +3,12 @@ Wed, Sept 14
 
 Objectives
 ------------
-Be able to use the range equation to aim a projectile.
+Review what we've learned about 2D vectors and motion.
 
 Agenda  
 ---------  
 
-1. Questions over HW and the HW quiz.
+1. Questions over HW.
 2. Debrief the Air Rocket lab and work on writeup
 3. Notes on Relative Velocity
 
@@ -16,15 +16,14 @@ Agenda
 Homework
 -------------  
 
-- [Air Rocket Lab](https://avon.schoology.com/assignment/5144957930/) Writeup is due Monday
-- You can now do the rest of the syllabus
-- Test will be on Wednesday
+- [Air Rocket Lab](https://avon.schoology.com/assignment/5144957930/) Writeup should be done 
+- Test and Syllabus due **next class**!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
-k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
-OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzND
-IsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5
-NDAzODY0Nyw3NzExMDkwMTksLTIwOTk3NzUyMjUsLTE4NDcwOT
-UyMzAsMTk1OTIxNzE3Myw1Nzg4NTEzMzgsLTE5Nzc2MDA2NDUs
-LTE0NjE3MjE2NDddfQ==
+eyJoaXN0b3J5IjpbNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMz
+U0ODU1MTkxLDU5ODM2MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1
+NzczMCwzODI0NzkwNjMsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NS
+wtODg0OTkxMzQyLC0zNDg4NDIzOTMsLTk2OTM3NTkwNiwzODM1
+NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1Mj
+I1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC0x
+OTc3NjAwNjQ1XX0=
 -->
