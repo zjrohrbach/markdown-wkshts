@@ -14,6 +14,8 @@ Agenda
 	- Vector Review [#1][r1], [#2][r2]
 3. Do the Socrative Review <sub>[video](https://youtu.be/oD_z2IhbubA). [pdf]()</sub>
 
+*If absent, watch the video of the review.*
+
 
 Homework
 -------------  
@@ -27,7 +29,7 @@ Homework
 [r1]: https://avon.schoology.com/page/5280734247
 [r2]: https://avon.schoology.com/page/5280735262
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTY3Nzc1NCwxNDE1OTE2MDEyLDQwNT
+eyJoaXN0b3J5IjpbLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNT
 Q5MTYwMiwtMTk3MzE5NDIyNywtMTM1NDg1NTE5MSw1OTgzNjMx
 NzUsLTE5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC
 0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4
