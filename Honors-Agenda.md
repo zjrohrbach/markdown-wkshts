@@ -9,8 +9,8 @@ Agenda
 ---------  
 
 1. Questions over HW.
-2. Debrief the Air Rocket lab and work on writeup
-3. Notes on Relative Velocity
+2. Warmup Questions
+	- Knowns/Unknowns [#1][ku1] [#2][ku2]
 
 
 Homework
@@ -18,12 +18,17 @@ Homework
 
 - [Air Rocket Lab](https://avon.schoology.com/assignment/5144957930/) Writeup should be done 
 - Test and Syllabus due **next class**!
+
+[ku1]: https://avon.schoology.com/course/5138386902/materials/gp/5280731584
+[ku2]: https://avon.schoology.com/course/5138386902/materials/gp/5280732496
+[r1]: https://avon.schoology.com/page/5280734247
+[r2]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMz
-U0ODU1MTkxLDU5ODM2MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1
-NzczMCwzODI0NzkwNjMsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NS
-wtODg0OTkxMzQyLC0zNDg4NDIzOTMsLTk2OTM3NTkwNiwzODM1
-NjgwMjksLTExOTQwMzg2NDcsNzcxMTA5MDE5LC0yMDk5Nzc1Mj
-I1LC0xODQ3MDk1MjMwLDE5NTkyMTcxNzMsNTc4ODUxMzM4LC0x
-OTc3NjAwNjQ1XX0=
+eyJoaXN0b3J5IjpbMTI1NDcxMjEyNSw0MDU0OTE2MDIsLTE5Nz
+MxOTQyMjcsLTEzNTQ4NTUxOTEsNTk4MzYzMTc1LC0xOTc2MDI1
+ODc3LC0xOTU4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NC
+wyMDQyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5
+Mzc1OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMT
+ksLTIwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1
+Nzg4NTEzMzhdfQ==
 -->
