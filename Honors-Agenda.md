@@ -12,7 +12,7 @@ Agenda
 2. Warmup Questions
 	- Knowns/Unknowns [#1][ku1], [#2][ku2]
 	- Vector Review [#1][r1], [#2][r2]
-3. 
+3. Do the Socrative Review <sub>[video](https://youtu.be/oD_z2IhbubA). [pdf]()</sub>
 
 
 Homework
@@ -26,11 +26,11 @@ Homework
 [r1]: https://avon.schoology.com/page/5280734247
 [r2]: https://avon.schoology.com/page/5280735262
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5Nz
-MxOTQyMjcsLTEzNTQ4NTUxOTEsNTk4MzYzMTc1LC0xOTc2MDI1
-ODc3LC0xOTU4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NC
-wyMDQyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5
-Mzc1OTA2LDM4MzU2ODAyOSwtMTE5NDAzODY0Nyw3NzExMDkwMT
-ksLTIwOTk3NzUyMjUsLTE4NDcwOTUyMzAsMTk1OTIxNzE3Myw1
-Nzg4NTEzMzhdfQ==
+eyJoaXN0b3J5IjpbMjA1NDE4NTA4MCwxNDE1OTE2MDEyLDQwNT
+Q5MTYwMiwtMTk3MzE5NDIyNywtMTM1NDg1NTE5MSw1OTgzNjMx
+NzUsLTE5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC
+0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4
+ODQyMzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4Nj
+Q3LDc3MTEwOTAxOSwtMjA5OTc3NTIyNSwtMTg0NzA5NTIzMCwx
+OTU5MjE3MTczXX0=
 -->
