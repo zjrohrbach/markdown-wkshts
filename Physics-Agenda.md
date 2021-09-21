@@ -17,11 +17,13 @@ Agenda
 
 Announcements
 -------------  
+- Make sure you've taken your test.
+
 
 [p1]: https://avon.schoology.com/course/5138386942/materials/gp/5333945435
 [p2]: https://avon.schoology.com/course/5138386942/materials/gp/5333947550
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA5MjUzNzYsLTE0NjY5NzY2LC05OD
+eyJoaXN0b3J5IjpbLTIwMTI5MDAzNTUsLTE0NjY5NzY2LC05OD
 Y2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLTM0NDMy
 Njk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LD
 YwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2
