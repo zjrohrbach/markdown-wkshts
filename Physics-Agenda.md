@@ -12,14 +12,16 @@ Agenda
 ---------  
 
 1. SSR
-2. Do a few warmup problems
-3. Take the Unit 02 Test (part of it is on paper; part is on [Schoology](https://avon.schoology.com/assignment/5323900339/))
+2. Notes on Vectors in 2D <sub>video [part 1][p1] & [part 2][p2]</sub>
+3. Do the [Vectors Practice](https://avon.schoology.com/course/5138386942/materials/gp/5333970890)
 
 Announcements
 -------------  
 
+[p1]: https://avon.schoology.com/course/5138386942/materials/gp/5333945435
+[p2]: https://avon.schoology.com/course/5138386942/materials/gp/5333947550
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU1MTE3MjYsLTE0NjY5NzY2LC05OD
+eyJoaXN0b3J5IjpbLTE5ODA5MjUzNzYsLTE0NjY5NzY2LC05OD
 Y2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLTM0NDMy
 Njk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LD
 YwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2
