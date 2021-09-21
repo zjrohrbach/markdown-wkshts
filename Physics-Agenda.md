@@ -1,9 +1,12 @@
-Mon, Sept 20 / Tue, Sept 21
+Wed, Sept 22
 =====================
 
 Objectives
 ------------
-Prove what you know about Kinematics
+- Be introduced to the magnitude and direction of vectors in two dimensions.
+- Be able to define and use the terms *component vector* and *resultant vector*.
+- Be able to calculate the missing parts of a vector triangle.
+
 
 Agenda  
 ---------  
@@ -16,11 +19,11 @@ Announcements
 -------------  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY5NzY2LC05ODY2OTM3OTcsLTIwMD
-Q3MDUwOTgsLTE3NzY3ODc5MzcsLTM0NDMyNjk1OSwyMDQzNzMy
-MzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3OCwxNj
-kxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcy
-NzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MDEsLTI4ODcwMzYzNS
-wzMjAzNzI4NjksLTE3MDAzMDg5NzIsLTIwNTA5MzM5NTksLTEy
-ODA5NTAxMzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzU1MTE3MjYsLTE0NjY5NzY2LC05OD
+Y2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLTM0NDMy
+Njk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LD
+YwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2
+MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03NDczNzk5MD
+EsLTI4ODcwMzYzNSwzMjAzNzI4NjksLTE3MDAzMDg5NzIsLTIw
+NTA5MzM5NTldfQ==
 -->
