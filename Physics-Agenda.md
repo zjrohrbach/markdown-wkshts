@@ -13,7 +13,7 @@ Agenda
 
 1. SSR
 2. Finish the [Vectors Practice](https://avon.schoology.com/course/5138386942/materials/gp/5333970890)
-3. Do the [Intro to Projectile Motion P
+3. Do the [Intro to Projectile Motion PhET Lab][phet] and the [Projectile Motion Reading][reading]
 
 Announcements
 -------------  
@@ -23,11 +23,11 @@ Announcements
 [p1]: https://avon.schoology.com/course/5138386942/materials/gp/5333945435
 [p2]: https://avon.schoology.com/course/5138386942/materials/gp/5333947550
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMDgwMzQsLTIwMTI5MDAzNTUsLTE0Nj
-Y5NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5
-MzcsLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNT
-U0NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4
-NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC
-03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLTE3MDAz
-MDg5NzJdfQ==
+eyJoaXN0b3J5IjpbMTg3ODg3MzM4OSwtMjAxMjkwMDM1NSwtMT
+Q2Njk3NjYsLTk4NjY5Mzc5NywtMjAwNDcwNTA5OCwtMTc3Njc4
+NzkzNywtMzQ0MzI2OTU5LDIwNDM3MzIzODEsMzk3NjgyMzM0LC
+01NTQ0NDMwNDksNjA0NzI3MTc4LDE2OTE1MjIyMDksLTE1NjM0
+NDg2MjcsLTE4NjYzMjQzNDcsNjY5NzI3Mzc0LDE4ODAzMzQ3ND
+ksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwtMTcw
+MDMwODk3Ml19
 -->
