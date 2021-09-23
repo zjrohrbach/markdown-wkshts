@@ -1,4 +1,4 @@
-Wed, Sept 22
+Thu, Sept 23 / Fri, Sept 24
 =====================
 
 Objectives
@@ -13,23 +13,24 @@ Agenda
 
 1. SSR
 2. Finish the [Vectors Practice](https://avon.schoology.com/course/5138386942/materials/gp/5333970890)
-3. Do the [Intro to Projectile Motion PhET Lab][phet] and the [Projectile Motion Reading][reading]
+3. Do the Intro to Projectile Motion PhET Lab ([wksht][phet], [simulation][sim]) and the [Projectile Motion Reading][reading]
 4. (*time permitting*) Notes on Projectile Motion <sub>[video][vid]</sub>
 
 Announcements
 -------------  
--
+- I'll have tests graded by Monday
 
 
 [phet]: https://avon.schoology.com/course/5138386942/materials/gp/5339335203
-[reading]:
-[vid]:
+[sim]: https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_en.html
+[reading]: https://avon.schoology.com/course/5138386942/materials/gp/5333951631
+[vid]: https://avon.schoology.com/course/5138386942/materials/gp/5333952840
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5ODM2MjIsLTIwMTI5MDAzNTUsLT
-E0NjY5NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3
-ODc5MzcsLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNC
-wtNTU0NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYz
-NDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0Nz
-Q5LC03NDczNzk5MDEsLTI4ODcwMzYzNSwzMjAzNzI4NjksLTE3
-MDAzMDg5NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzA5MzQyMiwtMjAxMjkwMDM1NSwtMT
+Q2Njk3NjYsLTk4NjY5Mzc5NywtMjAwNDcwNTA5OCwtMTc3Njc4
+NzkzNywtMzQ0MzI2OTU5LDIwNDM3MzIzODEsMzk3NjgyMzM0LC
+01NTQ0NDMwNDksNjA0NzI3MTc4LDE2OTE1MjIyMDksLTE1NjM0
+NDg2MjcsLTE4NjYzMjQzNDcsNjY5NzI3Mzc0LDE4ODAzMzQ3ND
+ksLTc0NzM3OTkwMSwtMjg4NzAzNjM1LDMyMDM3Mjg2OSwtMTcw
+MDMwODk3Ml19
 -->
