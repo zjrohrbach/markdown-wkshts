@@ -21,13 +21,17 @@ Homework
 - On your syllabus, you can do...
 	- *Intro to Forces* (due Friday)
 	- *Single-Body Dynamics* (due Monday)
-- A
+- Be building your [Water Rocket][r]. Launch day is Fri, 10/8.
+- [Test Corrections][c] for Ch 3 Test must be done before leaving for break
+
+[c]: https://avon.schoology.com/assignment/5144957984/
+[r]: https://avon.schoology.com/assignment/5352300437/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTg4MjQwNCwtOTU1MTEzMTg2LDQ4NT
-kwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkxNjAy
-LC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2MzE3NSwtMT
-k3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAw
-OTIwNzQsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0zNDg4NDIzOT
-MsLTk2OTM3NTkwNiwzODM1NjgwMjksLTExOTQwMzg2NDcsNzcx
-MTA5MDE5XX0=
+eyJoaXN0b3J5IjpbLTEwOTQ4NDczMDIsLTk1NTExMzE4Niw0OD
+U5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5MTYw
+MiwtMTk3MzE5NDIyNywtMTM1NDg1NTE5MSw1OTgzNjMxNzUsLT
+E5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC0xNTEw
+MDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0MiwtMzQ4ODQyMz
+kzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0MDM4NjQ3LDc3
+MTEwOTAxOV19
 -->
