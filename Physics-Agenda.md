@@ -12,7 +12,7 @@ Agenda
   
 1. SSR  
 2. Do the [Marble Lab][marble]
-3. (*time permitting*) [Shoot-n-Drop]()
+3. (*time permitting*) [Shoot-n-Drop](https://avon.schoology.com/page/5333956833)
   
 Announcements  
 -------------    
@@ -22,10 +22,9 @@ Announcements
   
   
 [phet]: https://avon.schoology.com/course/5138386942/materials/gp/5339335203  
-[reading]: https://avon.schoology.com/course/5138386942/materials/gp/5333951631  
-[vid]: https://avon.schoology.com/course/5138386942/materials/gp/5333952840
+[marble]: https://avon.schoology.com/course/5138386942/materials/gp/5352905635
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU0MTc5ODgsLTIxNDY2NTIxMTYsMT
+eyJoaXN0b3J5IjpbLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMT
 Q1NzA5MzQyMiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5
 Mzc5NywtMjAwNDcwNTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OT
 U5LDIwNDM3MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0
