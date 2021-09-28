@@ -4,8 +4,7 @@ Wed, Sept 29
   
 Objectives  
 ------------  
-- Be able to list and apply Newton's Laws of Motion.  
-- Be able to draw and use Free-Body Diagrams.  
+- Be able to solve Single-Body Dynamics Problems
   
 Agenda    
 ---------    
@@ -29,9 +28,9 @@ Homework
 
 [c]: https://avon.schoology.com/assignment/5144957984/
 [r]: https://avon.schoology.com/assignment/5352300437/
-[sb]: 
+[sb]: https://avon.schoology.com/course/5138386902/materials/gp/5352325149
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTI1MzY3MCwtOTU1MTEzMTg2LDQ4NT
+eyJoaXN0b3J5IjpbLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NT
 kwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkxNjAy
 LC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2MzE3NSwtMT
 k3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAw
