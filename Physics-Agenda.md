@@ -1,5 +1,4 @@
-
-Wed, Sept 29  
+Thu, Sept 30 / Fri, Oct 1
 =====================  
   
 Objectives  
@@ -11,8 +10,7 @@ Agenda
 ---------    
   
 1. SSR  
-2. Do the [Marble Lab][marble]
-3. (*time permitting*) [Shoot-n-Drop](https://avon.schoology.com/page/5333956833)
+2. Discuss the [Shoot-n-Drop Question](https://avon.schoology.com/page/5333956833)
   
 Announcements  
 -------------    
@@ -24,11 +22,11 @@ Announcements
 [phet]: https://avon.schoology.com/course/5138386942/materials/gp/5339335203  
 [marble]: https://avon.schoology.com/course/5138386942/materials/gp/5352905635
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMT
-Q1NzA5MzQyMiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5
-Mzc5NywtMjAwNDcwNTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OT
-U5LDIwNDM3MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0
-NzI3MTc4LDE2OTE1MjIyMDksLTE1NjM0NDg2MjcsLTE4NjYzMj
-QzNDcsNjY5NzI3Mzc0LDE4ODAzMzQ3NDksLTc0NzM3OTkwMSwt
-Mjg4NzAzNjM1XX0=
+eyJoaXN0b3J5IjpbNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMT
+Q2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAzNTUsLTE0NjY5
+NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5Mz
+csLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0
+NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4Nj
+I3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03
+NDczNzk5MDFdfQ==
 -->
