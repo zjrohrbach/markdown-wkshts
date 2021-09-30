@@ -3,30 +3,30 @@ Thu, Sept 30 / Fri, Oct 1
   
 Objectives  
 ------------  
-- Understand how components can combine to cause projectile motion.  
+- Be able to solve projectile problems that start an angle.
   
   
 Agenda    
 ---------    
   
 1. SSR  
-2. Discuss the [Shoot-n-Drop Question](https://avon.schoology.com/page/5333956833)
+2. Collect any missing [Marble Labs][marble]
+3. Discuss the [Shoot-n-Drop Question](https://avon.schoology.com/page/5333956833)
+4. Do [Projectiles #3][p3]
   
 Announcements  
 -------------    
-- All [Test Corrections](https://avon.schoology.com/page/5218631252) for units 00-02 are due by Midterm (next Friday, 10/1)  
-- Make sure you've turned in your [PhET Lab][phet]
-- Make sure [Marble Lab][marble] is finished
+- We will be outside next Wednesday.  Dress for the weather
   
   
-[phet]: https://avon.schoology.com/course/5138386942/materials/gp/5339335203  
+
 [marble]: https://avon.schoology.com/course/5138386942/materials/gp/5352905635
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMT
-Q2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAzNTUsLTE0NjY5
-NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5Mz
-csLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0
-NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4Nj
-I3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgwMzM0NzQ5LC03
-NDczNzk5MDFdfQ==
+eyJoaXN0b3J5IjpbNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMj
+Y3NzYzLC0yMTQ2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAz
+NTUsLTE0NjY5NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLT
+E3NzY3ODc5MzcsLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4
+MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC
+0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgw
+MzM0NzQ5XX0=
 -->
