@@ -12,7 +12,7 @@ Agenda
 1. SSR  
 2. Collect any missing [Marble Labs][marble]
 3. Discuss the [Shoot-n-Drop Question](https://avon.schoology.com/page/5333956833)
-4. Do [Projectiles #3][p3]
+4. Do [Projectiles #2][p2]
   
 Announcements  
 -------------    
@@ -21,12 +21,13 @@ Announcements
   
 
 [marble]: https://avon.schoology.com/course/5138386942/materials/gp/5352905635
+[p2]: https://avon.schoology.com/course/5138386942/materials/gp/5347115046
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMj
-Y3NzYzLC0yMTQ2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAz
-NTUsLTE0NjY5NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLT
-E3NzY3ODc5MzcsLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4
-MjMzNCwtNTU0NDQzMDQ5LDYwNDcyNzE3OCwxNjkxNTIyMjA5LC
-0xNTYzNDQ4NjI3LC0xODY2MzI0MzQ3LDY2OTcyNzM3NCwxODgw
-MzM0NzQ5XX0=
+eyJoaXN0b3J5IjpbMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2OT
+EwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1NzA5MzQy
+MiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5Mzc5NywtMj
+AwNDcwNTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OTU5LDIwNDM3
+MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0NzI3MTc4LD
+E2OTE1MjIyMDksLTE1NjM0NDg2MjcsLTE4NjYzMjQzNDcsNjY5
+NzI3Mzc0XX0=
 -->
