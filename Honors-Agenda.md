@@ -8,7 +8,8 @@ Objectives
 Agenda    
 ---------    
   
-1. [Multi-Body Practice Problems] <sub>videos [#1][v1]
+1. [Multi-Body Practice Problems] <sub>videos [#1][v1] & [#2][v2]</sub>
+2. Work time
   
   
 Homework  
@@ -23,9 +24,10 @@ Homework
 
 [c]: https://avon.schoology.com/assignment/5144957984/
 [r]: https://avon.schoology.com/assignment/5352300437/
-[sb]: https://avon.schoology.com/course/5138386902/materials/gp/5352325149
+[v1]: https://avon.schoology.com/course/5138386902/materials/gp/5359202240
+[v2]: https://avon.schoology.com/course/5138386902/materials/gp/5359202963
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODc4MDQ2NCwtMjUzNjcwNTkwLC05NT
+eyJoaXN0b3J5IjpbMTc3Mjg2NzY5MiwtMjUzNjcwNTkwLC05NT
 UxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAx
 Miw0MDU0OTE2MDIsLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
 k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
