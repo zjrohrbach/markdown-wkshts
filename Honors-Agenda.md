@@ -8,7 +8,7 @@ Objectives
 Agenda    
 ---------    
   
-1. [Multi-Body Practice Problems] <sub>videos [#1][v1] & [#2][v2]</sub>
+1. [Multi-Body Practice Problems][mb] <sub>videos [#1][v1] & [#2][v2]</sub>
 2. Work time
   
   
@@ -26,12 +26,13 @@ Homework
 [r]: https://avon.schoology.com/assignment/5352300437/
 [v1]: https://avon.schoology.com/course/5138386902/materials/gp/5359202240
 [v2]: https://avon.schoology.com/course/5138386902/materials/gp/5359202963
+[mb]: https://avon.schoology.com/course/5138386902/materials/gp/5359209951
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjg2NzY5MiwtMjUzNjcwNTkwLC05NT
-UxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAx
-Miw0MDU0OTE2MDIsLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
-k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
-OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzND
-IsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5
-NDAzODY0N119
+eyJoaXN0b3J5IjpbLTE1MzQ0MTYxOTMsLTI1MzY3MDU5MCwtOT
+U1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYw
+MTIsNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLD
+U5ODM2MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0
+NzkwNjMsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NSwtODg0OTkxMz
+QyLC0zNDg4NDIzOTMsLTk2OTM3NTkwNiwzODM1NjgwMjksLTEx
+OTQwMzg2NDddfQ==
 -->
