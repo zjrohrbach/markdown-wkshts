@@ -3,7 +3,7 @@ Mon, Oct 4
   
 Objectives  
 ------------  
-- Be able to solve Multi-Body Dynamics Problems
+- Be able to explain the factors that affect the friction force.
   
 Agenda    
 ---------    
@@ -26,13 +26,13 @@ Homework
 [r]: https://avon.schoology.com/assignment/5352300437/
 [v1]: https://avon.schoology.com/course/5138386902/materials/gp/5359225685
 [v2]: https://avon.schoology.com/course/5138386902/materials/gp/5359226820
-[fric]: 
+[fric]: https://avon.schoology.com/course/5138386902/materials/gp/5363872054
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNTU2Njc3LC0yNTM2NzA1OTAsLTk1NT
-ExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEy
-LDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMTM1NDg1NTE5MSw1OT
-gzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5
-MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4NDk5MTM0Mi
-wtMzQ4ODQyMzkzLC05NjkzNzU5MDYsMzgzNTY4MDI5LC0xMTk0
-MDM4NjQ3XX0=
+eyJoaXN0b3J5IjpbMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NT
+UxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAx
+Miw0MDU0OTE2MDIsLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
+k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
+OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzND
+IsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5
+NDAzODY0N119
 -->
