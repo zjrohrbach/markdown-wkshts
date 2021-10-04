@@ -1,4 +1,4 @@
-Fri, Oct 1
+Mon, Oct 4
 =========    
   
 Objectives  
@@ -8,8 +8,8 @@ Objectives
 Agenda    
 ---------    
   
-1. [Multi-Body Practice Problems][mb] <sub>videos [#1][v1] & [#2][v2]</sub>
-2. Work time
+1. Questions on the HW
+2. Do the [Friction Lab][fric] <sub>[Intro Video][v1], </sub>
   
   
 Homework  
@@ -28,7 +28,7 @@ Homework
 [v2]: https://avon.schoology.com/course/5138386902/materials/gp/5359202963
 [mb]: https://avon.schoology.com/course/5138386902/materials/gp/5359209951
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ0MTYxOTMsLTI1MzY3MDU5MCwtOT
+eyJoaXN0b3J5IjpbLTE4OTY5MTAxMTYsLTI1MzY3MDU5MCwtOT
 U1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYw
 MTIsNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLD
 U5ODM2MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0
