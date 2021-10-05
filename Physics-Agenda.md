@@ -1,4 +1,4 @@
-Thu, Sept 30 / Fri, Oct 1
+Wed, Oct 6
 =====================  
   
 Objectives  
@@ -8,11 +8,15 @@ Objectives
   
 Agenda    
 ---------    
-  
-1. SSR  
-2. Collect any missing [Marble Labs][marble]
-3. Discuss the [Shoot-n-Drop Question](https://avon.schoology.com/page/5333956833)
-4. Do [Projectiles #2][p2]
+ 
+#### If the weather is okay:
+
+1. Do the Air Rocket Lab on the Football Field
+
+#### If it is raining:
+
+1. SSR
+2. [Projectiles #3]()
   
 Announcements  
 -------------    
@@ -23,11 +27,11 @@ Announcements
 [marble]: https://avon.schoology.com/course/5138386942/materials/gp/5352905635
 [p2]: https://avon.schoology.com/course/5138386942/materials/gp/5347115046
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2OT
-EwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1NzA5MzQy
-MiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5Mzc5NywtMj
-AwNDcwNTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OTU5LDIwNDM3
-MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0NzI3MTc4LD
-E2OTE1MjIyMDksLTE1NjM0NDg2MjcsLTE4NjYzMjQzNDcsNjY5
-NzI3Mzc0XX0=
+eyJoaXN0b3J5IjpbMTkzNDE0NDM5NSwyMTQxNjc0ODIzLDc4ND
+AxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjEx
+NiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOT
+g2NjkzNzk3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OTM3LC0zNDQz
+MjY5NTksMjA0MzczMjM4MSwzOTc2ODIzMzQsLTU1NDQ0MzA0OS
+w2MDQ3MjcxNzgsMTY5MTUyMjIwOSwtMTU2MzQ0ODYyNywtMTg2
+NjMyNDM0N119
 -->
