@@ -19,16 +19,15 @@ Agenda
 2. Warmup Questions [#1](https://avon.schoology.com/course/5138386942/materials/gp/5369372128) and [#2](https://avon.schoology.com/course/5138386942/materials/gp/5369372930)
 3. [Projectiles #3](https://avon.schoology.com/course/5138386942/materials/gp/5347115074)
 
-<!--
-Announcements  
--------------    
+<!-- Announcements  -------------    
+-->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNzc1MjY3LDIxNDE2NzQ4MjMsNzg0MD
-E4NzIsNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMTQ2NjUyMTE2
-LDE0NTcwOTM0MjIsLTIwMTI5MDAzNTUsLTE0NjY5NzY2LC05OD
-Y2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5MzcsLTM0NDMy
-Njk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0NDQzMDQ5LD
-YwNDcyNzE3OCwxNjkxNTIyMjA5LC0xNTYzNDQ4NjI3LC0xODY2
-MzI0MzQ3XX0=
+eyJoaXN0b3J5IjpbMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4ND
+AxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjEx
+NiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOT
+g2NjkzNzk3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OTM3LC0zNDQz
+MjY5NTksMjA0MzczMjM4MSwzOTc2ODIzMzQsLTU1NDQ0MzA0OS
+w2MDQ3MjcxNzgsMTY5MTUyMjIwOSwtMTU2MzQ0ODYyNywtMTg2
+NjMyNDM0N119
 -->
