@@ -9,16 +9,19 @@ Agenda
 ---------    
   
 1. Questions on the HW
-2. Do the [Friction Lab][fric] <sub>[Intro Video][v1], [Concluding Video][v2]</sub>
+2. Notes on Friction <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5359228276)</sub>
+3. [Friction Practice Problems]()
+4. Take the HW Quiz
   
   
 Homework  
 -------------    
   
-- On your syllabus, you can do...
-	- *Intro to Forces* (due today)
-	- *Single-Body Dynamics* (due Monday)
-	- *Multi-Body Dynamics* (due Wednesday, with a planned **HW quiz**!)
+- On your syllabus, you should be finished with...
+	- *Intro to Forces*
+	- *Single-Body Dynamics*
+	- *Multi-Body Dynamics*
+	- you may wait until after break to do the rest.
 - Be building your [Water Rocket][r]. Launch day is Fri, 10/8.
 - [Test Corrections][c] for Ch 3 Test must be done before leaving for break
 
@@ -28,11 +31,11 @@ Homework
 [v2]: https://avon.schoology.com/course/5138386902/materials/gp/5359226820
 [fric]: https://avon.schoology.com/course/5138386902/materials/gp/5363872054
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NT
-UxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAx
-Miw0MDU0OTE2MDIsLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNT
-k4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3
-OTA2MywtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzND
-IsLTM0ODg0MjM5MywtOTY5Mzc1OTA2LDM4MzU2ODAyOSwtMTE5
-NDAzODY0N119
+eyJoaXN0b3J5IjpbMTM2MTA1MTkxNiwxNDQ5NDUyMTgyLC0yNT
+M2NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5
+NSwxNDE1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMT
+M1NDg1NTE5MSw1OTgzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgx
+NTc3MzAsMzgyNDc5MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1Nj
+UsLTg4NDk5MTM0MiwtMzQ4ODQyMzkzLC05NjkzNzU5MDYsMzgz
+NTY4MDI5XX0=
 -->
