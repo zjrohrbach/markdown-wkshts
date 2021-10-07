@@ -1,8 +1,10 @@
-Thu, Oct 7 / Fri, =====================  
+Thu, Oct 7 / Fri, Oct 8
+=====================  
   
 Objectives  
 ------------  
 - Be able to solve projectile problems that start an angle.
+- Be able to solve projectile problems that start horizontally.
   
   
 Agenda    
@@ -29,7 +31,7 @@ Agenda
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY3ODUwMjcsMTgzNDYwODg1NywyMT
+eyJoaXN0b3J5IjpbLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMT
 QxNjc0ODIzLDc4NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2
 MywtMjE0NjY1MjExNiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC
 0xNDY2OTc2NiwtOTg2NjkzNzk3LC0yMDA0NzA1MDk4LC0xNzc2
