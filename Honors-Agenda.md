@@ -3,7 +3,7 @@ Fri, Oct 8
   
 Objectives  
 ------------  
-- Be able to explain the factors that affect the friction force.
+- Be able to explain how Newton's Laws apply to a rocket launch.
   
 Agenda    
 ---------    
@@ -19,11 +19,11 @@ Homework
   
 *Have a great break!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MTE1MjA2LC03OTAyNjE3MDksMTQ0OT
-Q1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1
-LC0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5Nz
-MxOTQyMjcsLTEzNTQ4NTUxOTEsNTk4MzYzMTc1LC0xOTc2MDI1
-ODc3LC0xOTU4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NC
-wyMDQyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5
-Mzc1OTA2XX0=
+eyJoaXN0b3J5IjpbLTMxNDM2ODIxMiwtNzkwMjYxNzA5LDE0ND
+k0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkwMDM0
+NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkxNjAyLC0xOT
+czMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2MzE3NSwtMTk3NjAy
+NTg3NywtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAwOTIwNz
+QsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0zNDg4NDIzOTMsLTk2
+OTM3NTkwNl19
 -->
