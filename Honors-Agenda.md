@@ -1,4 +1,4 @@
-Wed, Oct 6
+Fri, Oct 8
 =========    
   
 Objectives  
@@ -8,31 +8,22 @@ Objectives
 Agenda    
 ---------    
   
-1. Questions on the HW
-2. Notes on Friction <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5359228276)</sub>
-3. [Friction Practice Problems](https://avon.schoology.com/page/5359227643)
-4. Take the HW Quiz
+1. Rocket Launch
+2. Answer the [Lab Report Questions](https://avon.schoology.com/course/5138386902/assessments/5375104359)
+
+*If you are absent, I will talk to you after break about how we'll handle the makeup*
   
   
 Homework  
 -------------    
   
-- On your syllabus, you should be finished with...
-	- *Intro to Forces*
-	- *Single-Body Dynamics*
-	- *Multi-Body Dynamics*
-	- you may wait until after break to do the rest.
-- Be building your [Water Rocket][r]. Launch day is Fri, 10/8.
-- [Test Corrections][c] for Ch 3 Test must be done before leaving for break
-
-[c]: https://avon.schoology.com/assignment/5144957984/
-[r]: https://avon.schoology.com/assignment/5352300437/
+*Have a great break!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDI2MTcwOSwxNDQ5NDUyMTgyLC0yNT
-M2NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5
-NSwxNDE1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMT
-M1NDg1NTE5MSw1OTgzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgx
-NTc3MzAsMzgyNDc5MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1Nj
-UsLTg4NDk5MTM0MiwtMzQ4ODQyMzkzLC05NjkzNzU5MDYsMzgz
-NTY4MDI5XX0=
+eyJoaXN0b3J5IjpbNjE3MTE1MjA2LC03OTAyNjE3MDksMTQ0OT
+Q1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1
+LC0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5Nz
+MxOTQyMjcsLTEzNTQ4NTUxOTEsNTk4MzYzMTc1LC0xOTc2MDI1
+ODc3LC0xOTU4MTU3NzMwLDM4MjQ3OTA2MywtMTUxMDA5MjA3NC
+wyMDQyOTcwNTY1LC04ODQ5OTEzNDIsLTM0ODg0MjM5MywtOTY5
+Mzc1OTA2XX0=
 -->
