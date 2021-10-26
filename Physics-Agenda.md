@@ -9,14 +9,16 @@ Objectives
 Agenda    
 ---------    
 
-1. Do the [Post-Break Review]()
-2. Work on and Collect [Kinematics #4]()
+1. No SSR Today
+2. Do the [Post-Break Review](https://avon.schoology.com/course/5138386942/materials/gp/5416143334)
+3. Work on and Collect [Kinematics #4]()
 
 Announcements 
  -------------  
+- We will go to the library next class to pick out a new reading book.
 - There will be a test on Mon/Wed of next week.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY2MjMwMTQsLTEzNjc1MjQ3NjYsMT
+eyJoaXN0b3J5IjpbLTExMjk4NTM2NDcsLTEzNjc1MjQ3NjYsMT
 gzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLDU3NjY5MTA3
 MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3MDkzNDIyLC
 0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2NjkzNzk3LC0yMDA0
