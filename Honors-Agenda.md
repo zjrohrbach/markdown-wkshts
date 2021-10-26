@@ -16,14 +16,20 @@ Agenda
   
 Homework  
 -------------    
-- Make sure all the following are finished by Thursday:
-	- I
+- Make sure all the following syllabus sections are finished by Thursday:
+	- Intro to Forces
+	- Single-Body Dynamics
+	- Multi-Body Dynamics
+	- Friction
+	- Free-Body Diagrams
+- Test has been moved to **Thursday, Nov 4**
+- If you didn't launch a water rocket before break, make sure to come in during Black SRT on Wed, Oct 27.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE2NDMzMDQsLTMxNDM2ODIxMiwtNz
-kwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEz
-MTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsND
-A1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2
-MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0NzkwNj
-MsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0z
-NDg4NDIzOTNdfQ==
+eyJoaXN0b3J5IjpbMTI0NDA0NDQ5NSwtMzE0MzY4MjEyLC03OT
+AyNjE3MDksMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMx
+ODYsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MD
+U0OTE2MDIsLTE5NzMxOTQyMjcsLTEzNTQ4NTUxOTEsNTk4MzYz
+MTc1LC0xOTc2MDI1ODc3LC0xOTU4MTU3NzMwLDM4MjQ3OTA2My
+wtMTUxMDA5MjA3NCwyMDQyOTcwNTY1LC04ODQ5OTEzNDIsLTM0
+ODg0MjM5M119
 -->
