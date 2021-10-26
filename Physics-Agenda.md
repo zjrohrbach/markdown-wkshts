@@ -21,11 +21,11 @@ Announcements
 	- [Projectiles Review Jeopardy](https://jeopardylabs.com/play/03-projectile-motion-review)
 	- Projectiles Review [Packet][p] and Keys [1][k1], [2][k2]
 
-[p]:
-[k1]:
-[k2]:
+[p]: https://avon.schoology.com/course/5138386942/materials/gp/5416613676
+[k1]: https://avon.schoology.com/course/5138386942/materials/gp/5416609409
+[k2]: https://avon.schoology.com/course/5138386942/materials/gp/5416609491
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODMzNzA0Miw1NDY1NzA5NDEsLTEzNj
+eyJoaXN0b3J5IjpbMTczNzQ0MjA4Nyw1NDY1NzA5NDEsLTEzNj
 c1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcy
 LDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxND
 U3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2Njkz
