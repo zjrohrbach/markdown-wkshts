@@ -11,14 +11,17 @@ Agenda
 
 1.  Library (beginning of the period for 3rd, 6th; end of period for 5th)
 2. Do Review Clickers activity
-3. 
+3. Paper Practice Problem
+4. (*time permitting*) [Computer Practice Problem]()
 
 Announcements 
  -------------  
-- We will go to the library next class to pick out a new reading book.
-- There will be a test on Mon/Wed of next week.
+- Test next class!
+- Feel free to peruse these optional review materials:
+	- [Projectiles Review Jeopardy](https://jeopardylabs.com/play/03-projectile-motion-review)
+	- [Projec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY3ODY0ODcsNTQ2NTcwOTQxLC0xMz
+eyJoaXN0b3J5IjpbLTE1MTIyMjM2MzYsNTQ2NTcwOTQxLC0xMz
 Y3NTI0NzY2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3
 Miw1NzY2OTEwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMT
 Q1NzA5MzQyMiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5
