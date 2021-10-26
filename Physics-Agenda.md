@@ -19,13 +19,17 @@ Announcements
 - Test next class!
 - Feel free to peruse these optional review materials:
 	- [Projectiles Review Jeopardy](https://jeopardylabs.com/play/03-projectile-motion-review)
-	- [Projec
+	- Projectiles Review [Packet][p] and Keys [1][k1], [2][k2]
+
+[p]:
+[k1]:
+[k2]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIyMjM2MzYsNTQ2NTcwOTQxLC0xMz
-Y3NTI0NzY2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3
-Miw1NzY2OTEwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMT
-Q1NzA5MzQyMiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5
-Mzc5NywtMjAwNDcwNTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OT
-U5LDIwNDM3MzIzODEsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0
-NzI3MTc4XX0=
+eyJoaXN0b3J5IjpbMTI4ODMzNzA0Miw1NDY1NzA5NDEsLTEzNj
+c1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcy
+LDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxND
+U3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2Njkz
+Nzk3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OTM3LC0zNDQzMjY5NT
+ksMjA0MzczMjM4MSwzOTc2ODIzMzQsLTU1NDQ0MzA0OSw2MDQ3
+MjcxNzhdfQ==
 -->
