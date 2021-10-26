@@ -1,9 +1,9 @@
-Fri, Oct 8
+Mon, Oct 25
 =========    
   
 Objectives  
 ------------  
-- Be able to explain how Newton's Laws apply to a rocket launch.
+- Review what we learned about Dynamics before break.
   
 Agenda    
 ---------    
@@ -16,14 +16,14 @@ Agenda
   
 Homework  
 -------------    
-  
-*Have a great break!*
+- Make sure all the following are finished by Thursday:
+	- I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDM2ODIxMiwtNzkwMjYxNzA5LDE0ND
-k0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkwMDM0
-NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkxNjAyLC0xOT
-czMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2MzE3NSwtMTk3NjAy
-NTg3NywtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAwOTIwNz
-QsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0zNDg4NDIzOTMsLTk2
-OTM3NTkwNl19
+eyJoaXN0b3J5IjpbLTEyODE2NDMzMDQsLTMxNDM2ODIxMiwtNz
+kwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEz
+MTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsND
+A1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLDU5ODM2
+MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0NzkwNj
+MsLTE1MTAwOTIwNzQsMjA0Mjk3MDU2NSwtODg0OTkxMzQyLC0z
+NDg4NDIzOTNdfQ==
 -->
