@@ -12,7 +12,7 @@ Agenda
 1.  Library (beginning of the period for 3rd, 6th; end of period for 5th)
 2. Do Review Clickers activity
 3. Paper Practice Problem
-4. (*time permitting*) [Computer Practice Problem]()
+4. (*time permitting*) [Computer Practice Problem](https://avon.schoology.com/assignment/5416616856/assessment_questions)
 
 Announcements 
  -------------  
@@ -25,7 +25,7 @@ Announcements
 [k1]: https://avon.schoology.com/course/5138386942/materials/gp/5416609409
 [k2]: https://avon.schoology.com/course/5138386942/materials/gp/5416609491
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzQ0MjA4Nyw1NDY1NzA5NDEsLTEzNj
+eyJoaXN0b3J5IjpbMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNj
 c1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcy
 LDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxND
 U3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2Njkz
