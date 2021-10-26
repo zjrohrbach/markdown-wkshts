@@ -11,18 +11,18 @@ Agenda
 
 1. No SSR Today
 2. Do the [Post-Break Review](https://avon.schoology.com/course/5138386942/materials/gp/5416143334)
-3. Work on and Collect [Kinematics #4]()
+3. Work on and collect [Kinematics #4](https://avon.schoology.com/course/5138386942/materials/gp/5347115102)
 
 Announcements 
  -------------  
 - We will go to the library next class to pick out a new reading book.
 - There will be a test on Mon/Wed of next week.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk4NTM2NDcsLTEzNjc1MjQ3NjYsMT
-gzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLDU3NjY5MTA3
-MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3MDkzNDIyLC
-0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2NjkzNzk3LC0yMDA0
-NzA1MDk4LC0xNzc2Nzg3OTM3LC0zNDQzMjY5NTksMjA0MzczMj
-M4MSwzOTc2ODIzMzQsLTU1NDQ0MzA0OSw2MDQ3MjcxNzgsMTY5
-MTUyMjIwOV19
+eyJoaXN0b3J5IjpbNTQ2NTcwOTQxLC0xMzY3NTI0NzY2LDE4Mz
+Q2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2OTEwNzMs
+LTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1NzA5MzQyMiwtMj
+AxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5Mzc5NywtMjAwNDcw
+NTA5OCwtMTc3Njc4NzkzNywtMzQ0MzI2OTU5LDIwNDM3MzIzOD
+EsMzk3NjgyMzM0LC01NTQ0NDMwNDksNjA0NzI3MTc4LDE2OTE1
+MjIyMDldfQ==
 -->
