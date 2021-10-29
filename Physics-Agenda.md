@@ -13,20 +13,20 @@ Agenda
 
 *Please be on your best behavior for the sub.*
 
-1.  Library (beginning of the period for 3rd, 6th; end of period for 5th)
-2. Do Review Clickers activity
-3. Paper Practice Problem
-4. (*time permitting*) [Computer Practice Problem](https://avon.schoology.com/assignment/5416616856/assessment_questions)
+1.  The sub will hand out your Paper Test and an Equation Sheet
+2. Please show all of your work on the paper test.
+3. Also, please complete the [online portion of the test]().  If you need room for scratch work, you may use the back of your test.
+4. Turn the paper test in when you are finished.
 
 Announcements 
  -------------  
 - Make sure to bring your reading books next class; we will definitely start with SSR!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDU4NjI4MiwxMTc1ODY5NTIyLDU0Nj
-U3MDk0MSwtMTM2NzUyNDc2NiwxODM0NjA4ODU3LDIxNDE2NzQ4
-MjMsNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMT
-Q2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAzNTUsLTE0NjY5
-NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgsLTE3NzY3ODc5Mz
-csLTM0NDMyNjk1OSwyMDQzNzMyMzgxLDM5NzY4MjMzNCwtNTU0
-NDQzMDQ5XX0=
+eyJoaXN0b3J5IjpbLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1ND
+Y1NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0
+ODIzLDc4NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMj
+E0NjY1MjExNiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2
+OTc2NiwtOTg2NjkzNzk3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OT
+M3LC0zNDQzMjY5NTksMjA0MzczMjM4MSwzOTc2ODIzMzQsLTU1
+NDQ0MzA0OV19
 -->
