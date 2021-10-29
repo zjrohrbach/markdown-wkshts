@@ -8,7 +8,7 @@ Review what we know about dynamics.
 Agenda    
 ---------    
 
-**I'm sorry to not be here today... No, the baby isn't here.  Unfortunately, someone at my daughter's daycare tested positive, so I'm at home with her...*
+*I'm sorry to not be here today... No, the baby isn't here.  Unfortunately, someone at my daughter's daycare tested positive, so I'm at home with her...*
 
  
 1. Please watch the [Review EdPuzzle][ep].  The sub will had out a packet for you to follow along.
@@ -39,7 +39,7 @@ Homework
 
 [ep]: https://avon.schoology.com/external_tool/2045174275/launch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzQ3MjMxLC0xMTI4NTQ5ODA1LDM2Nj
+eyJoaXN0b3J5IjpbODk5MjkxNzA3LC0xMTI4NTQ5ODA1LDM2Nj
 kzMzEyMywtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1MjE4
 MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1LC0zNT
 Q5NjI2OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5NzMxOTQy
