@@ -1,18 +1,19 @@
-Thurs, Oct 26
+Mon, Nov 1
 =========    
   
 Objectives  
 ------------  
-- Be able to solve dynamics problems in which forces act at angles.
+Review what we know about dynamics.
   
 Agenda    
 ---------    
+
+**I'm sorry to not be here today... No, the baby isn't here.  Unfortunately, someone at my daughter's daycare tested positive, so I'm at home with her...*
+
   
-1. Take questions over the HW
-2. Talk about 2D Dynamics Problems <sub>[video](https://avon.schoology.com/course/5138386902/materials/gp/5359228864)</sub>
-3. We'll do #50 and 56 on the syllabus together
-4. Work time
-  
+1. Please watch 
+	- you may work with a partner.
+	- it is not for a grade
   
 Homework  
 -------------    
@@ -20,11 +21,11 @@ Homework
 - Test will be **next Thursday**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg1NDk4MDUsMzY2OTMzMTIzLC0zMT
-QzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5NDUyMTgyLC0yNTM2NzA1
-OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5NSwxND
-E1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMTM1NDg1
-NTE5MSw1OTgzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgxNTc3Mz
-AsMzgyNDc5MDYzLC0xNTEwMDkyMDc0LDIwNDI5NzA1NjUsLTg4
-NDk5MTM0Ml19
+eyJoaXN0b3J5IjpbMjA2MDY2MzIwMiwtMTEyODU0OTgwNSwzNj
+Y5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LDE0NDk0NTIx
+ODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkwMDM0NSwtMz
+U0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkxNjAyLC0xOTczMTk0
+MjI3LC0xMzU0ODU1MTkxLDU5ODM2MzE3NSwtMTk3NjAyNTg3Ny
+wtMTk1ODE1NzczMCwzODI0NzkwNjMsLTE1MTAwOTIwNzQsMjA0
+Mjk3MDU2NV19
 -->
