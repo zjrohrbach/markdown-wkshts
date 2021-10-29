@@ -26,20 +26,7 @@ Agenda
 	>
 	>Meeting ID: 975 6218 3849
 	>Passcode: 848330
-One tap mobile
-+13126266799,,97562183849#,,,,*848330# US (Chicago)
-+16465588656,,97562183849#,,,,*848330# US (New York)
 
-Dial by your location
-        +1 312 626 6799 US (Chicago)
-        +1 646 558 8656 US (New York)
-        +1 301 715 8592 US (Washington DC)
-        +1 346 248 7799 US (Houston)
-        +1 669 900 9128 US (San Jose)
-        +1 253 215 8782 US (Tacoma)
-Meeting ID: 975 6218 3849
-Passcode: 848330
-Find your local number: https://zoom.us/u/adBNyIQw5q
 
 
 3. Test is still next class.
@@ -50,9 +37,9 @@ Homework
 - The syllabus should be done.
 - Test will be **next class**
 
-[ep]:
+[ep]: https://avon.schoology.com/external_tool/2045174275/launch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MDIwNDgxLC0xMTI4NTQ5ODA1LDM2Nj
+eyJoaXN0b3J5IjpbLTQ0NzQ3MjMxLC0xMTI4NTQ5ODA1LDM2Nj
 kzMzEyMywtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1MjE4
 MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1LC0zNT
 Q5NjI2OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5NzMxOTQy
