@@ -15,16 +15,20 @@ Agenda
 	- you may work with a partner
 	- it is not for a grade
 	- please excuse to low quality; it's just a recording of class from last year.
-2
+2. I will log in to Zoom at 9:30 to answer any questions you have.
+	>s
+	>s
+3. Test is still next class.
+4. There will be no E-Learning for tomorrow, other than finish the syllabus and be ready for the test.
   
 Homework  
 -------------    
-- The rest of the syllabus should be done by Monday
-- Test will be **next Thursday**
+- The syllabus should be done.
+- Test will be **next class**
 
 [ep]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM1ODU5MjAsLTExMjg1NDk4MDUsMz
+eyJoaXN0b3J5IjpbLTE2NDQzNzI5NDgsLTExMjg1NDk4MDUsMz
 Y2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5NDUy
 MTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLT
 M1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5
