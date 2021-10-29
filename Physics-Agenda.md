@@ -17,14 +17,14 @@ Agenda
 
 1.  The sub will hand out your Paper Test and an Equation Sheet
 2. Please show all of your work on the paper test.
-3. Also, please complete the [online portion of the test]().  If you need room for scratch work, you may use the back of your test.
+3. Also, please complete the [online portion of the test](https://avon.schoology.com/assignment/5416645854/).  If you need room for scratch work, you may use the back of your test.
 4. Turn the paper test in when you are finished.
 
 Announcements 
  -------------  
 - Make sure to bring your reading books next class; we will definitely start with SSR!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU2MzA0MjksLTE4NjMxNzI5NzksMT
+eyJoaXN0b3J5IjpbLTExMTY1OTM4NzYsLTE4NjMxNzI5NzksMT
 E3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYw
 ODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLDU3NjY5MTA3MywtMT
 M2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3MDkzNDIyLC0yMDEy
