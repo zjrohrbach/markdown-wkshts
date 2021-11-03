@@ -8,7 +8,7 @@ Prove what you know about dynamics.
 Agenda    
 ---------    
 1. Take any last-minute questions
-2. Test: Paper FR Portion and Computer MC Portion
+2. Test: Paper FR Portion and [Computer MC Portion](https://avon.schoology.com/course/5138386902/assessments/5144959589)
 3. (*time permitting*) Notes on Work
 
   
@@ -16,7 +16,7 @@ Homework
 -------------    
 - none, yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODU4MTUzMCw4OTkyOTE3MDcsLTExMj
+eyJoaXN0b3J5IjpbMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMj
 g1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcw
 OSwxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0OD
 U5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5MTYw
