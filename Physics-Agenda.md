@@ -20,12 +20,12 @@ Announcements
 - You can start working on your test corrections
 
 [gp]: https://avon.schoology.com/assignment/5433745351/
-[r]: 
+[r]: https://avon.schoology.com/course/5138386942/materials/gp/5433754567
 [p1]: https://youtu.be/lQyI4lYilRE
 [p2]: https://youtu.be/I1evVoTEZqU
 [p3]: https://youtu.be/N2R-OGa47eM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA4NTYzMjMsLTE2MDczMTcxNjcsLT
+eyJoaXN0b3J5IjpbLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLT
 E4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1
 MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLD
 U3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3
