@@ -35,32 +35,8 @@ Please send any students who come back to their SRT.
 
 ## Period 6 - Physics I - 1:44-3:10
 
-These students are taking a test.  
-
-Please hand out the test.  There are A- B- and C- versions.  Hand them out in an alternating pattern so that students can't cheat.
-
-Also, please hand out the Equation Slips.
-
-Students will complete part of their test on this paper and part on the computer.  When they are finished, they should turn in the paper test to you.
-
-If a student needs to borrow a calculator, I have some on the wood desk in my room (they know where they are).  I usually have students trade me an agenda, an ID, or something of value as collateral to make sure they remember to give it back.
-
-For your reference, here are the notes I put on Schoology for the students
-
-
-> *I'm sorry to not be here today... No, the baby isn't here.  Unfortunately, someone at my daughter's daycare tested positive, so I'm at home with her...*
-> 
-> *Please be on your best behavior for the sub.*
-> 
-> ***Phones should be put away during the test.  If you need a calculator, please ask.***
-> 
-> 1.  The sub will hand out your Paper Test and an Equation Sheet
-> 2. Please show all of your work on the paper test.
-> 3. Also, please complete the [online portion of the test](https://avon.schoology.com/assignment/5416645854/).  If you need room for scratch work, you may use the back of your test.
-> 4. Turn the paper test in when you are finished.
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDAwODI3NywtMTk0MzM1ODc2Nl19
+eyJoaXN0b3J5IjpbMTE3MTAyNTUxOCwyMDY0MDA4Mjc3LC0xOT
+QzMzU4NzY2XX0=
 -->
