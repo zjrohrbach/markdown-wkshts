@@ -1,26 +1,30 @@
-Thu, Nov 4
+Mon, Nov 8
 =========    
   
 Objectives  
 ------------  
-Prove what you know about dynamics.
+Be introduced to the made-up concepts of *work* and *energy*.
   
 Agenda    
 ---------    
-1. Take any last-minute questions
-2. Test: Paper FR Portion and [Computer MC Portion](https://avon.schoology.com/course/5138386902/assessments/5144959589)
-3. (*time permitting*) Notes on Work
+
+1. The sub will hand out the [Syllabus] 
+2. Please watch [this video] as an introduction for today.
+3. Notes on **Work** and **Kinetic Energy**: Watch and take notes on [this video]
+4. Work Time
 
   
 Homework  
 -------------    
-- none, yet
+- Work on these sections of the syllabus:
+	- **[6.1 Work][work]** Problems (due Tue, 1/12)  
+	- **[6.3 Kinetic Energy][ke]** Problems (due Tue, 1/12)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMj
-g1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcw
-OSwxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0OD
-U5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5MTYw
-MiwtMTk3MzE5NDIyNywtMTM1NDg1NTE5MSw1OTgzNjMxNzUsLT
-E5NzYwMjU4NzcsLTE5NTgxNTc3MzAsMzgyNDc5MDYzLC0xNTEw
-MDkyMDc0XX0=
+eyJoaXN0b3J5IjpbLTM5OTA3OTg0NSwxNDk3ODgzNDgwLDg5OT
+I5MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIx
+MiwtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOT
+U1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYw
+MTIsNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0ODU1MTkxLD
+U5ODM2MzE3NSwtMTk3NjAyNTg3NywtMTk1ODE1NzczMCwzODI0
+NzkwNjNdfQ==
 -->
