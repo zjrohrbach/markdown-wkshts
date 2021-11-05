@@ -7,7 +7,14 @@ Thank you for your help today!
 
 ## Period 3 - Physics I - 9:57-11:31
 
-**https://tinyurl.com/rohr-phys-11-08**
+ Please turn on the projector and show the video posted at **https://tinyurl.com/rohr-phys-11-08**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
+
+1. On the way in, students should know to pick up their notebook.
+2. Start the video.  On the video, I will remind students of expectations,
+3. The video will pause.  Students will have 10 minutes to read silently.  This is how we begin every class, so students should be prepared.  If they forgot their book, there are articles on the back counter they can read.  Phones should not be out during Silent Reading.
+4. After 10 minutes, resume the video.  I will walk them through a review and then tell them how to complete the Schoology assignments.  The video will periodically pause for students to answer questions.
+5. 
+
 
 
 ## Period 5 - Physics I - 11:37-1:38
@@ -37,6 +44,6 @@ This lesson plan is the same as Period 3.  You can pause the lesson wherever you
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDY0MDczMywxNzAyMDAxNjAwLC03Nj
-Y2NjY4NDYsMTE5NDY5ODQ3Ml19
+eyJoaXN0b3J5IjpbNDYxOTAzOTExLDIwNzQ2NDA3MzMsMTcwMj
+AwMTYwMCwtNzY2NjY2ODQ2LDExOTQ2OTg0NzJdfQ==
 -->
