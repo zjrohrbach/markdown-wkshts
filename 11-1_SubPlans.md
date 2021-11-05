@@ -7,6 +7,7 @@ Thank you for your help today!
 1. Please hand out the *Chapter 6 - Work and Energy* Syllabus
 2. After that, tell students to watch the videos and do the work posted on Schoology. 
 3. Students are welcome to work together.
+4. Nothing for you to collect for this class.
 
 
 
@@ -53,7 +54,7 @@ This lesson plan is the same as Period 3.  You can pause the lesson wherever you
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDg2MzI1LC04MzcwMTIxODQsMjA3ND
-Y0MDczMywxNzAyMDAxNjAwLC03NjY2NjY4NDYsMTE5NDY5ODQ3
-Ml19
+eyJoaXN0b3J5IjpbLTE1NjEwNTYzMTIsLTkxNDg2MzI1LC04Mz
+cwMTIxODQsMjA3NDY0MDczMywxNzAyMDAxNjAwLC03NjY2NjY4
+NDYsMTE5NDY5ODQ3Ml19
 -->
