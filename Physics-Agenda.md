@@ -20,14 +20,14 @@ Agenda
 
 Announcements 
  -------------  
-- 
+- Make sure the two Schoology assignments from today are done.
 
 
 [v]:
 
 [ktb]: https://avoncsc-my.sharepoint.com/:v:/g/personal/sbzeigler_avon-schools_org/EeeVwlc2muxAnJf5lxK4-hkBnwnRfPg0iuxkRuc22XWPjw?e=4%3aahpZZX&at=9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODU2MzE1NCwtMTE0OTkwNDMwOCwtOT
+eyJoaXN0b3J5IjpbMjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOT
 U5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYz
 MTcyOTc5LDExNzU4Njk1MjIsNTQ2NTcwOTQxLC0xMzY3NTI0Nz
 Y2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2
