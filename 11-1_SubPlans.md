@@ -4,7 +4,7 @@ Thank you for your help today!
 
 ## Period 1 - Honors Physics - 8:25-9:51
 
-
+1. Please hand out the Work
 ## Period 3 - Physics I - 9:57-11:31
 
  Please turn on the projector and show the video posted at **https://tinyurl.com/rohr-phys-11-08**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
@@ -48,6 +48,7 @@ This lesson plan is the same as Period 3.  You can pause the lesson wherever you
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzAxMjE4NCwyMDc0NjQwNzMzLDE3MD
-IwMDE2MDAsLTc2NjY2Njg0NiwxMTk0Njk4NDcyXX0=
+eyJoaXN0b3J5IjpbMjA2MjE5MzM1NCwtODM3MDEyMTg0LDIwNz
+Q2NDA3MzMsMTcwMjAwMTYwMCwtNzY2NjY2ODQ2LDExOTQ2OTg0
+NzJdfQ==
 -->
