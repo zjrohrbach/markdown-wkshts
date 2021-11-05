@@ -16,8 +16,10 @@ Thank you for your help today!
 	- Students are allowed to use their notebook and a calculator, but phones and computers should be put away.
 	- If a student needs to borrow a calculator, I have some on the wooden desk to the side of the main desk.  I usually ask students to give me an ID, agenda, or something of value as collateral to make sure I get my calculators back.
 5. The following students are allowed to go to the Testing Center in D109 if they ask (although they usually don't).  I have already written out passes for them (although you should write the time down): Jillian Archer, Bella Cardin, Will Clinton, Donovan Seaborn, Tara Toth
-6. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
-7. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
+6. Please collect the tests and scantrons and put them in the appropriate folder on my desk
+7. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
+8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
+9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 
 ## SRT - 9:57-11:31
 
@@ -37,6 +39,6 @@ Please send any students who come back to their SRT.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTc5Njg5LDExNzEwMjU1MTgsMjA2ND
+eyJoaXN0b3J5IjpbNzQ4MzUwMzkwLDExNzEwMjU1MTgsMjA2ND
 AwODI3NywtMTk0MzM1ODc2Nl19
 -->
