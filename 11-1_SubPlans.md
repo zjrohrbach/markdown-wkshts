@@ -35,7 +35,8 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 6. Please collect the tests and scantrons and put them in the appropriate folder on my desk
 7. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
+9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjAwMTYwMCwtNzY2NjY2ODQ2LDExOT
-Q2OTg0NzJdfQ==
+eyJoaXN0b3J5IjpbMjA1OTcyMTU3MiwxNzAyMDAxNjAwLC03Nj
+Y2NjY4NDYsMTE5NDY5ODQ3Ml19
 -->
