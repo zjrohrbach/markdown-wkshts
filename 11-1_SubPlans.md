@@ -29,11 +29,13 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 	- Most students have a test already provided to them in their notebook
 	- I have a few students who forgot to turn in their notebooks.  Their tests and scantrons are on my desk.
 	- If--for some reason--there isn't a test or a scantron for a student, I've left some extra copies on my desk.
-6. 
+	- Students are allowed to use a notebook and a calculator, but phones and computers should be put away.
+	- If a student needs to borrow a calculator, I have some on the wooden desk to the side of the main desk.  I usually a
+5. The following students are allowed to go to the Testing Center in D109.  I have already written out passes for them (although you should write the time down):
 5. Please turn on the projector and show the video posted at _________________________________________________.  The video will periodically pause itself.  Give students a chance to respond to answer the question on their worksheet before continuing the video.
 6. When this is finished, students should turn their papers in to you.
 7. Finally, have students complete the Review Assignment that is posted on Schoology.  (If they don't have a computer today, they may use their phone.)
 8. At the end of the period, students should return their notebooks into the appropriate bin at the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM1Mzg0MTAsMTE5NDY5ODQ3Ml19
+eyJoaXN0b3J5IjpbLTQ1NzUxODYyNywxMTk0Njk4NDcyXX0=
 -->
