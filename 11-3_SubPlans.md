@@ -1,20 +1,23 @@
-# Wed, Nov 3
+# Tue, Nov 9
 
 Thank you for your help today!  
 
 ## Period 2 - Integrated Chem/Phys (ICP) - 8:25-9:51
 
-*This class will require some more leading from you.*  They are not as proficient at Schoology, so I am going to have you show the video to them.  The video will walk them through the first assignment and then remind them how to log in to Schoology to complete the second assignment.
-
-If students give you any trouble, please don't hesitate to send students out and/or write me a message to deal with discipline upon my return.
+ Please turn on the projector and show the video posted at **_________________________________________________**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
 
 1. On the way in, students should know to pick up their notebook.
-2. Class begins with 10 minutes of silent reading.  Their phones should be put away, and they should have a book that they are reading.  If they forgot their book, there are articles on the back counter they can read.
-3. After Silent Reading is over, hand out the "More NSL Practice" worksheet.
-4. Please turn on the projector and show the video posted at _________________________________________________.  The video will periodically pause itself.  Give students a chance to respond to answer the question on their worksheet before continuing the video.
-5. When this is finished, students should turn their papers in to you.
-6. Finally, have students complete the Review Assignment that is posted on Schoology.  (If they don't have a computer today, they may use their phone.)
-7. At the end of the period, students should return their notebooks into the appropriate bin at the front of the room.
+2. Start the video.  On the video, I will remind students of expectations,
+3. The video will pause.  Students will have 10 minutes to read silently.  This is how we begin every class, so students should be prepared.  If they forgot their book, there are articles on the back counter they can read.  Phones should not be out during Silent Reading.
+4. After 10 minutes, resume the video.  I will introduce them to the test.
+	- Most students have a test already provided to them in their notebook
+	- I have a few students who forgot to turn in their notebooks.  Their tests and scantrons are on my desk.
+	- If---for some reason---there isn't a test or a scantron for a student, I've left some extra copies on my desk.
+	- Students are allowed to use their notebook and a calculator, but phones and computers should be put away.
+	- If a student needs to borrow a calculator, I have some on the wooden desk to the side of the main desk.  I usually ask students to give me an ID, agenda, or something of value as collateral to make sure I get my calculators back.
+5. The following students are allowed to go to the Testing Center in D109 if they ask (although they usually don't).  I have already written out passes for them (although you should write the time down): Jillian Archer, Bella Cardin, Will Clinton, Donovan Seaborn, Tara Toth
+6. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
+7. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 
 ## SRT - 9:57-11:31
 
@@ -59,5 +62,5 @@ For your reference, here are the notes I put on Schoology for the students
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMzNTg3NjZdfQ==
+eyJoaXN0b3J5IjpbMjA2NDAwODI3NywtMTk0MzM1ODc2Nl19
 -->
