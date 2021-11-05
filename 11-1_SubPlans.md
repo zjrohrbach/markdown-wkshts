@@ -20,7 +20,7 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 ## Period 7 - Integrated Chem/Phys (ICP) - 1:44-3:10
 
 
- Please turn on the projector and show the video posted at _________________________________________________.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
+ Please turn on the projector and show the video posted at **_________________________________________________**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
 
 1. On the way in, students should know to pick up their notebook.
 2. Start the video.  On the video, I will remind students of expectations,
@@ -28,14 +28,12 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 4. After 10 minutes, resume the video.  I will introduce them to the test.
 	- Most students have a test already provided to them in their notebook
 	- I have a few students who forgot to turn in their notebooks.  Their tests and scantrons are on my desk.
-	- If--for some reason--there isn't a test or a scantron for a student, I've left some extra copies on my desk.
+	- If---for some reason---there isn't a test or a scantron for a student, I've left some extra copies on my desk.
 	- Students are allowed to use their notebook and a calculator, but phones and computers should be put away.
 	- If a student needs to borrow a calculator, I have some on the wooden desk to the side of the main desk.  I usually ask students to give me an ID, agenda, or something of value as collateral to make sure I get my calculators back.
-5. The following students are allowed to go to the Testing Center in D109 if they ask.  I have already written out passes for them (although you should write the time down): Don Gerve, Brooke Haile, Kam Henderson, Arek Keener, Cate Lynch, Natalie Perdue-Yaeger, Liv Peters, 
-5. Please turn on the projector and show the video posted at _________________________________________________.  The video will periodically pause itself.  Give students a chance to respond to answer the question on their worksheet before continuing the video.
-6. When this is finished, students should turn their papers in to you.
-7. Finally, have students complete the Review Assignment that is posted on Schoology.  (If they don't have a computer today, they may use their phone.)
-8. At the end of the period, students should return their notebooks into the appropriate bin at the front of the room.
+5. The following students are allowed to go to the Testing Center in D109 if they ask.  I have already written out passes for them (although you should write the time down): Don Gerve, Brooke Haile, Kam Henderson, Arek Keener, Cate Lynch, Natalie Perdue-Yaeger, Liv Peters, Jason Haymaker.
+6. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
+7. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODY4MjI0OCwxMTk0Njk4NDcyXX0=
+eyJoaXN0b3J5IjpbLTc2NjY2Njg0NiwxMTk0Njk4NDcyXX0=
 -->
