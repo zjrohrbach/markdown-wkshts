@@ -1,35 +1,29 @@
-Thu, Nov 4 / Fri, Nov 5
+Mon, Nov 8 / Tue, Nov 9
 =====================  
   
 Objectives  
 ------------  
-Be introduced to Newton's Laws of Motion.  
+- Be able to apply Newton's Laws to describe situations
+- Be able to calculate net force.
   
 Agenda    
 ---------    
 
 1. SSR
-2. Notes and Reading on the First Law
-3. [Bowling Ball Grand Prix][gp]
-4. Notes and Reading on the Second and Third Laws
+2. Brief review of Newton's Laws
+3. 
 
-*For those who are absent, here's a [link to the reading][r] and the video of the lesson in three parts: [part 1][p1], [part 2][p2], [part 3][p3].*
+*For those who are absent, I had a sub.  Here's the [video][v] that explains what we did today*
 
 Announcements 
  -------------  
-- You can start working on your test corrections
-
-[gp]: https://avon.schoology.com/assignment/5433745351/
-[r]: https://avon.schoology.com/course/5138386942/materials/gp/5433754567
-[p1]: https://youtu.be/lQyI4lYilRE
-[p2]: https://youtu.be/I1evVoTEZqU
-[p3]: https://youtu.be/N2R-OGa47eM
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLT
-E4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1
-MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLD
-U3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3
-MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2NiwtOTg2NjkzNz
-k3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OTM3LC0zNDQzMjY5NTks
-MjA0MzczMjM4MV19
+eyJoaXN0b3J5IjpbLTE0MjM2NTg2NzUsLTE3NTU5Nzk5OTEsLT
+E2MDczMTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1
+NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0OD
+IzLDc4NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0
+NjY1MjExNiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OT
+c2NiwtOTg2NjkzNzk3LC0yMDA0NzA1MDk4LC0xNzc2Nzg3OTM3
+LC0zNDQzMjY5NTldfQ==
 -->
