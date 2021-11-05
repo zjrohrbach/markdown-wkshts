@@ -4,7 +4,7 @@ Thank you for your help today!
 
 ## Period 2 - Integrated Chem/Phys (ICP) - 8:25-9:51
 
- Please turn on the projector and show the video posted at **_________________________________________________**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
+ Please turn on the projector and show the video posted at **https://tinyurl.com/rohr-icp-11-8-21**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
 
 1. On the way in, students should know to pick up their notebook.
 2. Start the video.  On the video, I will remind students of expectations,
@@ -37,6 +37,6 @@ Please send any students who come back to their SRT.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTAyNTUxOCwyMDY0MDA4Mjc3LC0xOT
-QzMzU4NzY2XX0=
+eyJoaXN0b3J5IjpbMTcxMTc5Njg5LDExNzEwMjU1MTgsMjA2ND
+AwODI3NywtMTk0MzM1ODc2Nl19
 -->
