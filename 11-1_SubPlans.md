@@ -20,7 +20,7 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 ## Period 7 - Integrated Chem/Phys (ICP) - 1:44-3:10
 
 
- Please turn on the projector and show the video posted at **_________________________________________________**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
+ Please turn on the projector and show the video posted at **https://tinyurl.com/rohr-icp-11-8-21**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
 
 1. On the way in, students should know to pick up their notebook.
 2. Start the video.  On the video, I will remind students of expectations,
@@ -32,8 +32,10 @@ This lesson plan is the same as Period 3.  I would hope students would finish th
 	- Students are allowed to use their notebook and a calculator, but phones and computers should be put away.
 	- If a student needs to borrow a calculator, I have some on the wooden desk to the side of the main desk.  I usually ask students to give me an ID, agenda, or something of value as collateral to make sure I get my calculators back.
 5. The following students are allowed to go to the Testing Center in D109 if they ask.  I have already written out passes for them (although you should write the time down): Don Gerve, Brooke Haile, Kam Henderson, Arek Keener, Cate Lynch, Natalie Perdue-Yaeger, Liv Peters, Jason Haymaker.
-6. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
-7. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
+6. Please collect the tests and scantrons and put them in the appropriate folder on my desk
+7. When all students in the room are finished (even if some are still testing in the Testing Center), you may resume the video.
+8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjY2Njg0NiwxMTk0Njk4NDcyXX0=
+eyJoaXN0b3J5IjpbMTcwMjAwMTYwMCwtNzY2NjY2ODQ2LDExOT
+Q2OTg0NzJdfQ==
 -->
