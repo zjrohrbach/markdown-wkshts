@@ -14,7 +14,7 @@ Thank you for your help today!
 
 **We eat C-lunch at 12:37**
 
-This lesson plan is the same as Period 3.  You can pause the lesson wherever you are at for lunch
+This lesson plan is the same as Period 3.  You can pause the lesson wherever you are at for lunch and resume afterward.
 
 
 ## Period 7 - Integrated Chem/Phys (ICP) - 1:44-3:10
@@ -37,6 +37,6 @@ This lesson plan is the same as Period 3.  You can pause the lesson wherever you
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY1NDg5NjMsMTcwMjAwMTYwMCwtNz
-Y2NjY2ODQ2LDExOTQ2OTg0NzJdfQ==
+eyJoaXN0b3J5IjpbMjA3NDY0MDczMywxNzAyMDAxNjAwLC03Nj
+Y2NjY4NDYsMTE5NDY5ODQ3Ml19
 -->
