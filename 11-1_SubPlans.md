@@ -13,7 +13,10 @@ Thank you for your help today!
 2. Start the video.  On the video, I will remind students of expectations,
 3. The video will pause.  Students will have 10 minutes to read silently.  This is how we begin every class, so students should be prepared.  If they forgot their book, there are articles on the back counter they can read.  Phones should not be out during Silent Reading.
 4. After 10 minutes, resume the video.  I will walk them through a review and then tell them how to complete the Schoology assignments.  The video will periodically pause for students to answer questions.
-5. 
+5. Eventually, the video will move on to a discussion of the "Net Force Practice" Worksheet.  Please hand this out.  You will not need to collect it.
+6. Resume the video and follow the directions on the video.
+7. When the video finishes, make sure to play the final recording that pops up.
+8. I've included a Mythbusters video for the remaining class time.  The link will appear at the end of the video.  If you need to log in, the username is **acscsub@avon
 
 
 
@@ -44,6 +47,6 @@ This lesson plan is the same as Period 3.  You can pause the lesson wherever you
 8. At the end of the video is a link to a Bill Nye video that you can watch for the rest of class.
 9. Before leaving, students should turn in their notebooks to the proper bin in the front of the room.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxOTAzOTExLDIwNzQ2NDA3MzMsMTcwMj
+eyJoaXN0b3J5IjpbLTc3NTQ0OTQyLDIwNzQ2NDA3MzMsMTcwMj
 AwMTYwMCwtNzY2NjY2ODQ2LDExOTQ2OTg0NzJdfQ==
 -->
