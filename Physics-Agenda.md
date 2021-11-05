@@ -12,21 +12,26 @@ Agenda
 1. SSR
 2. Brief review of Newton's Laws
 3. Answer the [Newton's Law Questions](https://avon.schoology.com/assignment/5437593784/)
-4. Do Net Force Practice <sub>(*[link to handout](https://avon.schoology.com/course/5138386942/materials/gp/5439077774)*)x</sub>
+4. Do Net Force Practice <sub>(*[link to handout](https://avon.schoology.com/course/5138386942/materials/gp/5439077774)*)</sub>
 5. Complete the [Exit Ticket](https://avon.schoology.com/assignment/5437612057/)
-6. Watch *Mythbusters*: "The Killer Tissue Box"
+6. Watch *Mythbusters*: "The Killer Tissue Box" <sub>(*[link][ktb]*)
 
 *For those who are absent, I had a sub.  Here's the [video][v] that explains what we did today*
 
 Announcements 
  -------------  
 - 
+
+
+[v]:
+
+[ktb]: https://avoncsc-my.sharepoint.com/:v:/g/personal/sbzeigler_avon-schools_org/EeeVwlc2muxAnJf5lxK4-hkBnwnRfPg0iuxkRuc22XWPjw?e=4%3aahpZZX&at=9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMT
-c1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1
-ODY5NTIyLDU0NjU3MDk0MSwtMTM2NzUyNDc2NiwxODM0NjA4OD
-U3LDIxNDE2NzQ4MjMsNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYz
-MjY3NzYzLC0yMTQ2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MD
-AzNTUsLTE0NjY5NzY2LC05ODY2OTM3OTcsLTIwMDQ3MDUwOTgs
-LTE3NzY3ODc5MzddfQ==
+eyJoaXN0b3J5IjpbMTk4ODU2MzE1NCwtMTE0OTkwNDMwOCwtOT
+U5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYz
+MTcyOTc5LDExNzU4Njk1MjIsNTQ2NTcwOTQxLC0xMzY3NTI0Nz
+Y2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2
+OTEwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1NzA5Mz
+QyMiwtMjAxMjkwMDM1NSwtMTQ2Njk3NjYsLTk4NjY5Mzc5Nywt
+MjAwNDcwNTA5OF19
 -->
