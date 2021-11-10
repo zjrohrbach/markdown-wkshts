@@ -9,7 +9,8 @@ Agenda
 ---------    
 
 1. SSR
-2. Net
+2. Notes on Net Force Calculations <sub>[video if absent][v]</sub>
+3. [Newton #3](https://avon.schoology.com/course/5138386942/materials/gp/5446979923)
 
 
 Announcements 
@@ -17,9 +18,11 @@ Announcements
 - Make sure the two Schoology assignments from the sub day are done.
 - If you want to do test corrections, you may do the computer part online or the paper part during SRT.
 
+[v]: https://www.youtube.com/watch?v=UUqUsdmoLe8
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzQ5OTUxNCwyMDc4MDE3MjU0LC0xMT
+eyJoaXN0b3J5IjpbLTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMT
 Q5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDcz
 MTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5ND
 EsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4
