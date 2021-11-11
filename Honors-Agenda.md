@@ -1,17 +1,15 @@
-Mon, Nov 8
+Fri, Nov 12
 =========    
   
 Objectives  
 ------------  
-Be introduced to the made-up concepts of *work* and *energy*.
+f
   
 Agenda    
 ---------    
 
-1. The sub will hand out the Syllabus 
-2. Please watch [this video] as an introduction for today.
-3. Notes on **Work** and **Kinetic Energy**: Watch and take notes on [this video]
-4. Work Time (see the HW below)
+1. Take questions on the HW
+2. Do some [Conservation of Energy Practice Problems](https://avon.schoology.com/page/5144966002)
 
   
 Homework  
@@ -21,7 +19,7 @@ Homework
 	- 6.3 Kinetic Energy Problems 
 - You can get started on test corrections on the Multiple Choice part.  I'm still grading Free Response.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzgxNTAyOCwxNDk3ODgzNDgwLDg5OT
+eyJoaXN0b3J5IjpbLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OT
 I5MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIx
 MiwtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOT
 U1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYw
