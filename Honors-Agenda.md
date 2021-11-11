@@ -3,28 +3,27 @@ Fri, Nov 12
   
 Objectives  
 ------------  
-f
+Be able to solve Conservation of Energy Problems.
   
 Agenda    
 ---------    
 
 1. Take questions on the HW
 2. Do some [Conservation of Energy Practice Problems](https://avon.schoology.com/page/5144966002)
-3. 
+
+
+
 
   
 Homework  
 -------------    
-- Work on these sections of the syllabus (due Friday):
-	- 6.1 Work Problems
-	- 6.3 Kinetic Energy Problems 
-- You can get started on test corrections on the Multiple Choice part.  I'm still grading Free Response.
+![Syllabus Due Dates](/system/files/attachments/page_embeds/m/2021-11/Capture_618d8408ee03a.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMjM3NDM3LC05MjI5NTgyNzgsMTQ5Nz
-g4MzQ4MCw4OTkyOTE3MDcsLTExMjg1NDk4MDUsMzY2OTMzMTIz
-LC0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5NDUyMTgyLC0yNT
-M2NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5
-NSwxNDE1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMT
-M1NDg1NTE5MSw1OTgzNjMxNzUsLTE5NzYwMjU4NzcsLTE5NTgx
-NTc3MzBdfQ==
+eyJoaXN0b3J5IjpbMjAyODQxNDMzNiwtOTIyOTU4Mjc4LDE0OT
+c4ODM0ODAsODk5MjkxNzA3LC0xMTI4NTQ5ODA1LDM2NjkzMzEy
+MywtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1MjE4MiwtMj
+UzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5NjI2
+OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5NzMxOTQyMjcsLT
+EzNTQ4NTUxOTEsNTk4MzYzMTc1LC0xOTc2MDI1ODc3LC0xOTU4
+MTU3NzMwXX0=
 -->
