@@ -1,32 +1,30 @@
-Thu, Nov 11 / Fri, Nov 12
+Mon, Nov 15 / Tue, Nov 16
 =====================  
   
 Objectives  
 ------------  
-- Be able to calculate the acceleration and net force of objects described in word problems.
+- Be able to explain the difference between mass and weight.
+- Be able to explain the elevator effect.
   
 Agenda    
 ---------    
 
 1. SSR
-2. Notes on Net Force Calculations <sub>[video if absent][v]</sub>
-3. [Newton #3](https://avon.schoology.com/course/5138386942/materials/gp/5446979923)
+2. Warmup Question
+3. Mass vs. Weight Reading and Notes
+4. Elevator Effect
 
 
 Announcements 
  -------------  
-- Make sure the two Schoology assignments from the sub day are done.
 - If you want to do test corrections, you may do the computer part online or the paper part during SRT.
 
-[v]: https://www.youtube.com/watch?v=UUqUsdmoLe8
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMT
-Q5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDcz
-MTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5ND
-EsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4
-NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1Mj
-ExNiwxNDU3MDkzNDIyLC0yMDEyOTAwMzU1LC0xNDY2OTc2Niwt
-OTg2NjkzNzk3XX0=
+eyJoaXN0b3J5IjpbLTMyOTcwNjYzMCwtNTgxODA5MTY1LDIwNz
+gwMTcyNTQsLTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3
+OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NT
+IyLDU0NjU3MDk0MSwtMTM2NzUyNDc2NiwxODM0NjA4ODU3LDIx
+NDE2NzQ4MjMsNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMjY3Nz
+YzLC0yMTQ2NjUyMTE2LDE0NTcwOTM0MjIsLTIwMTI5MDAzNTUs
+LTE0NjY5NzY2XX0=
 -->
