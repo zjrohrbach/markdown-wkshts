@@ -9,16 +9,17 @@ Agenda
 ---------    
 
 1. Do the [Sink the Boat Lab][lab]
+2. Time to work on the writeup
   
 Homework  
 -------------    
 - Lab writeup due Friday
 - Be working on your syllabus ([new due dates][syl])
 
-[lab]:
+[lab]: https://avon.schoology.com/assignment/5144965891/
 [syl]: https://avon.schoology.com/course/5138386902/materials/gp/5451651647
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3OTU4NSwxNTc3OTg5ODM1LC05Mj
+eyJoaXN0b3J5IjpbMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC05Mj
 I5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1NDk4
 MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxND
 Q5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAz
