@@ -10,20 +10,20 @@ Agenda
 ---------    
 
 1. SSR
-2. Horse and Cart Problem Discussion <sub>read [this]() and watch [this nearpod](https://app.nearpod.com/?pin=PQ9VD) if absent</sub>
-4. [Newton #4]
+2. Horse and Cart Problem Discussion <sub>read [this](https://avon.schoology.com/course/5138386942/materials/gp/5460802425) and watch [this nearpod](https://app.nearpod.com/?pin=PQ9VD) if absent</sub>
+4. [Newton #4](https://avon.schoology.com/course/5138386942/materials/gp/5446979967)
 
 
 Announcements 
  -------------  
-- If you want to do test corrections, you may do the computer part online or the paper part during SRT.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMzIyNzUxLDE3NDY0Nzg0OTQsOTA4OD
-E0MjEsLTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMTQ5OTA0MzA4
-LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLT
-E4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1
-MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLD
-U3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0NjY1MjExNiwxNDU3
-MDkzNDIyXX0=
+eyJoaXN0b3J5IjpbLTMxNTEzNTQ2NiwxNzQ2NDc4NDk0LDkwOD
+gxNDIxLC01ODE4MDkxNjUsMjA3ODAxNzI1NCwtMTE0OTkwNDMw
+OCwtOTU5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC
+0xODYzMTcyOTc5LDExNzU4Njk1MjIsNTQ2NTcwOTQxLC0xMzY3
+NTI0NzY2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Mi
+w1NzY2OTEwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1
+NzA5MzQyMl19
 -->
