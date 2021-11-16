@@ -11,11 +11,11 @@ Agenda
 1. Take questions on HW
 2. HW Quiz
 3. Power Notes <sub>[video if absent][pow]</sub>
-4. [Power Practice Problems]()
+4. [Power Practice Problems](https://avon.schoology.com/page/5144966011)
   
 Homework  
 -------------    
-- Lab writeup due Friday
+- [Sink the Boat Lab writeup][lab] due Friday
 - Be working on your syllabus ([new due dates][syl])
 - Test on Monday
 
@@ -23,7 +23,7 @@ Homework
 [syl]: https://avon.schoology.com/course/5138386902/materials/gp/5451651647
 [pow]: https://avon.schoology.com/course/5138386902/materials/gp/5144965988
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM3NTg4OTUsMTE4NDY1NTA2OSwxNT
+eyJoaXN0b3J5IjpbLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNT
 c3OTg5ODM1LC05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3
 MDcsLTExMjg1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLT
 c5MDI2MTcwOSwxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTEx
