@@ -14,13 +14,14 @@ Agenda
 
 Announcements 
  -------------  
-Test next class!
+- Test next class!
+- If you'd like more review materials, you can check out [this review](https://avoncsc-my.sharepoint.com/:w:/g/personal/zjrohrbach_avon-schools_org/EdmVPwAIkaJCl8pjuoiayk4BTQiNvdSp5SHIsDwkEcZ53A?e=qxOn6a) and [this key](https://avoncsc-my.sharepoint.com/:w:/g/personal/zjrohrbach_avon-schools_org/EXCslm_CyAJHr0AGgVZ0Z2QB1uckeglZ-bgKbjtBvLdhgw?e=E2u43O)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQzNzA5NCwxOTg0ODYxOTQ2LDE3ND
-Y0Nzg0OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMDc4MDE3MjU0
-LC0xMTQ5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLT
-E2MDczMTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1
-NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0OD
-IzLDc4NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0
-NjY1MjExNl19
+eyJoaXN0b3J5IjpbNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0Nj
+Q3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQs
+LTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OTk5MSwtMT
+YwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NTIyLDU0NjU3
+MDk0MSwtMTM2NzUyNDc2NiwxODM0NjA4ODU3LDIxNDE2NzQ4Mj
+MsNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMTQ2
+NjUyMTE2XX0=
 -->
