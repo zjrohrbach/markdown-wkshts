@@ -1,27 +1,26 @@
-Wed, Nov 17
+Thu, Nov 18 / Fri, Nov 19
 =====================  
   
 Objectives  
 ------------  
-- Be able to resolve the "Horse and Cart Problem"
-- Be comfortable solving net force problems.
+Review what we've learned about forces and Newton's Laws.
   
 Agenda    
 ---------    
 
 1. SSR
-2. Horse and Cart Problem Discussion <sub>read [this](https://avon.schoology.com/course/5138386942/materials/gp/5460802425) and watch [this nearpod](https://app.nearpod.com/?pin=PQ9VD) if absent</sub>
-4. [Newton #4](https://avon.schoology.com/course/5138386942/materials/gp/5446979967)
+2. Newton's Law Clickers
+3. Practice Problems
 
 Announcements 
  -------------  
-
+Test next class!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkwOD
-gxNDIxLC01ODE4MDkxNjUsMjA3ODAxNzI1NCwtMTE0OTkwNDMw
-OCwtOTU5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC
-0xODYzMTcyOTc5LDExNzU4Njk1MjIsNTQ2NTcwOTQxLC0xMzY3
-NTI0NzY2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Mi
-w1NzY2OTEwNzMsLTEzNjMyNjc3NjMsLTIxNDY2NTIxMTYsMTQ1
-NzA5MzQyMl19
+eyJoaXN0b3J5IjpbLTc2NzQzNzA5NCwxOTg0ODYxOTQ2LDE3ND
+Y0Nzg0OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMDc4MDE3MjU0
+LC0xMTQ5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLT
+E2MDczMTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1
+NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0OD
+IzLDc4NDAxODcyLDU3NjY5MTA3MywtMTM2MzI2Nzc2MywtMjE0
+NjY1MjExNl19
 -->
