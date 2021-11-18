@@ -1,4 +1,4 @@
-Wed, Nov 17
+Fri, Nov 19
 =========    
   
 Objectives  
@@ -10,7 +10,7 @@ Agenda
 
 1. Hand back HW Quiz
 2. Take questions on HW
-3. Review <sub>[questions](https://avon.schoology.com/course/5138386902/materials/gp/5144965928), [video]()</sub>
+3. Review <sub>[questions](https://avon.schoology.com/course/5138386902/materials/gp/5144965928), [video](https://youtu.be/C0fFE3PG3oo)</sub>
   
 Homework  
 -------------    
@@ -22,11 +22,11 @@ Homework
 [syl]: https://avon.schoology.com/course/5138386902/materials/gp/5451651647
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU5NzQ4NTgsLTIwNzY1ODY3NDMsMT
-E4NDY1NTA2OSwxNTc3OTg5ODM1LC05MjI5NTgyNzgsMTQ5Nzg4
-MzQ4MCw4OTkyOTE3MDcsLTExMjg1NDk4MDUsMzY2OTMzMTIzLC
-0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5NDUyMTgyLC0yNTM2
-NzA1OTAsLTk1NTExMzE4Niw0ODU5MDAzNDUsLTM1NDk2MjY5NS
-wxNDE1OTE2MDEyLDQwNTQ5MTYwMiwtMTk3MzE5NDIyNywtMTM1
-NDg1NTE5MV19
+eyJoaXN0b3J5IjpbLTE2MzEyNjY0MywtMjA3NjU4Njc0MywxMT
+g0NjU1MDY5LDE1Nzc5ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgz
+NDgwLDg5OTI5MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLT
+MxNDM2ODIxMiwtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3
+MDU5MCwtOTU1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LD
+E0MTU5MTYwMTIsNDA1NDkxNjAyLC0xOTczMTk0MjI3LC0xMzU0
+ODU1MTkxXX0=
 -->
