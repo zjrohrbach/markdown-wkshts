@@ -37,8 +37,18 @@ Please send any students who come back to their SRT.
 
 ## Period 6 - Physics I - 1:44-3:10
 
+ Please turn on the projector and show the video posted at **https://tinyurl.com/rohr-phys-11-08**.  The video will periodically pause itself.  Give students the appropriate amount of time at each pause and then continue the video.
 
+1. On the way in, students should know to pick up their notebook.
+2. Start the video.  On the video, I will remind students of expectations,
+3. The video will pause.  Students will have 10 minutes to read silently.  This is how we begin every class, so students should be prepared.  If they forgot their book, there are articles on the back counter they can read.  Phones should not be out during Silent Reading.
+4. After 10 minutes, resume the video.  I will walk them through a review and then tell them how to complete the Schoology assignments.  The video will periodically pause for students to answer questions.
+5. Eventually, the video will move on to a discussion of the "Net Force Practice" Worksheet.  Please hand this out.
+6. Resume the video and follow the directions on the video.
+7. When the video finishes, make sure to play the final recording that pops up.
+8. I've included a Mythbusters video for the remaining class time.  The link will appear at the end of the video.  If you need to log in, the username is **acscsub@avon-schools.org**.  The password is the same one you use to get on the computer.
+9. You do not need to collect anything from this class. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MzUwMzkwLDExNzEwMjU1MTgsMjA2ND
-AwODI3NywtMTk0MzM1ODc2Nl19
+eyJoaXN0b3J5IjpbLTE5MDA0NDgzNjEsNzQ4MzUwMzkwLDExNz
+EwMjU1MTgsMjA2NDAwODI3NywtMTk0MzM1ODc2Nl19
 -->
