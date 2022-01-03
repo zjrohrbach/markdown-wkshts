@@ -15,6 +15,7 @@ Agenda
 	- [Link to Assignment][pasmt]
 	- [Link to Project Topics][ptop]
 	- (*if absent*): please watch [this video][pvid]
+3. Notes on Momentum and Impulse <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5526987993
 
 Announcements 
  -------------  
@@ -24,12 +25,14 @@ Announcements
 
 
 [ptop]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
+[pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
+[pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjY5OTU0MSwyMDkyMTg1ODkxLDY5NT
-M3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEs
-LTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMTQ5OTA0MzA4LC05NT
-k3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLTE4NjMx
-NzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3Nj
-YsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLDU3NjY5
-MTA3M119
+eyJoaXN0b3J5IjpbLTE1NzA5OTQzOTQsMjA5MjE4NTg5MSw2OT
+UzNzMwMjIsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIx
+LC01ODE4MDkxNjUsMjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOT
+U5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYz
+MTcyOTc5LDExNzU4Njk1MjIsNTQ2NTcwOTQxLC0xMzY3NTI0Nz
+Y2LDE4MzQ2MDg4NTcsMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2
+OTEwNzNdfQ==
 -->
