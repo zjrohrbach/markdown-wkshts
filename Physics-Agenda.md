@@ -10,7 +10,8 @@ Objectives
 Agenda    
 ---------    
 
-1. Overview of Class Expectations.
+1. Overview of [Class Expectations](https://avon.schoology.com/course/5138386979/materials/gp/5527047790). <sub> There will be a "required materials" check on Mon/Tue</sub>
+2. 
 
 Announcements 
  -------------  
@@ -21,7 +22,7 @@ Announcements
 
 [topics]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjU3MTI1NSw2OTUzNzMwMjIsMTk4ND
+eyJoaXN0b3J5IjpbMjA5MjE4NTg5MSw2OTUzNzMwMjIsMTk4ND
 g2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4MDkxNjUs
 MjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOTU5NzE2MzY0LC0xNz
 U1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYzMTcyOTc5LDExNzU4
