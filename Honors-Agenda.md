@@ -22,20 +22,19 @@ Agenda
 
 Homework  
 -------------    
-- [Sink the Boat Lab writeup][lab] should be done
-- Syllabus needs to be turned in by Monday
-- Test on Monday
+- Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
+- You can do the following on your syllabus: 
 
-[pasmt]
-[ptop]
-[plib
+[pasmt]: 
+[ptop]: 
+[pvid]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NzYxMjY0LC0xMzA3MzA3NDIsLTE2Mz
-EyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4
-MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMT
-EyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYx
-NzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LD
-Q4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkx
-NjAyXX0=
+eyJoaXN0b3J5IjpbLTE4NzMyNTQzOTYsLTEzMDczMDc0MiwtMT
+YzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4
+OTgzNSwtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5MjkxNzA3LC
+0xMTI4NTQ5ODA1LDM2NjkzMzEyMywtMzE0MzY4MjEyLC03OTAy
+NjE3MDksMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxOD
+YsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MDU0
+OTE2MDJdfQ==
 -->
