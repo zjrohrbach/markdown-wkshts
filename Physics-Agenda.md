@@ -11,7 +11,7 @@ Agenda
 ---------    
 
 1. Overview of [Class Expectations](https://avon.schoology.com/course/5138386979/materials/gp/5527047790). <sub> There will be a "required materials" check on Mon/Tue</sub>
-2. 
+2. Go ove
 
 Announcements 
  -------------  
@@ -22,11 +22,11 @@ Announcements
 
 [topics]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjE4NTg5MSw2OTUzNzMwMjIsMTk4ND
-g2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4MDkxNjUs
-MjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOTU5NzE2MzY0LC0xNz
-U1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYzMTcyOTc5LDExNzU4
-Njk1MjIsNTQ2NTcwOTQxLC0xMzY3NTI0NzY2LDE4MzQ2MDg4NT
-csMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2OTEwNzMsLTEzNjMy
-Njc3NjNdfQ==
+eyJoaXN0b3J5IjpbOTgxNjE1ODQ5LDIwOTIxODU4OTEsNjk1Mz
+czMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwt
+NTgxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgsLTk1OT
+cxNjM2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3
+Mjk3OSwxMTc1ODY5NTIyLDU0NjU3MDk0MSwtMTM2NzUyNDc2Ni
+wxODM0NjA4ODU3LDIxNDE2NzQ4MjMsNzg0MDE4NzIsNTc2Njkx
+MDczXX0=
 -->
