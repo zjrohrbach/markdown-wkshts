@@ -1,9 +1,9 @@
-Thu, Nov 18 / Fri, Nov 19
-=====================  
+Mon, Jan 4 / Tue, Jan 5
+=================== 
   
 Objectives  
 ------------  
-Review what we've learned about forces and Newton's Laws.
+- Review of classroom expectations.
   
 Agenda    
 ---------    
@@ -14,14 +14,16 @@ Agenda
 
 Announcements 
  -------------  
-- Test next class!
-- If you'd like more review materials, you can check out [this review](https://avoncsc-my.sharepoint.com/:w:/g/personal/zjrohrbach_avon-schools_org/EdmVPwAIkaJCl8pjuoiayk4BTQiNvdSp5SHIsDwkEcZ53A?e=qxOn6a) and [this key](https://avoncsc-my.sharepoint.com/:w:/g/personal/zjrohrbach_avon-schools_org/EXCslm_CyAJHr0AGgVZ0Z2QB1uckeglZ-bgKbjtBvLdhgw?e=E2u43O)
+- Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to list]()</sub>
+- Make sure you have a calculator and notebook on Monday/Tuesday.
+- We're going to the library next class to pick up SSR books.
+[ti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0Nj
-Q3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQs
-LTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OTk5MSwtMT
-YwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NTIyLDU0NjU3
-MDk0MSwtMTM2NzUyNDc2NiwxODM0NjA4ODU3LDIxNDE2NzQ4Mj
-MsNzg0MDE4NzIsNTc2NjkxMDczLC0xMzYzMjY3NzYzLC0yMTQ2
-NjUyMTE2XX0=
+eyJoaXN0b3J5IjpbMTAwMTM3NTgwOCw2OTUzNzMwMjIsMTk4ND
+g2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4MDkxNjUs
+MjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOTU5NzE2MzY0LC0xNz
+U1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYzMTcyOTc5LDExNzU4
+Njk1MjIsNTQ2NTcwOTQxLC0xMzY3NTI0NzY2LDE4MzQ2MDg4NT
+csMjE0MTY3NDgyMyw3ODQwMTg3Miw1NzY2OTEwNzMsLTEzNjMy
+Njc3NjNdfQ==
 -->
