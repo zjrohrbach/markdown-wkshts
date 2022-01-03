@@ -24,17 +24,19 @@ Homework
 -------------    
 - Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
 - You can do the following on your syllabus: 
+	- 7.1-2 due Mon, Jan 10
+	- 7.3 due Wed, Jan 12
 
-[pasmt]: 
-[ptop]: 
+[pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
+[ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMyNTQzOTYsLTEzMDczMDc0MiwtMT
-YzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4
-OTgzNSwtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5MjkxNzA3LC
-0xMTI4NTQ5ODA1LDM2NjkzMzEyMywtMzE0MzY4MjEyLC03OTAy
-NjE3MDksMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxOD
-YsNDg1OTAwMzQ1LC0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MDU0
-OTE2MDJdfQ==
+eyJoaXN0b3J5IjpbLTQyNzI5Mjk3NCwtMTMwNzMwNzQyLC0xNj
+MxMjY2NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5
+ODM1LC05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLT
+ExMjg1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2
+MTcwOSwxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Ni
+w0ODU5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5
+MTYwMl19
 -->
