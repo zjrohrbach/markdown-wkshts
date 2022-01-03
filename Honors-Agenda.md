@@ -15,8 +15,8 @@ Agenda
 	- [Link to Assignment][pasmt]
 	- [Link to Project Topics][ptop]
 	- (*if absent*): please watch [this video][pvid]
-3. Notes on Momentum and Impulse <sub>[mometnum video](). [impulse video]()</sub>
-4. Impulse-Momentum [Reading](https://avon.schoology.com/course/5138386979/materials/gp/5527129989) <sub>[video](https://www.youtube.com/watch?v=NdAHDoKLgjk)</sub>
+3. Notes on Momentum and Impulse <sub>[mometnum video](https://avon.schoology.com/course/5138386920/materials/gp/5527381162). [impulse video](https://www.youtube.com/watch?v=9VINYb4o9B8&feature=youtu.be)</sub>
+4. [Practice Problems](https://avon.schoology.com/page/5527381382)
 
 
 
@@ -26,15 +26,16 @@ Homework
 - Syllabus needs to be turned in by Monday
 - Test on Monday
 
-[lab]: https://avon.schoology.com/assignment/5144965891/
-[syl]: https://avon.schoology.com/course/5138386902/materials/gp/5451651647
+[pasmt]
+[ptop]
+[plib
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMD
-c2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4
-Mjc4LDE0OTc4ODM0ODAsODk5MjkxNzA3LC0xMTI4NTQ5ODA1LD
-M2NjkzMzEyMywtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1
-MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1LC
-0zNTQ5NjI2OTUsMTQxNTkxNjAxMiw0MDU0OTE2MDIsLTE5NzMx
-OTQyMjddfQ==
+eyJoaXN0b3J5IjpbNzE2NzYxMjY0LC0xMzA3MzA3NDIsLTE2Mz
+EyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4
+MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMT
+EyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYx
+NzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LD
+Q4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5MTYwMTIsNDA1NDkx
+NjAyXX0=
 -->
