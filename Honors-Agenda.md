@@ -10,18 +10,16 @@ Objectives
 Agenda    
 ---------    
 
-1. Overview of Class Expectations
-2. Go over the Culminating Project
-	- [Link to Assignment][pasmt]
-	- [Link to Project Topics][ptop]
-	- (*if absent*): please watch [this video][pvid]
-3. Notes on Momentum and Impulse <sub>[mometnum video](https://avon.schoology.com/course/5138386920/materials/gp/5527381162). [impulse video](https://www.youtube.com/watch?v=9VINYb4o9B8&feature=youtu.be)</sub>
-4. [Practice Problems](https://avon.schoology.com/page/5527381382)
+1. Brief review of Momentum
+2. Talk about uploading homework assignments
+3. Notes on Impulse <sub> [video](https://www.youtube.com/watch?v=9VINYb4o9B8&feature=youtu.be)</sub>
+4. Finish the [Practice Problems](https://avon.schoology.com/page/5527381382) from last time
 
 
 
 Homework  
 -------------    
+- If you were absent last time, make sure to watch this [video][pvid] about the Research Project
 - Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
 - You can do the following on your syllabus: 
 	- 7.1-2 due Mon, Jan 10
@@ -32,11 +30,11 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNj
-MxMjY2NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5
-ODM1LC05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLT
-ExMjg1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2
-MTcwOSwxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Ni
-w0ODU5MDAzNDUsLTM1NDk2MjY5NSwxNDE1OTE2MDEyLDQwNTQ5
-MTYwMl19
+eyJoaXN0b3J5IjpbLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMz
+A3MzA3NDIsLTE2MzEyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1
+MDY5LDE1Nzc5ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLD
+g5OTI5MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2
+ODIxMiwtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MC
+wtOTU1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5
+MTYwMTJdfQ==
 -->
