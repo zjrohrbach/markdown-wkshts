@@ -20,8 +20,9 @@ Agenda
 
 Announcements 
  -------------  
+- If you were absent last time, make sure to watch this [video][pvid] about the Research Project
 - Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
-- Make sure you have a calculator and notebook on Monday/Tuesday.
+- Make sure you have all required materials on Monday/Tuesday. (
 - We're going to the library next class to pick up SSR books.
 
 
@@ -29,11 +30,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NT
-M3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEs
-LTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMTQ5OTA0MzA4LC05NT
-k3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLTE4NjMx
-NzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3Nj
-YsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4NDAxODcyLDU3NjY5
-MTA3M119
+eyJoaXN0b3J5IjpbLTM1OTg0ODQyNSwxOTM2NTA3MzE1LDIwOT
+IxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5
+NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQsLTExND
+k5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OTk5MSwtMTYwNzMx
+NzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NTIyLDU0NjU3MDk0MS
+wtMTM2NzUyNDc2NiwxODM0NjA4ODU3LDIxNDE2NzQ4MjMsNzg0
+MDE4NzJdfQ==
 -->
