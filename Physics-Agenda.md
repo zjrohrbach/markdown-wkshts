@@ -3,7 +3,7 @@ Thu, Jan 6 / Fri Jan 7
   
 Objectives  
 ------------  
-- Apply the impulse-momentum theorem to a falling egg.
+Apply the impulse-momentum theorem to a falling egg.
   
 Agenda    
 ---------    
@@ -26,13 +26,13 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 
-[egg]:
+[egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMD
-kyMTg1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0
-OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMT
-Q5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDcz
-MTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OTUyMiw1NDY1NzA5ND
-EsLTEzNjc1MjQ3NjYsMTgzNDYwODg1NywyMTQxNjc0ODIzLDc4
-NDAxODcyXX0=
+eyJoaXN0b3J5IjpbLTIwMzAzOTA4MTYsLTE5NTY1MDc1MDcsMT
+kzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3MzAyMiwxOTg0ODYx
+OTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMD
+c4MDE3MjU0LC0xMTQ5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5
+Nzk5OTEsLTE2MDczMTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OT
+UyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1Nywy
+MTQxNjc0ODIzXX0=
 -->
