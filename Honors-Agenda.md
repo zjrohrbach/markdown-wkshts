@@ -14,6 +14,7 @@ Agenda
 2. Talk about uploading homework assignments
 3. Notes on Impulse <sub> [video](https://www.youtube.com/watch?v=9VINYb4o9B8&feature=youtu.be)</sub>
 4. Finish the [Practice Problems](https://avon.schoology.com/page/5527381382) from last time
+5. Do the [Impulse Thinking Questions](https://avon.schoology.com/page/5527381356)
 
 
 
@@ -30,11 +31,11 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMz
-A3MzA3NDIsLTE2MzEyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1
-MDY5LDE1Nzc5ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLD
-g5OTI5MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2
-ODIxMiwtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MC
-wtOTU1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0OTYyNjk1LDE0MTU5
-MTYwMTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NjUyODQ3MTUsLTkzNTUyNDMwOCwtMT
+k4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEyNjY0MywtMjA3NjU4
+Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4MzUsLTkyMjk1ODI3OC
+wxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEyODU0OTgwNSwzNjY5
+MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LDE0NDk0NTIxOD
+IsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkwMDM0NSwtMzU0
+OTYyNjk1XX0=
 -->
