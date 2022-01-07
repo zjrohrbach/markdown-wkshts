@@ -17,10 +17,7 @@ Agenda
 
 Announcements 
  -------------  
-- If I don't yet have your notebook with your egg drop lab, bring it next time!
-- If you were absent last time, make sure to watch this [video][pvid] about the Research Project
-- Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
-- Make sure you have all required materials on Monday/Tuesday. <sub>notebook, calculator, reading book</sub>
+*make sure to always have your calculator, reading book, and notebook*
 
 
 
@@ -30,7 +27,7 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUzNDUxMzUsLTE1MDY3NTQwOTMsMT
+eyJoaXN0b3J5IjpbLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMT
 M0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2
 NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5ND
 YsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgw
