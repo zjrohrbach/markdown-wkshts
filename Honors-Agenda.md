@@ -23,18 +23,18 @@ Homework
 - You can do the following on your syllabus: 
 	- 7.1-2 should be done
 	- 7.3 due Wed, Jan 12
-- Make sure your [Egg Dro
+- Make sure your [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/) is turned in.
 
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTExMjIzLDExNzEwMTkxNzUsLTkzNT
-UyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEyNjY0
-MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4MzUsLT
-kyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEyODU0
-OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LD
-E0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkw
-MDM0NV19
+eyJoaXN0b3J5IjpbLTU1ODQ0MTk3MCwxMTcxMDE5MTc1LC05Mz
+U1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2
+NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC
+05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1
+NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOS
+wxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0ODU5
+MDAzNDVdfQ==
 -->
