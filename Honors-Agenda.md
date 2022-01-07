@@ -8,11 +8,9 @@ Apply Momentum and Impulse to an egg drop.
 Agenda    
 ---------    
 
-1. Brief review of Momentum
-2. Talk about uploading homework assignments
-3. Notes on Impulse <sub> [video](https://www.youtube.com/watch?v=9VINYb4o9B8&feature=youtu.be)</sub>
-4. Finish the [Practice Problems](https://avon.schoology.com/page/5527381382) from last time
-5. Do the [Impulse Thinking Questions](https://avon.schoology.com/page/5527381356)
+1. Pre-Registration discussion: Physics II, AP Physics, and other science courses
+	- [Mr. Haiducu explains AP Physics](https://youtu.be/Zd0PrI21heQ)
+	- [AP Physics Testemonials](https://youtu.be/XN0Tq6K8uPw)
 
 
 
@@ -29,11 +27,11 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MTA2NDk3LDExNzEwMTkxNzUsLTkzNT
-UyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEyNjY0
-MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4MzUsLT
-kyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEyODU0
-OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LD
-E0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkw
-MDM0NV19
+eyJoaXN0b3J5IjpbLTE0NTIzOTkxMTUsMTE3MTAxOTE3NSwtOT
+M1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDczMDc0MiwtMTYzMTI2
+NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4OTgzNS
+wtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5MjkxNzA3LC0xMTI4
+NTQ5ODA1LDM2NjkzMzEyMywtMzE0MzY4MjEyLC03OTAyNjE3MD
+ksMTQ0OTQ1MjE4MiwtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1
+OTAwMzQ1XX0=
 -->
