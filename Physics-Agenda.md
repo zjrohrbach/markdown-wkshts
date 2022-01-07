@@ -11,7 +11,8 @@ Agenda
 
 1. SSR
 2. Talk about course Pre-Registration: Physics II and other options.
-3. F
+3. Do the [Project Topics Survey](https://avon.schoology.com/assignment/5526941952/)
+4. 
 
 Announcements 
  -------------  
@@ -28,7 +29,7 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM4NDA0NDAsMTM0NzA3NTIzNiwtMj
+eyJoaXN0b3J5IjpbLTE0OTU2NTgyMjUsMTM0NzA3NTIzNiwtMj
 AzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIx
 ODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NC
 w5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5
