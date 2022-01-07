@@ -10,7 +10,8 @@ Agenda
 ---------    
 
 1. SSR
-2. Talk about course Pre-Registration: Physics II an
+2. Talk about course Pre-Registration: Physics II and other options.
+3. 
 
 Announcements 
  -------------  
@@ -27,11 +28,11 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMxMjQ2NDcsLTIwMzAzOTA4MTYsLT
-E5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3
-MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEsLT
-U4MTgwOTE2NSwyMDc4MDE3MjU0LC0xMTQ5OTA0MzA4LC05NTk3
-MTYzNjQsLTE3NTU5Nzk5OTEsLTE2MDczMTcxNjcsLTE4NjMxNz
-I5NzksMTE3NTg2OTUyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3NjYs
-MTgzNDYwODg1N119
+eyJoaXN0b3J5IjpbMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMT
+k1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEsNjk1Mzcz
+MDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNT
+gxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgsLTk1OTcx
+NjM2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mj
+k3OSwxMTc1ODY5NTIyLDU0NjU3MDk0MSwtMTM2NzUyNDc2Niwx
+ODM0NjA4ODU3XX0=
 -->
