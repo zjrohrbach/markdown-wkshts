@@ -19,7 +19,7 @@ Agenda
 
 Homework  
 -------------    
-- If you were absent last time, make sure to watch this [video][pvid] about the Research Project
+- If you were absent last Tuesday, make sure to watch this [video][pvid] about the Research Project
 - You can do the following on your syllabus: 
 	- 7.1-2 should be done
 	- 7.3 due Wed, Jan 12
@@ -30,7 +30,7 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODQ0MTk3MCwxMTcxMDE5MTc1LC05Mz
+eyJoaXN0b3J5IjpbLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05Mz
 U1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2
 NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC
 05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1
