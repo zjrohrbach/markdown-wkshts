@@ -13,7 +13,7 @@ Agenda
 2. Talk about course Pre-Registration: Physics II and other options.
 3. Do the [Project Topics Survey](https://avon.schoology.com/assignment/5526941952/)
 4. Work on [Momentum #1](https://avon.schoology.com/course/5138386979/materials/gp/5541907087) <sub>[video hints](https://avon.schoology.com/course/5138386979/materials/gp/5526999264) (please note, the worksheet has changed since I made this video so some numbers might be different.)
-5. Conservation of Energy 
+5. Conservation of Energy Notes <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527000325)</sub>
 
 Announcements 
  -------------  
@@ -30,7 +30,7 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg4NjE3MjcsLTE1MDY3NTQwOTMsMT
+eyJoaXN0b3J5IjpbLTE5MDUzNDUxMzUsLTE1MDY3NTQwOTMsMT
 M0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2
 NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5ND
 YsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgw
