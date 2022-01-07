@@ -1,11 +1,9 @@
-Thu, Jan 6 / Fri Jan 7
+Mon, Jan 10
 =========    
   
 Objectives  
 ------------  
-- Review of classroom expectations.
-- Introduce this semester's project
-- Be introduced to the concepts of *momentum* and *impulse*. 
+Apply Momentum and Impulse to an egg drop.
  
 Agenda    
 ---------    
@@ -23,7 +21,7 @@ Homework
 - If you were absent last time, make sure to watch this [video][pvid] about the Research Project
 - Look at the Project Topics and be ready to pick one by Monday/Tuesday.  <sub>[link to topic list][ptop]</sub>
 - You can do the following on your syllabus: 
-	- 7.1-2 due Mon, Jan 10
+	- 7.1-2 should be done
 	- 7.3 due Wed, Jan 12
 
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
@@ -31,11 +29,11 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOT
-g3MzUzNjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2
-NzQzLDExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LD
-E0OTc4ODM0ODAsODk5MjkxNzA3LC0xMTI4NTQ5ODA1LDM2Njkz
-MzEyMywtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1MjE4Mi
-wtMjUzNjcwNTkwLC05NTUxMTMxODYsNDg1OTAwMzQ1LC0zNTQ5
-NjI2OTVdfQ==
+eyJoaXN0b3J5IjpbMzU3MTA2NDk3LDExNzEwMTkxNzUsLTkzNT
+UyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEyNjY0
+MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4MzUsLT
+kyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEyODU0
+OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LD
+E0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1MTEzMTg2LDQ4NTkw
+MDM0NV19
 -->
