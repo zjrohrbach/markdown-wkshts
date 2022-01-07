@@ -9,10 +9,11 @@ Objectives
 Agenda    
 ---------    
 
-1. SSR & Materials Check <sub> notebook, 
+1. SSR & Materials Check <sub>notebook, calculator, reading book</sub>
 2. Talk about course Pre-Registration: Physics II and other options.
 3. Do the [Project Topics Survey](https://avon.schoology.com/assignment/5526941952/)
-5. Work on [Momentum #1]() <sub>[video hints]() please note, the worksheet has changed since I made this video so some numbers might be different.
+4. Work on [Momentum #1](https://avon.schoology.com/course/5138386979/materials/gp/5541907087) <sub>[video hints](https://avon.schoology.com/course/5138386979/materials/gp/5526999264) (please note, the worksheet has changed since I made this video so some numbers might be different.)
+5. Conservation of Energy 
 
 Announcements 
  -------------  
@@ -29,11 +30,11 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjg0MjQ0MSwtMTUwNjc1NDA5MywxMz
-Q3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2NTA3NTA3LDE5MzY1
-MDczMTUsMjA5MjE4NTg5MSw2OTUzNzMwMjIsMTk4NDg2MTk0Ni
-wxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4MDkxNjUsMjA3ODAx
-NzI1NCwtMTE0OTkwNDMwOCwtOTU5NzE2MzY0LC0xNzU1OTc5OT
-kxLC0xNjA3MzE3MTY3LC0xODYzMTcyOTc5LDExNzU4Njk1MjIs
-NTQ2NTcwOTQxXX0=
+eyJoaXN0b3J5IjpbLTEzMzg4NjE3MjcsLTE1MDY3NTQwOTMsMT
+M0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2
+NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5ND
+YsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgw
+MTcyNTQsLTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OT
+k5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NTIy
+LDU0NjU3MDk0MV19
 -->
