@@ -1,17 +1,15 @@
-Thu, Jan 6 / Fri Jan 7
+Mon, Jan 10 / Tue, Jan 11
 =================== 
   
 Objectives  
 ------------  
-Apply the impulse-momentum theorem to a falling egg.
+- Be able to solve impulse-momentum problems
+- Be introduced to the Law of Conservation of Momentum
   
 Agenda    
 ---------    
 
-1. Brief Impulse-Momentum Review
-2. HW reminders
-3. Egg Drop Lab <sub>if absent, follow [these instructions][egg]</sub>
-4. Go to the library to pick up reading books.
+1. SSR (
 
 Announcements 
  -------------  
@@ -28,11 +26,11 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAzOTA4MTYsLTE5NTY1MDc1MDcsMT
-kzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3MzAyMiwxOTg0ODYx
-OTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMD
-c4MDE3MjU0LC0xMTQ5OTA0MzA4LC05NTk3MTYzNjQsLTE3NTU5
-Nzk5OTEsLTE2MDczMTcxNjcsLTE4NjMxNzI5NzksMTE3NTg2OT
-UyMiw1NDY1NzA5NDEsLTEzNjc1MjQ3NjYsMTgzNDYwODg1Nywy
-MTQxNjc0ODIzXX0=
+eyJoaXN0b3J5IjpbLTI2MzY3ODU1NCwtMjAzMDM5MDgxNiwtMT
+k1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEsNjk1Mzcz
+MDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNT
+gxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgsLTk1OTcx
+NjM2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mj
+k3OSwxMTc1ODY5NTIyLDU0NjU3MDk0MSwtMTM2NzUyNDc2Niwx
+ODM0NjA4ODU3XX0=
 -->
