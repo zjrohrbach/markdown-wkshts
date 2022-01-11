@@ -1,28 +1,23 @@
-Mon, Jan 10
+Wed, Jan 12
 =========    
   
 Objectives  
 ------------  
-Apply Momentum and Impulse to an egg drop.
+Be able to solve elastic and inelastic collision problems using only initial conditions.
  
 Agenda    
 ---------    
-
-1. Pre-Registration discussion: Physics II, AP Physics, and other science courses
-	- [Mr. Haiducu explains AP Physics](https://youtu.be/Zd0PrI21heQ)
-	- [AP Physics Testemonials](https://youtu.be/XN0Tq6K8uPw)
-2. Take the [Project Topic Survey](https://avon.schoology.com/assignment/5527196276/)
-3. Take questions over the Homework
-4. [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/)
+1. Finish the [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/)
+2. Take notes on Elastic and Inelastic Collisions <sub>[video]()</sub>
+3. Do the
 
 
 
 Homework  
 -------------    
-- If you were absent last Tuesday, make sure to watch this [video][pvid] about the Research Project
 - You can do the following on your syllabus: 
-	- 7.1-2 should be done
-	- 7.3 due Wed, Jan 12
+	- 7.1-2 and 7.3 should be done
+	- 7.4-5 due Tuesday
 - Make sure your [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/) is turned in.
 
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
@@ -30,11 +25,11 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05Mz
-U1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2
-NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC
-05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1
-NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOS
-wxNDQ5NDUyMTgyLC0yNTM2NzA1OTAsLTk1NTExMzE4Niw0ODU5
-MDAzNDVdfQ==
+eyJoaXN0b3J5IjpbMjEwMDUwMjkxOCwtNjY2OTYyODIwLDExNz
+EwMTkxNzUsLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3
+NDIsLTE2MzEyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LD
+E1Nzc5ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5
+MTcwNywtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMi
+wtNzkwMjYxNzA5LDE0NDk0NTIxODIsLTI1MzY3MDU5MCwtOTU1
+MTEzMTg2XX0=
 -->
