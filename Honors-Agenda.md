@@ -8,8 +8,8 @@ Be able to solve elastic and inelastic collision problems using only initial con
 Agenda    
 ---------    
 1. Finish the [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/)
-2. Take notes on Elastic and Inelastic Collisions <sub>[video]()</sub>
-3. Do the
+2. Take notes on Elastic and Inelastic Collisions <sub>[video](https://youtu.be/KBXz2C6_3Ns)</sub>
+3. Do the [Elastic Collisions Practice](https://avon.schoology.com/page/5551873779)
 
 
 
@@ -25,7 +25,7 @@ Homework
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDUwMjkxOCwtNjY2OTYyODIwLDExNz
+eyJoaXN0b3J5IjpbMTk4ODczMjY1MywtNjY2OTYyODIwLDExNz
 EwMTkxNzUsLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3
 NDIsLTE2MzEyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LD
 E1Nzc5ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5
