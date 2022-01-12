@@ -1,23 +1,20 @@
-Mon, Jan 10 / Tue, Jan 11
+Wed, Jan 12
 =================== 
   
 Objectives  
 ------------  
-- Be able to solve impulse-momentum problems
-- Be introduced to the Law of Conservation of Momentum
+- Be able to solve Conservation of Momentum problems.
+- Understand recoil from the perspective of momentum.
   
 Agenda    
 ---------    
 
-1. SSR & Materials Check <sub>notebook, calculator, reading book</sub>
-2. Talk about course Pre-Registration: Physics II and other options.
-3. Do the [Project Topics Survey](https://avon.schoology.com/assignment/5526941952/)
-4. Work on [Momentum #1](https://avon.schoology.com/course/5138386979/materials/gp/5541907087) <sub>[video hints](https://avon.schoology.com/course/5138386979/materials/gp/5526999264) (please note, the worksheet has changed since I made this video so some numbers might be different.)
-5. Conservation of Energy Notes <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527000325)</sub>
+1. SSR
+2. [Momentum 
 
 Announcements 
  -------------  
-*make sure to always have your calculator, reading book, and notebook*
+- Test coming up next Wednesday
 
 
 
@@ -27,11 +24,11 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMT
-M0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2
-NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5ND
-YsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgw
-MTcyNTQsLTExNDk5MDQzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OT
-k5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3OSwxMTc1ODY5NTIy
-LDU0NjU3MDk0MV19
+eyJoaXN0b3J5IjpbLTE5NTY4Nzc3ODAsLTE0Nzg0ODg2NzQsLT
+E1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1
+NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMD
+IyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgx
+ODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgsLTk1OTcxNj
+M2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3
+OSwxMTc1ODY5NTIyXX0=
 -->
