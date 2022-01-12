@@ -10,7 +10,7 @@ Agenda
 ---------    
 
 1. SSR
-2. [Momentum #2]()
+2. [Momentum #2](https://avon.schoology.com/course/5138386979/materials/gp/5553841108)
 3. Notes on Recoil <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527007782)</sub>
 4. [Recoil Exit Ticket](https://avon.schoology.com/page/5553837203)
 
@@ -26,11 +26,11 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzYyOTg4OSwtMTQ3ODQ4ODY3NCwtMT
-UwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2
-NTA3NTA3LDE5MzY1MDczMTUsMjA5MjE4NTg5MSw2OTUzNzMwMj
-IsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4
-MDkxNjUsMjA3ODAxNzI1NCwtMTE0OTkwNDMwOCwtOTU5NzE2Mz
-Y0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3LC0xODYzMTcyOTc5
-LDExNzU4Njk1MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLT
+E1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1
+NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEsNjk1MzczMD
+IyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MTQyMSwtNTgx
+ODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgsLTk1OTcxNj
+M2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2NywtMTg2MzE3Mjk3
+OSwxMTc1ODY5NTIyXX0=
 -->
