@@ -12,7 +12,7 @@ Agenda
 1. SSR
 2. [Momentum #2]()
 3. Notes on Recoil <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527007782)</sub>
-4. [Recoil Exit Ticket]()
+4. [Recoil Exit Ticket](https://avon.schoology.com/page/5553837203)
 
 Announcements 
  -------------  
@@ -26,7 +26,7 @@ Announcements
 
 [egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjYzNTIwNCwtMTQ3ODQ4ODY3NCwtMT
+eyJoaXN0b3J5IjpbMTk2NzYyOTg4OSwtMTQ3ODQ4ODY3NCwtMT
 UwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2
 NTA3NTA3LDE5MzY1MDczMTUsMjA5MjE4NTg5MSw2OTUzNzMwMj
 IsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4
