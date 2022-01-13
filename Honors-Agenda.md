@@ -7,8 +7,9 @@ Be able to solve collisions in two dimensions
  
 Agenda    
 ---------    
-1. Watch the Intro Video
-2. Check to make sure that are comfortable doing elastic collisions problems
+1. Watch the [Intro Video][intro-vid]
+2. Check to make sure that are comfortable doing elastic collisions problems by trying #25 on your syllabus.  If you need help, watch [this video][25].
+3. Do the [2D Collision Practice Problem] by watching [this video].
 
 
 
@@ -24,8 +25,12 @@ Homework
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
+[intro-vid]:
+[25]:
+[wksht]:
+[2D vid]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTEzNDYxMiwxOTg4NzMyNjUzLC02Nj
+eyJoaXN0b3J5IjpbMTE5NTIxNzM1MCwxOTg4NzMyNjUzLC02Nj
 Y5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUz
 NjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLD
 ExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0OTc4
