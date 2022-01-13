@@ -10,9 +10,11 @@ Agenda
 ---------    
 
 1. SSR
-2. Notes on Recoil <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527007782)</sub>
-3. [Recoil Practice Problem](https://avon.schoology.com/page/5553837203)
-4. [Momentum #3]()
+2. Reminder of what to do if you get quarantined or are otherwise absent.s
+3. Notes on Recoil <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5527007782)</sub>
+4. [Recoil Practice Problem](https://avon.schoology.com/page/5553837203)
+5. [Momentum #3](https://avon.schoology.com/course/5138386979/materials/gp/5558329073)
+6. (*time permitting*) Momentum and Impulse Clicker Activity
 
 Announcements 
  -------------  
@@ -23,14 +25,12 @@ Announcements
 [ptop]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
-
-[egg]: https://avon.schoology.com/assignment/5535693825/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ0NzUxNzAsLTE4MDYyMTA3NTYsLT
-E0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAz
-MDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxOD
-U4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5
-MDg4MTQyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MD
-QzMDgsLTk1OTcxNjM2NCwtMTc1NTk3OTk5MSwtMTYwNzMxNzE2
-NywtMTg2MzE3Mjk3OV19
+eyJoaXN0b3J5IjpbLTQ0NDgxMDYwNSwtMTgwNjIxMDc1NiwtMT
+Q3ODQ4ODY3NCwtMTUwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMw
+MzkwODE2LC0xOTU2NTA3NTA3LDE5MzY1MDczMTUsMjA5MjE4NT
+g5MSw2OTUzNzMwMjIsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkw
+ODgxNDIxLC01ODE4MDkxNjUsMjA3ODAxNzI1NCwtMTE0OTkwND
+MwOCwtOTU5NzE2MzY0LC0xNzU1OTc5OTkxLC0xNjA3MzE3MTY3
+LC0xODYzMTcyOTc5XX0=
 -->
