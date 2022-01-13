@@ -25,12 +25,12 @@ Homework
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 
-[intro-vid]:
-[25]:
+[intro-vid]: 1
+[25]: https://youtu.be/VwkVWOtUwVA?t=1191
 [wksht]: https://avon.schoology.com/page/5527381416
-[2D-vid]: 
+[2D-vid]:  1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzU5OTIzNCwxOTg4NzMyNjUzLC02Nj
+eyJoaXN0b3J5IjpbMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02Nj
 Y5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUz
 NjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLD
 ExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0OTc4
