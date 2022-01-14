@@ -1,15 +1,19 @@
-Fri, Jan 14 (Sub Plans)
+Tue, Jan 18
 =========    
   
 Objectives  
 ------------  
-Be able to solve collisions in two dimensions
+Be able to explain and calculate *center of mass* and articulate its connection to momentum.
  
 Agenda    
 ---------    
-1. Watch the [Intro Video][intro-vid]
-2. Check to make sure that are comfortable doing elastic collisions problems by trying #25 on your syllabus.  If you need help, watch [this video][25].
-3. Do the [2D Collision Practice Problem][wksht] by watching [this video][2D-vid].
+1. Take questions over the HW  
+2. Notes on **Center of Mass**  
+	- [Practice Problems][prob]  
+	- Extended Object Videos [#1](https://youtu.be/_DzgPB9646k) and [#2](https://youtu.be/DY3LYQv22qY)  
+	- CM and Momentum [Simulation](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html)  
+	- CM on a Surfboard [Video](https://youtu.be/QsGMKv8Lrew)  
+3. Take the **HW Quiz**
 
 
 
@@ -30,11 +34,11 @@ Homework
 [wksht]: https://avon.schoology.com/page/5527381416
 [2D-vid]:  1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02Nj
-Y5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUz
-NjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLD
-ExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0OTc4
-ODM0ODAsODk5MjkxNzA3LC0xMTI4NTQ5ODA1LDM2NjkzMzEyMy
-wtMzE0MzY4MjEyLC03OTAyNjE3MDksMTQ0OTQ1MjE4MiwtMjUz
-NjcwNTkwXX0=
+eyJoaXN0b3J5IjpbMTk0MDA4NTI1MiwxODM5MTQyOTMwLDE5OD
+g3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05MzU1MjQz
+MDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2NDMsLT
+IwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC05MjI5
+NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1NDk4MD
+UsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5
+NDUyMTgyXX0=
 -->
