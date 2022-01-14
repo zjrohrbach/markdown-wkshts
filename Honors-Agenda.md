@@ -9,7 +9,7 @@ Agenda
 ---------    
 1. Take questions over the HW  
 2. Notes on **Center of Mass**  
-	- [Practice Problems][prob]  
+	- [Practice Problems](https://avon.schoology.com/page/5527381430)
 	- Extended Object Videos [#1](https://youtu.be/_DzgPB9646k) and [#2](https://youtu.be/DY3LYQv22qY)  
 	- CM and Momentum [Simulation](https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html)  
 	- CM on a Surfboard [Video](https://youtu.be/QsGMKv8Lrew)  
@@ -19,10 +19,8 @@ Agenda
 
 Homework  
 -------------    
-- You can do the following on your syllabus: 
-	- 7.1-2 and 7.3 should be done
-	- 7.4-5 due Tuesday (*HW Quiz in class*)
-	- 7.7 due  Thursday
+- You can now do the rest of the syllabus.
+- Test day is **Mon, Jan 24
 - Make sure your [Egg Drop Lab](https://avon.schoology.com/assignment/5527380921/) is turned in.
 
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
@@ -34,11 +32,11 @@ Homework
 [wksht]: https://avon.schoology.com/page/5527381416
 [2D-vid]:  1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDA4NTI1MiwxODM5MTQyOTMwLDE5OD
-g3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05MzU1MjQz
-MDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2NDMsLT
-IwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3OTg5ODM1LC05MjI5
-NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MDcsLTExMjg1NDk4MD
-UsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5MDI2MTcwOSwxNDQ5
-NDUyMTgyXX0=
+eyJoaXN0b3J5IjpbNzIxNTAyNzk0LDE4MzkxNDI5MzAsMTk4OD
+czMjY1MywtNjY2OTYyODIwLDExNzEwMTkxNzUsLTkzNTUyNDMw
+OCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEyNjY0MywtMj
+A3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4MzUsLTkyMjk1
+ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEyODU0OTgwNS
+wzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkwMjYxNzA5LDE0NDk0
+NTIxODJdfQ==
 -->
