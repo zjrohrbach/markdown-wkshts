@@ -10,7 +10,7 @@ Agenda
 
 1. SSR
 2. (*Period 3*) Reminder of what to do if you get quarantined or are otherwise absent.
-3. [Conservation of Momentum Lab]()
+3. [Conservation of Momentum Lab](https://avon.schoology.com/course/5138386979/materials/gp/5566934480) <sub>if absent, send me a message so we can work out a way
 4. [Momentum Review Jeopardy](https://jeopardylabs.com/play/06-momentum-review-2) <sub>if absent click through the questions here</sub>
 
 Announcements 
@@ -23,11 +23,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAzNTQzNywxMTA2ODkxOTQ0LC0xMj
-U4Nzk4OTgwLDE1OTAwMzkxODgsLTE4MDYyMTA3NTYsLTE0Nzg0
-ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAzMDM5MD
-gxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEs
-Njk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5MDg4MT
-QyMSwtNTgxODA5MTY1LDIwNzgwMTcyNTQsLTExNDk5MDQzMDgs
-LTk1OTcxNjM2NF19
+eyJoaXN0b3J5IjpbMjM1NDg1NjA1LC0xNTUwMzU0MzcsMTEwNj
+g5MTk0NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEw
+NzU2LC0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMz
+YsLTIwMzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwy
+MDkyMTg1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nz
+g0OTQsOTA4ODE0MjEsLTU4MTgwOTE2NSwyMDc4MDE3MjU0LC0x
+MTQ5OTA0MzA4XX0=
 -->
