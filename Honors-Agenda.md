@@ -23,17 +23,12 @@ Homework
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
-
-[intro-vid]: 1
-[25]: https://youtu.be/VwkVWOtUwVA?t=1191
-[wksht]: https://avon.schoology.com/page/5527381416
-[2D-vid]:  1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODAyNDA4NiwxOTM2NDM4MTA4LDE4Mz
-kxNDI5MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMTkx
-NzUsLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLT
-E2MzEyNjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5
-ODk4MzUsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNy
-wtMTEyODU0OTgwNSwzNjY5MzMxMjMsLTMxNDM2ODIxMiwtNzkw
-MjYxNzA5XX0=
+eyJoaXN0b3J5IjpbLTcxOTc1MDU2LDE5MzY0MzgxMDgsMTgzOT
+E0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMTE3MTAxOTE3
+NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDczMDc0MiwtMT
+YzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4
+OTgzNSwtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5MjkxNzA3LC
+0xMTI4NTQ5ODA1LDM2NjkzMzEyMywtMzE0MzY4MjEyLC03OTAy
+NjE3MDldfQ==
 -->
