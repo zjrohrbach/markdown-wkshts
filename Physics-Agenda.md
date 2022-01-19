@@ -16,18 +16,18 @@ Announcements
  -------------  
 -I'll have topic assignments done by Monday
 
-[prob]: 
-[tst]: 
+[prob]: https://avon.schoology.com/page/5575708549
+[tst]: https://avon.schoology.com/assignment/5574857809/
 
 [ptop]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNzQzOTg4LDI2NTQ4OTYwNCwtMTU1MD
-M1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAsMTU5MDAzOTE4
-OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4ODY3NCwtMTUwNjc1NDA5My
-wxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2NTA3NTA3LDE5
-MzY1MDczMTUsMjA5MjE4NTg5MSw2OTUzNzMwMjIsMTk4NDg2MT
-k0NiwxNzQ2NDc4NDk0LDkwODgxNDIxLC01ODE4MDkxNjUsMjA3
-ODAxNzI1NF19
+eyJoaXN0b3J5IjpbLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1ND
+g5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4
+MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC
+0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5
+NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3Mz
+AyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEsLTU4
+MTgwOTE2NV19
 -->
