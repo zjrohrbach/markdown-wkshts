@@ -1,34 +1,30 @@
-Thu, Jan 20  
+Mon, Jan 24  
 ==================    
 
  Objectives  
 ------------  
-Review what we know about impulse, momentum, and center of mass.  
+Prove what you know about impulse, momentum, and center of mass.  
  
 Agenda    
 ---------    
-1. Hand back quizzes - ***Please remind me if I forget to do this!***  
-2. Take questions over the HW  
-3. Do the [Review PPT][ppt]  <sub>[video](https://youtu.be/SKuIQM7pR6U)</sub>
-
+1. Take Test
+2. Check your project assignment
 
 
 Homework  
 -------------    
-- Test Monday  
-- Syllabus due Monday  
-- I will (finally) have research topics assigned by Monday  
+- T
   
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5527381456
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwxOD
-M5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMDE5
-MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC
-0xNjMxMjY2NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwxNTc3
-OTg5ODM1LC05MjI5NTgyNzgsMTQ5Nzg4MzQ4MCw4OTkyOTE3MD
-csLTExMjg1NDk4MDUsMzY2OTMzMTIzLC0zMTQzNjgyMTIsLTc5
-MDI2MTcwOV19
+eyJoaXN0b3J5IjpbLTE3NTUwNTUzMTQsLTIwMDk2MTc1MzIsMT
+kzNjQzODEwOCwxODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2
+MjgyMCwxMTcxMDE5MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NS
+wtMTMwNzMwNzQyLC0xNjMxMjY2NDMsLTIwNzY1ODY3NDMsMTE4
+NDY1NTA2OSwxNTc3OTg5ODM1LC05MjI5NTgyNzgsMTQ5Nzg4Mz
+Q4MCw4OTkyOTE3MDcsLTExMjg1NDk4MDUsMzY2OTMzMTIzLC0z
+MTQzNjgyMTJdfQ==
 -->
