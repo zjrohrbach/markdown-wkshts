@@ -13,14 +13,14 @@ Agenda
 
 Homework  
 -------------    
-- T
+- You can get started on your project.  We will spend next Monday in the library working on it.
   
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5527381456
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUwNTUzMTQsLTIwMDk2MTc1MzIsMT
+eyJoaXN0b3J5IjpbLTE0NTYwOTMwOTAsLTIwMDk2MTc1MzIsMT
 kzNjQzODEwOCwxODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2
 MjgyMCwxMTcxMDE5MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NS
 wtMTMwNzMwNzQyLC0xNjMxMjY2NDMsLTIwNzY1ODY3NDMsMTE4
