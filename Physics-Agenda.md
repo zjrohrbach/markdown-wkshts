@@ -11,7 +11,7 @@ Agenda
 1. SSR
 2. Check your [Research Project Topic assignments][ptop]
 3. Do the [Work and Power Reading][1] and answer the [questions][2].
-4. [Momentum #1][3]
+4. [Energy #1][3]
 
 Announcements 
  -------------  
@@ -28,11 +28,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4NDM0MjYsLTc3NzgzOTMyMCw2OT
-A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
-NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC
-0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIw
-MzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMT
-g1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQs
-OTA4ODE0MjFdfQ==
+eyJoaXN0b3J5IjpbLTUyOTkxOTY5OCwtNzc3ODM5MzIwLDY5MD
+c0Mzk4OCwyNjU0ODk2MDQsLTE1NTAzNTQzNywxMTA2ODkxOTQ0
+LC0xMjU4Nzk4OTgwLDE1OTAwMzkxODgsLTE4MDYyMTA3NTYsLT
+E0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAz
+MDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxOD
+U4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5
+MDg4MTQyMV19
 -->
