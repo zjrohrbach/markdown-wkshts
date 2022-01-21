@@ -3,13 +3,13 @@ Mon, Jan 24 / Tue, Jan 25
   
 Objectives  
 ------------  
-- B
+- Be able to describe work, energy, and the connection between them.
+
 Agenda    
 ---------    
 
 1. SSR
-2. [Review Problems][prob]
-3. Take the test ([Computer Portion][tst])
+2. Do the [Work and Poa
 
 Announcements 
  -------------  
@@ -22,11 +22,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg4MTIxMTcsLTc3NzgzOTMyMCw2OT
-A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
-NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC
-0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIw
-MzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMT
-g1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQs
-OTA4ODE0MjFdfQ==
+eyJoaXN0b3J5IjpbNjI5MDA2MzQyLC03Nzc4MzkzMjAsNjkwNz
+QzOTg4LDI2NTQ4OTYwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQs
+LTEyNTg3OTg5ODAsMTU5MDAzOTE4OCwtMTgwNjIxMDc1NiwtMT
+Q3ODQ4ODY3NCwtMTUwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMw
+MzkwODE2LC0xOTU2NTA3NTA3LDE5MzY1MDczMTUsMjA5MjE4NT
+g5MSw2OTUzNzMwMjIsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkw
+ODgxNDIxXX0=
 -->
