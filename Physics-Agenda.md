@@ -9,11 +9,17 @@ Agenda
 ---------    
 
 1. SSR
-2. Do the [Work and Poa
+2. Check your [Research Project Topic assignments][ptop]
+3. Do the [Work and Power Reading][1] and answer the [questions][2].
+4. [Momentum #1][3]
 
 Announcements 
  -------------  
--I'll have topic assignments done by Monday
+- We will be in the library doing research on Monday.
+
+[1]: 
+[2]: 
+[3]: 
 
 [prob]: https://avon.schoology.com/page/5575708549
 [tst]: https://avon.schoology.com/assignment/5574857809/
@@ -22,11 +28,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MDA2MzQyLC03Nzc4MzkzMjAsNjkwNz
-QzOTg4LDI2NTQ4OTYwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQs
-LTEyNTg3OTg5ODAsMTU5MDAzOTE4OCwtMTgwNjIxMDc1NiwtMT
-Q3ODQ4ODY3NCwtMTUwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMw
-MzkwODE2LC0xOTU2NTA3NTA3LDE5MzY1MDczMTUsMjA5MjE4NT
-g5MSw2OTUzNzMwMjIsMTk4NDg2MTk0NiwxNzQ2NDc4NDk0LDkw
-ODgxNDIxXX0=
+eyJoaXN0b3J5IjpbLTE0ODk4NDM0MjYsLTc3NzgzOTMyMCw2OT
+A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
+NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC
+0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIw
+MzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMT
+g1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQs
+OTA4ODE0MjFdfQ==
 -->
