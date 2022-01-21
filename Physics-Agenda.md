@@ -17,9 +17,9 @@ Announcements
  -------------  
 - We will be in the library doing research on Monday.
 
-[1]: 
-[2]: 
-[3]: 
+[1]: https://avon.schoology.com/course/5138386979/materials/gp/5589811889
+[2]: https://avon.schoology.com/course/5138386979/materials/gp/5589811879
+[3]: https://avon.schoology.com/course/5138386979/materials/gp/5589812320
 
 [prob]: https://avon.schoology.com/page/5575708549
 [tst]: https://avon.schoology.com/assignment/5574857809/
@@ -28,11 +28,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTkxOTY5OCwtNzc3ODM5MzIwLDY5MD
-c0Mzk4OCwyNjU0ODk2MDQsLTE1NTAzNTQzNywxMTA2ODkxOTQ0
-LC0xMjU4Nzk4OTgwLDE1OTAwMzkxODgsLTE4MDYyMTA3NTYsLT
-E0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAz
-MDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxOD
-U4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYsMTc0NjQ3ODQ5NCw5
-MDg4MTQyMV19
+eyJoaXN0b3J5IjpbLTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OT
+A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
+NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC
+0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIw
+MzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMT
+g1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQs
+OTA4ODE0MjFdfQ==
 -->
