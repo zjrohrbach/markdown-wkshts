@@ -1,10 +1,9 @@
-Thu, Jan 20 / Fri, Jan 21
+Mon, Jan 24 / Tue, Jan 25
 =================== 
   
 Objectives  
 ------------  
-- Prove what you know about momentum and impulse
-
+- B
 Agenda    
 ---------    
 
@@ -23,11 +22,11 @@ Announcements
 [pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1ND
-g5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4
-MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC
-0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5
-NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3Mz
-AyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQsOTA4ODE0MjEsLTU4
-MTgwOTE2NV19
+eyJoaXN0b3J5IjpbLTE2MDg4MTIxMTcsLTc3NzgzOTMyMCw2OT
+A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
+NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC
+0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIw
+MzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwyMDkyMT
+g1ODkxLDY5NTM3MzAyMiwxOTg0ODYxOTQ2LDE3NDY0Nzg0OTQs
+OTA4ODE0MjFdfQ==
 -->
