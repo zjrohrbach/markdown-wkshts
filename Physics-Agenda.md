@@ -10,18 +10,19 @@ Agenda
 
 1. Review what we learned yesterday about work and power
 2. [Warmup Questions](https://avon.schoology.com/page/5607377800)
-3. Notes on Kinetic and Potential Energy <sub>
+3. Notes on Kinetic and Potential Energy <sub>[video](https://youtu.be/8I8XQ2gI4Zc)</sub>
+4. Do [Energy #2](https://avon.schoology.com/course/5138386979/materials/gp/5607882775)
 
 Announcements 
  -------------  
 - We will be in the library doing research on Monday.
 - *If you were absent last class, you still need to do the Stair Lab.  Follow [these instructions](https://avon.schoology.com/page/5607350453)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwND
-gwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0
-LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4MCwxNT
-kwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC0xNTA2
-NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5NTY1MD
-c1MDcsMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3MzAyMiwx
-OTg0ODYxOTQ2XX0=
+eyJoaXN0b3J5IjpbLTk5MDYwNTc3MCwxMTkzNDk1ODIsLTI5MD
+A2OTAxMCwtMTA0ODAwMTM0NSwtNzc3ODM5MzIwLDY5MDc0Mzk4
+OCwyNjU0ODk2MDQsLTE1NTAzNTQzNywxMTA2ODkxOTQ0LC0xMj
+U4Nzk4OTgwLDE1OTAwMzkxODgsLTE4MDYyMTA3NTYsLTE0Nzg0
+ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAzMDM5MD
+gxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIwOTIxODU4OTEs
+Njk1MzczMDIyXX0=
 -->
