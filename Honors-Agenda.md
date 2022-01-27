@@ -1,14 +1,15 @@
-Mon, Jan 24
+Wed, Jan 26
 ==================    
 
  Objectives  
 ------------  
-Prove what you know about impulse, momentum, and center of mass.  
+Be introduced to the rotational analogues of kinematic quantities
  
 Agenda    
 ---------    
-1. Take Test
-2. Check your [project assignment][ptop]
+1. Check your [project assignments][ptop]
+2. Notes on Rotational Kinematics <sub>[video](https://youtu.be/-Sh1YxGW9Zs)</sub>
+3. Do the [Angular Quantities Practice](https://avon.schoology.com/page/5527383951)
 
 
 Homework  
@@ -20,11 +21,11 @@ Homework
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDY3MDc0LDUzNDczODYyNiwtMTQ1Nj
-A5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4MzkxNDI5
-MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMTkxNzUsLT
-kzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIsLTE2MzEy
-NjY0MywtMjA3NjU4Njc0MywxMTg0NjU1MDY5LDE1Nzc5ODk4Mz
-UsLTkyMjk1ODI3OCwxNDk3ODgzNDgwLDg5OTI5MTcwNywtMTEy
-ODU0OTgwNV19
+eyJoaXN0b3J5IjpbMTM1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0Nz
+M4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5MzY0Mzgx
+MDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMT
+E3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDcz
+MDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNj
+ksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5
+MjkxNzA3XX0=
 -->
