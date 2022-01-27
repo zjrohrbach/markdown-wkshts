@@ -1,35 +1,27 @@
-Wed, Jan 26
+Thus, Jan 27 / Fri, Jan 28
 =================== 
   
 Objectives  
 ------------  
-- Be able to describe work, power, and the connection between them.
+- Be able to describe and calculate kinetic and potential energy.
 
 Agenda    
 ---------    
 
 1. Review what we learned yesterday about work and power
-2. Do the [Stair Lab][st-lab]
-
-*If you were absent, you still need to do the Stair Lab.  Follow [these instructions](https://avon.schoology.com/page/5607350453)*
+2. [Warmup Questions](https://avon.schoology.com/page/5607377800)
+3. Notes on Kinetic and Potential Energy <sub>
 
 Announcements 
  -------------  
 - We will be in the library doing research on Monday.
-
-
-[st-lab]: https://avon.schoology.com/course/5138386979/materials/gp/5607331272
-
-
-[ptop]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
-[pasmt]: https://avon.schoology.com/course/5138386979/materials/gp/5526865983
-[pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
+- *If you were absent last class, you still need to do the Stair Lab.  Follow [these instructions](https://avon.schoology.com/page/5607350453)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDA2OTAxMCwtMTA0ODAwMTM0NSwtNz
-c3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0ODk2MDQsLTE1NTAzNTQz
-NywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgwLDE1OTAwMzkxODgsLT
-E4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMTM0
-NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NT
-A3MzE1LDIwOTIxODU4OTEsNjk1MzczMDIyLDE5ODQ4NjE5NDYs
-MTc0NjQ3ODQ5NF19
+eyJoaXN0b3J5IjpbMTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwND
+gwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0
+LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4MCwxNT
+kwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC0xNTA2
+NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5NTY1MD
+c1MDcsMTkzNjUwNzMxNSwyMDkyMTg1ODkxLDY5NTM3MzAyMiwx
+OTg0ODYxOTQ2XX0=
 -->
