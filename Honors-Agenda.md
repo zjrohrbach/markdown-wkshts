@@ -17,14 +17,16 @@ Agenda
 Homework  
 -------------    
 - You can get started on your project.  Your topic is [here][ptop].  We will spend next Monday in the library working on it.
-- 
+- Syllabus
+	- 8.1 due Wed
+	- 8.2-3 due Wed
   
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5527381456
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQxMTM3MjgsMTM1OTIwMzM1MSw4ND
+eyJoaXN0b3J5IjpbLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4ND
 Q0NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3
 NTMyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC
 02NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3
