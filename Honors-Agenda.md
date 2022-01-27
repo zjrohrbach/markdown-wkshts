@@ -1,15 +1,17 @@
-Wed, Jan 26
-==================    
+Fri, Jan 28
+=========    
 
  Objectives  
 ------------  
-Be introduced to the rotational analogues of kinematic quantities
+- Learn the rotational analogue to the kinematic equations.
+- Practice rotational kinematics problems.
  
 Agenda    
 ---------    
-1. Check your [project assignments][ptop]
-2. Notes on Rotational Kinematics <sub>[video](https://youtu.be/-Sh1YxGW9Zs)</sub>
-3. Do the [Angular Quantities Practice](https://avon.schoology.com/page/5527383951)
+1. [Warmup Question](https://avon.schoology.com/page/5527383982)
+2. Notes on the Rotational Kinematic Equations <sub></sub>
+3. Practice Problem
+4. Work time
 
 
 Homework  
@@ -21,11 +23,11 @@ Homework
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0Nz
-M4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5MzY0Mzgx
-MDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMT
-E3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDcz
-MDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNj
-ksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0OTc4ODM0ODAsODk5
-MjkxNzA3XX0=
+eyJoaXN0b3J5IjpbLTE1MTU3MTEwNDUsMTM1OTIwMzM1MSw4ND
+Q0NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3
+NTMyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC
+02NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3
+MzUzNjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2Nz
+QzLDExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0
+OTc4ODM0ODBdfQ==
 -->
