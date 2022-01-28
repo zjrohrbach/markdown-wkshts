@@ -1,22 +1,25 @@
-Fri, Jan 28
+Mon, Jan 31
 =========    
 
  Objectives  
 ------------  
-- Learn the rotational analogue to the kinematic equations.
-- Practice rotational kinematics problems.
+Start doing research on your project
+
  
 Agenda    
 ---------    
-1. [Warmup Question](https://avon.schoology.com/page/5527383982)
-2. Notes on the Rotational Kinematic Equations <sub>[video](https://youtu.be/1dgEz3J_0vk)</sub>
-3. [Practice Problem](https://avon.schoology.com/page/5527383966)
-4. Work time
+1. Project Reminders 
+	- If you weren't here on the day I presented the project (the 2nd day of school), start by watching [this video][pvid]
+	- If you've forgotten your topic, check [here][ptop]
+2. Handout the [Workday #1 guidelines][w1] <sub>[video if absent](https://www.youtube.com/watch?v=1rucky9kzSI)</sub>
+3. Go through some [example annotated bibs][ex]
+4. Go to the library
+5. At the end of the period: talk about citations.
 
 
 Homework  
 -------------    
-- You can get started on your project.  Your topic is [here][ptop].  We will spend next Monday in the library working on it.
+- Your [Annotated Bibliography][bib] needs to be uploaded to Schoology by Sunday evening.
 - Syllabus
 	- 8.1 due Wed
 	- 8.2-3 due Wed
@@ -25,12 +28,15 @@ Homework
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
 [pvid]: https://avon.schoology.com/course/5138386920/materials/gp/5527196182
+[w1]: https://avon.schoology.com/course/5138386920/materials/gp/5612372461
+[ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
+[bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4ND
-Q0NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3
-NTMyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC
-02NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3
-MzUzNjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2Nz
-QzLDExODQ2NTUwNjksMTU3Nzk4OTgzNSwtOTIyOTU4Mjc4LDE0
-OTc4ODM0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM4ODE0OTQsLTEyMzMyMTU0MDQsMT
+M1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkz
+MDkwLC0yMDA5NjE3NTMyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMC
+wxOTg4NzMyNjUzLC02NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1
+NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDczMDc0MiwtMTYzMTI2Nj
+QzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjksMTU3Nzk4OTgzNSwt
+OTIyOTU4Mjc4XX0=
 -->
