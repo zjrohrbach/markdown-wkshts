@@ -3,8 +3,8 @@ Mon, Jan 31 / Tue, Feb 1
   
 Objectives  
 ------------  
-Start doing research on your project
-
+- Learn the rotational analogue to the kinematic equations.
+- Practice rotational kinematics problems.
 
 Agenda    
 ---------    
@@ -26,13 +26,13 @@ Announcements
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 [w1]: https://avon.schoology.com/course/5138386979/materials/gp/5612366620
 [bib]: https://avon.schoology.com/assignment/5526830221/
-[ex]:
+[ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzM3ODkwMyw0MjQyMDczOSwtOTkwNj
-A1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1
-LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NTQ4OTYwNCwtMTU1MD
-M1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAsMTU5MDAzOTE4
-OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4ODY3NCwtMTUwNjc1NDA5My
-wxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2NTA3NTA3LDE5
-MzY1MDczMTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzEzNzUxNDEsNDI0MjA3MzksLTk5MD
+YwNTc3MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwtMTA0ODAwMTM0
+NSwtNzc3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0ODk2MDQsLTE1NT
+AzNTQzNywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgwLDE1OTAwMzkx
+ODgsLTE4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOT
+MsMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywx
+OTM2NTA3MzE1XX0=
 -->
