@@ -12,8 +12,9 @@ Agenda
 1. Project Reminders 
 	- If you weren't here on the day I presented the project (the 2nd day of school), start by watching [this video][pvid]
 	- If you've forgotten your topic, check [here][ptop]
-3. Handout the [Workday #1 guidelines][w1] <sub>[video if absent](https://www.youtube.com/watch?v=1rucky9kzSI)</sub>
-4. Go through s
+2. Handout the [Workday #1 guidelines][w1] <sub>[video if absent](https://www.youtube.com/watch?v=1rucky9kzSI)</sub>
+3. Go through some example 
+4. Go to the library
 
 Announcements 
  -------------  
@@ -25,11 +26,11 @@ Announcements
 [pvid]: https://avon.schoology.com/course/5138386979/materials/gp/5526830072
 [w1]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTgwNDQzLC05OTA2MDU3NzAsMTE5Mz
-Q5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMy
-MCw2OTA3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNj
-g5MTk0NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEw
-NzU2LC0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcwNzUyMz
-YsLTIwMzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkzNjUwNzMxNSwy
-MDkyMTg1ODkxXX0=
+eyJoaXN0b3J5IjpbNDI0MjA3MzksLTk5MDYwNTc3MCwxMTkzND
+k1ODIsLTI5MDA2OTAxMCwtMTA0ODAwMTM0NSwtNzc3ODM5MzIw
+LDY5MDc0Mzk4OCwyNjU0ODk2MDQsLTE1NTAzNTQzNywxMTA2OD
+kxOTQ0LC0xMjU4Nzk4OTgwLDE1OTAwMzkxODgsLTE4MDYyMTA3
+NTYsLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOTMsMTM0NzA3NTIzNi
+wtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywxOTM2NTA3MzE1LDIw
+OTIxODU4OTFdfQ==
 -->
