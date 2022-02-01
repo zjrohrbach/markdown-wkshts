@@ -13,7 +13,7 @@ Agenda
 2. [Annotated Bibliography][bib] reminder
 3. [Proportionality Warmup Questions](https://avon.schoology.com/page/5620805132)
 4. Notes on Conservation of Energy <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5620826620)</sub>
-5. [Energy #3]()
+5. [Energy #3](https://avon.schoology.com/course/5138386979/materials/gp/5620897681)
 6. Work on Test Corrections
 
 
@@ -22,6 +22,7 @@ Announcements
  
 - Your [Annotated Bibliography][bib] needs to be uploaded to Schoology by Sunday evening.
 - Read the [agenda from yesterday][ag] if you were absent for the in-class project work day.
+- Remember to work on your test corrections. <sub>[see test correction guidelines]()</sub>
 
 [ag]: https://avon.schoology.com/page/5612369245
 
@@ -32,11 +33,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMjM4NTIwLDE4NTY2Mjg0NSw0MjQyMD
-czOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0x
-MDQ4MDAxMzQ1LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NTQ4OT
-YwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAs
-MTU5MDAzOTE4OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4ODY3NCwtMT
-UwNjc1NDA5MywxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2
-NTA3NTA3XX0=
+eyJoaXN0b3J5IjpbLTIwMjAxMDM0MzYsMTg1NjYyODQ1LDQyND
+IwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTAs
+LTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1ND
+g5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4
+MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC
+0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5
+NTY1MDc1MDddfQ==
 -->
