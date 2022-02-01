@@ -9,6 +9,8 @@ Start doing research on your project
 Agenda    
 ---------    
 1. Take questions over the HW
+2. Notes on Rotational Dynamics, Torque, and Moment of Inertia <sub>[video #1](https://youtu.be/3uWwm-jut74), </sub>
+3. [Torque Practice Problems](https://avon.schoology.com/page/5621287392)
 
 
 Homework  
@@ -16,7 +18,7 @@ Homework
 - Read the [agenda from yesterday][ag] if you were absent for the in-class project work day.
 - Your [Annotated Bibliography][bib] needs to be uploaded to Schoology by Sunday evening.
 - Syllabus
-	- 8.1 and 8.2-3 should be done - **HW quiz on Friday**
+	- 8.1 and 8.2-3 should be done - **HW quiz next time**
 	- 8.4 due Monday
   
 [ag]: https://avon.schoology.com/page/5612374108
@@ -28,11 +30,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODQ0Mjk3NCwtMTUxMzg4MTQ5NCwtMT
-IzMzIxNTQwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2
-MjYsLTE0NTYwOTMwOTAsLTIwMDk2MTc1MzIsMTkzNjQzODEwOC
-wxODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcx
-MDE5MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNz
-QyLC0xNjMxMjY2NDMsLTIwNzY1ODY3NDMsMTE4NDY1NTA2OSwx
-NTc3OTg5ODM1XX0=
+eyJoaXN0b3J5IjpbLTEzNjA0ODcyNzEsLTE1MTM4ODE0OTQsLT
+EyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0NzM4
+NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5MzY0MzgxMD
+gsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMTE3
+MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDczMD
+c0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjks
+MTU3Nzk4OTgzNV19
 -->
