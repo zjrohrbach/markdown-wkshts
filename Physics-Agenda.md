@@ -11,7 +11,8 @@ Agenda
 
 1. SSR
 2. [Annotated Bibliography][bib] reminder
-3. 
+3. [Proportionality Warmup Questions](https://avon.schoology.com/page/5620805132)
+4. N
 
 
 Announcements 
@@ -29,11 +30,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE5MTkwNjMsNDI0MjA3MzksLTk5MD
-YwNTc3MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwtMTA0ODAwMTM0
-NSwtNzc3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0ODk2MDQsLTE1NT
-AzNTQzNywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgwLDE1OTAwMzkx
-ODgsLTE4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLTE1MDY3NTQwOT
-MsMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1NjUwNzUwNywx
-OTM2NTA3MzE1XX0=
+eyJoaXN0b3J5IjpbLTc5OTA5MzI0MCw0MjQyMDczOSwtOTkwNj
+A1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1
+LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NTQ4OTYwNCwtMTU1MD
+M1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAsMTU5MDAzOTE4
+OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4ODY3NCwtMTUwNjc1NDA5My
+wxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2NTA3NTA3LDE5
+MzY1MDczMTVdfQ==
 -->
