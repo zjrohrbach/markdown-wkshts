@@ -1,4 +1,4 @@
-Mon, Jan 31
+Wed, Feb 2
 =========    
 
  Objectives  
@@ -9,7 +9,7 @@ Start doing research on your project
 Agenda    
 ---------    
 1. Take questions over the HW
-2. Notes on Rotational Dynamics, Torque, and Moment of Inertia <sub>[video #1](https://youtu.be/3uWwm-jut74), </sub>
+2. Notes on Rotational Dynamics, Torque, and Moment of Inertia <sub>[video #1](https://youtu.be/3uWwm-jut74), [video #2](https://youtu.be/iTQL4zDhPKk?t=1377)</sub>
 3. [Torque Practice Problems](https://avon.schoology.com/page/5621287392)
 
 
@@ -30,7 +30,7 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0ODcyNzEsLTE1MTM4ODE0OTQsLT
+eyJoaXN0b3J5IjpbLTE2NjQ0Nzg4OTksLTE1MTM4ODE0OTQsLT
 EyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0NzM4
 NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5MzY0MzgxMD
 gsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMTE3
