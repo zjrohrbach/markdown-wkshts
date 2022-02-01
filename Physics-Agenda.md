@@ -22,7 +22,7 @@ Announcements
  
 - Your [Annotated Bibliography][bib] needs to be uploaded to Schoology by Sunday evening.
 - Read the [agenda from yesterday][ag] if you were absent for the in-class project work day.
-- Remember to work on your test corrections. <sub>[see test correction guidelines]()</sub>
+- Remember to work on your test corrections. <sub>[see test correction guidelines](https://avon.schoology.com/page/5620905535)</sub>
 
 [ag]: https://avon.schoology.com/page/5612369245
 
@@ -33,11 +33,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAxMDM0MzYsMTg1NjYyODQ1LDQyND
-IwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTAs
-LTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1ND
-g5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4
-MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC
-0xNTA2NzU0MDkzLDEzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5
-NTY1MDc1MDddfQ==
+eyJoaXN0b3J5IjpbMTg2NDQ4MzQ3OCwxODU2NjI4NDUsNDI0Mj
+A3MzksLTk5MDYwNTc3MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwt
+MTA0ODAwMTM0NSwtNzc3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0OD
+k2MDQsLTE1NTAzNTQzNywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgw
+LDE1OTAwMzkxODgsLTE4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLT
+E1MDY3NTQwOTMsMTM0NzA3NTIzNiwtMjAzMDM5MDgxNiwtMTk1
+NjUwNzUwN119
 -->
