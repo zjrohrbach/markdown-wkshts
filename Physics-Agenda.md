@@ -12,7 +12,8 @@ Agenda
 1. SSR
 2. [Annotated Bibliography][bib] reminder
 3. [Proportionality Warmup Questions](https://avon.schoology.com/page/5620805132)
-4. N
+4. Notes on Conservation of Energy <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5620826620)</sub>
+5. Work on Test Corrections
 
 
 Announcements 
@@ -30,11 +31,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTA5MzI0MCw0MjQyMDczOSwtOTkwNj
-A1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1
-LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NTQ4OTYwNCwtMTU1MD
-M1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAsMTU5MDAzOTE4
-OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4ODY3NCwtMTUwNjc1NDA5My
-wxMzQ3MDc1MjM2LC0yMDMwMzkwODE2LC0xOTU2NTA3NTA3LDE5
-MzY1MDczMTVdfQ==
+eyJoaXN0b3J5IjpbMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MD
+U3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUs
+LTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMz
+U0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4
+LC0xODA2MjEwNzU2LC0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLD
+EzNDcwNzUyMzYsLTIwMzAzOTA4MTYsLTE5NTY1MDc1MDcsMTkz
+NjUwNzMxNV19
 -->
