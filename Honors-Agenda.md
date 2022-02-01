@@ -3,8 +3,7 @@ Wed, Feb 2
 
  Objectives  
 ------------  
-Start doing research on your project
-
+- Be able to connect translational dynamics to rotational dynamics.
  
 Agenda    
 ---------    
@@ -30,11 +29,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ0Nzg4OTksLTE1MTM4ODE0OTQsLT
-EyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNzQsNTM0NzM4
-NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5MzY0MzgxMD
-gsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5NjI4MjAsMTE3
-MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUsLTEzMDczMD
-c0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQzLDExODQ2NTUwNjks
-MTU3Nzk4OTgzNV19
+eyJoaXN0b3J5IjpbLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLT
+E1MTM4ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0
+NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NT
+MyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02
+NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3Mz
+UzNjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQz
+LDExODQ2NTUwNjldfQ==
 -->
