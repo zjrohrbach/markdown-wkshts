@@ -19,6 +19,7 @@ Homework
 - Syllabus
 	- 8.1 and 8.2-3 should be done - **HW quiz next time**
 	- 8.4 due Monday
+- [Test Correctio
   
 [ag]: https://avon.schoology.com/page/5612374108
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5527381456
@@ -29,11 +30,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLT
-E1MTM4ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0
-NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NT
-MyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02
-NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3Mz
-UzNjUsLTEzMDczMDc0MiwtMTYzMTI2NjQzLC0yMDc2NTg2NzQz
-LDExODQ2NTUwNjldfQ==
+eyJoaXN0b3J5IjpbMTM4NDYyODQ4OSwtMTE5NTYzNDIxMywtMT
+Y2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5
+MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOT
+AsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwxODM5MTQyOTMwLDE5
+ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05MzU1Mj
+QzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2NDMs
+LTIwNzY1ODY3NDNdfQ==
 -->
