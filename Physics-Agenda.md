@@ -1,4 +1,4 @@
-Mon, Jan 31 / Tue, Feb 1
+Wed, Feb 2
 =================== 
   
 Objectives  
@@ -33,7 +33,7 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [ex]: https://avon.schoology.com/course/5138386979/materials/gp/5612321363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDQ4MzQ3OCwxODU2NjI4NDUsNDI0Mj
+eyJoaXN0b3J5IjpbMTE3MDkxMjk3NywxODU2NjI4NDUsNDI0Mj
 A3MzksLTk5MDYwNTc3MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwt
 MTA0ODAwMTM0NSwtNzc3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0OD
 k2MDQsLTE1NTAzNTQzNywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgw
