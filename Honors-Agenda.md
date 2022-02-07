@@ -8,8 +8,8 @@ Mon, Feb 7
 Agenda    
 ---------    
 1. Take questions over the HW
-2. Notes on Rotational Dynamics, Torque, and Moment of Inertia <sub>[video #1](https://youtu.be/3uWwm-jut74), [video #2](https://youtu.be/iTQL4zDhPKk?t=1377)</sub>
-3. [Torque Practice Problems](https://avon.schoology.com/page/5621287392)
+2. Do the [Torque Lab](https://avon.schoology.com/assignment/5527383489/)
+3. Take the HW quiz
 
 
 Homework  
@@ -30,11 +30,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC0xMT
-k1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0xMjMz
-MjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUzNDczODYyNi
-wtMTQ1NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4
-MzkxNDI5MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMT
-kxNzUsLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIs
-LTE2MzEyNjY0M119
+eyJoaXN0b3J5IjpbLTk5MjE2NTI1NCwxODYzOTIzMDY5LDIxMD
+A2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLTE1MTM4
+ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNz
+QsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5
+MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02NjY5Nj
+I4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4LC0xOTg3MzUzNjUs
+LTEzMDczMDc0Ml19
 -->
