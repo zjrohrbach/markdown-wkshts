@@ -14,14 +14,14 @@ Agenda
 
 Homework  
 -------------    
-- Read the [agenda from yesterday][ag] if you were absent for the in-class project work day.
-- Your [Annotated Bibliography][bib] needs to be uploaded to Schoology by Sunday evening.
+
+- Make sure you've done your [E-Learning][e-learn]
+- Your [Annotated Bibliography][bib] should be uploaded to 
 - Syllabus
-	- 8.1 and 8.2-3 should be done - **HW quiz next time**
-	- 8.4 due Monday
-- [Test Corrections](https://avon.schoology.com/assignment/5527381127/) due Fri, Feb 11
+	- 8.4 and 8.5-6 due ~~Monday~~ Wed
+- [Test Corrections](https://avon.schoology.com/assignment/5527381127/) due Fri, Feb 18
   
-[ag]: https://avon.schoology.com/page/5612374108
+[e-learn]: https://avon.schoology.com/page/5634775578
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5527381456
 [pasmt]: https://avon.schoology.com/course/5138386920/materials/gp/5527196152
 [ptop]: https://avon.schoology.com/course/5138386920/materials/gp/5527196115
@@ -30,11 +30,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDYwMzM2NiwtMTE5NTYzNDIxMywtMT
-Y2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5
-MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOT
-AsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwxODM5MTQyOTMwLDE5
-ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMDE5MTc1LC05MzU1Mj
-QzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQyLC0xNjMxMjY2NDMs
-LTIwNzY1ODY3NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTI1NzMzMzksMjEwMDYwMzM2NiwtMT
+E5NTYzNDIxMywtMTY2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIz
+MzIxNTQwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2Mj
+YsLTE0NTYwOTMwOTAsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwx
+ODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMD
+E5MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQy
+LC0xNjMxMjY2NDNdfQ==
 -->
