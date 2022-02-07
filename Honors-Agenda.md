@@ -1,9 +1,9 @@
-Wed, Feb 2
+Mon, Feb 7
 =========    
 
  Objectives  
 ------------  
-- Be able to connect translational dynamics to rotational dynamics.
+- Get some practice with torque calculations.
  
 Agenda    
 ---------    
@@ -15,8 +15,8 @@ Agenda
 Homework  
 -------------    
 
-- Make sure you've done your [E-Learning][e-learn]
-- Your [Annotated Bibliography][bib] should be uploaded to 
+- Make sure you've done your [E-Learning][e-learn] from Friday
+- Your [Annotated Bibliography][bib] should be uploaded to Schoology
 - Syllabus
 	- 8.4 and 8.5-6 due ~~Monday~~ Wed
 - [Test Corrections](https://avon.schoology.com/assignment/5527381127/) due Fri, Feb 18
@@ -30,11 +30,11 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI1NzMzMzksMjEwMDYwMzM2NiwtMT
-E5NTYzNDIxMywtMTY2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIz
-MzIxNTQwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2Mj
-YsLTE0NTYwOTMwOTAsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwx
-ODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2MjgyMCwxMTcxMD
-E5MTc1LC05MzU1MjQzMDgsLTE5ODczNTM2NSwtMTMwNzMwNzQy
-LC0xNjMxMjY2NDNdfQ==
+eyJoaXN0b3J5IjpbMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC0xMT
+k1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0xMjMz
+MjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUzNDczODYyNi
+wtMTQ1NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4
+MzkxNDI5MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMT
+kxNzUsLTkzNTUyNDMwOCwtMTk4NzM1MzY1LC0xMzA3MzA3NDIs
+LTE2MzEyNjY0M119
 -->
