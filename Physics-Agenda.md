@@ -18,15 +18,16 @@ Agenda
 Announcements 
 -------------  
  
- - Make sure you've done your [E-Learning][e-learn] from Friday
+ - Make sure you've done your [E-Learning][e-learn] from Thurs-Fri
 - Your [Annotated Bibliography][bib] should be uploaded
 - Remember to work on your test corrections. <sub>[see test correction guidelines](https://avon.schoology.com/page/5620905535)</sub>
+- Energy test will be Mon-Tue
 
-[e-learn]: 
+[e-learn]: https://avon.schoology.com/page/5625658112
 [bib]: https://avon.schoology.com/assignment/5526830221/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDIwNDU2LDExNzA5MTI5NzcsMTg1Nj
+eyJoaXN0b3J5IjpbNTYzNDUzOTMxLDExNzA5MTI5NzcsMTg1Nj
 YyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0y
 OTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OTA3ND
 M5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwt
