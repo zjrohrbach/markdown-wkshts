@@ -7,9 +7,10 @@ Mon, Feb 7
  
 Agenda    
 ---------    
-1. Take questions over the HW
-2. Do the [Torque Lab](https://avon.schoology.com/assignment/5527383489/)
-3. Take the HW quiz
+1. Updated Syllabus due dates
+2. Take questions over the HW
+3. Do the [Torque Lab](https://avon.schoology.com/assignment/5527383489/)
+4. Take the HW quiz
 
 
 Homework  
@@ -30,7 +31,7 @@ Homework
 [ex]: https://avon.schoology.com/course/5138386920/materials/gp/5612332223
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjE2NTI1NCwxODYzOTIzMDY5LDIxMD
+eyJoaXN0b3J5IjpbMTg1MzMzMTczOSwxODYzOTIzMDY5LDIxMD
 A2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLTE1MTM4
 ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNz
 QsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5
