@@ -1,4 +1,4 @@
-Mon, Feb 7
+Wed, Feb 9
 =========    
 
  Objectives  
@@ -16,20 +16,20 @@ Agenda
 Homework  
 -------------    
 
-- Make sure you've done your [E-Learning][e-learn] from Friday
 - Your [Annotated Bibliography][bib] should be uploaded to Schoology
 - Syllabus
-	- 8.4 and 8.5-6 due ~~Monday~~ Wed
+	- 8.4 and 8.5-6 should be done
+	- 8.7 due ~~Fri~~ Mon
 - [Test Corrections](https://avon.schoology.com/assignment/5527381127/) due Fri, Feb 18
   
 [e-learn]: https://avon.schoology.com/page/5634775578
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAzODMxNzQsMTg1MzMzMTczOSwxOD
-YzOTIzMDY5LDIxMDA2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0
-Nzg4OTksLTE1MTM4ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMz
-M1MSw4NDQ0NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0y
-MDA5NjE3NTMyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4Nz
-MyNjUzLC02NjY5NjI4MjAsMTE3MTAxOTE3NSwtOTM1NTI0MzA4
-LC0xOTg3MzUzNjVdfQ==
+eyJoaXN0b3J5IjpbNTQ2MjU1OTM2LC0xNzMwMzgzMTc0LDE4NT
+MzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC0xMTk1NjM0
+MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0xMjMzMjE1ND
+A0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUzNDczODYyNiwtMTQ1
+NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4MzkxND
+I5MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMTkxNzUs
+LTkzNTUyNDMwOF19
 -->
