@@ -1,10 +1,9 @@
-Mon, Feb 7 / Tue, Feb 8
+Wed, Feb 9
 =================== 
   
 Objectives  
 ------------  
-- Learn the rotational analogue to the kinematic equations.
-- Practice rotational kinematics problems.
+Be comfortable solving conservation of energy problems.
 
 Agenda    
 ---------    
@@ -18,20 +17,17 @@ Agenda
 Announcements 
 -------------  
  
- - Make sure you've done your [E-Learning][e-learn] from Thurs-Fri
-- Your [Annotated Bibliography][bib] should be uploaded
 - Remember to work on your test corrections. <sub>[see test correction guidelines](https://avon.schoology.com/page/5620905535)</sub>
 - Energy test will be Mon-Tue
 
-[e-learn]: https://avon.schoology.com/page/5625658112
 [bib]: https://avon.schoology.com/assignment/5526830221/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNz
-A5MTI5NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAs
-MTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3Nz
-gzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0Mzcs
-MTEwNjg5MTk0NCwtMTI1ODc5ODk4MCwxNTkwMDM5MTg4LC0xOD
-A2MjEwNzU2LC0xNDc4NDg4Njc0LC0xNTA2NzU0MDkzLDEzNDcw
-NzUyMzZdfQ==
+eyJoaXN0b3J5IjpbLTc0MjQ4NzA0NSwtMTI0NTUzNjAyNCw1Nj
+M0NTM5MzEsMTE3MDkxMjk3NywxODU2NjI4NDUsNDI0MjA3Mzks
+LTk5MDYwNTc3MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwtMTA0OD
+AwMTM0NSwtNzc3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0ODk2MDQs
+LTE1NTAzNTQzNywxMTA2ODkxOTQ0LC0xMjU4Nzk4OTgwLDE1OT
+AwMzkxODgsLTE4MDYyMTA3NTYsLTE0Nzg0ODg2NzQsLTE1MDY3
+NTQwOTNdfQ==
 -->
