@@ -7,10 +7,9 @@ Wed, Feb 9
  
 Agenda    
 ---------    
-1. Updated Syllabus due dates
-2. Take questions over the HW
-3. Do the [Torque Lab](https://avon.schoology.com/assignment/5527383489/)
-4. Take the HW quiz
+1. Take questions on HW
+2. HW quiz
+3. Notes on Rotational KE <sub>[video](https://youtu.be/H6YBEanYW3U?t=847)</sub>
 
 
 Homework  
@@ -25,11 +24,11 @@ Homework
 [e-learn]: https://avon.schoology.com/page/5634775578
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MjU1OTM2LC0xNzMwMzgzMTc0LDE4NT
-MzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC0xMTk1NjM0
-MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0xMjMzMjE1ND
-A0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUzNDczODYyNiwtMTQ1
-NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4MzkxND
-I5MzAsMTk4ODczMjY1MywtNjY2OTYyODIwLDExNzEwMTkxNzUs
-LTkzNTUyNDMwOF19
+eyJoaXN0b3J5IjpbLTEzODE2ODQ2MTMsNTQ2MjU1OTM2LC0xNz
+MwMzgzMTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAz
+MzY2LC0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxND
+k0LC0xMjMzMjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUz
+NDczODYyNiwtMTQ1NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2ND
+M4MTA4LDE4MzkxNDI5MzAsMTk4ODczMjY1MywtNjY2OTYyODIw
+LDExNzEwMTkxNzVdfQ==
 -->
