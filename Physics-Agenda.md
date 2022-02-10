@@ -9,9 +9,8 @@ Agenda
 ---------    
 
 1. SSR
-2. Energy conservation demo
-3. Handout the [Godfather of All Mechanics Problems][godfather]
-4. [Energy #4](https://avon.schoology.com/course/5138386979/materials/gp/5656206414)
+2. [Practice Problems
+3
 
 
 Announcements 
@@ -24,11 +23,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzE0MjUyLC02NjE5NTUxODUsLTEyND
-U1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5NzcsMTg1NjYyODQ1
-LDQyNDIwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNj
-kwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgs
-MjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1OD
-c5ODk4MCwxNTkwMDM5MTg4LC0xODA2MjEwNzU2LC0xNDc4NDg4
-Njc0XX0=
+eyJoaXN0b3J5IjpbLTE4NDM1NjYyOSwtNjYxOTU1MTg1LC0xMj
+Q1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0
+NSw0MjQyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMD
+Y5MDEwLC0xMDQ4MDAxMzQ1LC03Nzc4MzkzMjAsNjkwNzQzOTg4
+LDI2NTQ4OTYwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQsLTEyNT
+g3OTg5ODAsMTU5MDAzOTE4OCwtMTgwNjIxMDc1NiwtMTQ3ODQ4
+ODY3NF19
 -->
