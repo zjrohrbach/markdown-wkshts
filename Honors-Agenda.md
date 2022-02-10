@@ -1,15 +1,15 @@
-Wed, Feb 9
+Fri, Feb 11
 =========    
 
  Objectives  
 ------------  
-- Get some practice with torque calculations.
+Understand angular momentum, its conservation, and the right-hand rule.
  
 Agenda    
 ---------    
 1. Take questions on HW
-2. HW quiz
-3. Notes on Rotational KE <sub>[video](https://youtu.be/H6YBEanYW3U?t=847)</sub>
+2. hand back HW quiz
+3. Notes on Angular Momentum <sub>[video](https://youtu.be/H6YBEanYW3U?t=847)</sub>
 
 
 Homework  
@@ -23,11 +23,11 @@ Homework
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMTY0NTk2LDU0NjI1NTkzNiwtMTczMD
-M4MzE3NCwxODUzMzMxNzM5LDE4NjM5MjMwNjksMjEwMDYwMzM2
-NiwtMTE5NTYzNDIxMywtMTY2NDQ3ODg5OSwtMTUxMzg4MTQ5NC
-wtMTIzMzIxNTQwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3
-Mzg2MjYsLTE0NTYwOTMwOTAsLTIwMDk2MTc1MzIsMTkzNjQzOD
-EwOCwxODM5MTQyOTMwLDE5ODg3MzI2NTMsLTY2Njk2MjgyMCwx
-MTcxMDE5MTc1XX0=
+eyJoaXN0b3J5IjpbLTE1MTU4MDgxMzYsNjQwMTY0NTk2LDU0Nj
+I1NTkzNiwtMTczMDM4MzE3NCwxODUzMzMxNzM5LDE4NjM5MjMw
+NjksMjEwMDYwMzM2NiwtMTE5NTYzNDIxMywtMTY2NDQ3ODg5OS
+wtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5MjAzMzUxLDg0
+NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOTAsLTIwMDk2MT
+c1MzIsMTkzNjQzODEwOCwxODM5MTQyOTMwLDE5ODg3MzI2NTMs
+LTY2Njk2MjgyMF19
 -->
