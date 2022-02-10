@@ -8,8 +8,9 @@ Understand angular momentum, its conservation, and the right-hand rule.
 Agenda    
 ---------    
 1. Take questions on HW
-2. hand back HW quiz
+2. Hand back HW quiz
 3. Notes on Angular Momentum <sub>[video](https://youtu.be/FjeTGVcW08k)</sub>
+4. Do the [Conservation of Angular Momentum Reading](https://avon.schoology.com/course/5138386920/materials/gp/5527384007)
 
 
 Homework  
@@ -22,11 +23,11 @@ Homework
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzQ5NjY1LDY0MDE2NDU5Niw1NDYyNT
-U5MzYsLTE3MzAzODMxNzQsMTg1MzMzMTczOSwxODYzOTIzMDY5
-LDIxMDA2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLT
-E1MTM4ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0
-NjcwNzQsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NT
-MyLDE5MzY0MzgxMDgsMTgzOTE0MjkzMCwxOTg4NzMyNjUzLC02
-NjY5NjI4MjBdfQ==
+eyJoaXN0b3J5IjpbLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2Mj
+U1OTM2LC0xNzMwMzgzMTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2
+OSwyMTAwNjAzMzY2LC0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC
+0xNTEzODgxNDk0LC0xMjMzMjE1NDA0LDEzNTkyMDMzNTEsODQ0
+NDY3MDc0LDUzNDczODYyNiwtMTQ1NjA5MzA5MCwtMjAwOTYxNz
+UzMiwxOTM2NDM4MTA4LDE4MzkxNDI5MzAsMTk4ODczMjY1Mywt
+NjY2OTYyODIwXX0=
 -->
