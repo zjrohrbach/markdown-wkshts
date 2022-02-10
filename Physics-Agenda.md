@@ -1,16 +1,16 @@
-Wed, Feb 9
+Thu, Feb 10 / Fri, Feb 11
 =================== 
   
 Objectives  
 ------------  
-Be comfortable solving conservation of energy problems.
+Review what we know about energy
 
 Agenda    
 ---------    
 
 1. SSR
-2. [Practice Problems
-3
+2. [Practice Problems](https://avon.schoology.com/page/5660426311)
+3. Review Clickers
 
 
 Announcements 
@@ -23,7 +23,7 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM1NjYyOSwtNjYxOTU1MTg1LC0xMj
+eyJoaXN0b3J5IjpbLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMj
 Q1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0
 NSw0MjQyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMD
 Y5MDEwLC0xMDQ4MDAxMzQ1LC03Nzc4MzkzMjAsNjkwNzQzOTg4
