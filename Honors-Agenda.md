@@ -20,13 +20,13 @@ Homework
 - [Test Corrections](https://avon.schoology.com/assignment/5527381127/) for Momentum due Fri, Feb 18
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
-[lab]: 
+[lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MzY5NTUwLC02Mzc3Njc3MjAsNjQwMT
-Y0NTk2LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxODUzMzMxNzM5
-LDE4NjM5MjMwNjksMjEwMDYwMzM2NiwtMTE5NTYzNDIxMywtMT
-Y2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5
-MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOT
-AsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwxODM5MTQyOTMwLDE5
-ODg3MzI2NTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NzMyNTEwNiwzOTYzNjk1NTAsLTYzNz
+c2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2LC0xNzMwMzgzMTc0
+LDE4NTMzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC0xMT
+k1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0xMjMz
+MjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUzNDczODYyNi
+wtMTQ1NjA5MzA5MCwtMjAwOTYxNzUzMiwxOTM2NDM4MTA4LDE4
+MzkxNDI5MzBdfQ==
 -->
