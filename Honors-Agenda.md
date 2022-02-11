@@ -1,33 +1,31 @@
-Fri, Feb 11
+Mon, Feb 14
 =========    
 
  Objectives  
 ------------  
-Understand angular momentum, its conservation, and the right-hand rule.
+Apply what you know about translational and angular motion to predict where a 'golden egg' will land.
  
 Agenda    
 ---------    
-1. Take questions on HW
-2. Hand back HW quiz
-3. Notes on Angular Momentum <sub>[video](https://youtu.be/FjeTGVcW08k)</sub>
-4. Do the [Conservation of Angular Momentum Reading](https://avon.schoology.com/course/5138386920/materials/gp/5527384007)
+1. Do the [Golden Egg Lab][;
 
 
 Homework  
 -------------    
 
-- Your [Annotated Bibliography][bib] should be uploaded to Schoology
 - You can now do the rest of the syllabus.
+- [Golden Egg Lab][lab] due on wed
 - Rotation test is next Friday.
 - [Test Corrections](https://avon.schoology.com/assignment/5527381127/) for Momentum due Fri, Feb 18
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
+[lab]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2Mj
-U1OTM2LC0xNzMwMzgzMTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2
-OSwyMTAwNjAzMzY2LC0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC
-0xNTEzODgxNDk0LC0xMjMzMjE1NDA0LDEzNTkyMDMzNTEsODQ0
-NDY3MDc0LDUzNDczODYyNiwtMTQ1NjA5MzA5MCwtMjAwOTYxNz
-UzMiwxOTM2NDM4MTA4LDE4MzkxNDI5MzAsMTk4ODczMjY1Mywt
-NjY2OTYyODIwXX0=
+eyJoaXN0b3J5IjpbLTgzMDM4MjA4LC02Mzc3Njc3MjAsNjQwMT
+Y0NTk2LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxODUzMzMxNzM5
+LDE4NjM5MjMwNjksMjEwMDYwMzM2NiwtMTE5NTYzNDIxMywtMT
+Y2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5
+MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOT
+AsLTIwMDk2MTc1MzIsMTkzNjQzODEwOCwxODM5MTQyOTMwLDE5
+ODg3MzI2NTNdfQ==
 -->
