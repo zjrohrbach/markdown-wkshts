@@ -19,18 +19,20 @@ Agenda
 Announcements 
 -------------  
  
-- Make sure your [Annotated Bibl][bib] doesn't need any changes
+- Make sure your [Annotated Bibliography][bib] doesn't need any changes
+- Be working on your project!  Last in-class work day is Feb 28 / Mar 1.  Presentations start on Mar 4.
+- Keep bringing your computer and charger
 
 
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQwNDk1MDQsMzQ3MzcyNzM4LC02OT
-g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
-MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0Mj
-QyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEw
-LC0xMDQ4MDAxMzQ1LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NT
-Q4OTYwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5OD
+UyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYw
+MjQsNTYzNDUzOTMxLDExNzA5MTI5NzcsMTg1NjYyODQ1LDQyND
+IwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTAs
+LTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1ND
+g5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0NCwtMTI1ODc5ODk4
+MF19
 -->
