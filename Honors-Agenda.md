@@ -15,13 +15,14 @@ Homework
 -------------    
 
 - Make sure the [Golden Egg Lab][lab] is done
+- Check and make corrections on [Annotated Bibliography][bib]
 - Rotation test is next class; syllabus due.
 - [Test Corrections](https://avon.schoology.com/assignment/5527381127/) for Momentum due Fri, Feb 18
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
 [lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTI3ODY3NywtMTc3MzI1MTA2LDM5Nj
+eyJoaXN0b3J5IjpbMTc3OTY3Mzg3MCwtMTc3MzI1MTA2LDM5Nj
 M2OTU1MCwtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYyNTU5MzYs
 LTE3MzAzODMxNzQsMTg1MzMzMTczOSwxODYzOTIzMDY5LDIxMD
 A2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLTE1MTM4
