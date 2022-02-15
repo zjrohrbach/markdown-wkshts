@@ -8,7 +8,8 @@ Apply what you know about translational and angular motion to predict where a 'g
 Agenda    
 ---------    
 1. Take questions on HW
-2. Do the [Golden Egg Lab][lab] <sub>instructions on what to do if absent are also located at this link</sub>
+2. [Rotation Review Page](https://avon.schoology.com/course/5138386920/materials/gp/5527384031)
+3. [Rotation Jeopardy](
 
 
 Homework  
@@ -22,11 +23,11 @@ Homework
 [bib]: https://avon.schoology.com/assignment/5527196339/
 [lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTY3Mzg3MCwtMTc3MzI1MTA2LDM5Nj
-M2OTU1MCwtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYyNTU5MzYs
-LTE3MzAzODMxNzQsMTg1MzMzMTczOSwxODYzOTIzMDY5LDIxMD
-A2MDMzNjYsLTExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLTE1MTM4
-ODE0OTQsLTEyMzMyMTU0MDQsMTM1OTIwMzM1MSw4NDQ0NjcwNz
-QsNTM0NzM4NjI2LC0xNDU2MDkzMDkwLC0yMDA5NjE3NTMyLDE5
-MzY0MzgxMDhdfQ==
+eyJoaXN0b3J5IjpbLTExNjQ5NjQxNjMsLTE3NzMyNTEwNiwzOT
+YzNjk1NTAsLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2
+LC0xNzMwMzgzMTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2OSwyMT
+AwNjAzMzY2LC0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEz
+ODgxNDk0LC0xMjMzMjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MD
+c0LDUzNDczODYyNiwtMTQ1NjA5MzA5MCwtMjAwOTYxNzUzMiwx
+OTM2NDM4MTA4XX0=
 -->
