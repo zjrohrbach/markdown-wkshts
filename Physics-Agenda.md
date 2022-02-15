@@ -9,8 +9,8 @@ Agenda
 ---------    
 
 1. SSR
-2. A few [Pre-Test Practice Problems](https://avon.schoology.com/page/5664642843)
-3. Take the Test!
+2. Notes over Simple Harmonic Motion <sub>[scan of notes](https://avon.schoology.com/course/5138386979/materials/gp/5672837373) if absent</sub>
+3. Start the 
 
 Announcements 
 -------------  
@@ -21,11 +21,11 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MzcyNzM4LC02OTg1MjQxMTIsLTIwOT
-g1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2MDI0LDU2MzQ1Mzkz
-MSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0MjQyMDczOSwtOTkwNj
-A1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1
-LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NTQ4OTYwNCwtMTU1MD
-M1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5ODAsMTU5MDAzOTE4
-OF19
+eyJoaXN0b3J5IjpbLTE1NjgyNDc5ODQsMzQ3MzcyNzM4LC02OT
+g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
+MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0Mj
+QyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEw
+LC0xMDQ4MDAxMzQ1LC03Nzc4MzkzMjAsNjkwNzQzOTg4LDI2NT
+Q4OTYwNCwtMTU1MDM1NDM3LDExMDY4OTE5NDQsLTEyNTg3OTg5
+ODBdfQ==
 -->
