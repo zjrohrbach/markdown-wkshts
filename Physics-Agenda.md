@@ -10,11 +10,8 @@ Agenda
 ---------    
 
 1. SSR
-2. Notes over Simple Harmonic Motion <sub>[scan of notes](https://avon.schoology.com/course/5138386979/materials/gp/5672837373) if absent</sub>
-3. Start the Pendulum Lab
-    - Download the [Lab Template][temp] and save it to OneDrive
-    - Follow Mr. Rohrbach's instructions for getting started
-    - **IMPORTANT!** Save this file some place safe.  Don't lose it!
+2.Take data for the the Pendulum Lab [Link to Lab Template][temp] if you were absent last time
+    - 
 
 Announcements 
 -------------  
@@ -28,11 +25,11 @@ Announcements
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzND
-czNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUx
-ODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5NzcsMT
-g1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgy
-LC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMyMCw2OT
-A3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0MzcsMTEwNjg5MTk0
-NF19
+eyJoaXN0b3J5IjpbMTU2MzM5NjYxNiwtMTM0NjQ3NjM1OSwxNj
+E3MzEyMzE3LDM0NzM3MjczOCwtNjk4NTI0MTEyLC0yMDk4NTU5
+MzQsLTY2MTk1NTE4NSwtMTI0NTUzNjAyNCw1NjM0NTM5MzEsMT
+E3MDkxMjk3NywxODU2NjI4NDUsNDI0MjA3MzksLTk5MDYwNTc3
+MCwxMTkzNDk1ODIsLTI5MDA2OTAxMCwtMTA0ODAwMTM0NSwtNz
+c3ODM5MzIwLDY5MDc0Mzk4OCwyNjU0ODk2MDQsLTE1NTAzNTQz
+N119
 -->
