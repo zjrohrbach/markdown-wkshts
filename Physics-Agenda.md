@@ -1,4 +1,4 @@
-Thu, Feb 17 / Fri, Feb 18
+Tue, Feb 22 / Wed, Feb 23
 =================== 
   
 Objectives  
@@ -10,9 +10,10 @@ Agenda
 ---------    
 
 1. SSR
-2. Take data for the the Pendulum Lab 
-	- If you were absent last time, download and save the [Lab Template][temp] to OneDrive</sub>
+2. Finish the Pendulum Lab
+	- If you've been absent, download and save the [Lab Template][temp] to OneDrive</sub>
 	- On your own time, watch [this video][pend-vid] to complete the part of the lab report that you missed in class last time.
+3. (*time permitting*) Notes on Pendulums
 
 Announcements 
 -------------  
@@ -27,11 +28,11 @@ Announcements
 [pend-vid]: https://avon.schoology.com/course/5138386979/materials/gp/5690374047
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjUwNzY5OSwtMjEyMzc5ODU1MywyNT
-QwMTYyNSwtMTM0NjQ3NjM1OSwxNjE3MzEyMzE3LDM0NzM3Mjcz
-OCwtNjk4NTI0MTEyLC0yMDk4NTU5MzQsLTY2MTk1NTE4NSwtMT
-I0NTUzNjAyNCw1NjM0NTM5MzEsMTE3MDkxMjk3NywxODU2NjI4
-NDUsNDI0MjA3MzksLTk5MDYwNTc3MCwxMTkzNDk1ODIsLTI5MD
-A2OTAxMCwtMTA0ODAwMTM0NSwtNzc3ODM5MzIwLDY5MDc0Mzk4
-OF19
+eyJoaXN0b3J5IjpbNzA5NjM5Mjc2LDE0MjY1MDc2OTksLTIxMj
+M3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMx
+NywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02Nj
+E5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5
+NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAsMTE5Mz
+Q5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMy
+MF19
 -->
