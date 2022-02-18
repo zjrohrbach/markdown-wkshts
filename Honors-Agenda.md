@@ -7,8 +7,8 @@ Be introduced to simple harmonic motion
  
 Agenda    
 ---------    
-1. Notes on Simple Harmonic Motion and Springs <sub>[video]</sub>
-2. 
+1. Notes on Simple Harmonic Motion and Springs <sub>[video](https://youtu.be/zjxQrCLdrxQ)</sub>
+2. Work through a couple [Practice Problems](https://avon.schoology.com/page/5527386241)
 
 
 Homework  
@@ -21,7 +21,7 @@ Homework
 [bib]: https://avon.schoology.com/assignment/5527196339/
 [lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM4NDczMjAsMTMxMTc3MDkyNywyMT
+eyJoaXN0b3J5IjpbLTE1ODAwODM1ODksMTMxMTc3MDkyNywyMT
 I3NzA5MjMxLC0xNzczMjUxMDYsMzk2MzY5NTUwLC02Mzc3Njc3
 MjAsNjQwMTY0NTk2LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxOD
 UzMzMxNzM5LDE4NjM5MjMwNjksMjEwMDYwMzM2NiwtMTE5NTYz
