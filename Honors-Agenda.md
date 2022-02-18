@@ -1,13 +1,14 @@
-Fri, Feb 17
+Tue, Feb 22
 =========    
 
  Objectives  
 ------------  
-Prove what you've learned about rotation.
+Be introduced to simple harmonic motion
  
 Agenda    
 ---------    
-1. Take the test!!!
+1. Notes on Simple Harmonic Motion and Springs <sub>[video]</sub>
+2. 
 
 
 Homework  
@@ -15,16 +16,16 @@ Homework
 
 - Make sure the [Golden Egg Lab][lab] is done
 - Check and make corrections on [Annotated Bibliography][bib]
-- Be working on your project!  Last in-class work day is Feb 28 / Mar 1.  Presentations start on Mar 14.
+- Be working on your project!  Last in-class work day is Monday, Feb 28.  Presentations start on Mar 14.
   
 [bib]: https://avon.schoology.com/assignment/5527196339/
 [lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTc3MDkyNywyMTI3NzA5MjMxLC0xNz
-czMjUxMDYsMzk2MzY5NTUwLC02Mzc3Njc3MjAsNjQwMTY0NTk2
-LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxODUzMzMxNzM5LDE4Nj
-M5MjMwNjksMjEwMDYwMzM2NiwtMTE5NTYzNDIxMywtMTY2NDQ3
-ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNTQwNCwxMzU5MjAzMz
-UxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0NTYwOTMwOTAsLTIw
-MDk2MTc1MzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTM4NDczMjAsMTMxMTc3MDkyNywyMT
+I3NzA5MjMxLC0xNzczMjUxMDYsMzk2MzY5NTUwLC02Mzc3Njc3
+MjAsNjQwMTY0NTk2LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxOD
+UzMzMxNzM5LDE4NjM5MjMwNjksMjEwMDYwMzM2NiwtMTE5NTYz
+NDIxMywtMTY2NDQ3ODg5OSwtMTUxMzg4MTQ5NCwtMTIzMzIxNT
+QwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3Mzg2MjYsLTE0
+NTYwOTMwOTBdfQ==
 -->
