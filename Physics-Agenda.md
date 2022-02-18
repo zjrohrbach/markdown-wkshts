@@ -10,7 +10,9 @@ Agenda
 ---------    
 
 1. SSR
-2. Take data for the the Pendulum Lab <sub>[Link to Lab Template][temp] if you were absent last time</sub>
+2. Take data for the the Pendulum Lab 
+	- If you were absent last time, download and save the [Lab Template][temp] to OneDrive</sub>
+	- On your own time, watch [this video][pend-vid] to complete the part of the lab report that you missed in class last time.
 
 Announcements 
 -------------  
@@ -22,13 +24,14 @@ Announcements
 
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
+[pend-vid]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNz
-MxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0
-LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNz
-A5MTI5NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAs
-MTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3Nz
-gzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0LC0xNTUwMzU0Mzdd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzND
+Y0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5ODUyNDEx
+MiwtMjA5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNT
+YzNDUzOTMxLDExNzA5MTI5NzcsMTg1NjYyODQ1LDQyNDIwNzM5
+LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTAsLTEwND
+gwMDEzNDUsLTc3NzgzOTMyMCw2OTA3NDM5ODgsMjY1NDg5NjA0
+XX0=
 -->
