@@ -13,6 +13,7 @@ Agenda
 2. Finish the Pendulum Lab
 	- If you've been absent, download and save the [Lab Template][temp] to OneDrive</sub>
 	- On your own time, watch [this video][pend-vid] to complete the part of the lab report that you missed in class last time.
+	- Upload your completed lab [here][submit]
 3. (*time permitting*) Notes on Pendulums
 
 Announcements 
@@ -26,13 +27,14 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
 [pend-vid]: https://avon.schoology.com/course/5138386979/materials/gp/5690374047
+[submit]: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NjM5Mjc2LDE0MjY1MDc2OTksLTIxMj
-M3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMx
-NywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02Nj
-E5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5
-NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzAsMTE5Mz
-Q5NTgyLC0yOTAwNjkwMTAsLTEwNDgwMDEzNDUsLTc3NzgzOTMy
-MF19
+eyJoaXN0b3J5IjpbMTI5NzQ5MzQwMywxNDI2NTA3Njk5LC0yMT
+IzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIz
+MTcsMzQ3MzcyNzM4LC02OTg1MjQxMTIsLTIwOTg1NTkzNCwtNj
+YxOTU1MTg1LC0xMjQ1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEy
+OTc3LDE4NTY2Mjg0NSw0MjQyMDczOSwtOTkwNjA1NzcwLDExOT
+M0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1LC03Nzc4Mzkz
+MjBdfQ==
 -->
