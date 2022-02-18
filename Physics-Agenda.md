@@ -27,10 +27,10 @@ Announcements
 [bib]: https://avon.schoology.com/assignment/5526830221/
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
 [pend-vid]: https://avon.schoology.com/course/5138386979/materials/gp/5690374047
-[submit]: 
+[submit]: https://avon.schoology.com/assignment/5690527389/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzQ5MzQwMywxNDI2NTA3Njk5LC0yMT
+eyJoaXN0b3J5IjpbMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMT
 IzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIz
 MTcsMzQ3MzcyNzM4LC02OTg1MjQxMTIsLTIwOTg1NTkzNCwtNj
 YxOTU1MTg1LC0xMjQ1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEy
