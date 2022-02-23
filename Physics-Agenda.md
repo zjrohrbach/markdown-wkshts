@@ -12,8 +12,8 @@ Agenda
 2. Notes on Pendulums <sub>[video]<sub>
 3. [Simple Harmonic #1]
 4. Mini-Lab: Verifying the Pendulum Equation
-	- Download the Template
-	- Submit your work
+	- [Download the Template](https://avon.schoology.com/course/5138386979/materials/gp/5722413433)
+	- [Submit your work](https://avon.schoology.com/assignment/5722420678/)
 
 Announcements 
 -------------  
@@ -31,7 +31,7 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc1MDA1OTAsNjkwNzE4MTAsMTg3OD
+eyJoaXN0b3J5IjpbLTE3MzA0MjUxODEsNjkwNzE4MTAsMTg3OD
 Y3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1
 LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OT
 g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
