@@ -9,7 +9,8 @@ Agenda
 ---------    
 
 1. SSR
-3. Notes on Pendulums
+2. Notes on Pendulums <sub>[video]<sub>
+3. [Simple Harmonic #1]
 
 Announcements 
 -------------  
@@ -17,6 +18,7 @@ Announcements
 - Be working on your project!  Last in-class work day is Feb 28 / Mar 1.  Presentations start on Mar 14.
 - Keep bringing your computer and charger with you to class.
 - If you didn't turn it in yet, [turn in your pendulum lab][submit] <sub>[sample data if you were absent][data]</sub>
+- Test Corrections 
 
 
 [bib]: https://avon.schoology.com/assignment/5526830221/
@@ -26,7 +28,7 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzg5NjcwOCwxODc4Njc5NjE2LDE0Mj
+eyJoaXN0b3J5IjpbLTI5MzE1OTEwMiwxODc4Njc5NjE2LDE0Mj
 Y1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYz
 NTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMj
 A5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUz
