@@ -13,7 +13,7 @@ Agenda
 3. [Simple Harmonic #1]
 4. Mini-Lab: Verifying the Pendulum Equation
 	- Download the Template
-	- Submit  your work
+	- Submit your work
 
 Announcements 
 -------------  
@@ -31,11 +31,11 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNzE4MTAsMTg3ODY3OTYxNiwxNDI2NT
-A3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2NDc2MzU5
-LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OTg1MjQxMTIsLTIwOT
-g1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2MDI0LDU2MzQ1Mzkz
-MSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0MjQyMDczOSwtOTkwNj
-A1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEwLC0xMDQ4MDAxMzQ1
+eyJoaXN0b3J5IjpbLTE4MDc1MDA1OTAsNjkwNzE4MTAsMTg3OD
+Y3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1
+LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OT
+g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
+MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0Mj
+QyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4MiwtMjkwMDY5MDEw
 XX0=
 -->
