@@ -9,7 +9,7 @@ Thu, Feb 24
 Agenda    
 ---------    
 1. Notes on Conservation of Energy and Equations of Motion <sub>[video](https://youtu.be/Dye035uUHJM)</sub>
-2.  [Practice Problems](https://avon.schoology.com/page/5527386241)
+2. [Practice Problems](https://avon.schoology.com/page/5527386257)
 
 
 Homework  
@@ -21,11 +21,11 @@ Homework
 [bib]: https://avon.schoology.com/assignment/5527196339/
 [lab]: https://avon.schoology.com/assignment/5527383767/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjM4NzEwMywtMTU4MDA4MzU4OSwxMz
-ExNzcwOTI3LDIxMjc3MDkyMzEsLTE3NzMyNTEwNiwzOTYzNjk1
-NTAsLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2LC0xNz
-MwMzgzMTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAz
-MzY2LC0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxND
-k0LC0xMjMzMjE1NDA0LDEzNTkyMDMzNTEsODQ0NDY3MDc0LDUz
-NDczODYyNl19
+eyJoaXN0b3J5IjpbOTAxODU3NDQsLTE1ODAwODM1ODksMTMxMT
+c3MDkyNywyMTI3NzA5MjMxLC0xNzczMjUxMDYsMzk2MzY5NTUw
+LC02Mzc3Njc3MjAsNjQwMTY0NTk2LDU0NjI1NTkzNiwtMTczMD
+M4MzE3NCwxODUzMzMxNzM5LDE4NjM5MjMwNjksMjEwMDYwMzM2
+NiwtMTE5NTYzNDIxMywtMTY2NDQ3ODg5OSwtMTUxMzg4MTQ5NC
+wtMTIzMzIxNTQwNCwxMzU5MjAzMzUxLDg0NDQ2NzA3NCw1MzQ3
+Mzg2MjZdfQ==
 -->
