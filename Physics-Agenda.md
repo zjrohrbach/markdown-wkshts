@@ -11,9 +11,7 @@ Agenda
 1. SSR
 2. Notes on Pendulums
 3. [Simple Harmonic #1](https://avon.schoology.com/course/5138386979/materials/gp/5722436457)
-4. Mini-Lab: Verifying the Pendulum Equation
-	- [Download the Template](https://avon.schoology.com/course/5138386979/materials/gp/5722413433)
-	- [Submit your work](https://avon.schoology.com/assignment/5722420678/)
+4. Mini-Lab: [Verifying the Pendulum Equation](https://avon.schoology.com/course/5138386979/materials/gp/5726272909)
 
 Announcements 
 -------------  
@@ -31,11 +29,11 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Nj
-c5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUs
-LTEzNDY0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5OD
-UyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYw
-MjQsNTYzNDUzOTMxLDExNzA5MTI5NzcsMTg1NjYyODQ1LDQyND
-IwNzM5LC05OTA2MDU3NzAsMTE5MzQ5NTgyLC0yOTAwNjkwMTBd
-fQ==
+eyJoaXN0b3J5IjpbMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNz
+E4MTAsMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUz
+LDI1NDAxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3Mz
+cyNzM4LC02OTg1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1
+LC0xMjQ1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NT
+Y2Mjg0NSw0MjQyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4Ml19
+
 -->
