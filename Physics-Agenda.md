@@ -1,22 +1,22 @@
-Thu, Feb 24 / Fri, Feb 25
+Mon, Feb 28 / Tue, Mar 1
 =================== 
   
 Objectives  
 ------------  
-- Be able to explain the factors that affect the period of a pendulum.
+- Do research on your project.
 
 Agenda    
 ---------    
 
-1. SSR
-2. Notes on Pendulums
-3. [Simple Harmonic #1](https://avon.schoology.com/course/5138386979/materials/gp/5722436457)
-4. Mini-Lab: [Verifying the Pendulum Equation](https://avon.schoology.com/course/5138386979/materials/gp/5726272909)
+1. Overview of the day
+2. Example Visuals. 
+3. Check your presentation date on the [Schedule](https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8)
+4. Go to the library and work.
 
 Announcements 
 -------------  
  
-- Be working on your project!  Last in-class work day is Feb 28 / Mar 1.  Presentations start on Mar 14.
+- Project presentations start on Mar 14.
 - Keep bringing your computer and charger with you to class.
 - If you didn't turn it in yet, [turn in your pendulum lab][submit] <sub>[sample data if you were absent][data]</sub>
 - Test Corrections for Energy are open!
@@ -29,11 +29,11 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNz
-E4MTAsMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUz
-LDI1NDAxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3Mz
-cyNzM4LC02OTg1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1
-LC0xMjQ1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NT
-Y2Mjg0NSw0MjQyMDczOSwtOTkwNjA1NzcwLDExOTM0OTU4Ml19
-
+eyJoaXN0b3J5IjpbMjA5MDkwMjEzOSwzNzk2MTI5NzgsMjAxMz
+AyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTks
+LTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNz
+MxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0
+LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNz
+A5MTI5NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzBd
+fQ==
 -->
