@@ -19,7 +19,7 @@ Announcements
 - Project presentations start on Mar 14.
 - Keep bringing your computer and charger with you to class.
 - If you didn't turn it in yet, [turn in your pendulum lab][submit] <sub>[sample data if you were absent][data]</sub>
-- Test Corrections for Energy are open!
+- Test Corrections for Energy are open<sub>[link to multiple choice](https://avon.schoology.com/assignment/5656214362/assessment_results\\)</sub>!
 
 
 [wd2]: https://avon.schoology.com/course/5138386979/materials/gp/5728367466
@@ -30,11 +30,11 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMz
-AyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTks
-LTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNz
-MxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0
-LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNz
-A5MTI5NzcsMTg1NjYyODQ1LDQyNDIwNzM5LC05OTA2MDU3NzBd
-fQ==
+eyJoaXN0b3J5IjpbOTMxOTA5ODkzLC01NTcyMTM2NjcsMzc5Nj
+EyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAsMTg3ODY3OTYxNiwx
+NDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2ND
+c2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OTg1MjQxMTIs
+LTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2MDI0LDU2Mz
+Q1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0NSw0MjQyMDczOV19
+
 -->
