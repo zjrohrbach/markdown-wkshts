@@ -3,8 +3,8 @@ Thu, Mar 3 / Fri, Mar 4
   
 Objectives  
 ------------  
-- Do research on your project.
-- Get caught up on missing work and test corrections.
+- Be able to describe the force acting on springs using Hooke's Law and spring constant.
+- Design a lab for 
 
 Agenda    
 ---------    
@@ -28,11 +28,11 @@ Announcements
 
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5736808063
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMT
-QwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4
-Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMj
-M3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMx
-NywzNDczNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02Nj
-E5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5
-NzddfQ==
+eyJoaXN0b3J5IjpbLTE4NjA4OTk2NjUsLTc3NDg3MTgxNiwtOT
+c4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5
+NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0Mj
+Y1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYz
+NTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMj
+A5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUz
+OTMxXX0=
 -->
