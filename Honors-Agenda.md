@@ -3,11 +3,13 @@ Thu, Mar 3
 
  Objectives  
 ------------  
-- Understand how graphs of motion correspond to sim
+- Understand how graphs of motion correspond to simple harmonic oscillators.
+- Understand how a pendulum can be a simple harmonic oscillator.
  
 Agenda    
 ---------    
-Please work on the homework you already have (listed below).  If you have questions, please send them my way!
+- [Syllabus Update][syl]
+- Graphs of Motion with Desmos
 
 Homework  
 -------------    
@@ -19,7 +21,7 @@ Homework
 [syl]: https://avon.schoology.com/course/5138386920/materials/gp/5737258515
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQyMTk2OTcsLTEzNjI4NDExMzgsMT
+eyJoaXN0b3J5IjpbLTE0NzIzNTM4ODIsLTEzNjI4NDExMzgsMT
 A0ODExOTgzNSw5MDE4NTc0NCwtMTU4MDA4MzU4OSwxMzExNzcw
 OTI3LDIxMjc3MDkyMzEsLTE3NzMyNTEwNiwzOTYzNjk1NTAsLT
 YzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2LC0xNzMwMzgz
