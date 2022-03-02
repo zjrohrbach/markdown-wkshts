@@ -4,7 +4,7 @@ Thu, Mar 3 / Fri, Mar 4
 Objectives  
 ------------  
 - Be able to describe the force acting on springs using Hooke's Law and spring constant.
-- Design a lab for 
+- Design a lab for investigating what might affect the period of a spring.
 
 Agenda    
 ---------    
@@ -28,11 +28,11 @@ Announcements
 
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5736808063
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA4OTk2NjUsLTc3NDg3MTgxNiwtOT
-c4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5
-NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0Mj
-Y1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYz
-NTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5ODUyNDExMiwtMj
-A5ODU1OTM0LC02NjE5NTUxODUsLTEyNDU1MzYwMjQsNTYzNDUz
-OTMxXX0=
+eyJoaXN0b3J5IjpbLTMzOTU1NjI0MCwtNzc0ODcxODE2LC05Nz
+gxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYxMjk3
+OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMTQyNj
+UwNzY5OSwtMjEyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3NjM1
+OSwxNjE3MzEyMzE3LDM0NzM3MjczOCwtNjk4NTI0MTEyLC0yMD
+k4NTU5MzQsLTY2MTk1NTE4NSwtMTI0NTUzNjAyNCw1NjM0NTM5
+MzFdfQ==
 -->
