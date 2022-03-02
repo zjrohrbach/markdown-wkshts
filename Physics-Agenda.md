@@ -18,7 +18,7 @@ Agenda
 
 Announcements 
 -------------  
- 
+- Quiz on Simple Harmonic Motion on Thu-Fri of next week
 - Project presentations start on Mar 14.
 - Keep bringing your computer and charger with you to class.
 - Test Corrections for the first two tests must be turned in by midterm (Fri, 3/11)
@@ -28,11 +28,11 @@ Announcements
 
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5736808063
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTU1NjI0MCwtNzc0ODcxODE2LC05Nz
-gxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYxMjk3
-OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMTQyNj
-UwNzY5OSwtMjEyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3NjM1
-OSwxNjE3MzEyMzE3LDM0NzM3MjczOCwtNjk4NTI0MTEyLC0yMD
-k4NTU5MzQsLTY2MTk1NTE4NSwtMTI0NTUzNjAyNCw1NjM0NTM5
-MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ0NjY2Njk1OCwtMzM5NTU2MjQwLC03Nz
+Q4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcyMzcxLC01NTcyMTM2
+NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAsMTg3OD
+Y3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1
+LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OT
+g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
+MDI0XX0=
 -->
