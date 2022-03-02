@@ -8,8 +8,10 @@ Thu, Mar 3
  
 Agenda    
 ---------    
-- [Syllabus Update][syl]
-- Graphs of Motion with Desmos
+1. [Syllabus Update][syl]
+2. Take questions on Homework
+3. [Graphs of Motion with Desmos](https://avon.schoology.com/page/5527386270)
+4. Notes on Damping and Simple Pendulums <sub>[video](https://youtu.be/ObTnw3mamlw)</sub>
 
 Homework  
 -------------    
@@ -21,11 +23,11 @@ Homework
 [syl]: https://avon.schoology.com/course/5138386920/materials/gp/5737258515
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIzNTM4ODIsLTEzNjI4NDExMzgsMT
-A0ODExOTgzNSw5MDE4NTc0NCwtMTU4MDA4MzU4OSwxMzExNzcw
-OTI3LDIxMjc3MDkyMzEsLTE3NzMyNTEwNiwzOTYzNjk1NTAsLT
-YzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2LC0xNzMwMzgz
-MTc0LDE4NTMzMzE3MzksMTg2MzkyMzA2OSwyMTAwNjAzMzY2LC
-0xMTk1NjM0MjEzLC0xNjY0NDc4ODk5LC0xNTEzODgxNDk0LC0x
-MjMzMjE1NDA0XX0=
+eyJoaXN0b3J5IjpbLTg0NDE4OTYwMiwtMTM2Mjg0MTEzOCwxMD
+Q4MTE5ODM1LDkwMTg1NzQ0LC0xNTgwMDgzNTg5LDEzMTE3NzA5
+MjcsMjEyNzcwOTIzMSwtMTc3MzI1MTA2LDM5NjM2OTU1MCwtNj
+M3NzY3NzIwLDY0MDE2NDU5Niw1NDYyNTU5MzYsLTE3MzAzODMx
+NzQsMTg1MzMzMTczOSwxODYzOTIzMDY5LDIxMDA2MDMzNjYsLT
+ExOTU2MzQyMTMsLTE2NjQ0Nzg4OTksLTE1MTM4ODE0OTQsLTEy
+MzMyMTU0MDRdfQ==
 -->
