@@ -12,7 +12,9 @@ Agenda
 - SSR
 - Notes on Springs <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5736774340)</sub>
 - Do Spring Pre-Lab to find Spring Constants
-- 
+- Get the Spring Lab Report set up
+	- Download and save [this template][temp] to OneDrive
+	- Today, your job is to do the Purpose, Hypotheses, and Procedure
 
 Announcements 
 -------------  
@@ -24,15 +26,9 @@ Announcements
 	- [Unit 06 Momentum](https://avon.schoology.com/assignment/5574857809/)
 
 
-[wd2]: https://avon.schoology.com/course/5138386979/materials/gp/5728367466
-[bib]: https://avon.schoology.com/assignment/5526830221/
-[temp]: https://avon.schoology.com/course/5138386979/materials/gp/5672843626
-[pend-vid]: https://avon.schoology.com/course/5138386979/materials/gp/5690374047
-[submit]: https://avon.schoology.com/assignment/5690527389/
-[data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
-
+[temp]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDk0Mzg2NSwtMjE0MDcyMzcxLC01NT
+eyJoaXN0b3J5IjpbLTk3ODE0NzM0MywtMjE0MDcyMzcxLC01NT
 cyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAs
 MTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1ND
 AxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4
