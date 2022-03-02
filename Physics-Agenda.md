@@ -19,7 +19,9 @@ Announcements
  
 - Project presentations start on Mar 14.
 - Keep bringing your computer and charger with you to class.
-- Test Corrections for the first two tests must be turned in by midterm  <sub>[link to multiple choice](https://avon.schoology.com/assignment/5656214362/)</sub>!
+- Test Corrections for the first two tests must be turned in by midterm (Fri, 3/11)
+	- [Unit 07 Energy](https://avon.schoology.com/assignment/5656214362/)
+	- [Unit 06 Momentum](https://avon.schoology.com/assignment/5574857809/)
 
 
 [wd2]: https://avon.schoology.com/course/5138386979/materials/gp/5728367466
@@ -30,11 +32,11 @@ Announcements
 [data]: https://avon.schoology.com/course/5138386979/materials/gp/5722288329
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1OTMyMjA2LC0yMTQwNzIzNzEsLTU1Nz
-IxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwx
-ODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1NTMsMjU0MD
-E2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3Mzgs
-LTY5ODUyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUxODUsLTEyND
-U1MzYwMjQsNTYzNDUzOTMxLDExNzA5MTI5NzcsMTg1NjYyODQ1
-XX0=
+eyJoaXN0b3J5IjpbLTI2NDk0Mzg2NSwtMjE0MDcyMzcxLC01NT
+cyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAs
+MTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1ND
+AxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4
+LC02OTg1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMj
+Q1NTM2MDI0LDU2MzQ1MzkzMSwxMTcwOTEyOTc3LDE4NTY2Mjg0
+NV19
 -->
