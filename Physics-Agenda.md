@@ -13,7 +13,7 @@ Agenda
 2. Look up how you did on your [Pendulum Lab][pend]
 3. Get the Spring Lab Report set up
 	- Download and save [this template][temp] to OneDrive
-	- Get your Purpose, Hypotheses, and Procedure and procedure done
+	- Here is a table of [Spring Constants][k]
 	- Use [this link][share] to share your data.
 	- When you are finished, you can turn in your lab [here][turnin]
 
@@ -28,12 +28,13 @@ Announcements
 	- [Unit 06 Momentum](https://avon.schoology.com/assignment/5574857809/)
 
 
-[pend]: 
+[pend]: https://avon.schoology.com/assignment/5690527389/info
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5736808063
+[k]: 
 [share]: https://avon.schoology.com/course/5138386979/materials/discussion/view/5736829268
-[turnin]: 
+[turnin]: https://avon.schoology.com/assignment/5743142469/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTI4MTk4OSwxNDQ2NjY2OTU4LC0zMz
+eyJoaXN0b3J5IjpbMTI1Njg2OTQ1OSwxNDQ2NjY2OTU4LC0zMz
 k1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIz
 NzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OT
 A3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1
