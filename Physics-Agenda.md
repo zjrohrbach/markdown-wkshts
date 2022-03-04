@@ -1,4 +1,4 @@
-Thu, Mar 3 / Fri, Mar 4
+Mon, Mar 7 / Tue, Mar 8
 =================== 
   
 Objectives  
@@ -9,12 +9,11 @@ Objectives
 Agenda    
 ---------    
 
-- SSR
-- Notes on Springs <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5736774340)</sub>
-- Do Spring Pre-Lab to find Spring Constants
-- Get the Spring Lab Report set up
+1. SSR
+2. Get the Spring Lab Report set up
 	- Download and save [this template][temp] to OneDrive
-	- Today, your job is to do the Purpose, Hypotheses, and Procedure
+	- Get your Purpose, Hypotheses, and Procedure and procedure done
+	- Use [this link][share] to Shar
 
 Announcements 
 -------------  
@@ -28,11 +27,11 @@ Announcements
 
 [temp]: https://avon.schoology.com/course/5138386979/materials/gp/5736808063
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjY2Njk1OCwtMzM5NTU2MjQwLC03Nz
-Q4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcyMzcxLC01NTcyMTM2
-NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAsMTg3OD
-Y3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1
-LC0xMzQ2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OT
-g1MjQxMTIsLTIwOTg1NTkzNCwtNjYxOTU1MTg1LC0xMjQ1NTM2
-MDI0XX0=
+eyJoaXN0b3J5IjpbMTk1ODYzNzM1MywxNDQ2NjY2OTU4LC0zMz
+k1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIz
+NzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OT
+A3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1
+NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzND
+czNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUx
+ODVdfQ==
 -->
