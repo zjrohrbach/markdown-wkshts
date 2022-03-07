@@ -9,20 +9,18 @@ Objectives
 Agenda    
 ---------    
 
-1. SSR
-2. Look up how you did on your [Pendulum Lab][pend]
-3. Get the Spring Lab Report set up
-	- Download and save [this template][temp] to OneDrive
-	- Here is a table of [Spring Constants][k]
-	- Use [this link][share] to share your data.
+1. Finish the Spring Lab
+	- [Link to template][temp] if you were absent last time.
+	-  [Sample Data][share] if you were absent last time
 	- When you are finished, you can turn in your lab [here][turnin]
+2. Notes on the Simple Harmonic Motion of Springs <sub>[video]</sub>
+3. 
 
 Announcements 
 -------------  
 - Finish and turn in your [Spring Lab][turnin]
-- Quiz on Simple Harmonic Motion on Thu-Fri
+- Quiz on Simple Harmonic Motion next time
 - Project presentations start next Monday!
-- Keep bringing your computer and charger with you to class.
 - Test Corrections for the first two tests must be turned in by midterm (Fri, 3/11)
 	- [Unit 07 Energy](https://avon.schoology.com/assignment/5656214362/)
 	- [Unit 06 Momentum](https://avon.schoology.com/assignment/5574857809/)
@@ -34,11 +32,11 @@ Announcements
 [share]: https://avon.schoology.com/course/5138386979/materials/discussion/view/5736829268
 [turnin]: https://avon.schoology.com/assignment/5743142469/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC0zMz
-k1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIz
-NzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OT
-A3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1
-NTMsMjU0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzND
-czNzI3MzgsLTY5ODUyNDExMiwtMjA5ODU1OTM0LC02NjE5NTUx
-ODVdfQ==
+eyJoaXN0b3J5IjpbMTMxMDgxNDE1MiwtODU0MTc5MDA0LDE0ND
+Y2NjY5NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC05NzgxNDcz
+NDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYxMjk3OCwyMD
+EzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMTQyNjUwNzY5
+OSwtMjEyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3NjM1OSwxNj
+E3MzEyMzE3LDM0NzM3MjczOCwtNjk4NTI0MTEyLC0yMDk4NTU5
+MzRdfQ==
 -->
