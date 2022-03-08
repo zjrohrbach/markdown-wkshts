@@ -14,7 +14,7 @@ Agenda
 	-  [Sample Data][share] if you were absent last time
 	- When you are finished, you can turn in your lab [here][turnin]
 2. Notes on the Simple Harmonic Motion of Springs <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5748156647)</sub>
-3. [Simple Harmonic #2]
+3. [Simple Harmonic #2](https://avon.schoology.com/course/5138386979/materials/gp/5748159809)
 
 Announcements 
 -------------  
@@ -32,11 +32,11 @@ Announcements
 [share]: https://avon.schoology.com/course/5138386979/materials/discussion/view/5736829268
 [turnin]: https://avon.schoology.com/assignment/5743142469/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODIxNTU0NzgsODc5ODA2NDM3LC04NT
-QxNzkwMDQsMTQ0NjY2Njk1OCwtMzM5NTU2MjQwLC03NzQ4NzE4
-MTYsLTk3ODE0NzM0MywtMjE0MDcyMzcxLC01NTcyMTM2NjcsMz
-c5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4MTAsMTg3ODY3OTYx
-NiwxNDI2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1LC0xMz
-Q2NDc2MzU5LDE2MTczMTIzMTcsMzQ3MzcyNzM4LC02OTg1MjQx
-MTJdfQ==
+eyJoaXN0b3J5IjpbMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1ND
+E3OTAwNCwxNDQ2NjY2OTU4LC0zMzk1NTYyNDAsLTc3NDg3MTgx
+NiwtOTc4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNz
+k2MTI5NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2
+LDE0MjY1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzND
+Y0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3MzgsLTY5ODUyNDEx
+Ml19
 -->
