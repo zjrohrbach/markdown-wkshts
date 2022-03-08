@@ -12,7 +12,7 @@ Agenda
 	- [Lab Report Template](https://avon.schoology.com/course/5138386920/materials/gp/5745204504)
 	- [Link to upload your Lab Report][turnin]
 	- [Info if absent](https://avon.schoology.com/page/5745197671)
-2. Review 
+2. Review <sub>[video](https://avon.schoology.com/course/5138386920/materials/gp/5527386194)</sub>
 
 Homework  
 -------------    
@@ -26,7 +26,7 @@ Homework
 [turnin]: https://avon.schoology.com/assignment/5527386002/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODMzOTQxMywtNTExMzc0OTk4LC04ND
+eyJoaXN0b3J5IjpbLTMyMzE4Mzg4MywtNTExMzc0OTk4LC04ND
 QxODk2MDIsLTEzNjI4NDExMzgsMTA0ODExOTgzNSw5MDE4NTc0
 NCwtMTU4MDA4MzU4OSwxMzExNzcwOTI3LDIxMjc3MDkyMzEsLT
 E3NzMyNTEwNiwzOTYzNjk1NTAsLTYzNzc2NzcyMCw2NDAxNjQ1
