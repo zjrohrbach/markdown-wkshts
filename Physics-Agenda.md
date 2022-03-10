@@ -16,7 +16,8 @@ Announcements
 -------------  
 - Make sure your [Spring Lab][turnin] is turned in
 - Project presentations start next Monday!  See the presentation schedule [here](https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8).
-	- Monday Presentations in Pd 3: Aziz, Ben, Jay, Jillian, Keonte', Logan, Noah 
+	- Monday Presentations in Pd 3: Aziz, Ben, Jay, Jillian, Keonte', Logan, Noah K, Payton, Ryan, Sam
+	- Monday Presentations in Pd 5: Aiden, Annabelle, Brayden, Chase Suhaka, Colin, Dylan W, Emmanuel, Eshaan, Logan, Nolan, Zion
 
 
 [pend]: https://avon.schoology.com/assignment/5690527389/info
@@ -25,11 +26,11 @@ Announcements
 [share]: https://avon.schoology.com/course/5138386979/materials/discussion/view/5736829268
 [turnin]: https://avon.schoology.com/assignment/5743142469/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ4NTM2NjQsMTg4MTUzMjU0NCw4Nz
-k4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC0zMzk1NTYy
-NDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIzNzEsLT
-U1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OTA3MTgx
-MCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1NTMsMj
-U0MDE2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTcwMzA0MzMsMTg4MTUzMjU0NCw4Nzk4MD
+Y0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC0zMzk1NTYyNDAs
+LTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1Nz
+IxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwx
+ODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1NTMsMjU0MD
+E2MjUsLTEzNDY0NzYzNTksMTYxNzMxMjMxNywzNDczNzI3Mzhd
+fQ==
 -->
