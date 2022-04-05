@@ -1,32 +1,33 @@
-Fri, Mar 11
-=========    
 
- Objectives  
-------------  
-Review what we've learned about Simple Harmonic Motion
- 
-Agenda    
----------    
-1. Review Problems
-2. Take the Twiz
-
-Homework  
--------------    
-
-- Make sure your [lab report][turnin] is turned in.
-- Project presentations start on Monday!  Check the [schedule][sched] to see when you are presenting.
-	- Monday presenters: Aidan, Bailey, Braden, Connor, Cort, Ean, Gavin, Mike, both Nathan's, Ryan, Sam
- 
-[sched]: https://avoncsc-my.sharepoint.com/:x:/g/personal/zjrohrbach_avon-schools_org/ERhuKfM6FuZAu7ceF1RrcTMBOxKzjRD5kdb5vncOwACRwg?e=W4jjF8
-[syl]: https://avon.schoology.com/course/5138386920/materials/gp/5737258515
-[turnin]: https://avon.schoology.com/assignment/5527386002/
-
+Mon, Apr 4  
+=========      
+  
+Objectives    
+------------    
+- Be able to describe the phenomenon of *resonance*.
+- Be able to explain standing waves 
+   
+Agenda      
+---------      
+1. Do a short [Waves Reading][read] and discuss  
+	- [Waves PhET Animation](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)  
+	- [Longitudinal vs Transverse Waves](https://www.acs.psu.edu/drussell/demos/waves/wavemotion.html)  
+2. Work through the concept of [Interference][int]  
+3. Worktime  
+  
+Homework    
+-------------      
+  
+- 11-7 & 11-8 HW due Friday.  
+  
+[read]: https://avon.schoology.com/course/5138386920/materials/gp/5527386287  
+[int]: https://avon.schoology.com/course/5138386920/materials/gp/5527386312
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUwODEzNjYsLTgzMjQ4MDQxNiwtMT
-Y4ODYwMjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0NDE4
-OTYwMiwtMTM2Mjg0MTEzOCwxMDQ4MTE5ODM1LDkwMTg1NzQ0LC
-0xNTgwMDgzNTg5LDEzMTE3NzA5MjcsMjEyNzcwOTIzMSwtMTc3
-MzI1MTA2LDM5NjM2OTU1MCwtNjM3NzY3NzIwLDY0MDE2NDU5Ni
-w1NDYyNTU5MzYsLTE3MzAzODMxNzQsMTg1MzMzMTczOSwxODYz
-OTIzMDY5XX0=
+eyJoaXN0b3J5IjpbLTQxNzE0MDg5NCwtMTI1NTA4MTM2NiwtOD
+MyNDgwNDE2LC0xNjg4NjAyOTI3LC0zMjMxODM4ODMsLTUxMTM3
+NDk5OCwtODQ0MTg5NjAyLC0xMzYyODQxMTM4LDEwNDgxMTk4Mz
+UsOTAxODU3NDQsLTE1ODAwODM1ODksMTMxMTc3MDkyNywyMTI3
+NzA5MjMxLC0xNzczMjUxMDYsMzk2MzY5NTUwLC02Mzc3Njc3Mj
+AsNjQwMTY0NTk2LDU0NjI1NTkzNiwtMTczMDM4MzE3NCwxODUz
+MzMxNzM5XX0=
 -->
