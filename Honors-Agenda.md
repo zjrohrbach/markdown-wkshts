@@ -12,7 +12,7 @@ Agenda
 1. [Waves Warmup Question](https://avon.schoology.com/page/5527386336)
 2. Slinky Demos and Interference Animation
 3. Notes on Resonance and Standing Waves
-4. [Trum
+4. [Trumpet Question]()
   
 Homework    
 -------------      
@@ -20,11 +20,11 @@ Homework
 - 11-7 & 11-8 HW due Friday.  
 - 11-12 HW due Friday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxOTcxMjUwLC00MTcxNDA4OTQsLTEyNT
-UwODEzNjYsLTgzMjQ4MDQxNiwtMTY4ODYwMjkyNywtMzIzMTgz
-ODgzLC01MTEzNzQ5OTgsLTg0NDE4OTYwMiwtMTM2Mjg0MTEzOC
-wxMDQ4MTE5ODM1LDkwMTg1NzQ0LC0xNTgwMDgzNTg5LDEzMTE3
-NzA5MjcsMjEyNzcwOTIzMSwtMTc3MzI1MTA2LDM5NjM2OTU1MC
-wtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYyNTU5MzYsLTE3MzAz
-ODMxNzRdfQ==
+eyJoaXN0b3J5IjpbMTcxMTkwOTk2MywtNDE3MTQwODk0LC0xMj
+U1MDgxMzY2LC04MzI0ODA0MTYsLTE2ODg2MDI5MjcsLTMyMzE4
+Mzg4MywtNTExMzc0OTk4LC04NDQxODk2MDIsLTEzNjI4NDExMz
+gsMTA0ODExOTgzNSw5MDE4NTc0NCwtMTU4MDA4MzU4OSwxMzEx
+NzcwOTI3LDIxMjc3MDkyMzEsLTE3NzMyNTEwNiwzOTYzNjk1NT
+AsLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1OTM2LC0xNzMw
+MzgzMTc0XX0=
 -->
