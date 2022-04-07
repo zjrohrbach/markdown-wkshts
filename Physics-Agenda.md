@@ -12,20 +12,21 @@ Agenda
 ---------      
 1. Library and SSR
 2. Finish labs: [Wave Modeling][wm] / [Slinky][s]
-3. S
+3. Standing Wave demos
   
 Announcements   
 -------------    
-- We'll be going to the library on Thu-Fri to pick out SSR books.
+- Short quiz coming up on Wednesday
+- SSR starts on Monday: must have reading book and no phones
 
 [wm]: https://avon.schoology.com/course/5138386979/materials/gp/5853834033
 [s]: https://avon.schoology.com/course/5138386979/materials/gp/5853834013
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTA5MzczOSwxMjkxOTE1MDQyLDE4OD
-E1MzI1NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1
-OCwtMzM5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMj
-E0MDcyMzcxLC01NTcyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEz
-ODcsNjkwNzE4MTAsMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMT
-IzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2NDc2MzU5LDE2MTczMTIz
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE4OTUyNDMxNDIsMTI5MTkxNTA0MiwxOD
+gxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5MDA0LDE0NDY2NjY5
+NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC05NzgxNDczNDMsLT
+IxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYxMjk3OCwyMDEzMDIx
+Mzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMTQyNjUwNzY5OSwtMj
+EyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3NjM1OSwxNjE3MzEy
+MzE3XX0=
 -->
