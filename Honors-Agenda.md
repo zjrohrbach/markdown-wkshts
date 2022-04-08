@@ -9,22 +9,25 @@ Objectives
    
 Agenda      
 ---------      
-1. [Waves Warmup Question](https://avon.schoology.com/page/5527386336)
-2. Slinky Demos and Interference Animation
-3. Notes on Resonance and Standing Waves
-4. [Trumpet Question](https://avon.schoology.com/page/5853568260)
+1. Take questions over the HW
+2. Sound Demos
+3. Labs: [Wave Modeling][wm] / [Slinky][s]
+
   
 Homework    
 -------------      
   
-- 11-7 & 11-8 HW due Friday.  
-- 11-12 HW due Friday
+- You can do the entire syllabus except Doppler Effect 
+- Quest on Wednesday
+
+[wm]:
+[slinky]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTg1OTM1LC00MTcxNDA4OTQsLTEyNT
-UwODEzNjYsLTgzMjQ4MDQxNiwtMTY4ODYwMjkyNywtMzIzMTgz
-ODgzLC01MTEzNzQ5OTgsLTg0NDE4OTYwMiwtMTM2Mjg0MTEzOC
-wxMDQ4MTE5ODM1LDkwMTg1NzQ0LC0xNTgwMDgzNTg5LDEzMTE3
-NzA5MjcsMjEyNzcwOTIzMSwtMTc3MzI1MTA2LDM5NjM2OTU1MC
-wtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYyNTU5MzYsLTE3MzAz
-ODMxNzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY2MTMwNDQsOTg0MTg1OTM1LC00MT
+cxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNiwtMTY4ODYw
+MjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0NDE4OTYwMi
+wtMTM2Mjg0MTEzOCwxMDQ4MTE5ODM1LDkwMTg1NzQ0LC0xNTgw
+MDgzNTg5LDEzMTE3NzA5MjcsMjEyNzcwOTIzMSwtMTc3MzI1MT
+A2LDM5NjM2OTU1MCwtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYy
+NTU5MzZdfQ==
 -->
