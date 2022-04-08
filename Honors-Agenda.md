@@ -1,10 +1,10 @@
 
-Wed, Apr 6
+Fri, Apr 8
 =========      
   
 Objectives    
 ------------    
-- Be able to describe the phenomenon of *resonance*.
+- Be able to describe the phenomenon of *acoustib*.
 - Be able to explain standing waves 
    
 Agenda      
@@ -21,15 +21,15 @@ Homework
 - You can do the entire syllabus except Doppler Effect 
 - Quest on Wednesday
 
-[b]: 
-[wm]: 
-[slinky]: 
+[b]: https://avon.schoology.com/course/5138386920/materials/gp/5859083561
+[wm]: https://avon.schoology.com/course/5138386920/materials/gp/5859083572
+[s]: https://avon.schoology.com/course/5138386920/materials/gp/5859083567
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk3NjQ4ODQsOTg0MTg1OTM1LC00MT
-cxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNiwtMTY4ODYw
-MjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0NDE4OTYwMi
-wtMTM2Mjg0MTEzOCwxMDQ4MTE5ODM1LDkwMTg1NzQ0LC0xNTgw
-MDgzNTg5LDEzMTE3NzA5MjcsMjEyNzcwOTIzMSwtMTc3MzI1MT
-A2LDM5NjM2OTU1MCwtNjM3NzY3NzIwLDY0MDE2NDU5Niw1NDYy
-NTU5MzZdfQ==
+eyJoaXN0b3J5IjpbMTgzNjE2NTIzLDk4NDE4NTkzNSwtNDE3MT
+QwODk0LC0xMjU1MDgxMzY2LC04MzI0ODA0MTYsLTE2ODg2MDI5
+MjcsLTMyMzE4Mzg4MywtNTExMzc0OTk4LC04NDQxODk2MDIsLT
+EzNjI4NDExMzgsMTA0ODExOTgzNSw5MDE4NTc0NCwtMTU4MDA4
+MzU4OSwxMzExNzcwOTI3LDIxMjc3MDkyMzEsLTE3NzMyNTEwNi
+wzOTYzNjk1NTAsLTYzNzc2NzcyMCw2NDAxNjQ1OTYsNTQ2MjU1
+OTM2XX0=
 -->
