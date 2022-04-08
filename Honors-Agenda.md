@@ -11,7 +11,8 @@ Agenda
 ---------      
 1. Take questions over the HW
 2. Sound Demos
-3. Labs: [Wave Modeling][wm] / [Slinky][s]
+3. Acoustic Beats <sub>[handout][b]</sub>
+4. Labs: [Wave Modeling][wm] / [Slinky][s]
 
   
 Homework    
@@ -20,10 +21,11 @@ Homework
 - You can do the entire syllabus except Doppler Effect 
 - Quest on Wednesday
 
-[wm]:
-[slinky]:
+[b]: 
+[wm]: 
+[slinky]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2MTMwNDQsOTg0MTg1OTM1LC00MT
+eyJoaXN0b3J5IjpbLTE0MTk3NjQ4ODQsOTg0MTg1OTM1LC00MT
 cxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNiwtMTY4ODYw
 MjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0NDE4OTYwMi
 wtMTM2Mjg0MTEzOCwxMDQ4MTE5ODM1LDkwMTg1NzQ0LC0xNTgw
