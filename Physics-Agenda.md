@@ -6,26 +6,30 @@ Objectives
 ------------    
   
 - Review what we've learned about waves so far.
-- Be able to describe some properties of sound wa
+- Be able to describe some properties of sound waves.
   
 Agenda      
 ---------      
 1. SSR
-2. Finish labs: [Wave Modeling][wm] / [Slinky][s]
-3. Standing Wave demos
+2. [Waves Review][r]
+3. [Sound Reading][sound]
+4. (*time permitting*) Notes on Sound
+
   
 Announcements   
 -------------    
 - Short quiz coming up on Wednesday
 - If you were absent either of the last two classes, make sure to do the makeup [wave modeling][wm] and/or [slinky][s] labs.
 
+[r]: 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA1MTUyMzQsLTE4OTUyNDMxNDIsMT
-I5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5
-MDA0LDE0NDY2NjY5NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC
-05NzgxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYx
-Mjk3OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMT
-QyNjUwNzY5OSwtMjEyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3
-NjM1OV19
+eyJoaXN0b3J5IjpbNTE2ODQ1NzA2LC0xODk1MjQzMTQyLDEyOT
+E5MTUwNDIsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAw
+NCwxNDQ2NjY2OTU4LC0zMzk1NTYyNDAsLTc3NDg3MTgxNiwtOT
+c4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5
+NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0Mj
+Y1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYz
+NTldfQ==
 -->
