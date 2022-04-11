@@ -21,16 +21,16 @@ Announcements
 - Short quiz coming up on Wednesday
 - If you were absent either of the last two classes, make sure to do the makeup [wave modeling][wm] and/or [slinky][s] labs.
 
-[r]: 
+[r]: https://avon.schoology.com/course/5138386979/materials/gp/5880097732
 [sound]: https://avon.schoology.com/course/5138386979/materials/gp/5880076296
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2ODQzOTUzLC0xODk1MjQzMTQyLDEyOT
-E5MTUwNDIsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAw
-NCwxNDQ2NjY2OTU4LC0zMzk1NTYyNDAsLTc3NDg3MTgxNiwtOT
-c4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5
-NzgsMjAxMzAyMTM4Nyw2OTA3MTgxMCwxODc4Njc5NjE2LDE0Mj
-Y1MDc2OTksLTIxMjM3OTg1NTMsMjU0MDE2MjUsLTEzNDY0NzYz
-NTldfQ==
+eyJoaXN0b3J5IjpbMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMj
+kxOTE1MDQyLDE4ODE1MzI1NDQsODc5ODA2NDM3LC04NTQxNzkw
+MDQsMTQ0NjY2Njk1OCwtMzM5NTU2MjQwLC03NzQ4NzE4MTYsLT
+k3ODE0NzM0MywtMjE0MDcyMzcxLC01NTcyMTM2NjcsMzc5NjEy
+OTc4LDIwMTMwMjEzODcsNjkwNzE4MTAsMTg3ODY3OTYxNiwxND
+I2NTA3Njk5LC0yMTIzNzk4NTUzLDI1NDAxNjI1LC0xMzQ2NDc2
+MzU5XX0=
 -->
