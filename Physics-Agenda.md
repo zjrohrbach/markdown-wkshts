@@ -22,10 +22,11 @@ Announcements
 - If you were absent either of the last two classes, make sure to do the makeup [wave modeling][wm] and/or [slinky][s] labs.
 
 [r]: 
+[sound]: https://avon.schoology.com/course/5138386979/materials/gp/5880076296
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2ODQ1NzA2LC0xODk1MjQzMTQyLDEyOT
+eyJoaXN0b3J5IjpbNzM2ODQzOTUzLC0xODk1MjQzMTQyLDEyOT
 E5MTUwNDIsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAw
 NCwxNDQ2NjY2OTU4LC0zMzk1NTYyNDAsLTc3NDg3MTgxNiwtOT
 c4MTQ3MzQzLC0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5
