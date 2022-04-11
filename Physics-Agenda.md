@@ -1,32 +1,31 @@
-Thu, Apr 7 / Fri, Apr 8
+Mon, Apr 11 / Tue, Apr 12
 =================== 
    
     
 Objectives    
 ------------    
   
-- Be able to describe what a wave is and how it relates to simple harmonic motion.  
-- Be able to use the equation $v = f \lambda$.  
+- Review what we've learned about waves so far.
+- Be able to describe some properties of sound wa
   
 Agenda      
 ---------      
-1. Library and SSR
+1. SSR
 2. Finish labs: [Wave Modeling][wm] / [Slinky][s]
 3. Standing Wave demos
   
 Announcements   
 -------------    
 - Short quiz coming up on Wednesday
-- SSR starts on Monday: must have reading book and no phones
+- If you were absent either of the last two classes, make sure to do the makeup [wave modeling][wm] and/or [slinky][s] labs.
 
-[wm]: https://avon.schoology.com/course/5138386979/materials/gp/5853834033
-[s]: https://avon.schoology.com/course/5138386979/materials/gp/5853834013
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUyNDMxNDIsMTI5MTkxNTA0MiwxOD
-gxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5MDA0LDE0NDY2NjY5
-NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC05NzgxNDczNDMsLT
-IxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYxMjk3OCwyMDEzMDIx
-Mzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMTQyNjUwNzY5OSwtMj
-EyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3NjM1OSwxNjE3MzEy
-MzE3XX0=
+eyJoaXN0b3J5IjpbLTEyNTA1MTUyMzQsLTE4OTUyNDMxNDIsMT
+I5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5
+MDA0LDE0NDY2NjY5NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC
+05NzgxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYx
+Mjk3OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2MTYsMT
+QyNjUwNzY5OSwtMjEyMzc5ODU1MywyNTQwMTYyNSwtMTM0NjQ3
+NjM1OV19
 -->
