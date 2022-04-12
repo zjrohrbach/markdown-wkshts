@@ -1,4 +1,4 @@
-Mon, Apr 11 / Tue, Apr 12
+Wed, Apr 13
 =================== 
    
     
@@ -11,9 +11,7 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. [Waves Review][r]
-3. [Sound Reading][sound]
-4. (*time permitting*) Notes on Sound
+2. Take the Unit 8(b) Quiz
 
   
 Announcements   
@@ -26,11 +24,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OT
-UyNDMxNDIsMTI5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQz
-NywtODU0MTc5MDA0LDE0NDY2NjY5NTgsLTMzOTU1NjI0MCwtNz
-c0ODcxODE2LC05NzgxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEz
-NjY3LDM3OTYxMjk3OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nz
-g2Nzk2MTYsMTQyNjUwNzY5OSwtMjEyMzc5ODU1MywyNTQwMTYy
-NV19
+eyJoaXN0b3J5IjpbLTMwNjA0NDIxMSw0Mjg3MzMxNTksMTc0OD
+AwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLDE4ODE1MzI1
+NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1OCwtMz
+M5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcy
+MzcxLC01NTcyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNj
+kwNzE4MTAsMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4
+NTUzXX0=
 -->
