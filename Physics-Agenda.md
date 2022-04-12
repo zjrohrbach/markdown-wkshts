@@ -5,7 +5,8 @@ Wed, Apr 13
 Objectives    
 ------------    
   
-- Prove what you k about waves.
+- Prove what you know about waves.
+- Be able to describe the phenomena of *resonance* and the *Doppler effect*.
   
 Agenda      
 ---------      
@@ -25,11 +26,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDMxMjkzNCw0Mjg3MzMxNTksMTc0OD
-AwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLDE4ODE1MzI1
-NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1OCwtMz
-M5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcy
-MzcxLC01NTcyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNj
-kwNzE4MTAsMTg3ODY3OTYxNiwxNDI2NTA3Njk5LC0yMTIzNzk4
-NTUzXX0=
+eyJoaXN0b3J5IjpbODA3Nzg0Mzg4LDQyODczMzE1OSwxNzQ4MD
+AzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMTg4MTUzMjU0
+NCw4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC0zMz
+k1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQwNzIz
+NzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAyMTM4Nyw2OT
+A3MTgxMCwxODc4Njc5NjE2LDE0MjY1MDc2OTksLTIxMjM3OTg1
+NTNdfQ==
 -->
