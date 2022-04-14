@@ -8,7 +8,7 @@ Objectives
 Agenda      
 ---------      
 1. As you come into the room,  **_PLEASE DO NOT TOUCH THE LAB EQUIPMENT_**
-2. Do the [Electrostatics Stations]()!
+2. Do the [Electrostatics Stations](https://avon.schoology.com/course/5138386920/materials/gp/5890710179)!
 
   
 Homework    
@@ -16,11 +16,11 @@ Homework
   
 - (*none right now*)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NTE3ODM5LDIyMDM2NTA1MCwxMDIzNz
-Y4MzIxLC0xODkyMDA1MTg3LDkzNDQ0MDY5Miw5ODQxODU5MzUs
-LTQxNzE0MDg5NCwtMTI1NTA4MTM2NiwtODMyNDgwNDE2LC0xNj
-g4NjAyOTI3LC0zMjMxODM4ODMsLTUxMTM3NDk5OCwtODQ0MTg5
-NjAyLC0xMzYyODQxMTM4LDEwNDgxMTk4MzUsOTAxODU3NDQsLT
-E1ODAwODM1ODksMTMxMTc3MDkyNywyMTI3NzA5MjMxLC0xNzcz
-MjUxMDZdfQ==
+eyJoaXN0b3J5IjpbLTYyNTYzNzc2NSwyMjAzNjUwNTAsMTAyMz
+c2ODMyMSwtMTg5MjAwNTE4Nyw5MzQ0NDA2OTIsOTg0MTg1OTM1
+LC00MTcxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNiwtMT
+Y4ODYwMjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0NDE4
+OTYwMiwtMTM2Mjg0MTEzOCwxMDQ4MTE5ODM1LDkwMTg1NzQ0LC
+0xNTgwMDgzNTg5LDEzMTE3NzA5MjcsMjEyNzcwOTIzMSwtMTc3
+MzI1MTA2XX0=
 -->
