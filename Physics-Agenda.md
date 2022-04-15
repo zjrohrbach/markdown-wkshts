@@ -1,4 +1,4 @@
-Thu, Apr 14 / Fri, Apr 15
+Mon, Apr 18 / Tue, Apr 19
 =================== 
    
     
@@ -10,24 +10,24 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. (*period 5*) Discussion of Sonic Booms and the sound barrier
-3. Notes on the Doppler Effect <sub>[video](https://youtu.be/8Y8lYsxijBs)</sub>
-4. [Sound #1][s]
+2. Doppler Effect warmup question
+3. Notes on the Electromagnetic Spectrum <sub>[pdf notes](https://avon.schoology.com/course/5138386979/materials/gp/5891604282)</sub>
+4. [Transparency and Opacity Reading]()
 
   
 Announcements   
 -------------    
-- Finish [Sound #1][s]
+- If you'd like to do quiz corrections, they should be done by Friday
 
 [s]: https://avon.schoology.com/course/5138386979/materials/gp/5889697939
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzIxMjg4NCwtMjA3OTkwMTc1MSw4MD
-c3ODQzODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUyNDMx
-NDIsMTI5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtOD
-U0MTc5MDA0LDE0NDY2NjY5NTgsLTMzOTU1NjI0MCwtNzc0ODcx
-ODE2LC05NzgxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LD
-M3OTYxMjk3OCwyMDEzMDIxMzg3LDY5MDcxODEwLDE4Nzg2Nzk2
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTM3NjkzNTg0MSwxNTMzMjEyODg0LC0yMD
+c5OTAxNzUxLDgwNzc4NDM4OCw0Mjg3MzMxNTksMTc0ODAwMzQz
+NywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLDE4ODE1MzI1NDQsOD
+c5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1OCwtMzM5NTU2
+MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcyMzcxLC
+01NTcyMTM2NjcsMzc5NjEyOTc4LDIwMTMwMjEzODcsNjkwNzE4
+MTBdfQ==
 -->
