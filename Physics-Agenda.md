@@ -5,7 +5,7 @@ Mon, Apr 18 / Tue, Apr 19
 Objectives    
 ------------    
   
-- Be able to perform Doppler Effect calculations.
+- Be able to describe electromagnetic waves and light waves
   
 Agenda      
 ---------      
@@ -25,7 +25,7 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0OTEzMjA0LC0xNDA1NzcxOTUyLC0zMT
+eyJoaXN0b3J5IjpbODY1NTY0OTA2LC0xNDA1NzcxOTUyLC0zMT
 k4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3OTkwMTc1MSw4MDc3ODQz
 ODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUyNDMxNDIsMT
 I5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5
