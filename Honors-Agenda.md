@@ -9,20 +9,20 @@ Objectives
 Agenda      
 ---------      
 1. Hand out Electricity Syllabus
-2. Notes on Electrostatics <sub>[video]</sub>
-3. [Multi-Charge Practice Problem]
+2. Notes on Electrostatics <sub>[video](https://youtu.be/4KtF5YnpK6c)</sub>
+3. [Multi-Charge Practice Problem](https://avon.schoology.com/course/5138386920/materials/gp/5527388524)
 
   
 Homework    
 -------------      
   
-- (*none right now*)
+- 16-5 & 1-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTExOTA1MiwtNjI1NjM3NzY1LDIyMD
-M2NTA1MCwxMDIzNzY4MzIxLC0xODkyMDA1MTg3LDkzNDQ0MDY5
-Miw5ODQxODU5MzUsLTQxNzE0MDg5NCwtMTI1NTA4MTM2NiwtOD
-MyNDgwNDE2LC0xNjg4NjAyOTI3LC0zMjMxODM4ODMsLTUxMTM3
-NDk5OCwtODQ0MTg5NjAyLC0xMzYyODQxMTM4LDEwNDgxMTk4Mz
-UsOTAxODU3NDQsLTE1ODAwODM1ODksMTMxMTc3MDkyNywyMTI3
-NzA5MjMxXX0=
+eyJoaXN0b3J5IjpbODg2MTczMjUwLC02MjU2Mzc3NjUsMjIwMz
+Y1MDUwLDEwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQwNjky
+LDk4NDE4NTkzNSwtNDE3MTQwODk0LC0xMjU1MDgxMzY2LC04Mz
+I0ODA0MTYsLTE2ODg2MDI5MjcsLTMyMzE4Mzg4MywtNTExMzc0
+OTk4LC04NDQxODk2MDIsLTEzNjI4NDExMzgsMTA0ODExOTgzNS
+w5MDE4NTc0NCwtMTU4MDA4MzU4OSwxMzExNzcwOTI3LDIxMjc3
+MDkyMzFdfQ==
 -->
