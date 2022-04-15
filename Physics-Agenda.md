@@ -11,9 +11,11 @@ Agenda
 ---------      
 1. SSR
 2. Doppler Effect warmup question
-3. Reading J
-4. Notes on the Electromagnetic Spectrum <sub>[pdf notes](https://avon.schoology.com/course/5138386979/materials/gp/5891604282)</sub>
-5. [Transparency and Opacity Reading](https://avon.schoology.com/course/5138386979/materials/gp/5891605277)
+3. Reading Jigsaw
+	- 
+	- 
+5. Notes on the Electromagnetic Spectrum <sub>[pdf notes](https://avon.schoology.com/course/5138386979/materials/gp/5891604282)</sub>
+6. [Transparency and Opacity Reading](https://avon.schoology.com/course/5138386979/materials/gp/5891605277)
 
   
 Announcements   
@@ -24,11 +26,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAwMzU5MywtMzE5ODg0NzQ4LDE1Mz
-MyMTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODczMzE1
-OSwxNzQ4MDAzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMT
-g4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2
-OTU4LC0zMzk1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC
-0yMTQwNzIzNzEsLTU1NzIxMzY2NywzNzk2MTI5NzgsMjAxMzAy
-MTM4N119
+eyJoaXN0b3J5IjpbLTE0MDU3NzE5NTIsLTMxOTg4NDc0OCwxNT
+MzMjEyODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OCw0Mjg3MzMx
+NTksMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLD
+E4ODE1MzI1NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2
+Njk1OCwtMzM5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0My
+wtMjE0MDcyMzcxLC01NTcyMTM2NjcsMzc5NjEyOTc4LDIwMTMw
+MjEzODddfQ==
 -->
