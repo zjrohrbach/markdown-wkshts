@@ -12,7 +12,7 @@ Agenda
 1. SSR
 2. Warmup Questions
 3. Reflection Lab
-4. (*time permitting*) Refection Notes <sub>[video]</sub>
+4. (*time permitting*) Refection Notes <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5896407065)</sub>
 
   
 Announcements   
@@ -23,11 +23,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjczMjY1MTMsMTExNzQ5NjA2NCw4Nj
-U1NjQ5MDYsLTE0MDU3NzE5NTIsLTMxOTg4NDc0OCwxNTMzMjEy
-ODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OCw0Mjg3MzMxNTksMT
-c0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLDE4ODE1
-MzI1NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1OC
-wtMzM5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMjE0
-MDcyMzcxXX0=
+eyJoaXN0b3J5IjpbMjE2MDYzNDkxLDExMTc0OTYwNjQsODY1NT
+Y0OTA2LC0xNDA1NzcxOTUyLC0zMTk4ODQ3NDgsMTUzMzIxMjg4
+NCwtMjA3OTkwMTc1MSw4MDc3ODQzODgsNDI4NzMzMTU5LDE3ND
+gwMDM0MzcsLTE4OTUyNDMxNDIsMTI5MTkxNTA0MiwxODgxNTMy
+NTQ0LDg3OTgwNjQzNywtODU0MTc5MDA0LDE0NDY2NjY5NTgsLT
+MzOTU1NjI0MCwtNzc0ODcxODE2LC05NzgxNDczNDMsLTIxNDA3
+MjM3MV19
 -->
