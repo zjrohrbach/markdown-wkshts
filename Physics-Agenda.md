@@ -1,20 +1,17 @@
-Mon, Apr 18 / Tue, Apr 19
+Wed, Apr 20
 =================== 
    
     
 Objectives    
 ------------    
-  
 - Be able to describe electromagnetic waves and light waves
+- Be able to articulate the *law of reflection*.
   
 Agenda      
 ---------      
 1. SSR
-2. Doppler Effect warmup question
-3. Reading Jigsaw
-	- [Electromagnetic Spectrum](https://avon.schoology.com/course/5138386979/materials/gp/5891611306)
-	- [Transparency and Opacity](https://avon.schoology.com/course/5138386979/materials/gp/5891605277)
-4. Notes on the Electromagnetic Spectrum <sub>[pdf notes](https://avon.schoology.com/course/5138386979/materials/gp/5891604282)</sub>
+2. Warmup Questions
+3. Reflection Lab
 
   
 Announcements   
@@ -25,11 +22,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NTY0OTA2LC0xNDA1NzcxOTUyLC0zMT
-k4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3OTkwMTc1MSw4MDc3ODQz
-ODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUyNDMxNDIsMT
-I5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5
-MDA0LDE0NDY2NjY5NTgsLTMzOTU1NjI0MCwtNzc0ODcxODE2LC
-05NzgxNDczNDMsLTIxNDA3MjM3MSwtNTU3MjEzNjY3LDM3OTYx
-Mjk3OF19
+eyJoaXN0b3J5IjpbMTExNzQ5NjA2NCw4NjU1NjQ5MDYsLTE0MD
+U3NzE5NTIsLTMxOTg4NDc0OCwxNTMzMjEyODg0LC0yMDc5OTAx
+NzUxLDgwNzc4NDM4OCw0Mjg3MzMxNTksMTc0ODAwMzQzNywtMT
+g5NTI0MzE0MiwxMjkxOTE1MDQyLDE4ODE1MzI1NDQsODc5ODA2
+NDM3LC04NTQxNzkwMDQsMTQ0NjY2Njk1OCwtMzM5NTU2MjQwLC
+03NzQ4NzE4MTYsLTk3ODE0NzM0MywtMjE0MDcyMzcxLC01NTcy
+MTM2NjddfQ==
 -->
