@@ -1,18 +1,17 @@
-Wed, Apr 20
+Thu, Apr 21 / Fri, Apr 22
 =================== 
    
     
 Objectives    
 ------------    
-- Be able to describe electromagnetic waves and light waves
 - Be able to articulate the *law of reflection*.
+- Be able to describe what happens to light when it *refracts*.
   
 Agenda      
 ---------      
 1. SSR
-2. Warmup Questions
-3. [Reflection Lab](https://avon.schoology.com/course/5138386979/materials/gp/5896412728)
-4. (*time permitting*) Reflection Notes <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5896407065)</sub>
+2. Reflection Notes <sub>[video](https://avon.schoology.com/course/5138386979/materials/gp/5896407065)</sub>
+3. Refraction Lab <sub>link to handout. Do page 3-4 if you were not present in class</sub>
 
   
 Announcements   
@@ -23,11 +22,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NT
-U2NDkwNiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LDE1MzMyMTI4
-ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODczMzE1OSwxNz
-Q4MDAzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMTg4MTUz
-MjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC
-0zMzk1NTYyNDAsLTc3NDg3MTgxNiwtOTc4MTQ3MzQzLC0yMTQw
-NzIzNzFdfQ==
+eyJoaXN0b3J5IjpbNzc2NDUyMTU5LC05NDU0ODYzODEsMTExNz
+Q5NjA2NCw4NjU1NjQ5MDYsLTE0MDU3NzE5NTIsLTMxOTg4NDc0
+OCwxNTMzMjEyODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OCw0Mj
+g3MzMxNTksMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1
+MDQyLDE4ODE1MzI1NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMT
+Q0NjY2Njk1OCwtMzM5NTU2MjQwLC03NzQ4NzE4MTYsLTk3ODE0
+NzM0M119
 -->
