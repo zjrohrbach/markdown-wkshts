@@ -17,14 +17,14 @@ Agenda
 Homework    
 -------------      
   
-- You can do all of the Ch 16-17 HW.  Attempt it all bake sure it is turned in by Friday at the latest.
+- You can do all of the Ch 16-17 HW.  Attempt it all by next class, but make sure it is turned in by Friday at the latest.
 - Quizzam moved to Friday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTk2MjkzNywxMjMyOTgwOTA4LC0xNz
-U0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0Mjc5
-NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MDUwLD
-EwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4NDE4
-NTkzNSwtNDE3MTQwODk0LC0xMjU1MDgxMzY2LC04MzI0ODA0MT
-YsLTE2ODg2MDI5MjcsLTMyMzE4Mzg4MywtNTExMzc0OTk4LC04
-NDQxODk2MDJdfQ==
+eyJoaXN0b3J5IjpbNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NT
+Q3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQyNzk0
+MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNTAsMT
+AyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5MzQ0NDA2OTIsOTg0MTg1
+OTM1LC00MTcxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNi
+wtMTY4ODYwMjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0
+NDE4OTYwMl19
 -->
