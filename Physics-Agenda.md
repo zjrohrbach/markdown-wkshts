@@ -10,9 +10,10 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. [Refraction Reading]
+2. [Refraction Reading](https://avon.schoology.com/course/5138386979/materials/gp/5904235646
 3. Refraction Notes
-4. Demos: T.I.R. and 
+4. Demos: T.I.R. and Dispersion
+5. Do [Light #1]
 
   
 Announcements   
@@ -25,7 +26,7 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTY0MTM3MywxOTM1NDIyNzcsLTQ3Nz
+eyJoaXN0b3J5IjpbMTU3ODAyMzA4MiwxOTM1NDIyNzcsLTQ3Nz
 g1Mjc4NCwtOTQ1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2
 LC0xNDA1NzcxOTUyLC0zMTk4ODQ3NDgsMTUzMzIxMjg4NCwtMj
 A3OTkwMTc1MSw4MDc3ODQzODgsNDI4NzMzMTU5LDE3NDgwMDM0
