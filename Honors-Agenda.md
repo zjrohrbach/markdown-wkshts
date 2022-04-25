@@ -7,20 +7,20 @@ Objectives
    
 Agenda      
 ---------      
-1. HW Questions
-2. Notes on Electric Potential
-3. [Practice Problems](https://avon.schoology.com/page/5900729405)
-4. HW Quiz
+1. Hand back HW Quiz
+2. HW Questions
+3. Finish Notes on Electric Potential
+4. Finish [Practice Problems](https://avon.schoology.com/page/5900729405)
+5. (*time permitting*) Notes on Capacitance
 
   
 Homework    
 -------------      
   
-- Ch 16 HW due on Monday.
-- You can do 17-1 to 17-4 and 17-5 HW (due Wednesday)
+- You can do all of the Ch 16-17 HW.  Attempt it all bake sure it is turned in by Friday at the latest.
 - Quizzam moved to Friday
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTkzNjM1NCwxMjMyOTgwOTA4LC0xNz
+eyJoaXN0b3J5IjpbMTY0MTk2MjkzNywxMjMyOTgwOTA4LC0xNz
 U0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0Mjc5
 NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MDUwLD
 EwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4NDE4
