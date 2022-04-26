@@ -1,4 +1,4 @@
-Mon, Apr 25
+Wed, Apr 27
 =========      
   
 Objectives    
@@ -7,24 +7,22 @@ Objectives
    
 Agenda      
 ---------      
-1. Hand back HW Quiz
-2. HW Questions
-3. Finish Notes on Electric Potential
-4. Finish [Practice Problems](https://avon.schoology.com/page/5900729405)
-5. (*time permitting*) Notes on Capacitance
+1. Take questions on HW (esp. #20)
+2. Potential Field Mapping
+3. Review
 
   
 Homework    
 -------------      
   
-- You can do all of the Ch 16-17 HW.  Attempt it all by next class, but make sure it is turned in by Friday at the latest.
-- Quizzam moved to Friday
+- All Ch 16-17 HW due next class
+- Quizzam next class!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NT
-Q3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQyNzk0
-MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNTAsMT
-AyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5MzQ0NDA2OTIsOTg0MTg1
-OTM1LC00MTcxNDA4OTQsLTEyNTUwODEzNjYsLTgzMjQ4MDQxNi
-wtMTY4ODYwMjkyNywtMzIzMTgzODgzLC01MTEzNzQ5OTgsLTg0
-NDE4OTYwMl19
+eyJoaXN0b3J5IjpbLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMyOT
+gwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODcz
+NSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMj
+IwMzY1MDUwLDEwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQw
+NjkyLDk4NDE4NTkzNSwtNDE3MTQwODk0LC0xMjU1MDgxMzY2LC
+04MzI0ODA0MTYsLTE2ODg2MDI5MjcsLTMyMzE4Mzg4MywtNTEx
+Mzc0OTk4XX0=
 -->
