@@ -1,4 +1,4 @@
-Wed, Apr 27
+Fri, Apr 29
 =========      
   
 Objectives    
@@ -7,22 +7,21 @@ Objectives
    
 Agenda      
 ---------      
-1. Take questions on HW (esp. #20)
-2. Potential Field Mapping
-3. Review
+1. Take questions on HW
+2. Review <sub>[link to PPT][ppt]</sub>
+3. Quzzam
 
   
 Homework    
 -------------      
   
-- All Ch 16-17 HW due next class
-- Quizzam next class!
+- nothing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMyOT
-gwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODcz
-NSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMj
-IwMzY1MDUwLDEwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQw
-NjkyLDk4NDE4NTkzNSwtNDE3MTQwODk0LC0xMjU1MDgxMzY2LC
-04MzI0ODA0MTYsLTE2ODg2MDI5MjcsLTMyMzE4Mzg4MywtNTEx
-Mzc0OTk4XX0=
+eyJoaXN0b3J5IjpbLTE3MzkxMDcyMzksLTQwMDA5ODg5LDUxOD
+g2Mzc5MSwxMjMyOTgwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1
+NTEsMjAyMzU0ODczNSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC
+02MjU2Mzc3NjUsMjIwMzY1MDUwLDEwMjM3NjgzMjEsLTE4OTIw
+MDUxODcsOTM0NDQwNjkyLDk4NDE4NTkzNSwtNDE3MTQwODk0LC
+0xMjU1MDgxMzY2LC04MzI0ODA0MTYsLTE2ODg2MDI5MjcsLTMy
+MzE4Mzg4M119
 -->
