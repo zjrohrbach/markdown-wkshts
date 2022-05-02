@@ -15,10 +15,8 @@ Homework
 -------------      
   
 - You can do all of Ch 18 on the Syllabus (due Friday)
-
-[ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5912223787
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDM2OTgxNywtMTExNTAwMjQ3MiwtMT
+eyJoaXN0b3J5IjpbMTg1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMT
 czOTEwNzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5
 MDgsLTE3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC
 0xNDQyNzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAz
