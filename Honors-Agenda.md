@@ -8,7 +8,7 @@ Objectives
 Agenda      
 ---------      
 1. Notes on Circuits <sub>[video](https://youtu.be/FBEYGdk5u4Q)</sub>
-2. 
+2. Worktime
 
   
 Homework    
@@ -18,7 +18,7 @@ Homework
 
 [ppt]: https://avon.schoology.com/course/5138386920/materials/gp/5912223787
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzA4NjAzOSwtMTExNTAwMjQ3MiwtMT
+eyJoaXN0b3J5IjpbMjA5NDM2OTgxNywtMTExNTAwMjQ3MiwtMT
 czOTEwNzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5
 MDgsLTE3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC
 0xNDQyNzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAz
