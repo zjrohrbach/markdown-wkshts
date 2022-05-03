@@ -10,20 +10,19 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. Lenses PhET Lab <sub>[w
+2. Lenses PhET Lab <sub>[wksht][pwksht], [link to animation][plink]</sub>
+3. [Light #2][l2]
 
   
 Announcements   
 -------------    
-- If you'd like to do quiz corrections on [8(a)][8a] or [8(b)][8b], they should be done by Friday
-- If you were absent last time, make sure to do the Refraction Lab <sub>link to [handout](https://avon.schoology.com/course/5138386979/materials/gp/5899818972). Do page 3-4 if you were not present in class</sub>.
+- Test on Sound and Light coming up on Mon/Tue.
 
-[8a]: https://avon.schoology.com/assignment/5753491359/
-[8b]: https://avon.schoology.com/assignment/5855600085/
-
-
+[pwsksht]:
+[plink]:
+[l2]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc1NzMwNzIsLTE5OTA0NzU3OTAsMT
+eyJoaXN0b3J5IjpbLTEyMTIzMzEwNTQsLTE5OTA0NzU3OTAsMT
 kzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4MSwxMTE3NDk2
 MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LD
 E1MzMyMTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODcz
