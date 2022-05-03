@@ -9,7 +9,7 @@ Objectives
 Agenda      
 ---------      
 1. Notes on Series vs. Parallel Circuits
-2. Series vs. Parallel Lab
+2. [Series vs. Parallel Lab](https://avon.schoology.com/assignment/5921695343/)
 3. Notes on Equivalent Resistance
 
   
@@ -20,11 +20,11 @@ Homework
 - You can get started on 19-2 problems (due Monday)
 - Quizzamajig-thing could be as early as next Wednesday.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTUwODcyNiwxODU1MDY4MTUyLC0xMT
-E1MDAyNDcyLC0xNzM5MTA3MjM5LC00MDAwOTg4OSw1MTg4NjM3
-OTEsMTIzMjk4MDkwOCwtMTc1NDcxMzE4MSwxNzQ0OTYwNTUxLD
-IwMjM1NDg3MzUsLTE0NDI3OTQyNzEsLTMzMjU5NDExNSwtNjI1
-NjM3NzY1LDIyMDM2NTA1MCwxMDIzNzY4MzIxLC0xODkyMDA1MT
-g3LDkzNDQ0MDY5Miw5ODQxODU5MzUsLTQxNzE0MDg5NCwtMTI1
-NTA4MTM2Nl19
+eyJoaXN0b3J5IjpbMTM0NjA1MzYyNSwtNjk5NTA4NzI2LDE4NT
+UwNjgxNTIsLTExMTUwMDI0NzIsLTE3MzkxMDcyMzksLTQwMDA5
+ODg5LDUxODg2Mzc5MSwxMjMyOTgwOTA4LC0xNzU0NzEzMTgxLD
+E3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0Mjc5NDI3MSwtMzMy
+NTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MDUwLDEwMjM3NjgzMj
+EsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4NDE4NTkzNSwtNDE3
+MTQwODk0XX0=
 -->
