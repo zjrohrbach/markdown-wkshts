@@ -1,4 +1,4 @@
-Thu, Apr 28 / Fri, Apr 29
+Wed, May 4
 =================== 
    
     
@@ -10,8 +10,7 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. Notes on Lenses and Images
-3. Do [Learning to Use the Lens Equations](https://avon.schoology.com/course/5138386979/materials/gp/5911753450) Problems.
+2. Lenses PhET Lab <sub>[w
 
   
 Announcements   
@@ -24,11 +23,11 @@ Announcements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nz
-c4NTI3ODQsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkw
-NiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LDE1MzMyMTI4ODQsLT
-IwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODczMzE1OSwxNzQ4MDAz
-NDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMTg4MTUzMjU0NC
-w4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2NjY2OTU4LC0zMzk1
-NTYyNDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNzc1NzMwNzIsLTE5OTA0NzU3OTAsMT
+kzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4MSwxMTE3NDk2
+MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LD
+E1MzMyMTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODcz
+MzE1OSwxNzQ4MDAzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwND
+IsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2
+NjY2OTU4XX0=
 -->
