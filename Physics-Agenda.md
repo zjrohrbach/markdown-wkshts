@@ -18,15 +18,15 @@ Announcements
 -------------    
 - Test on Sound and Light coming up on Mon/Tue.
 
-[pwsksht]:
-[plink]:
-[l2]: 
+[pwsksht]: https://avon.schoology.com/course/5138386979/materials/gp/5921354439
+[plink]: https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_en.html
+[l2]: https://avon.schoology.com/course/5138386979/materials/gp/5921354485
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIzMzEwNTQsLTE5OTA0NzU3OTAsMT
-kzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4MSwxMTE3NDk2
-MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LD
-E1MzMyMTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODcz
-MzE1OSwxNzQ4MDAzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwND
-IsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3OTAwNCwxNDQ2
-NjY2OTU4XX0=
+eyJoaXN0b3J5IjpbNDEyNDgzNDc0LC0xOTkwNDc1NzkwLDE5Mz
+U0MjI3NywtNDc3ODUyNzg0LC05NDU0ODYzODEsMTExNzQ5NjA2
+NCw4NjU1NjQ5MDYsLTE0MDU3NzE5NTIsLTMxOTg4NDc0OCwxNT
+MzMjEyODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OCw0Mjg3MzMx
+NTksMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkxOTE1MDQyLD
+E4ODE1MzI1NDQsODc5ODA2NDM3LC04NTQxNzkwMDQsMTQ0NjY2
+Njk1OF19
 -->
