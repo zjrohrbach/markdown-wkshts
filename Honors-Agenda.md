@@ -1,10 +1,9 @@
-Wed, May 4
+Fri, May 6
 =========      
   
 Objectives    
 ------------    
-- Be able to explain the difference between a series circuit and a parallel circuit.
-- Be able to explain the concept of *equivalent resistance*.
+- Be able to explain the concept of *equivalent resistance* and calculate it.
    
 Agenda      
 ---------      
@@ -21,7 +20,7 @@ Homework
 
 [packet]: https://avon.schoology.com/assignment/5527388404/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTY1OTE0OCwxMzQ2MDUzNjI1LC02OT
+eyJoaXN0b3J5IjpbMjEyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OT
 k1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEw
 NzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLT
 E3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQy
