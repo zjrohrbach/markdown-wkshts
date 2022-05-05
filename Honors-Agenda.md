@@ -9,19 +9,19 @@ Objectives
 Agenda      
 ---------      
 1. Start [Equivalent Resistance Packet][packet]
-2. 
+2. Go through some [Circuit Questions](https://avon.schoology.com/page/5926588268)
 
   
 Homework    
 -------------      
   
 - Ch 18 Problems should be done
-- 19-2 problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][packet]).  This is due before the Testette 
-- Quizzamajig-thing could be as early as next Wednesday.
+- Ch 19 Problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][packet]).  This is due before the Baby-Test.
+- Baby-Test could be as early as next Wednesday.
 
 [packet]: https://avon.schoology.com/assignment/5527388404/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTIzODYwMCwxMzQ2MDUzNjI1LC02OT
+eyJoaXN0b3J5IjpbLTgxOTY1OTE0OCwxMzQ2MDUzNjI1LC02OT
 k1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEw
 NzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLT
 E3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQy
