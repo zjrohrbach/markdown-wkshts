@@ -11,7 +11,7 @@ Agenda
 ---------      
 1. SSR
 2. Notes on Color
-3. Concept Review <sub>page 1 of [this review][rev]</sub>
+3. Concept Review <sub>pages 1-2 of [this review][rev]</sub>
 
   
 Announcements   
@@ -24,11 +24,11 @@ Announcements
 [l2]: https://avon.schoology.com/course/5138386979/materials/gp/5921354485
 [rev]: https://avon.schoology.com/course/5138386979/materials/gp/5925902137
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxODU1OTAzLDQxMjQ4MzQ3NCwtMTk5MD
-Q3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1Mjc4NCwtOTQ1NDg2Mzgx
-LDExMTc0OTYwNjQsODY1NTY0OTA2LC0xNDA1NzcxOTUyLC0zMT
-k4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3OTkwMTc1MSw4MDc3ODQz
-ODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUyNDMxNDIsMT
-I5MTkxNTA0MiwxODgxNTMyNTQ0LDg3OTgwNjQzNywtODU0MTc5
-MDA0XX0=
+eyJoaXN0b3J5IjpbMTU1MjI0MTQ4OSw0MTI0ODM0NzQsLTE5OT
+A0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4
+MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMz
+E5ODg0NzQ4LDE1MzMyMTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0
+Mzg4LDQyODczMzE1OSwxNzQ4MDAzNDM3LC0xODk1MjQzMTQyLD
+EyOTE5MTUwNDIsMTg4MTUzMjU0NCw4Nzk4MDY0MzcsLTg1NDE3
+OTAwNF19
 -->
