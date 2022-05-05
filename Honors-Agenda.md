@@ -8,23 +8,25 @@ Objectives
    
 Agenda      
 ---------      
-1. Notes on Series vs. Parallel Circuits
-2. [Series vs. Parallel Lab](https://avon.schoology.com/assignment/5921695343/)
-3. Notes on Equivalent Resistance
+1. Start [Equivalent Resistance Packet][packet]
+2. 
 
   
 Homework    
 -------------      
   
-- You can do all of Ch 18 on the Syllabus (due Friday)
-- You can get started on 19-2 problems (due Monday)
+- Ch 18 Problems should be done
+- 19-2 problems (due Monday)
+- [Equivalent Resistance Packet][packet] should be completed and uploaded by Wednesday
 - Quizzamajig-thing could be as early as next Wednesday.
+
+[packet]: https://avon.schoology.com/assignment/5527388404/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjA1MzYyNSwtNjk5NTA4NzI2LDE4NT
-UwNjgxNTIsLTExMTUwMDI0NzIsLTE3MzkxMDcyMzksLTQwMDA5
-ODg5LDUxODg2Mzc5MSwxMjMyOTgwOTA4LC0xNzU0NzEzMTgxLD
-E3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0Mjc5NDI3MSwtMzMy
-NTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MDUwLDEwMjM3NjgzMj
-EsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4NDE4NTkzNSwtNDE3
-MTQwODk0XX0=
+eyJoaXN0b3J5IjpbLTE2MjYxMzU4NjQsMTM0NjA1MzYyNSwtNj
+k5NTA4NzI2LDE4NTUwNjgxNTIsLTExMTUwMDI0NzIsLTE3Mzkx
+MDcyMzksLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMyOTgwOTA4LC
+0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0
+Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MD
+UwLDEwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4
+NDE4NTkzNV19
 -->
