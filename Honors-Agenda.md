@@ -16,17 +16,16 @@ Homework
 -------------      
   
 - Ch 18 Problems should be done
-- 19-2 problems (due Monday)
-- [Equivalent Resistance Packet][packet] should be completed and uploaded by Wednesday
+- 19-2 problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][packet]).  This is due before the Testette 
 - Quizzamajig-thing could be as early as next Wednesday.
 
 [packet]: https://avon.schoology.com/assignment/5527388404/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYxMzU4NjQsMTM0NjA1MzYyNSwtNj
-k5NTA4NzI2LDE4NTUwNjgxNTIsLTExMTUwMDI0NzIsLTE3Mzkx
-MDcyMzksLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMyOTgwOTA4LC
-0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0ODczNSwtMTQ0
-Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUsMjIwMzY1MD
-UwLDEwMjM3NjgzMjEsLTE4OTIwMDUxODcsOTM0NDQwNjkyLDk4
-NDE4NTkzNV19
+eyJoaXN0b3J5IjpbLTg0NTIzODYwMCwxMzQ2MDUzNjI1LC02OT
+k1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEw
+NzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLT
+E3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQy
+Nzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNT
+AsMTAyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5MzQ0NDA2OTIsOTg0
+MTg1OTM1XX0=
 -->
