@@ -7,7 +7,7 @@ Objectives
    
 Agenda      
 ---------      
-1. Start [Equivalent Resistance Packet][packet]
+1. Start [Equivalent Resistance Packet][packet] <sub>[video](https://avon.schoology.com/course/5138386920/materials/gp/5928298560)</sub>
 2. Go through some [Circuit Questions](https://avon.schoology.com/page/5926588268)
 
   
@@ -20,11 +20,11 @@ Homework
 
 [packet]: https://avon.schoology.com/assignment/5527388404/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OT
-k1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEw
-NzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLT
-E3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQy
-Nzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNT
-AsMTAyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5MzQ0NDA2OTIsOTg0
-MTg1OTM1XX0=
+eyJoaXN0b3J5IjpbLTE3NzkwMjU5NjAsMjEyNTk3NzY3NCwxMz
+Q2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAw
+MjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLD
+EyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIz
+NTQ4NzM1LC0xNDQyNzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNz
+c2NSwyMjAzNjUwNTAsMTAyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5
+MzQ0NDA2OTJdfQ==
 -->
