@@ -15,16 +15,17 @@ Homework
 -------------      
   
 - Ch 18 Problems should be done
-- Ch 19 Problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][packet]).  This is due before the Baby-Test.
-- Baby-Test could be as early as next Wednesday.
+- Ch 19 Problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][req]).  This is due before the Baby-Test.
+- Baby-Test will be on Friday
 
-[packet]: https://avon.schoology.com/assignment/5527388404/
+[req]: https://avon.schoology.com/assignment/5527388404/
+[rev]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkwMjU5NjAsMjEyNTk3NzY3NCwxMz
-Q2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAw
-MjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLD
-EyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIz
-NTQ4NzM1LC0xNDQyNzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNz
-c2NSwyMjAzNjUwNTAsMTAyMzc2ODMyMSwtMTg5MjAwNTE4Nyw5
-MzQ0NDA2OTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzcwODc5NTAsLTE3NzkwMjU5NjAsMj
+EyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2
+ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4OD
+ksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0
+NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQyNzk0MjcxLC0zMzI1OT
+QxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNTAsMTAyMzc2ODMyMSwt
+MTg5MjAwNTE4N119
 -->
