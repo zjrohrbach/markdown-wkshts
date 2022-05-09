@@ -20,11 +20,12 @@ Homework
 - Ch 18 Problems should be done
 - Ch 19 Problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][req]).  This is due before the Mega-Quiz.
 - Mega-Quiz will be on Friday
+- Be working on your [Final Exam Review Packet][rev]
 
 [req]: https://avon.schoology.com/assignment/5527388404/
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMDM5MjMsLTE3NzkwMjU5NjAsMj
+eyJoaXN0b3J5IjpbLTE4MjQwODU4NTAsLTE3NzkwMjU5NjAsMj
 EyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2
 ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4OD
 ksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0
