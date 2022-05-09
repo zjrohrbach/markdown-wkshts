@@ -13,6 +13,8 @@ Agenda
 	- [Final Exam Review][rev]
 2. Snap Circuits Lab
 
+*If you are AP Testing today, there is no new material that you will have missed.  Just make sure you pick up the Final Exam Review packet from me on Wednesday.  Also, if you want to do test corrections, get an SRT pass from me.*
+
   
 Homework    
 -------------      
@@ -25,11 +27,11 @@ Homework
 [req]: https://avon.schoology.com/assignment/5527388404/
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQwODU4NTAsLTE3NzkwMjU5NjAsMj
-EyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2
-ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4OD
-ksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0
-NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQyNzk0MjcxLC0zMzI1OT
-QxMTUsLTYyNTYzNzc2NSwyMjAzNjUwNTAsMTAyMzc2ODMyMSwt
-MTg5MjAwNTE4N119
+eyJoaXN0b3J5IjpbMTQ4NTg0Njc0MywtMTgyNDA4NTg1MCwtMT
+c3OTAyNTk2MCwyMTI1OTc3Njc0LDEzNDYwNTM2MjUsLTY5OTUw
+ODcyNiwxODU1MDY4MTUyLC0xMTE1MDAyNDcyLC0xNzM5MTA3Mj
+M5LC00MDAwOTg4OSw1MTg4NjM3OTEsMTIzMjk4MDkwOCwtMTc1
+NDcxMzE4MSwxNzQ0OTYwNTUxLDIwMjM1NDg3MzUsLTE0NDI3OT
+QyNzEsLTMzMjU5NDExNSwtNjI1NjM3NzY1LDIyMDM2NTA1MCwx
+MDIzNzY4MzIxXX0=
 -->
