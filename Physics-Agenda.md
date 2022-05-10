@@ -1,4 +1,4 @@
-Mon, May 9 / Tue, May 10
+Wed, May 11
 =================== 
    
     
@@ -9,23 +9,23 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. Problem Review <sub>pages 3-4 of [this review][rev]</sub>
-3. Review Clickers
+2. Hand out the [Final Exam Review][rev]
+3. Take the Unit 09 Test
 
   
 Announcements   
 -------------    
-- Test on Sound and Light next class!
-- Extra Review Materials: [review packet][rev] and [key] 
+- Be working on your Final Exam Review Packet
+	- This is due on your final exam day.  No work = maximum score of 5/10.
+	- Don't forget, if you do the extra things listed at the top, there's an opportunity to earn 10% bonus on your final exam!
 
-[rev]: https://avon.schoology.com/course/5138386979/materials/gp/5925902137
-[key]: https://avon.schoology.com/course/5138386979/materials/gp/5928336945
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MT
-I0ODM0NzQsLTE5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3
-ODQsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMT
-QwNTc3MTk1MiwtMzE5ODg0NzQ4LDE1MzMyMTI4ODQsLTIwNzk5
-MDE3NTEsODA3Nzg0Mzg4LDQyODczMzE1OSwxNzQ4MDAzNDM3LC
-0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMTg4MTUzMjU0NCw4Nzk4
-MDY0MzddfQ==
+eyJoaXN0b3J5IjpbLTExMDI3OTQxMDQsLTEzODgyNTY2MTgsMT
+U1MjI0MTQ4OSw0MTI0ODM0NzQsLTE5OTA0NzU3OTAsMTkzNTQy
+Mjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LD
+g2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMzE5ODg0NzQ4LDE1MzMy
+MTI4ODQsLTIwNzk5MDE3NTEsODA3Nzg0Mzg4LDQyODczMzE1OS
+wxNzQ4MDAzNDM3LC0xODk1MjQzMTQyLDEyOTE5MTUwNDIsMTg4
+MTUzMjU0NF19
 -->
