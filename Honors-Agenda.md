@@ -9,7 +9,8 @@ Agenda
 ---------      
 1. Go over the [Final Exam Review][rev] for those who weren't here Monday.
 2. Take questions over the HW
-3. Solve the [Mega Circuit](https://avon.schoology.com/course/5138386920/materials/gp/5933394576)
+3. [Clicker Review Questions](https://avon.schoology.com/course/5138386920/materials/gp/5933396793)
+4. Solve the [Mega Circuit](https://avon.schoology.com/course/5138386920/materials/gp/5933394576)
 
 *If you are AP Testing today, there is no new material that you will have missed.  Just make sure you pick up the Final Exam Review packet from me on Wednesday.  Also, if you want to do test corrections, get an SRT pass from me.*
 
@@ -17,19 +18,18 @@ Agenda
 Homework    
 -------------      
   
-- Ch 18 Problems should be done
-- Ch 19 Problems and Conceptual Questions can now be completed (including the [Equivalent Resistance Packet][req]).  This is due before the Mega-Quiz.
-- Mega-Quiz will be on Friday
+- Finish all Ch 18-19 Problems and Conceptual Questions (including the [Equivalent Resistance Packet][req]).
+- Mega-Quiz will be next class
 - Be working on your [Final Exam Review Packet][rev]
 
 [req]: https://avon.schoology.com/assignment/5527388404/
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTY2NTA1LDE0ODU4NDY3NDMsLTE4Mj
-QwODU4NTAsLTE3NzkwMjU5NjAsMjEyNTk3NzY3NCwxMzQ2MDUz
-NjI1LC02OTk1MDg3MjYsMTg1NTA2ODE1MiwtMTExNTAwMjQ3Mi
-wtMTczOTEwNzIzOSwtNDAwMDk4ODksNTE4ODYzNzkxLDEyMzI5
-ODA5MDgsLTE3NTQ3MTMxODEsMTc0NDk2MDU1MSwyMDIzNTQ4Nz
-M1LC0xNDQyNzk0MjcxLC0zMzI1OTQxMTUsLTYyNTYzNzc2NSwy
-MjAzNjUwNTBdfQ==
+eyJoaXN0b3J5IjpbMTk3Mzg5NjM0NiwxNDg1ODQ2NzQzLC0xOD
+I0MDg1ODUwLC0xNzc5MDI1OTYwLDIxMjU5Nzc2NzQsMTM0NjA1
+MzYyNSwtNjk5NTA4NzI2LDE4NTUwNjgxNTIsLTExMTUwMDI0Nz
+IsLTE3MzkxMDcyMzksLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMy
+OTgwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0OD
+czNSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUs
+MjIwMzY1MDUwXX0=
 -->
