@@ -4,7 +4,7 @@ Wed, May 11
     
 Objectives    
 ------------    
-- Review what we've learned about sound and light.
+- Prove what you know about sound and light.
   
 Agenda      
 ---------      
@@ -19,13 +19,13 @@ Announcements
 	- This is due on your final exam day.  No work shown = maximum score of 5/10.
 	- Don't forget, if you do the extra things listed at the top, there's an opportunity to earn 10% bonus on your final exam!
 
-[rev]
+[rev]: https://avon.schoology.com/course/5138386979/materials?f=595396692
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzEwNDk4NiwtMTM4ODI1NjYxOCwxNT
-UyMjQxNDg5LDQxMjQ4MzQ3NCwtMTk5MDQ3NTc5MCwxOTM1NDIy
-NzcsLTQ3Nzg1Mjc4NCwtOTQ1NDg2MzgxLDExMTc0OTYwNjQsOD
-Y1NTY0OTA2LC0xNDA1NzcxOTUyLC0zMTk4ODQ3NDgsMTUzMzIx
-Mjg4NCwtMjA3OTkwMTc1MSw4MDc3ODQzODgsNDI4NzMzMTU5LD
-E3NDgwMDM0MzcsLTE4OTUyNDMxNDIsMTI5MTkxNTA0MiwxODgx
-NTMyNTQ0XX0=
+eyJoaXN0b3J5IjpbMTM0MDAwNTkxMSwtNzUzMTA0OTg2LC0xMz
+g4MjU2NjE4LDE1NTIyNDE0ODksNDEyNDgzNDc0LC0xOTkwNDc1
+NzkwLDE5MzU0MjI3NywtNDc3ODUyNzg0LC05NDU0ODYzODEsMT
+ExNzQ5NjA2NCw4NjU1NjQ5MDYsLTE0MDU3NzE5NTIsLTMxOTg4
+NDc0OCwxNTMzMjEyODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OC
+w0Mjg3MzMxNTksMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkx
+OTE1MDQyXX0=
 -->
