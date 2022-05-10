@@ -11,9 +11,6 @@ Agenda
 2. Take questions over the HW
 3. [Clicker Review Questions](https://avon.schoology.com/course/5138386920/materials/gp/5933396793)
 4. Solve the [Mega Circuit](https://avon.schoology.com/course/5138386920/materials/gp/5933394576)
-
-*If you are AP Testing today, there is no new material that you will have missed.  Just make sure you pick up the Final Exam Review packet from me on Wednesday.  Also, if you want to do test corrections, get an SRT pass from me.*
-
   
 Homework    
 -------------      
@@ -25,11 +22,11 @@ Homework
 [req]: https://avon.schoology.com/assignment/5527388404/
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mzg5NjM0NiwxNDg1ODQ2NzQzLC0xOD
-I0MDg1ODUwLC0xNzc5MDI1OTYwLDIxMjU5Nzc2NzQsMTM0NjA1
-MzYyNSwtNjk5NTA4NzI2LDE4NTUwNjgxNTIsLTExMTUwMDI0Nz
-IsLTE3MzkxMDcyMzksLTQwMDA5ODg5LDUxODg2Mzc5MSwxMjMy
-OTgwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1NTEsMjAyMzU0OD
-czNSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC02MjU2Mzc3NjUs
-MjIwMzY1MDUwXX0=
+eyJoaXN0b3J5IjpbOTc1MjQyMjksMTQ4NTg0Njc0MywtMTgyND
+A4NTg1MCwtMTc3OTAyNTk2MCwyMTI1OTc3Njc0LDEzNDYwNTM2
+MjUsLTY5OTUwODcyNiwxODU1MDY4MTUyLC0xMTE1MDAyNDcyLC
+0xNzM5MTA3MjM5LC00MDAwOTg4OSw1MTg4NjM3OTEsMTIzMjk4
+MDkwOCwtMTc1NDcxMzE4MSwxNzQ0OTYwNTUxLDIwMjM1NDg3Mz
+UsLTE0NDI3OTQyNzEsLTMzMjU5NDExNSwtNjI1NjM3NzY1LDIy
+MDM2NTA1MF19
 -->
