@@ -9,8 +9,8 @@ Objectives
 Agenda      
 ---------      
 1. SSR
-2. Hand out the [Final Exam Review][rev]
-3. Take the Unit 09 Test
+2. Do the Simple Circuits Lab
+3. (*time permitting
 
   
 Announcements   
@@ -21,11 +21,11 @@ Announcements
 
 [rev]: https://avon.schoology.com/course/5138386979/materials?f=595396692
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDAwNTkxMSwtNzUzMTA0OTg2LC0xMz
-g4MjU2NjE4LDE1NTIyNDE0ODksNDEyNDgzNDc0LC0xOTkwNDc1
-NzkwLDE5MzU0MjI3NywtNDc3ODUyNzg0LC05NDU0ODYzODEsMT
-ExNzQ5NjA2NCw4NjU1NjQ5MDYsLTE0MDU3NzE5NTIsLTMxOTg4
-NDc0OCwxNTMzMjEyODg0LC0yMDc5OTAxNzUxLDgwNzc4NDM4OC
-w0Mjg3MzMxNTksMTc0ODAwMzQzNywtMTg5NTI0MzE0MiwxMjkx
-OTE1MDQyXX0=
+eyJoaXN0b3J5IjpbMzIyNTY2NzM5LDEzNDAwMDU5MTEsLTc1Mz
+EwNDk4NiwtMTM4ODI1NjYxOCwxNTUyMjQxNDg5LDQxMjQ4MzQ3
+NCwtMTk5MDQ3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1Mjc4NCwtOT
+Q1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2LC0xNDA1Nzcx
+OTUyLC0zMTk4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3OTkwMTc1MS
+w4MDc3ODQzODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUy
+NDMxNDJdfQ==
 -->
