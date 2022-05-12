@@ -4,7 +4,8 @@ Thu, May 12 / Fri, May 13
     
 Objectives    
 ------------    
-- Prove what you know about sound and light.
+- Be able to describe a *series circuit* and a *parallel circuit*.
+- Be able to describe *current*, *resistance*, and *voltage*.
   
 Agenda      
 ---------      
@@ -21,11 +22,11 @@ Announcements
 
 [rev]: https://avon.schoology.com/course/5138386979/materials?f=595396692
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDM3MTc4LDEzNDAwMDU5MTEsLTc1Mz
-EwNDk4NiwtMTM4ODI1NjYxOCwxNTUyMjQxNDg5LDQxMjQ4MzQ3
-NCwtMTk5MDQ3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1Mjc4NCwtOT
-Q1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2LC0xNDA1Nzcx
-OTUyLC0zMTk4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3OTkwMTc1MS
-w4MDc3ODQzODgsNDI4NzMzMTU5LDE3NDgwMDM0MzcsLTE4OTUy
-NDMxNDJdfQ==
+eyJoaXN0b3J5IjpbLTM4MzU2MDg0MCwxNDI0MzcxNzgsMTM0MD
+AwNTkxMSwtNzUzMTA0OTg2LC0xMzg4MjU2NjE4LDE1NTIyNDE0
+ODksNDEyNDgzNDc0LC0xOTkwNDc1NzkwLDE5MzU0MjI3NywtND
+c3ODUyNzg0LC05NDU0ODYzODEsMTExNzQ5NjA2NCw4NjU1NjQ5
+MDYsLTE0MDU3NzE5NTIsLTMxOTg4NDc0OCwxNTMzMjEyODg0LC
+0yMDc5OTAxNzUxLDgwNzc4NDM4OCw0Mjg3MzMxNTksMTc0ODAw
+MzQzN119
 -->
