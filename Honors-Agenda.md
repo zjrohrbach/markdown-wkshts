@@ -1,14 +1,15 @@
-Fri, May 13
+Mon, May 16
 =========      
   
 Objectives    
 ------------    
-- Prove what you know about circuits.
+- Be able to understand the concept of *refraction*
    
 Agenda      
 ---------      
-1. Take the Circuits Minitest
-2. Notes on the Law of Reflection
+1. Notes on Refraction
+2. [Refraction Lab](https://avon.schoology.com/course/5138386920/materials/gp/5939745131)
+3. [Snell's Law Derivation and Practice](https://avon.schoology.com/course/5138386920/materials/gp/5939745121)
   
 Homework    
 -------------      
@@ -20,11 +21,11 @@ Homework
 
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjYxODQyNCw5NzUyNDIyOSwxNDg1OD
-Q2NzQzLC0xODI0MDg1ODUwLC0xNzc5MDI1OTYwLDIxMjU5Nzc2
-NzQsMTM0NjA1MzYyNSwtNjk5NTA4NzI2LDE4NTUwNjgxNTIsLT
-ExMTUwMDI0NzIsLTE3MzkxMDcyMzksLTQwMDA5ODg5LDUxODg2
-Mzc5MSwxMjMyOTgwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5NjA1NT
-EsMjAyMzU0ODczNSwtMTQ0Mjc5NDI3MSwtMzMyNTk0MTE1LC02
-MjU2Mzc3NjVdfQ==
+eyJoaXN0b3J5IjpbMTczMzUwNTc0MiwtMzA2NjE4NDI0LDk3NT
+I0MjI5LDE0ODU4NDY3NDMsLTE4MjQwODU4NTAsLTE3NzkwMjU5
+NjAsMjEyNTk3NzY3NCwxMzQ2MDUzNjI1LC02OTk1MDg3MjYsMT
+g1NTA2ODE1MiwtMTExNTAwMjQ3MiwtMTczOTEwNzIzOSwtNDAw
+MDk4ODksNTE4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NTQ3MTMxOD
+EsMTc0NDk2MDU1MSwyMDIzNTQ4NzM1LC0xNDQyNzk0MjcxLC0z
+MzI1OTQxMTVdfQ==
 -->
