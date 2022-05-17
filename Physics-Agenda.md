@@ -1,11 +1,11 @@
-Mon, May 16 / Tue, May 17
+Wed, May 18
 =================== 
    
     
 Objectives    
 ------------    
-- Be able to describe and calculate *current*, *resistance*, and *voltage*.
 - Be able to explain what happens to current and resistance in a series and a parallel circuit.
+- Be able to calculate *equivalent resistance*.
   
 Agenda      
 ---------      
@@ -25,11 +25,11 @@ Announcements
 [e1]: https://avon.schoology.com/course/5138386979/materials/gp/5939609421
 [s/p]: https://avon.schoology.com/course/5138386979/materials/gp/5939609362
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzA5MDM5MywtMTkxMjgyMzY2MywtMz
-gzNTYwODQwLDE0MjQzNzE3OCwxMzQwMDA1OTExLC03NTMxMDQ5
-ODYsLTEzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MTI0ODM0NzQsLT
-E5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4
-NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1Mi
-wtMzE5ODg0NzQ4LDE1MzMyMTI4ODQsLTIwNzk5MDE3NTEsODA3
-Nzg0Mzg4XX0=
+eyJoaXN0b3J5IjpbMTY1ODYwOTE3OSwtNDQzMDkwMzkzLC0xOT
+EyODIzNjYzLC0zODM1NjA4NDAsMTQyNDM3MTc4LDEzNDAwMDU5
+MTEsLTc1MzEwNDk4NiwtMTM4ODI1NjYxOCwxNTUyMjQxNDg5LD
+QxMjQ4MzQ3NCwtMTk5MDQ3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1
+Mjc4NCwtOTQ1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2LC
+0xNDA1NzcxOTUyLC0zMTk4ODQ3NDgsMTUzMzIxMjg4NCwtMjA3
+OTkwMTc1MV19
 -->
