@@ -15,6 +15,7 @@ Agenda
   
 Announcements   
 -------------    
+- Links to 
 - Be working on your Final Exam Review Packet
 	- This is due on your final exam day.  No work shown = maximum score of 5/10.
 	- Don't forget, if you do the extra things listed at the top, there's an opportunity to earn 10% bonus on your final exam!
@@ -24,11 +25,11 @@ Announcements
 [e1]: https://avon.schoology.com/course/5138386979/materials/gp/5939609421
 [s/p]: https://avon.schoology.com/course/5138386979/materials/gp/5939609362
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODA1NzE4NCwtODM3OTc2NzksLTIwOD
-U1OTI4NTMsMTg1MjAzMTIxOSwtNDQzMDkwMzkzLC0xOTEyODIz
-NjYzLC0zODM1NjA4NDAsMTQyNDM3MTc4LDEzNDAwMDU5MTEsLT
-c1MzEwNDk4NiwtMTM4ODI1NjYxOCwxNTUyMjQxNDg5LDQxMjQ4
-MzQ3NCwtMTk5MDQ3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1Mjc4NC
-wtOTQ1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2LC0xNDA1
-NzcxOTUyXX0=
+eyJoaXN0b3J5IjpbMzIxNDE4Njc1LC04Mzc5NzY3OSwtMjA4NT
+U5Mjg1MywxODUyMDMxMjE5LC00NDMwOTAzOTMsLTE5MTI4MjM2
+NjMsLTM4MzU2MDg0MCwxNDI0MzcxNzgsMTM0MDAwNTkxMSwtNz
+UzMTA0OTg2LC0xMzg4MjU2NjE4LDE1NTIyNDE0ODksNDEyNDgz
+NDc0LC0xOTkwNDc1NzkwLDE5MzU0MjI3NywtNDc3ODUyNzg0LC
+05NDU0ODYzODEsMTExNzQ5NjA2NCw4NjU1NjQ5MDYsLTE0MDU3
+NzE5NTJdfQ==
 -->
