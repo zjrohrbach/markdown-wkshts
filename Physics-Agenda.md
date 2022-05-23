@@ -1,4 +1,4 @@
-Thu, May 19 / Fri, May 20
+Mon, May 23
 =================== 
    
     
@@ -9,8 +9,8 @@ Objectives
   
 Agenda      
 ---------      
-1. Return Books
-2. Go over Review Problems #10, 11, 30, 31, 51, 53, 73, 82
+1. Concept Review
+2. Go over Review Problems #51, 53, 73, 82
 
   
 Announcements   
@@ -24,11 +24,11 @@ Announcements
 [e1]: https://avon.schoology.com/course/5138386979/materials/gp/5939609421
 [s/p]: https://avon.schoology.com/course/5138386979/materials/gp/5939609362
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzk3Njc5LC0yMDg1NTkyODUzLDE4NT
-IwMzEyMTksLTQ0MzA5MDM5MywtMTkxMjgyMzY2MywtMzgzNTYw
-ODQwLDE0MjQzNzE3OCwxMzQwMDA1OTExLC03NTMxMDQ5ODYsLT
-EzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MTI0ODM0NzQsLTE5OTA0
-NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3ODQsLTk0NTQ4NjM4MS
-wxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQwNTc3MTk1MiwtMzE5
-ODg0NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE2MTAwMjc5ODIsLTgzNzk3Njc5LC0yMD
+g1NTkyODUzLDE4NTIwMzEyMTksLTQ0MzA5MDM5MywtMTkxMjgy
+MzY2MywtMzgzNTYwODQwLDE0MjQzNzE3OCwxMzQwMDA1OTExLC
+03NTMxMDQ5ODYsLTEzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MTI0
+ODM0NzQsLTE5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3OD
+QsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQw
+NTc3MTk1Ml19
 -->
