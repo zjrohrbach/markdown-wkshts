@@ -1,16 +1,5 @@
-Fri, May 20
-=========      
   
-Objectives    
-------------    
-Review what we've learned this year!
-   
-Agenda      
----------      
-1. Very brief lab demonstration of real and virtual images
-2. Work time on Review and Test Corrections
-  
-Homework    
+Announcements
 -------------      
   
 - Final Exam is on Wed!
@@ -20,13 +9,13 @@ Homework
 
 
 [rev]: https://avon.schoology.com/course/5138386920/materials/gp/5929859920
-[key]: 
+[key]: https://avon.schoology.com/course/5138386920/materials/gp/5929859898
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMzcwNDY0LDg0MjU1ODg1MywtMzg4ND
-E1ODkxLDE3MzM1MDU3NDIsLTMwNjYxODQyNCw5NzUyNDIyOSwx
-NDg1ODQ2NzQzLC0xODI0MDg1ODUwLC0xNzc5MDI1OTYwLDIxMj
-U5Nzc2NzQsMTM0NjA1MzYyNSwtNjk5NTA4NzI2LDE4NTUwNjgx
-NTIsLTExMTUwMDI0NzIsLTE3MzkxMDcyMzksLTQwMDA5ODg5LD
-UxODg2Mzc5MSwxMjMyOTgwOTA4LC0xNzU0NzEzMTgxLDE3NDQ5
-NjA1NTFdfQ==
+eyJoaXN0b3J5IjpbMzYxMDc1NjUsODQyNTU4ODUzLC0zODg0MT
+U4OTEsMTczMzUwNTc0MiwtMzA2NjE4NDI0LDk3NTI0MjI5LDE0
+ODU4NDY3NDMsLTE4MjQwODU4NTAsLTE3NzkwMjU5NjAsMjEyNT
+k3NzY3NCwxMzQ2MDUzNjI1LC02OTk1MDg3MjYsMTg1NTA2ODE1
+MiwtMTExNTAwMjQ3MiwtMTczOTEwNzIzOSwtNDAwMDk4ODksNT
+E4ODYzNzkxLDEyMzI5ODA5MDgsLTE3NTQ3MTMxODEsMTc0NDk2
+MDU1MV19
 -->
