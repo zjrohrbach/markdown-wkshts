@@ -9,7 +9,7 @@ Objectives
 Agenda      
 ---------      
 1. Concept Review
-2. Go over Review Problems #51, 53, 73, 82
+2. Go over Review Problems #51, 53, 73, 82 <sub>[ppt][d2]</sub>
 3. Worktime
 
   
@@ -21,14 +21,14 @@ Announcements
 	- Don't forget, if you do the extra things listed at the top, there's an opportunity to earn 10% bonus on your final exam!
 - **NO RR BREAKS ALLOWED DURING EXAM TIME NEXT CLASS**, so please plan ahaed!
 
-[d1]: 
-[d2]: 
+[d1]: https://avon.schoology.com/course/5138386979/materials/gp/5954175308
+[d2]: https://avon.schoology.com/course/5138386979/materials/gp/5954175355
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQyODg2OTUsLTgzNzk3Njc5LC0yMD
-g1NTkyODUzLDE4NTIwMzEyMTksLTQ0MzA5MDM5MywtMTkxMjgy
-MzY2MywtMzgzNTYwODQwLDE0MjQzNzE3OCwxMzQwMDA1OTExLC
-03NTMxMDQ5ODYsLTEzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MTI0
-ODM0NzQsLTE5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3OD
-QsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQw
-NTc3MTk1Ml19
+eyJoaXN0b3J5IjpbLTgwNjkwNjY5NiwtODM3OTc2NzksLTIwOD
+U1OTI4NTMsMTg1MjAzMTIxOSwtNDQzMDkwMzkzLC0xOTEyODIz
+NjYzLC0zODM1NjA4NDAsMTQyNDM3MTc4LDEzNDAwMDU5MTEsLT
+c1MzEwNDk4NiwtMTM4ODI1NjYxOCwxNTUyMjQxNDg5LDQxMjQ4
+MzQ3NCwtMTk5MDQ3NTc5MCwxOTM1NDIyNzcsLTQ3Nzg1Mjc4NC
+wtOTQ1NDg2MzgxLDExMTc0OTYwNjQsODY1NTY0OTA2LC0xNDA1
+NzcxOTUyXX0=
 -->
