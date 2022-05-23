@@ -15,21 +15,20 @@ Agenda
   
 Announcements   
 -------------    
-- Links to 
+- Links to Review PPTs from last two days: [Thu-Fri][d1], [Mon][d2]
 - Be working on your Final Exam Review Packet
 	- This is due on your final exam day.  No work shown = maximum score of 5/10.
 	- Don't forget, if you do the extra things listed at the top, there's an opportunity to earn 10% bonus on your final exam!
 - **NO RR BREAKS ALLOWED DURING EXAM TIME NEXT CLASS**, so please plan ahaed!
 
-[rev]: https://avon.schoology.com/course/5138386979/materials?f=595396692
-[e1]: https://avon.schoology.com/course/5138386979/materials/gp/5939609421
-[s/p]: https://avon.schoology.com/course/5138386979/materials/gp/5939609362
+[d1]: 
+[d2]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNDE4Njc1LC04Mzc5NzY3OSwtMjA4NT
-U5Mjg1MywxODUyMDMxMjE5LC00NDMwOTAzOTMsLTE5MTI4MjM2
-NjMsLTM4MzU2MDg0MCwxNDI0MzcxNzgsMTM0MDAwNTkxMSwtNz
-UzMTA0OTg2LC0xMzg4MjU2NjE4LDE1NTIyNDE0ODksNDEyNDgz
-NDc0LC0xOTkwNDc1NzkwLDE5MzU0MjI3NywtNDc3ODUyNzg0LC
-05NDU0ODYzODEsMTExNzQ5NjA2NCw4NjU1NjQ5MDYsLTE0MDU3
-NzE5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQyODg2OTUsLTgzNzk3Njc5LC0yMD
+g1NTkyODUzLDE4NTIwMzEyMTksLTQ0MzA5MDM5MywtMTkxMjgy
+MzY2MywtMzgzNTYwODQwLDE0MjQzNzE3OCwxMzQwMDA1OTExLC
+03NTMxMDQ5ODYsLTEzODgyNTY2MTgsMTU1MjI0MTQ4OSw0MTI0
+ODM0NzQsLTE5OTA0NzU3OTAsMTkzNTQyMjc3LC00Nzc4NTI3OD
+QsLTk0NTQ4NjM4MSwxMTE3NDk2MDY0LDg2NTU2NDkwNiwtMTQw
+NTc3MTk1Ml19
 -->
