@@ -1,0 +1,16 @@
+.markdown-here-wrapper {
+    font-size: 16px;
+    padding: 0 20px;
+    background-color: #E7ECEB;
+}
+
+
+/* Use Roman numerals for sub-ordered-lists. (Like Github.) */
+ol ol, ul ol {
+  list-style-type: lower-alpha;
+}
+
+/* Use letters for sub-sub-ordered lists. (Like Github.) */
+ul ul ol, ul ol ol, ol ul ol, ol ol ol {
+  list-style-type: lower-roman;
+}
