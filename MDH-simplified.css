@@ -3,18 +3,18 @@
     padding: 0 20px;
     background-color: #E7ECEB;
 }
-
-
+ 
+ 
 /* Use Roman numerals for sub-ordered-lists. (Like Github.) */
 ol ol, ul ol {
   list-style-type: lower-alpha;
 }
-
+ 
 /* Use letters for sub-sub-ordered lists. (Like Github.) */
 ul ul ol, ul ol ol, ol ul ol, ol ol ol {
   list-style-type: lower-roman;
 }
-
+ 
 table {
   padding: 0;
   border-collapse: collapse;
@@ -23,13 +23,13 @@ table {
   font: inherit;
   border: 0;
 }
-
+ 
 tbody {
   margin: 0;
   padding: 0;
   border: 0;
 }
-
+ 
 table tr {
   border: 0;
   border-top: 1px solid #CCC;
@@ -37,35 +37,30 @@ table tr {
   margin: 0;
   padding: 0;
 }
-
+ 
 table tr:nth-child(2n) {
   background-color: #F8F8F8;
 }
-
+ 
 table tr th, table tr td {
   font-size: 1em;
   border: 1px solid #CCC;
   margin: 0;
   padding: 0.5em 1em;
 }
-
+ 
 table tr th {
- font-weight: bold;
+font-weight: bold;
   background-color: #F0F0F0;
 }
-
-/* Only use H3's for posting info for absent students */
-
-h3 { 
+ 
+ 
+blockquote {
   background-color: #EFE9E1;
-  color: #D2523C;
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 1em;
+  padding: 0 1em;
 }
-
-h3 + p, h3 + ol, h3 + ul, h3 + p + p, h3 + ol + p, h3 + ul + p { 
-  background-color: #EFE9E1;
-  margin-top: 0;
-  font-size: 1em;
+ 
+blockquote h1, blockquote h2, blockquote h3,
+blockquote h4, blockquote h5, blockquote h6 {
+  color: #D2523C;
 }
