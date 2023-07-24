@@ -54,4 +54,18 @@ table tr th {
   background-color: #F0F0F0;
 }
 
+/* Only use H3's for posting info for absent students */
 
+h3 { 
+  background-color: #EFE9E1;
+  color: #D2523C;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1em;
+}
+
+h3 + p, h3 + ol, h3 + ul, h3 + p + p, h3 + ol + p, h3 + ul + p { 
+  background-color: #EFE9E1;
+  margin-top: 0;
+  font-size: 1em;
+}
